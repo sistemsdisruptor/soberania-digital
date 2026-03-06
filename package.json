@@ -1,0 +1,26 @@
+{
+  "name": "soberania-digital",
+  "version": "1.0.0",
+  "description": "*\"Una persona. Una cédula. Un peso. Un voto.\"*",
+  "main": "core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sistemsdisruptor/soberania-digital.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sistemsdisruptor/soberania-digital/issues"
+  },
+  "homepage": "https://github.com/sistemsdisruptor/soberania-digital#readme",
+  "dependencies": {
+    "axios": "^1.13.6",
+    "cheerio": "^1.2.0",
+    "dotenv": "^17.3.1",
+    "node-cron": "^4.2.1"
+  }
+}
