@@ -1,0 +1,9 @@
+
+  // Guardar estadisticas separadas
+  const salidaStats = path.join(SALIDA, 'estadisticas-2024.json');
+  fs.writeFileSync(salidaStats, JSON.stringify(stats, null, 2), 'utf8');
+  log('Guardado: estadisticas-2024.json');
+
+  // Mostrar resumen en pantalla
+  console.log('\n════════════════════════════════════════');
+  console.log('  COMPRAS DEL ESTADO URUGUAYO 2024');

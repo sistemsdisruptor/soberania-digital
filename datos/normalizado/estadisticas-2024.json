@@ -1,8 +1,8 @@
 {
   "total_contratos": 134916,
-  "con_monto": 560,
-  "monto_total_uyu": 8760332292,
-  "monto_promedio_uyu": 15643451,
+  "con_monto": 130558,
+  "monto_total_uyu": 493370286999.8122,
+  "monto_promedio_uyu": 3778936,
   "organismos_unicos": 271,
   "proveedores_unicos": 10651,
   "top_organismos": [
@@ -23,7 +23,7 @@
       "contratos": 4445
     },
     {
-      "nombre": "CENTRO HOSPITALARIO PEREIRA ROSSELL",
+      "nombre": "CENTRO HOSPITALARIO  PEREIRA ROSSELL",
       "contratos": 3292
     },
     {
@@ -173,62 +173,62 @@
     {
       "mes": 1,
       "contratos": 8910,
-      "monto_uyu": 2292124650
+      "monto_uyu": 7541065017.925365
     },
     {
       "mes": 2,
       "contratos": 7295,
-      "monto_uyu": 379768605
+      "monto_uyu": 3546919327.8531394
     },
     {
       "mes": 3,
       "contratos": 15006,
-      "monto_uyu": 341412592
+      "monto_uyu": 4971010777.418889
     },
     {
       "mes": 4,
       "contratos": 11181,
-      "monto_uyu": 616701421
+      "monto_uyu": 4901440634.9054365
     },
     {
       "mes": 5,
       "contratos": 12035,
-      "monto_uyu": 243989923
+      "monto_uyu": 4239692457.6303754
     },
     {
       "mes": 6,
       "contratos": 10120,
-      "monto_uyu": 372571833
+      "monto_uyu": 5074412345.901418
     },
     {
       "mes": 7,
       "contratos": 14308,
-      "monto_uyu": 1267609339
+      "monto_uyu": 20071495211.05048
     },
     {
       "mes": 8,
       "contratos": 11541,
-      "monto_uyu": 1096361927
+      "monto_uyu": 405388801635.6658
     },
     {
       "mes": 9,
       "contratos": 10577,
-      "monto_uyu": 514331759
+      "monto_uyu": 18343123681.981365
     },
     {
       "mes": 10,
       "contratos": 13216,
-      "monto_uyu": 461521622
+      "monto_uyu": 6422367601.699909
     },
     {
       "mes": 11,
       "contratos": 10032,
-      "monto_uyu": 584900295
+      "monto_uyu": 5722400830.244985
     },
     {
       "mes": 12,
       "contratos": 10695,
-      "monto_uyu": 588815292
+      "monto_uyu": 7147334443.543744
     }
   ]
 }
