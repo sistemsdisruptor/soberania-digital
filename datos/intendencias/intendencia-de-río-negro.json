@@ -1,0 +1,245 @@
+{
+  "nombre": "INTENDENCIA DE RÍO NEGRO",
+  "año": 2024,
+  "stats": {
+    "total_contratos": 10,
+    "con_monto": 7,
+    "monto_total_uyu": 134378140.49,
+    "monto_promedio_uyu": 19196877,
+    "proveedores_unicos": 7,
+    "top_proveedores": [
+      {
+        "nombre": "MOEM SAS",
+        "contratos": 1
+      },
+      {
+        "nombre": "SANTA ROSA AUTOMOTORES S A",
+        "contratos": 1
+      },
+      {
+        "nombre": "NEGRI QUARTINO Y FERRARIO S A",
+        "contratos": 1
+      },
+      {
+        "nombre": "BRADITEX S.A.",
+        "contratos": 1
+      },
+      {
+        "nombre": "BARRACA NUEVO BERLIN GAS LTDA.",
+        "contratos": 1
+      },
+      {
+        "nombre": "CONSTRUCTORA EKOS STEEL S.R.L.",
+        "contratos": 1
+      },
+      {
+        "nombre": "MOLINSUR S A",
+        "contratos": 1
+      }
+    ],
+    "top_objetos": [
+      {
+        "descripcion": "CAMION CON CAJA VOLCADORA",
+        "veces": 1
+      },
+      {
+        "descripcion": "CHIPEADORA",
+        "veces": 1
+      },
+      {
+        "descripcion": "BALANZA PARA VEHICULO",
+        "veces": 1
+      },
+      {
+        "descripcion": "SERVICIO DE INFORMACION SOBRE MOROSOS (CLEARING)",
+        "veces": 1
+      },
+      {
+        "descripcion": "PIEDRA PARTIDA",
+        "veces": 1
+      },
+      {
+        "descripcion": "EJECUCION DE OBRA DE INFRAESTRUCTURA",
+        "veces": 1
+      },
+      {
+        "descripcion": "CONSTRUCCION DE CARRETERA",
+        "veces": 1
+      }
+    ],
+    "por_mes": [
+      {
+        "mes": 1,
+        "contratos": 2,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 2,
+        "contratos": 1,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 3,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 4,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 5,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 6,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 7,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 8,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 9,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 10,
+        "contratos": 7,
+        "monto_uyu": 134378140.49
+      },
+      {
+        "mes": 11,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 12,
+        "contratos": 0,
+        "monto_uyu": 0
+      }
+    ]
+  },
+  "contratos": [
+    {
+      "id": "ocds-yfs5dr-1094375",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RÍO NEGRO",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-01-26T09:35:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1079431",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RÍO NEGRO",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-01-26T09:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1084741",
+      "mes": 2,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RÍO NEGRO",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-02-16T10:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1113890",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RÍO NEGRO",
+      "objeto": "CAMION CON CAJA VOLCADORA",
+      "proveedor": "MOEM SAS",
+      "monto": 57800,
+      "moneda": "UYU",
+      "fecha": "2024-10-08T08:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1116741",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RÍO NEGRO",
+      "objeto": "CHIPEADORA",
+      "proveedor": "SANTA ROSA AUTOMOTORES S A",
+      "monto": 11940,
+      "moneda": "USD",
+      "fecha": "2024-10-08T08:35:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1116770",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RÍO NEGRO",
+      "objeto": "BALANZA PARA VEHICULO",
+      "proveedor": "NEGRI QUARTINO Y FERRARIO S A",
+      "monto": 55000,
+      "moneda": "USD",
+      "fecha": "2024-10-08T08:45:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1127652",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RÍO NEGRO",
+      "objeto": "SERVICIO DE INFORMACION SOBRE MOROSOS (CLEARING)",
+      "proveedor": "BRADITEX S.A.",
+      "monto": 7500000,
+      "moneda": "UYU",
+      "fecha": "2024-10-08T09:05:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1137703",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RÍO NEGRO",
+      "objeto": "PIEDRA PARTIDA",
+      "proveedor": "BARRACA NUEVO BERLIN GAS LTDA.",
+      "monto": 9092625,
+      "moneda": "UYU",
+      "fecha": "2024-10-08T09:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1141151",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RÍO NEGRO",
+      "objeto": "EJECUCION DE OBRA DE INFRAESTRUCTURA",
+      "proveedor": "CONSTRUCTORA EKOS STEEL S.R.L.",
+      "monto": 9715317,
+      "moneda": "UYU",
+      "fecha": "2024-10-08T09:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1145523",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RÍO NEGRO",
+      "objeto": "CONSTRUCCION DE CARRETERA",
+      "proveedor": "MOLINSUR S A",
+      "monto": 107945458.49,
+      "moneda": "UYU",
+      "fecha": "2024-10-08T10:40:00Z"
+    }
+  ]
+}

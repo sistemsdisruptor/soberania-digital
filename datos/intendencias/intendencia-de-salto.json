@@ -1,0 +1,491 @@
+{
+  "nombre": "INTENDENCIA DE SALTO",
+  "año": 2024,
+  "stats": {
+    "total_contratos": 28,
+    "con_monto": 27,
+    "monto_total_uyu": 154581911.52719998,
+    "monto_promedio_uyu": 5725256,
+    "proveedores_unicos": 11,
+    "top_proveedores": [
+      {
+        "nombre": "BATISTA OLIVERA HONORIO BENITO",
+        "contratos": 5
+      },
+      {
+        "nombre": "BISIO HNOS SOCIEDAD ANONIMA",
+        "contratos": 5
+      },
+      {
+        "nombre": "DELMITA S.A.",
+        "contratos": 4
+      },
+      {
+        "nombre": "JOSE CUJO S A",
+        "contratos": 3
+      },
+      {
+        "nombre": "SANTA ROSA AUTOMOTORES S A",
+        "contratos": 3
+      },
+      {
+        "nombre": "CUSTODIO GONZALEZ ALVARO CONRADO",
+        "contratos": 2
+      },
+      {
+        "nombre": "R Y K INGENIEROS S R L",
+        "contratos": 1
+      },
+      {
+        "nombre": "FILIPIAK INGENIERIA S R L",
+        "contratos": 1
+      },
+      {
+        "nombre": "AYAX S A",
+        "contratos": 1
+      },
+      {
+        "nombre": "SEGURPAS S.A.",
+        "contratos": 1
+      },
+      {
+        "nombre": "CERAMICAS CASTRO S A",
+        "contratos": 1
+      }
+    ],
+    "top_objetos": [
+      {
+        "descripcion": "TRATAMIENTO BITUMINOSO EN CALZADA",
+        "veces": 5
+      },
+      {
+        "descripcion": "EJECUCION DE OBRA DE INFRAESTRUCTURA",
+        "veces": 4
+      },
+      {
+        "descripcion": "CAMION COMPACTADOR DE RESIDUOS DE CARGA TRASERA",
+        "veces": 3
+      },
+      {
+        "descripcion": "HORMIGON PREMEZCLADO",
+        "veces": 2
+      },
+      {
+        "descripcion": "MANTENIMIENTO DE CAMINERIA",
+        "veces": 2
+      },
+      {
+        "descripcion": "PEDREGULLO",
+        "veces": 2
+      },
+      {
+        "descripcion": "PINTURA PARA PAVIMENTO",
+        "veces": 1
+      },
+      {
+        "descripcion": "MATERIAL GRANULAR",
+        "veces": 1
+      },
+      {
+        "descripcion": "ARENA FINA",
+        "veces": 1
+      },
+      {
+        "descripcion": "RELLENO COMPACTADO CON ARENA DULCE",
+        "veces": 1
+      },
+      {
+        "descripcion": "CAMIONETA PICK UP DOBLE CABINA 4X2 (DIESEL)",
+        "veces": 1
+      },
+      {
+        "descripcion": "SERVICIO DE VIGILANCIA",
+        "veces": 1
+      },
+      {
+        "descripcion": "MALLA ELECTROSOLDADA",
+        "veces": 1
+      },
+      {
+        "descripcion": "PIEDRA DE CANTO RODADO",
+        "veces": 1
+      },
+      {
+        "descripcion": "POLVO DE CANTERA (ARENA DE TRITURACION)",
+        "veces": 1
+      }
+    ],
+    "por_mes": [
+      {
+        "mes": 1,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 2,
+        "contratos": 2,
+        "monto_uyu": 15608776.2295
+      },
+      {
+        "mes": 3,
+        "contratos": 1,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 4,
+        "contratos": 2,
+        "monto_uyu": 4839347.537699999
+      },
+      {
+        "mes": 5,
+        "contratos": 7,
+        "monto_uyu": 52096766.61
+      },
+      {
+        "mes": 6,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 7,
+        "contratos": 6,
+        "monto_uyu": 41965719.75
+      },
+      {
+        "mes": 8,
+        "contratos": 3,
+        "monto_uyu": 9176745
+      },
+      {
+        "mes": 9,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 10,
+        "contratos": 3,
+        "monto_uyu": 3680006.4
+      },
+      {
+        "mes": 11,
+        "contratos": 1,
+        "monto_uyu": 7414550
+      },
+      {
+        "mes": 12,
+        "contratos": 3,
+        "monto_uyu": 19800000
+      }
+    ]
+  },
+  "contratos": [
+    {
+      "id": "ocds-yfs5dr-1118545",
+      "mes": 2,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "HORMIGON PREMEZCLADO",
+      "proveedor": "JOSE CUJO S A",
+      "monto": 7800000,
+      "moneda": "UYU",
+      "fecha": "2024-02-22T15:20:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1119182",
+      "mes": 2,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "MANTENIMIENTO DE CAMINERIA",
+      "proveedor": "BATISTA OLIVERA HONORIO BENITO",
+      "monto": 7808776.2295,
+      "moneda": "UYU",
+      "fecha": "2024-02-26T10:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1120704",
+      "mes": 3,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-03-20T10:35:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1134520",
+      "mes": 4,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "EJECUCION DE OBRA DE INFRAESTRUCTURA",
+      "proveedor": "R Y K INGENIEROS S R L",
+      "monto": 2784491.8,
+      "moneda": "UYU",
+      "fecha": "2024-04-17T14:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1134746",
+      "mes": 4,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "EJECUCION DE OBRA DE INFRAESTRUCTURA",
+      "proveedor": "FILIPIAK INGENIERIA S R L",
+      "monto": 2054855.7377,
+      "moneda": "UYU",
+      "fecha": "2024-04-18T11:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1107520",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "PINTURA PARA PAVIMENTO",
+      "proveedor": "DELMITA S.A.",
+      "monto": 345360,
+      "moneda": "UYU",
+      "fecha": "2024-05-14T10:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1132273",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "MANTENIMIENTO DE CAMINERIA",
+      "proveedor": "BATISTA OLIVERA HONORIO BENITO",
+      "monto": 8478852,
+      "moneda": "UYU",
+      "fecha": "2024-05-23T10:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1135415",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "TRATAMIENTO BITUMINOSO EN CALZADA",
+      "proveedor": "BATISTA OLIVERA HONORIO BENITO",
+      "monto": 9157417,
+      "moneda": "UYU",
+      "fecha": "2024-05-23T14:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1135421",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "TRATAMIENTO BITUMINOSO EN CALZADA",
+      "proveedor": "BATISTA OLIVERA HONORIO BENITO",
+      "monto": 9377175,
+      "moneda": "UYU",
+      "fecha": "2024-05-23T14:45:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1135423",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "TRATAMIENTO BITUMINOSO EN CALZADA",
+      "proveedor": "BATISTA OLIVERA HONORIO BENITO",
+      "monto": 10254001,
+      "moneda": "UYU",
+      "fecha": "2024-05-23T15:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1135396",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "TRATAMIENTO BITUMINOSO EN CALZADA",
+      "proveedor": "JOSE CUJO S A",
+      "monto": 6894855.83,
+      "moneda": "UYU",
+      "fecha": "2024-05-23T15:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1135427",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "TRATAMIENTO BITUMINOSO EN CALZADA",
+      "proveedor": "JOSE CUJO S A",
+      "monto": 7589105.78,
+      "moneda": "UYU",
+      "fecha": "2024-05-23T15:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1152883",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "MATERIAL GRANULAR",
+      "proveedor": "BISIO HNOS SOCIEDAD ANONIMA",
+      "monto": 8400000,
+      "moneda": "UYU",
+      "fecha": "2024-07-17T09:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1052457",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "EJECUCION DE OBRA DE INFRAESTRUCTURA",
+      "proveedor": "CUSTODIO GONZALEZ ALVARO CONRADO",
+      "monto": 9932409,
+      "moneda": "UYU",
+      "fecha": "2024-07-17T15:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1152842",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "ARENA FINA",
+      "proveedor": "DELMITA S.A.",
+      "monto": 7080000,
+      "moneda": "UYU",
+      "fecha": "2024-07-17T15:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1162872",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "RELLENO COMPACTADO CON ARENA DULCE",
+      "proveedor": "BISIO HNOS SOCIEDAD ANONIMA",
+      "monto": 1370901.7499999998,
+      "moneda": "UYU",
+      "fecha": "2024-07-17T09:05:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1162893",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "PEDREGULLO",
+      "proveedor": "DELMITA S.A.",
+      "monto": 5250000,
+      "moneda": "UYU",
+      "fecha": "2024-07-17T09:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1163183",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "EJECUCION DE OBRA DE INFRAESTRUCTURA",
+      "proveedor": "CUSTODIO GONZALEZ ALVARO CONRADO",
+      "monto": 9932409,
+      "moneda": "UYU",
+      "fecha": "2024-07-17T15:05:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1127646",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "CAMIONETA PICK UP DOBLE CABINA 4X2 (DIESEL)",
+      "proveedor": "AYAX S A",
+      "monto": 425885,
+      "moneda": "USD",
+      "fecha": "2024-08-02T10:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1166973",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "HORMIGON PREMEZCLADO",
+      "proveedor": "BISIO HNOS SOCIEDAD ANONIMA",
+      "monto": 8641810,
+      "moneda": "UYU",
+      "fecha": "2024-08-23T15:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1163210",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "CAMION COMPACTADOR DE RESIDUOS DE CARGA TRASERA",
+      "proveedor": "SANTA ROSA AUTOMOTORES S A",
+      "monto": 109050,
+      "moneda": "USD",
+      "fecha": "2024-08-23T15:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1186706",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "CAMION COMPACTADOR DE RESIDUOS DE CARGA TRASERA",
+      "proveedor": "SANTA ROSA AUTOMOTORES S A",
+      "monto": 109050,
+      "moneda": "USD",
+      "fecha": "2024-10-02T14:05:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1186719",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "CAMION COMPACTADOR DE RESIDUOS DE CARGA TRASERA",
+      "proveedor": "SANTA ROSA AUTOMOTORES S A",
+      "monto": 109050,
+      "moneda": "USD",
+      "fecha": "2024-10-02T14:20:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1170049",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "SERVICIO DE VIGILANCIA",
+      "proveedor": "SEGURPAS S.A.",
+      "monto": 3461906.4,
+      "moneda": "UYU",
+      "fecha": "2024-10-17T15:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1147185",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "MALLA ELECTROSOLDADA",
+      "proveedor": "CERAMICAS CASTRO S A",
+      "monto": 7414550,
+      "moneda": "UYU",
+      "fecha": "2024-11-26T10:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1197598",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "PEDREGULLO",
+      "proveedor": "DELMITA S.A.",
+      "monto": 9000000,
+      "moneda": "UYU",
+      "fecha": "2024-12-06T11:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1192364",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "PIEDRA DE CANTO RODADO",
+      "proveedor": "BISIO HNOS SOCIEDAD ANONIMA",
+      "monto": 7600000,
+      "moneda": "UYU",
+      "fecha": "2024-12-06T12:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1193414",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SALTO",
+      "objeto": "POLVO DE CANTERA (ARENA DE TRITURACION)",
+      "proveedor": "BISIO HNOS SOCIEDAD ANONIMA",
+      "monto": 3200000,
+      "moneda": "UYU",
+      "fecha": "2024-12-06T16:15:00Z"
+    }
+  ]
+}

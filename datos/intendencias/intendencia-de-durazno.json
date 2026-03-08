@@ -1,0 +1,232 @@
+{
+  "nombre": "INTENDENCIA DE DURAZNO",
+  "año": 2024,
+  "stats": {
+    "total_contratos": 11,
+    "con_monto": 9,
+    "monto_total_uyu": 130406813.27,
+    "monto_promedio_uyu": 14489646,
+    "proveedores_unicos": 6,
+    "top_proveedores": [
+      {
+        "nombre": "TABILO S.A.S.",
+        "contratos": 3
+      },
+      {
+        "nombre": "WF CONSTRUCCIONES SAS",
+        "contratos": 2
+      },
+      {
+        "nombre": "SISLER S A",
+        "contratos": 1
+      },
+      {
+        "nombre": "BAMILIR SOCIEDAD ANONIMA",
+        "contratos": 1
+      },
+      {
+        "nombre": "RMG S.A.S.",
+        "contratos": 1
+      },
+      {
+        "nombre": "EMILIO DIAZ ALVAREZ S A",
+        "contratos": 1
+      }
+    ],
+    "top_objetos": [
+      {
+        "descripcion": "EJECUCION DE OBRA DE INFRAESTRUCTURA",
+        "veces": 8
+      },
+      {
+        "descripcion": "MINICARGADORA SOBRE RUEDAS",
+        "veces": 1
+      }
+    ],
+    "por_mes": [
+      {
+        "mes": 1,
+        "contratos": 3,
+        "monto_uyu": 50407
+      },
+      {
+        "mes": 2,
+        "contratos": 2,
+        "monto_uyu": 50376501.269999996
+      },
+      {
+        "mes": 3,
+        "contratos": 2,
+        "monto_uyu": 24484601
+      },
+      {
+        "mes": 4,
+        "contratos": 2,
+        "monto_uyu": 40951737
+      },
+      {
+        "mes": 5,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 6,
+        "contratos": 1,
+        "monto_uyu": 10194581
+      },
+      {
+        "mes": 7,
+        "contratos": 1,
+        "monto_uyu": 4348986
+      },
+      {
+        "mes": 8,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 9,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 10,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 11,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 12,
+        "contratos": 0,
+        "monto_uyu": 0
+      }
+    ]
+  },
+  "contratos": [
+    {
+      "id": "ocds-yfs5dr-1085706",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE DURAZNO",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-01-11T11:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1080954",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE DURAZNO",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-01-11T11:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1080161",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE DURAZNO",
+      "objeto": "MINICARGADORA SOBRE RUEDAS",
+      "proveedor": "SISLER S A",
+      "monto": 50407,
+      "moneda": "USD",
+      "fecha": "2024-01-11T11:35:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1103648",
+      "mes": 2,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE DURAZNO",
+      "objeto": "EJECUCION DE OBRA DE INFRAESTRUCTURA",
+      "proveedor": "WF CONSTRUCCIONES SAS",
+      "monto": 1441296,
+      "moneda": "UYU",
+      "fecha": "2024-02-16T09:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1080569",
+      "mes": 2,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE DURAZNO",
+      "objeto": "EJECUCION DE OBRA DE INFRAESTRUCTURA",
+      "proveedor": "BAMILIR SOCIEDAD ANONIMA",
+      "monto": 48935205.269999996,
+      "moneda": "UYU",
+      "fecha": "2024-02-23T08:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1114475",
+      "mes": 3,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE DURAZNO",
+      "objeto": "EJECUCION DE OBRA DE INFRAESTRUCTURA",
+      "proveedor": "WF CONSTRUCCIONES SAS",
+      "monto": 6267660,
+      "moneda": "UYU",
+      "fecha": "2024-03-19T16:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1089335",
+      "mes": 3,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE DURAZNO",
+      "objeto": "EJECUCION DE OBRA DE INFRAESTRUCTURA",
+      "proveedor": "RMG S.A.S.",
+      "monto": 18216941,
+      "moneda": "UYU",
+      "fecha": "2024-03-19T16:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1107966",
+      "mes": 4,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE DURAZNO",
+      "objeto": "EJECUCION DE OBRA DE INFRAESTRUCTURA",
+      "proveedor": "TABILO S.A.S.",
+      "monto": 5243580,
+      "moneda": "UYU",
+      "fecha": "2024-04-05T14:20:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1095635",
+      "mes": 4,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE DURAZNO",
+      "objeto": "EJECUCION DE OBRA DE INFRAESTRUCTURA",
+      "proveedor": "EMILIO DIAZ ALVAREZ S A",
+      "monto": 35708157,
+      "moneda": "UYU",
+      "fecha": "2024-04-25T15:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1123178",
+      "mes": 6,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE DURAZNO",
+      "objeto": "EJECUCION DE OBRA DE INFRAESTRUCTURA",
+      "proveedor": "TABILO S.A.S.",
+      "monto": 10194581,
+      "moneda": "UYU",
+      "fecha": "2024-06-21T15:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1132729",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE DURAZNO",
+      "objeto": "EJECUCION DE OBRA DE INFRAESTRUCTURA",
+      "proveedor": "TABILO S.A.S.",
+      "monto": 4348986,
+      "moneda": "UYU",
+      "fecha": "2024-07-09T17:10:00Z"
+    }
+  ]
+}

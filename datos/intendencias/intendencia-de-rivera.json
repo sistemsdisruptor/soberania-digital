@@ -1,0 +1,634 @@
+{
+  "nombre": "INTENDENCIA DE RIVERA",
+  "año": 2024,
+  "stats": {
+    "total_contratos": 37,
+    "con_monto": 25,
+    "monto_total_uyu": 333865408.4907,
+    "monto_promedio_uyu": 13354616,
+    "proveedores_unicos": 17,
+    "top_proveedores": [
+      {
+        "nombre": "PORTICO PRONAOS SRL",
+        "contratos": 4
+      },
+      {
+        "nombre": "LUBINFOX S.A.",
+        "contratos": 3
+      },
+      {
+        "nombre": "YSMAEL S.R.L",
+        "contratos": 3
+      },
+      {
+        "nombre": "FLORES & MARTINEZ SRL",
+        "contratos": 2
+      },
+      {
+        "nombre": "RAMON C ALVAREZ S A",
+        "contratos": 2
+      },
+      {
+        "nombre": "CMK S.R.L.",
+        "contratos": 1
+      },
+      {
+        "nombre": "DESKIN S.A.",
+        "contratos": 1
+      },
+      {
+        "nombre": "AUTOMOVILES DEL PARQUE SRL",
+        "contratos": 1
+      },
+      {
+        "nombre": "SANTA ROSA AUTOMOTORES S A",
+        "contratos": 1
+      },
+      {
+        "nombre": "CRISTECH LISTUR MARIA OLGA Y CARESANI CASCO MARIA BETINA",
+        "contratos": 1
+      },
+      {
+        "nombre": "PULVER S A",
+        "contratos": 1
+      },
+      {
+        "nombre": "DUBARCO S.A.",
+        "contratos": 1
+      },
+      {
+        "nombre": "ESSEN S.A.",
+        "contratos": 1
+      },
+      {
+        "nombre": "AVILA RODRIGUEZ FABRICIO RAMIRO",
+        "contratos": 1
+      },
+      {
+        "nombre": "PROSEGUR TRANSPORTADORA DE CAUDALES SOCIEDAD ANONI",
+        "contratos": 1
+      },
+      {
+        "nombre": "CARLOS ANDERSON BORGES HORNES",
+        "contratos": 1
+      },
+      {
+        "nombre": "FIERRO VIGNOLI S A FIVISA",
+        "contratos": 1
+      }
+    ],
+    "top_objetos": [
+      {
+        "descripcion": "EJECUCION DE PAVIMENTO",
+        "veces": 6
+      },
+      {
+        "descripcion": "REFORMA DE EDIFICIO",
+        "veces": 2
+      },
+      {
+        "descripcion": "CONSTRUCCION DE EDIFICIO PUBLICO",
+        "veces": 1
+      },
+      {
+        "descripcion": "SERVICIO DE VIGILANCIA",
+        "veces": 1
+      },
+      {
+        "descripcion": "AUTOMOVIL ESTANDAR 4 PUERTAS (NAFTA)",
+        "veces": 1
+      },
+      {
+        "descripcion": "VARILLA DE HIERRO CONFORMADO",
+        "veces": 1
+      },
+      {
+        "descripcion": "REPARACION DE PAVIMENTO",
+        "veces": 1
+      },
+      {
+        "descripcion": "MANTENIMIENTO DE PAVIMENTO",
+        "veces": 1
+      },
+      {
+        "descripcion": "CAMION CON CAJA VOLCADORA",
+        "veces": 1
+      },
+      {
+        "descripcion": "CONSTRUCCION DE CORDON CUNETA",
+        "veces": 1
+      },
+      {
+        "descripcion": "SERVICIO DE VETERINARIA",
+        "veces": 1
+      },
+      {
+        "descripcion": "TIERRA NEGRA ABONADA",
+        "veces": 1
+      },
+      {
+        "descripcion": "SERVICIO DE BALIZAS ELECTRONICAS",
+        "veces": 1
+      },
+      {
+        "descripcion": "CONSTRUCCION DE ESTADIO",
+        "veces": 1
+      },
+      {
+        "descripcion": "CONTENEDOR DE RESIDUOS DOMICILIARIOS DE 4 RUEDAS",
+        "veces": 1
+      },
+      {
+        "descripcion": "CONSTRUCCION DE VEREDA",
+        "veces": 1
+      },
+      {
+        "descripcion": "CONSTRUCCION DE CANCHA DE FUTBOL",
+        "veces": 1
+      },
+      {
+        "descripcion": "SERVICIO DE TRANSPORTE DE VALORES",
+        "veces": 1
+      },
+      {
+        "descripcion": "EXPLOTACION DE CANTINA",
+        "veces": 1
+      },
+      {
+        "descripcion": "RIEL DIN PARA TABLERO ELECTRICO",
+        "veces": 1
+      }
+    ],
+    "por_mes": [
+      {
+        "mes": 1,
+        "contratos": 4,
+        "monto_uyu": 171906835.1
+      },
+      {
+        "mes": 2,
+        "contratos": 2,
+        "monto_uyu": 25791864
+      },
+      {
+        "mes": 3,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 4,
+        "contratos": 1,
+        "monto_uyu": 1160.6885
+      },
+      {
+        "mes": 5,
+        "contratos": 5,
+        "monto_uyu": 18483701
+      },
+      {
+        "mes": 6,
+        "contratos": 5,
+        "monto_uyu": 16507390.3755
+      },
+      {
+        "mes": 7,
+        "contratos": 5,
+        "monto_uyu": 33573137
+      },
+      {
+        "mes": 8,
+        "contratos": 1,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 9,
+        "contratos": 4,
+        "monto_uyu": 32173465.3
+      },
+      {
+        "mes": 10,
+        "contratos": 1,
+        "monto_uyu": 6980384.4
+      },
+      {
+        "mes": 11,
+        "contratos": 7,
+        "monto_uyu": 17693467.13
+      },
+      {
+        "mes": 12,
+        "contratos": 2,
+        "monto_uyu": 10754003.4967
+      }
+    ]
+  },
+  "contratos": [
+    {
+      "id": "ocds-yfs5dr-1055229",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": "EJECUCION DE PAVIMENTO",
+      "proveedor": "LUBINFOX S.A.",
+      "monto": 9889624,
+      "moneda": "UYU",
+      "fecha": "2024-01-03T11:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1097509",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-01-11T11:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1111821",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": "REFORMA DE EDIFICIO",
+      "proveedor": "PORTICO PRONAOS SRL",
+      "monto": 8441663.1,
+      "moneda": "UYU",
+      "fecha": "2024-01-26T11:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1066821",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": "CONSTRUCCION DE EDIFICIO PUBLICO",
+      "proveedor": "CMK S.R.L.",
+      "monto": 153575548,
+      "moneda": "UYU",
+      "fecha": "2024-01-31T12:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1094334",
+      "mes": 2,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-02-01T10:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1017946",
+      "mes": 2,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": "REFORMA DE EDIFICIO",
+      "proveedor": "FLORES & MARTINEZ SRL",
+      "monto": 25791864,
+      "moneda": "UYU",
+      "fecha": "2024-02-14T11:35:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1038466",
+      "mes": 4,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": "SERVICIO DE VIGILANCIA",
+      "proveedor": "DESKIN S.A.",
+      "monto": 1160.6885,
+      "moneda": "UYU",
+      "fecha": "2024-04-23T11:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1089989",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": "AUTOMOVIL ESTANDAR 4 PUERTAS (NAFTA)",
+      "proveedor": "AUTOMOVILES DEL PARQUE SRL",
+      "monto": 36788,
+      "moneda": "USD",
+      "fecha": "2024-05-13T13:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1091739",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": "VARILLA DE HIERRO CONFORMADO",
+      "proveedor": "PORTICO PRONAOS SRL",
+      "monto": 4200900,
+      "moneda": "UYU",
+      "fecha": "2024-05-13T13:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1097927",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": "REPARACION DE PAVIMENTO",
+      "proveedor": "PORTICO PRONAOS SRL",
+      "monto": 8294499,
+      "moneda": "UYU",
+      "fecha": "2024-05-16T09:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1113402",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": "MANTENIMIENTO DE PAVIMENTO",
+      "proveedor": "YSMAEL S.R.L",
+      "monto": 5849514,
+      "moneda": "UYU",
+      "fecha": "2024-05-16T14:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1111465",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": "CAMION CON CAJA VOLCADORA",
+      "proveedor": "SANTA ROSA AUTOMOTORES S A",
+      "monto": 102000,
+      "moneda": "USD",
+      "fecha": "2024-05-30T14:35:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1124984",
+      "mes": 6,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": "CONSTRUCCION DE CORDON CUNETA",
+      "proveedor": "YSMAEL S.R.L",
+      "monto": 10258915,
+      "moneda": "UYU",
+      "fecha": "2024-06-07T14:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1076927",
+      "mes": 6,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-06-11T11:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1123396",
+      "mes": 6,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": "SERVICIO DE VETERINARIA",
+      "proveedor": "CRISTECH LISTUR MARIA OLGA Y CARESANI CASCO MARIA BETINA",
+      "monto": 436475.3755,
+      "moneda": "UYU",
+      "fecha": "2024-06-14T09:45:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1065394",
+      "mes": 6,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-06-18T11:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1075516",
+      "mes": 6,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": "TIERRA NEGRA ABONADA",
+      "proveedor": "PULVER S A",
+      "monto": 5812000,
+      "moneda": "UYU",
+      "fecha": "2024-06-28T10:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1155224",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-07-12T10:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1141171",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": "EJECUCION DE PAVIMENTO",
+      "proveedor": "LUBINFOX S.A.",
+      "monto": 10507425.4,
+      "moneda": "UYU",
+      "fecha": "2024-07-16T11:05:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1144045",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-07-19T11:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1083579",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": "EJECUCION DE PAVIMENTO",
+      "proveedor": "LUBINFOX S.A.",
+      "monto": 20819810,
+      "moneda": "UYU",
+      "fecha": "2024-07-23T08:20:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1094800",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": "SERVICIO DE BALIZAS ELECTRONICAS",
+      "proveedor": "DUBARCO S.A.",
+      "monto": 2245901.6,
+      "moneda": "UYU",
+      "fecha": "2024-07-26T13:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1157194",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-08-05T13:20:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1152676",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": "EJECUCION DE PAVIMENTO",
+      "proveedor": "RAMON C ALVAREZ S A",
+      "monto": 9127022.7,
+      "moneda": "UYU",
+      "fecha": "2024-09-11T09:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1163578",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-09-13T11:35:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1094006",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": "CONSTRUCCION DE ESTADIO",
+      "proveedor": "FLORES & MARTINEZ SRL",
+      "monto": 22981603,
+      "moneda": "UYU",
+      "fecha": "2024-09-24T14:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1134395",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": "CONTENEDOR DE RESIDUOS DOMICILIARIOS DE 4 RUEDAS",
+      "proveedor": "ESSEN S.A.",
+      "monto": 64839.6,
+      "moneda": "UYU",
+      "fecha": "2024-09-30T14:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1153540",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": "CONSTRUCCION DE VEREDA",
+      "proveedor": "AVILA RODRIGUEZ FABRICIO RAMIRO",
+      "monto": 6980384.4,
+      "moneda": "UYU",
+      "fecha": "2024-10-22T13:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1174033",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": "CONSTRUCCION DE CANCHA DE FUTBOL",
+      "proveedor": "PORTICO PRONAOS SRL",
+      "monto": 7234585,
+      "moneda": "UYU",
+      "fecha": "2024-11-05T09:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1170948",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": "EJECUCION DE PAVIMENTO",
+      "proveedor": "RAMON C ALVAREZ S A",
+      "monto": 10361805.129999999,
+      "moneda": "UYU",
+      "fecha": "2024-11-05T11:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1172328",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": "SERVICIO DE TRANSPORTE DE VALORES",
+      "proveedor": "PROSEGUR TRANSPORTADORA DE CAUDALES SOCIEDAD ANONI",
+      "monto": 97077,
+      "moneda": "UYU",
+      "fecha": "2024-11-06T11:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1192511",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": "EXPLOTACION DE CANTINA",
+      "proveedor": "CARLOS ANDERSON BORGES HORNES",
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-11-14T10:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1188960",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-11-15T11:35:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1189687",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-11-15T11:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1107585",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-11-26T13:05:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1166096",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": "RIEL DIN PARA TABLERO ELECTRICO",
+      "proveedor": "FIERRO VIGNOLI S A FIVISA",
+      "monto": 479778.8967,
+      "moneda": "UYU",
+      "fecha": "2024-12-10T08:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1183918",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE RIVERA",
+      "objeto": "EJECUCION DE PAVIMENTO",
+      "proveedor": "YSMAEL S.R.L",
+      "monto": 10274224.6,
+      "moneda": "UYU",
+      "fecha": "2024-12-30T10:50:00Z"
+    }
+  ]
+}

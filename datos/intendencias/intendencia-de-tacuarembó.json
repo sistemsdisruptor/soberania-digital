@@ -1,0 +1,1009 @@
+{
+  "nombre": "INTENDENCIA DE TACUAREMBÓ",
+  "año": 2024,
+  "stats": {
+    "total_contratos": 70,
+    "con_monto": 62,
+    "monto_total_uyu": 712872440.268884,
+    "monto_promedio_uyu": 11497943,
+    "proveedores_unicos": 32,
+    "top_proveedores": [
+      {
+        "nombre": "GONCALVEZ DE MEZQUITA JOSE LUIS",
+        "contratos": 6
+      },
+      {
+        "nombre": "PATERIC S.A.",
+        "contratos": 6
+      },
+      {
+        "nombre": "LOPEZ DA CUNHA SIERRA CLAUDIO WALTER",
+        "contratos": 5
+      },
+      {
+        "nombre": "NOLLA & NOLLA CONSTRUCCIONES LTDA.-",
+        "contratos": 5
+      },
+      {
+        "nombre": "FELTIX  SOCIEDAD ANONIMA",
+        "contratos": 4
+      },
+      {
+        "nombre": "RAMON C ALVAREZ S A",
+        "contratos": 3
+      },
+      {
+        "nombre": "TORNOMETAL SOCIEDAD ANONIMA",
+        "contratos": 3
+      },
+      {
+        "nombre": "DUBRISYR SOCIEDAD ANONIMA",
+        "contratos": 2
+      },
+      {
+        "nombre": "ESTUDIO ATAR S.R.L.",
+        "contratos": 2
+      },
+      {
+        "nombre": "HARBOR S A",
+        "contratos": 2
+      },
+      {
+        "nombre": "HORMIGON PRETENSIONADO S A HOPRESA",
+        "contratos": 2
+      },
+      {
+        "nombre": "DELTAZUL S.A.",
+        "contratos": 2
+      },
+      {
+        "nombre": "AMARAL RODRIGUEZ PABLO RICHAR",
+        "contratos": 2
+      },
+      {
+        "nombre": "DLONER SOCIEDAD ANONIMA",
+        "contratos": 1
+      },
+      {
+        "nombre": "PARINS Y CHAGAS SRL",
+        "contratos": 1
+      },
+      {
+        "nombre": "DOMINGUEZ LEMME GERARDO JAVIER, LEMME PINTOS MARIA GLORIA Y OTROS",
+        "contratos": 1
+      },
+      {
+        "nombre": "OLECOR S A",
+        "contratos": 1
+      },
+      {
+        "nombre": "LUBINFOX S.A.",
+        "contratos": 1
+      },
+      {
+        "nombre": "ARBIZA FERNANDEZ MAURO GASTON",
+        "contratos": 1
+      },
+      {
+        "nombre": "GENERACION VERDE SAS",
+        "contratos": 1
+      }
+    ],
+    "top_objetos": [
+      {
+        "descripcion": "REFORMA DE EDIFICIO",
+        "veces": 8
+      },
+      {
+        "descripcion": "EJECUCION DE OBRA DE INFRAESTRUCTURA",
+        "veces": 4
+      },
+      {
+        "descripcion": "CARNE VACUNA (USO HUMANO)",
+        "veces": 4
+      },
+      {
+        "descripcion": "CONSTRUCCION DE PUENTE",
+        "veces": 2
+      },
+      {
+        "descripcion": "AJO",
+        "veces": 2
+      },
+      {
+        "descripcion": "MANTENIMIENTO DE ESPACIO PARA DEPORTES",
+        "veces": 2
+      },
+      {
+        "descripcion": "COLUMNA DE HORMIGON TRONCOCONICA CON BASE DE SECCION CUADRADA",
+        "veces": 2
+      },
+      {
+        "descripcion": "CAMION BAROMETRICA",
+        "veces": 2
+      },
+      {
+        "descripcion": "CAMION COMPACTADOR DE RESIDUOS DE CARGA TRASERA",
+        "veces": 2
+      },
+      {
+        "descripcion": "CAMION CON CAJA VOLCADORA",
+        "veces": 2
+      },
+      {
+        "descripcion": "MOTONIVELADORA",
+        "veces": 2
+      },
+      {
+        "descripcion": "ALUMBRADO EN CALLES, AVENIDAS Y CARRETERAS",
+        "veces": 2
+      },
+      {
+        "descripcion": "OMNIBUS DIESEL",
+        "veces": 1
+      },
+      {
+        "descripcion": "ESTRUCTURA ESCENARIO DESMONTABLE",
+        "veces": 1
+      },
+      {
+        "descripcion": "PIEDRA PARTIDA",
+        "veces": 1
+      },
+      {
+        "descripcion": "POLLO ENTERO CONGELADO",
+        "veces": 1
+      },
+      {
+        "descripcion": "ORIGANUM VULGARE",
+        "veces": 1
+      },
+      {
+        "descripcion": "ACONDICIONAMIENTO DE TERRENO Y CONSTRUCCION DE VEREDA ACCESIBLE",
+        "veces": 1
+      },
+      {
+        "descripcion": "LIMON (USO HUMANO)",
+        "veces": 1
+      },
+      {
+        "descripcion": "ESCULTURA (ORIGINAL)",
+        "veces": 1
+      }
+    ],
+    "por_mes": [
+      {
+        "mes": 1,
+        "contratos": 6,
+        "monto_uyu": 37705550.2949
+      },
+      {
+        "mes": 2,
+        "contratos": 1,
+        "monto_uyu": 155908.14800000002
+      },
+      {
+        "mes": 3,
+        "contratos": 5,
+        "monto_uyu": 9619022.0431
+      },
+      {
+        "mes": 4,
+        "contratos": 2,
+        "monto_uyu": 10286476.1797
+      },
+      {
+        "mes": 5,
+        "contratos": 8,
+        "monto_uyu": 108817675.57765
+      },
+      {
+        "mes": 6,
+        "contratos": 3,
+        "monto_uyu": 9606188.6212
+      },
+      {
+        "mes": 7,
+        "contratos": 2,
+        "monto_uyu": 7843847.999999999
+      },
+      {
+        "mes": 8,
+        "contratos": 12,
+        "monto_uyu": 97489283.5816
+      },
+      {
+        "mes": 9,
+        "contratos": 9,
+        "monto_uyu": 97161588.16399999
+      },
+      {
+        "mes": 10,
+        "contratos": 11,
+        "monto_uyu": 254529629.0877
+      },
+      {
+        "mes": 11,
+        "contratos": 6,
+        "monto_uyu": 67417423.40214601
+      },
+      {
+        "mes": 12,
+        "contratos": 5,
+        "monto_uyu": 12239847.168888
+      }
+    ]
+  },
+  "contratos": [
+    {
+      "id": "ocds-yfs5dr-1072077",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "OMNIBUS DIESEL",
+      "proveedor": "DLONER SOCIEDAD ANONIMA",
+      "monto": 784200,
+      "moneda": "USD",
+      "fecha": "2024-01-04T10:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1096100",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "ESTRUCTURA ESCENARIO DESMONTABLE",
+      "proveedor": "PARINS Y CHAGAS SRL",
+      "monto": 3222214.754,
+      "moneda": "UYU",
+      "fecha": "2024-01-10T11:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1105922",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "EJECUCION DE OBRA DE INFRAESTRUCTURA",
+      "proveedor": "RAMON C ALVAREZ S A",
+      "monto": 8942051.9344,
+      "moneda": "UYU",
+      "fecha": "2024-01-05T12:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1080190",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "PIEDRA PARTIDA",
+      "proveedor": "DOMINGUEZ LEMME GERARDO JAVIER, LEMME PINTOS MARIA GLORIA Y OTROS",
+      "monto": 4400000,
+      "moneda": "UYU",
+      "fecha": "2024-01-30T12:05:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1056945",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "CONSTRUCCION DE PUENTE",
+      "proveedor": "OLECOR S A",
+      "monto": 20357083.6065,
+      "moneda": "UYU",
+      "fecha": "2024-01-31T08:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1047109",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-01-31T11:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1107023",
+      "mes": 2,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "POLLO ENTERO CONGELADO",
+      "proveedor": "LOPEZ DA CUNHA SIERRA CLAUDIO WALTER",
+      "monto": 155908.14800000002,
+      "moneda": "UYU",
+      "fecha": "2024-02-07T11:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1027427",
+      "mes": 3,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-03-04T11:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1078182",
+      "mes": 3,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-03-04T11:20:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1115071",
+      "mes": 3,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-03-12T15:35:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1115806",
+      "mes": 3,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "ORIGANUM VULGARE",
+      "proveedor": "GONCALVEZ DE MEZQUITA JOSE LUIS",
+      "monto": 37355.1825,
+      "moneda": "UYU",
+      "fecha": "2024-03-12T18:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1109312",
+      "mes": 3,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "EJECUCION DE OBRA DE INFRAESTRUCTURA",
+      "proveedor": "RAMON C ALVAREZ S A",
+      "monto": 9581666.8606,
+      "moneda": "UYU",
+      "fecha": "2024-03-15T15:35:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1124702",
+      "mes": 4,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "AJO",
+      "proveedor": "GONCALVEZ DE MEZQUITA JOSE LUIS",
+      "monto": 55174.5404,
+      "moneda": "UYU",
+      "fecha": "2024-04-09T16:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1106606",
+      "mes": 4,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "MANTENIMIENTO DE ESPACIO PARA DEPORTES",
+      "proveedor": "DUBRISYR SOCIEDAD ANONIMA",
+      "monto": 10231301.6393,
+      "moneda": "UYU",
+      "fecha": "2024-04-30T15:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1118048",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "ACONDICIONAMIENTO DE TERRENO Y CONSTRUCCION DE VEREDA ACCESIBLE",
+      "proveedor": "ESTUDIO ATAR S.R.L.",
+      "monto": 10257442.4262,
+      "moneda": "UYU",
+      "fecha": "2024-05-02T17:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1131801",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "LIMON (USO HUMANO)",
+      "proveedor": "GONCALVEZ DE MEZQUITA JOSE LUIS",
+      "monto": 26462.304000000004,
+      "moneda": "UYU",
+      "fecha": "2024-05-06T18:05:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1139889",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "REFORMA DE EDIFICIO",
+      "proveedor": "HARBOR S A",
+      "monto": 21667356.5573,
+      "moneda": "UYU",
+      "fecha": "2024-05-06T18:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1067095",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "COLUMNA DE HORMIGON TRONCOCONICA CON BASE DE SECCION CUADRADA",
+      "proveedor": "HORMIGON PRETENSIONADO S A HOPRESA",
+      "monto": 2041680,
+      "moneda": "UYU",
+      "fecha": "2024-05-23T13:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1095705",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "EJECUCION DE OBRA DE INFRAESTRUCTURA",
+      "proveedor": "LUBINFOX S.A.",
+      "monto": 71543972.9508,
+      "moneda": "UYU",
+      "fecha": "2024-05-24T13:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1116744",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "ESCULTURA (ORIGINAL)",
+      "proveedor": "ARBIZA FERNANDEZ MAURO GASTON",
+      "monto": 1220327.8688,
+      "moneda": "UYU",
+      "fecha": "2024-05-24T15:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1140796",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "ACELGA (USO HUMANO)",
+      "proveedor": "GONCALVEZ DE MEZQUITA JOSE LUIS",
+      "monto": 18753.470550000002,
+      "moneda": "UYU",
+      "fecha": "2024-05-30T16:45:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1146024",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "COLUMNA DE HORMIGON TRONCOCONICA CON BASE DE SECCION CUADRADA",
+      "proveedor": "HORMIGON PRETENSIONADO S A HOPRESA",
+      "monto": 2041680,
+      "moneda": "UYU",
+      "fecha": "2024-05-23T13:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1047543",
+      "mes": 6,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "REFORMA DE EDIFICIO",
+      "proveedor": "NOLLA & NOLLA CONSTRUCCIONES LTDA.-",
+      "monto": 5075164.1475,
+      "moneda": "UYU",
+      "fecha": "2024-06-04T15:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1149737",
+      "mes": 6,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "REFORMA DE EDIFICIO",
+      "proveedor": "NOLLA & NOLLA CONSTRUCCIONES LTDA.-",
+      "monto": 2537582.0737,
+      "moneda": "UYU",
+      "fecha": "2024-06-04T16:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1146717",
+      "mes": 6,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "PODA DE ARBOLES",
+      "proveedor": "GENERACION VERDE SAS",
+      "monto": 1993442.4,
+      "moneda": "UYU",
+      "fecha": "2024-06-25T18:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1152601",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "POROTO",
+      "proveedor": "GONCALVEZ DE MEZQUITA JOSE LUIS",
+      "monto": 4098,
+      "moneda": "UYU",
+      "fecha": "2024-07-05T14:20:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1162225",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "CEMENTO PORTLAND",
+      "proveedor": "TRIKY S.A",
+      "monto": 7839749.999999999,
+      "moneda": "UYU",
+      "fecha": "2024-07-15T14:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1147636",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "CAMION BAROMETRICA",
+      "proveedor": "PATERIC S.A.",
+      "monto": 137600,
+      "moneda": "USD",
+      "fecha": "2024-08-07T14:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1147645",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "CAMION COMPACTADOR DE RESIDUOS DE CARGA TRASERA",
+      "proveedor": "PATERIC S.A.",
+      "monto": 151600,
+      "moneda": "USD",
+      "fecha": "2024-08-07T15:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1151806",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "CAMION CON CAJA VOLCADORA",
+      "proveedor": "PATERIC S.A.",
+      "monto": 275200,
+      "moneda": "USD",
+      "fecha": "2024-08-07T15:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1147623",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "MOTONIVELADORA",
+      "proveedor": "TORNOMETAL SOCIEDAD ANONIMA",
+      "monto": 216000,
+      "moneda": "USD",
+      "fecha": "2024-08-07T17:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1116777",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "REFORMA DE EDIFICIO",
+      "proveedor": "FELTIX  SOCIEDAD ANONIMA",
+      "monto": 65554024.59,
+      "moneda": "UYU",
+      "fecha": "2024-08-14T16:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1110227",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "ALUMBRADO EN CALLES, AVENIDAS Y CARRETERAS",
+      "proveedor": "DELTAZUL S.A.",
+      "monto": 5792730.7377,
+      "moneda": "UYU",
+      "fecha": "2024-08-15T14:35:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1172119",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "ALUMBRADO EN CALLES, AVENIDAS Y CARRETERAS",
+      "proveedor": "DELTAZUL S.A.",
+      "monto": 5792730.7377,
+      "moneda": "UYU",
+      "fecha": "2024-08-15T14:45:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1173001",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "PIEDRA DE GRANITO",
+      "proveedor": "TDR GROUP S.A.S",
+      "monto": 4987000,
+      "moneda": "UYU",
+      "fecha": "2024-08-19T17:45:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1007189",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-08-22T13:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1159142",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-08-29T16:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1164880",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "CONSTRUCCION DE BADEN",
+      "proveedor": "FELTIX  SOCIEDAD ANONIMA",
+      "monto": 9674026.2048,
+      "moneda": "UYU",
+      "fecha": "2024-08-29T16:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1175136",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "REPARACION DE MURO",
+      "proveedor": "NOLLA & NOLLA CONSTRUCCIONES LTDA.-",
+      "monto": 4908371.3114,
+      "moneda": "UYU",
+      "fecha": "2024-08-26T17:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1170319",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "CARNE VACUNA (USO HUMANO)",
+      "proveedor": "LOPEZ DA CUNHA SIERRA CLAUDIO WALTER",
+      "monto": 321855.2172,
+      "moneda": "UYU",
+      "fecha": "2024-09-04T16:45:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1068907",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "CONSTRUCCION  DE TERMINAL DE TRANSPORTE",
+      "proveedor": "TEYMA URUGUAY S A",
+      "monto": 95723963.1147,
+      "moneda": "UYU",
+      "fecha": "2024-09-04T17:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1159961",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "AJO",
+      "proveedor": "GONCALVEZ DE MEZQUITA JOSE LUIS",
+      "monto": 6592.3915,
+      "moneda": "UYU",
+      "fecha": "2024-09-04T17:05:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1180269",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "CARNE VACUNA (USO HUMANO)",
+      "proveedor": "LOPEZ DA CUNHA SIERRA CLAUDIO WALTER",
+      "monto": 328777.4406,
+      "moneda": "UYU",
+      "fecha": "2024-09-25T13:20:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1133153",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "SERVICIO DE DESTRUCCION Y DISPOSICION FINAL DE VEHICULOS",
+      "proveedor": "LOPEZ ALONZO CLAUDIA MABEL",
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-09-27T16:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1184898",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "MOTONIVELADORA",
+      "proveedor": "TORNOMETAL SOCIEDAD ANONIMA",
+      "monto": 216000,
+      "moneda": "USD",
+      "fecha": "2024-09-26T15:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1184901",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "CAMION BAROMETRICA",
+      "proveedor": "PATERIC S.A.",
+      "monto": 137600,
+      "moneda": "USD",
+      "fecha": "2024-09-26T16:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1184903",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "CAMION COMPACTADOR DE RESIDUOS DE CARGA TRASERA",
+      "proveedor": "PATERIC S.A.",
+      "monto": 151600,
+      "moneda": "USD",
+      "fecha": "2024-09-26T16:05:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1184907",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "CAMION CON CAJA VOLCADORA",
+      "proveedor": "PATERIC S.A.",
+      "monto": 275200,
+      "moneda": "USD",
+      "fecha": "2024-09-26T16:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1113814",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "REFORMA DE EDIFICIO",
+      "proveedor": "AMARAL RODRIGUEZ PABLO RICHAR",
+      "monto": 1912459.0163,
+      "moneda": "UYU",
+      "fecha": "2024-10-02T15:35:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1186809",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "REFORMA DE EDIFICIO",
+      "proveedor": "AMARAL RODRIGUEZ PABLO RICHAR",
+      "monto": 1912459.0163,
+      "moneda": "UYU",
+      "fecha": "2024-10-02T16:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1076298",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "OBRA CARRETERA EN CONSTRUCCION",
+      "proveedor": "FELTIX  SOCIEDAD ANONIMA",
+      "monto": 97518997.5409,
+      "moneda": "UYU",
+      "fecha": "2024-10-08T17:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1188563",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "MANTENIMIENTO DE ESPACIO PARA DEPORTES",
+      "proveedor": "DUBRISYR SOCIEDAD ANONIMA",
+      "monto": 10231301.6393,
+      "moneda": "UYU",
+      "fecha": "2024-10-08T15:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1104108",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "MAQUINA EXPENDEDORA DE BOLETOS",
+      "proveedor": "BUSMATICK SOCIEDAD ANONIMA",
+      "monto": 2539747.7616,
+      "moneda": "UYU",
+      "fecha": "2024-10-18T16:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1112257",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "CONSTRUCCION DE PUENTE",
+      "proveedor": "BAMILIR SOCIEDAD ANONIMA",
+      "monto": 51608111.6147,
+      "moneda": "UYU",
+      "fecha": "2024-10-18T17:20:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1140338",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "CONSTRUCCION DE EDIFICIO PUBLICO",
+      "proveedor": "FELTIX  SOCIEDAD ANONIMA",
+      "monto": 68651364.754,
+      "moneda": "UYU",
+      "fecha": "2024-10-21T17:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1175547",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-10-22T17:05:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1193493",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "EJECUCION DE OBRA DE INFRAESTRUCTURA",
+      "proveedor": "RAMON C ALVAREZ S A",
+      "monto": 9581666.8606,
+      "moneda": "UYU",
+      "fecha": "2024-10-24T14:45:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1187666",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "CARNE VACUNA (USO HUMANO)",
+      "proveedor": "LOPEZ DA CUNHA SIERRA CLAUDIO WALTER",
+      "monto": 311859.40859999997,
+      "moneda": "UYU",
+      "fecha": "2024-10-31T15:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1172139",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "REFORMA DE EDIFICIO",
+      "proveedor": "NOLLA & NOLLA CONSTRUCCIONES LTDA.-",
+      "monto": 10261661.4754,
+      "moneda": "UYU",
+      "fecha": "2024-10-31T17:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1170803",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "ENCUADERNACION",
+      "proveedor": "PALADINO CHARBONNIER ANDRES",
+      "monto": 1470000,
+      "moneda": "UYU",
+      "fecha": "2024-11-01T15:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1197206",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "REPARACION DE TECHO",
+      "proveedor": "FLORES & MARTINEZ SRL",
+      "monto": 1315115.3278459997,
+      "moneda": "UYU",
+      "fecha": "2024-11-06T15:05:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1110656",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "PERFORACION PARA EXTRACCION DE AGUA",
+      "proveedor": "AGUA SUBTERRANEA SRL.",
+      "monto": 6853050,
+      "moneda": "UYU",
+      "fecha": "2024-11-11T15:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1182795",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "NEUMATICO PARA MAQ. VIAL Y AGRICOLA",
+      "proveedor": "TORNOMETAL SOCIEDAD ANONIMA",
+      "monto": 3106007.14,
+      "moneda": "UYU",
+      "fecha": "2024-11-11T16:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1172526",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "ACONDICIONAMIENTO DE CAMPING",
+      "proveedor": "CASA MUÑOZ R.B.LTDA.",
+      "monto": 10097002.5737,
+      "moneda": "UYU",
+      "fecha": "2024-11-26T16:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1140340",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "CONSTRUCCION DE ESPACIO PARA DEPORTES",
+      "proveedor": "HARBOR S A",
+      "monto": 44576248.3606,
+      "moneda": "UYU",
+      "fecha": "2024-11-26T17:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1163252",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "HOSPEDAJE EN PENSION",
+      "proveedor": "VOLPE MONESTIER WALTER MARIO",
+      "monto": 3870719.9985999996,
+      "moneda": "UYU",
+      "fecha": "2024-12-04T18:20:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1050724",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "REFORMA DE EDIFICIO",
+      "proveedor": "ESTUDIO ATAR S.R.L.",
+      "monto": 3579120.836,
+      "moneda": "UYU",
+      "fecha": "2024-12-09T11:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1196752",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "CARNE VACUNA (USO HUMANO)",
+      "proveedor": "LOPEZ DA CUNHA SIERRA CLAUDIO WALTER",
+      "monto": 282277.7212,
+      "moneda": "UYU",
+      "fecha": "2024-12-10T11:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1042431",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "GALPON DE ESTRUCTURA Y CUBIERTA DE CHAPA METALICA",
+      "proveedor": "VIELIMAN SOCIEDAD ANONIMA",
+      "monto": 1621372.2130880002,
+      "moneda": "UYU",
+      "fecha": "2024-12-16T10:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1186766",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TACUAREMBÓ",
+      "objeto": "CONSTRUCCION DE MIRADOR",
+      "proveedor": "NOLLA & NOLLA CONSTRUCCIONES LTDA.-",
+      "monto": 2886356.4,
+      "moneda": "UYU",
+      "fecha": "2024-12-31T10:20:00Z"
+    }
+  ]
+}

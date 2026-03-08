@@ -1,0 +1,899 @@
+{
+  "nombre": "INTENDENCIA DE SAN JOSÉ",
+  "año": 2024,
+  "stats": {
+    "total_contratos": 60,
+    "con_monto": 54,
+    "monto_total_uyu": 237737385.87750003,
+    "monto_promedio_uyu": 4402544,
+    "proveedores_unicos": 34,
+    "top_proveedores": [
+      {
+        "nombre": "ACOSTA PERALTA JORGE HECTOR",
+        "contratos": 8
+      },
+      {
+        "nombre": "INVEDAL SOCIEDAD ANONIMA",
+        "contratos": 5
+      },
+      {
+        "nombre": "CALLERO CASTRO LUCIA",
+        "contratos": 3
+      },
+      {
+        "nombre": "IDEFOTO S A",
+        "contratos": 3
+      },
+      {
+        "nombre": "TRANSEO SOCIEDAD ANONIMA",
+        "contratos": 2
+      },
+      {
+        "nombre": "CLARA ANCHORENA GONZALO",
+        "contratos": 2
+      },
+      {
+        "nombre": "PRIETO RAPETTI DARWIN FABIAN",
+        "contratos": 2
+      },
+      {
+        "nombre": "MALAN AYALA MAURICIO DANIEL Y MALAN AYALA GONZALO JAVIER",
+        "contratos": 2
+      },
+      {
+        "nombre": "SALVO GANDINI SEBASTIAN LORENZO",
+        "contratos": 2
+      },
+      {
+        "nombre": "EFICE SA",
+        "contratos": 1
+      },
+      {
+        "nombre": "TLAPIANI S.R.L.",
+        "contratos": 1
+      },
+      {
+        "nombre": "KENRITEL SOCIEDAD ANONIMA",
+        "contratos": 1
+      },
+      {
+        "nombre": "HOMERO DE LEON Y CIA SOCIEDAD ANONIMA",
+        "contratos": 1
+      },
+      {
+        "nombre": "COSTA OLIVERA LAURA",
+        "contratos": 1
+      },
+      {
+        "nombre": "QUINQUIN S.R.L.",
+        "contratos": 1
+      },
+      {
+        "nombre": "TORNOMETAL SOCIEDAD ANONIMA",
+        "contratos": 1
+      },
+      {
+        "nombre": "ASOCIACION CRISTIANA DE JOVENES DE SAN JOSE",
+        "contratos": 1
+      },
+      {
+        "nombre": "MONTES DE OCA MACIEL MARCELO DANIEL",
+        "contratos": 1
+      },
+      {
+        "nombre": "C I E M S A CONSTRUCCIONES E INSTALACIONES ELECTROM",
+        "contratos": 1
+      },
+      {
+        "nombre": "NARUVIL SOCIEDAD ANONIMA",
+        "contratos": 1
+      }
+    ],
+    "top_objetos": [
+      {
+        "descripcion": "CONSTRUCCION DE CORDON CUNETA",
+        "veces": 7
+      },
+      {
+        "descripcion": "SERVICIO DE BARRIDO",
+        "veces": 4
+      },
+      {
+        "descripcion": "TARJETA DE POLIESTER",
+        "veces": 3
+      },
+      {
+        "descripcion": "CONSTRUCCION DE ACCESO PEATONAL",
+        "veces": 3
+      },
+      {
+        "descripcion": "EJECUCION DE PAVIMENTO",
+        "veces": 2
+      },
+      {
+        "descripcion": "SERVICIO DE VIGILANCIA",
+        "veces": 2
+      },
+      {
+        "descripcion": "LIMPIEZA Y/O CONSERVACION DE ESPACIOS VERDES",
+        "veces": 2
+      },
+      {
+        "descripcion": "LIMPIEZA DE PLAYAS",
+        "veces": 2
+      },
+      {
+        "descripcion": "ESTABILIZADOR QUIMICO DE SUELOS",
+        "veces": 1
+      },
+      {
+        "descripcion": "LIMPIEZA INTEGRAL DE LOCALES",
+        "veces": 1
+      },
+      {
+        "descripcion": "CONSTRUCCION DE PARADA DE TRANSPORTE",
+        "veces": 1
+      },
+      {
+        "descripcion": "TRANSPORTE DE RESIDUOS",
+        "veces": 1
+      },
+      {
+        "descripcion": "CAMION SIN CARROZAR",
+        "veces": 1
+      },
+      {
+        "descripcion": "LAVADO DE VEHICULO",
+        "veces": 1
+      },
+      {
+        "descripcion": "CONTENEDOR PLASTICO DE RESIDUOS DOMICILIARIOS DE 2 RUEDAS",
+        "veces": 1
+      },
+      {
+        "descripcion": "RETROEXCAVADORA SOBRE NEUMATICOS",
+        "veces": 1
+      },
+      {
+        "descripcion": "CONTRATACION DE PERSONAL TECNICO DOCENTE",
+        "veces": 1
+      },
+      {
+        "descripcion": "ACONDICIONAMIENTO DE AREA PARA GIMNASIO",
+        "veces": 1
+      },
+      {
+        "descripcion": "CONSTRUCCION DE VIVIENDA",
+        "veces": 1
+      },
+      {
+        "descripcion": "INSTALACION ELECTRICA COMPLETA DE LOCAL",
+        "veces": 1
+      }
+    ],
+    "por_mes": [
+      {
+        "mes": 1,
+        "contratos": 8,
+        "monto_uyu": 23164538.896000005
+      },
+      {
+        "mes": 2,
+        "contratos": 4,
+        "monto_uyu": 671200
+      },
+      {
+        "mes": 3,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 4,
+        "contratos": 6,
+        "monto_uyu": 20110479.5644
+      },
+      {
+        "mes": 5,
+        "contratos": 4,
+        "monto_uyu": 97526633.9121
+      },
+      {
+        "mes": 6,
+        "contratos": 4,
+        "monto_uyu": 6320449.73
+      },
+      {
+        "mes": 7,
+        "contratos": 5,
+        "monto_uyu": 1939250
+      },
+      {
+        "mes": 8,
+        "contratos": 5,
+        "monto_uyu": 25222962.8846
+      },
+      {
+        "mes": 9,
+        "contratos": 4,
+        "monto_uyu": 11802827
+      },
+      {
+        "mes": 10,
+        "contratos": 5,
+        "monto_uyu": 6635329
+      },
+      {
+        "mes": 11,
+        "contratos": 5,
+        "monto_uyu": 20233713.560000002
+      },
+      {
+        "mes": 12,
+        "contratos": 10,
+        "monto_uyu": 24110001.3304
+      }
+    ]
+  },
+  "contratos": [
+    {
+      "id": "ocds-yfs5dr-1098322",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "ESTABILIZADOR QUIMICO DE SUELOS",
+      "proveedor": "EFICE SA",
+      "monto": 3600000,
+      "moneda": "UYU",
+      "fecha": "2024-01-02T09:45:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1086785",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "LIMPIEZA INTEGRAL DE LOCALES",
+      "proveedor": "CALLERO CASTRO LUCIA",
+      "monto": 338,
+      "moneda": "UYU",
+      "fecha": "2024-01-17T15:20:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1094930",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "EJECUCION DE PAVIMENTO",
+      "proveedor": "ACOSTA PERALTA JORGE HECTOR",
+      "monto": 9148802.42,
+      "moneda": "UYU",
+      "fecha": "2024-01-18T14:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1088951",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "CONSTRUCCION DE PARADA DE TRANSPORTE",
+      "proveedor": "TRANSEO SOCIEDAD ANONIMA",
+      "monto": 9779179,
+      "moneda": "UYU",
+      "fecha": "2024-01-18T16:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-887015",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "SERVICIO DE BARRIDO",
+      "proveedor": "CLARA ANCHORENA GONZALO",
+      "monto": 287155.738,
+      "moneda": "UYU",
+      "fecha": "2024-01-19T13:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1108945",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "SERVICIO DE VIGILANCIA",
+      "proveedor": "TLAPIANI S.R.L.",
+      "monto": 61723,
+      "moneda": "UYU",
+      "fecha": "2024-01-17T11:05:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1109150",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "TRANSPORTE DE RESIDUOS",
+      "proveedor": "KENRITEL SOCIEDAD ANONIMA",
+      "monto": 185,
+      "moneda": "UYU",
+      "fecha": "2024-01-17T15:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1109843",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "SERVICIO DE BARRIDO",
+      "proveedor": "CLARA ANCHORENA GONZALO",
+      "monto": 287155.738,
+      "moneda": "UYU",
+      "fecha": "2024-01-19T14:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-887016",
+      "mes": 2,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "SERVICIO DE BARRIDO",
+      "proveedor": "PRIETO RAPETTI DARWIN FABIAN",
+      "monto": 310000,
+      "moneda": "UYU",
+      "fecha": "2024-02-02T11:35:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1113821",
+      "mes": 2,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "SERVICIO DE BARRIDO",
+      "proveedor": "PRIETO RAPETTI DARWIN FABIAN",
+      "monto": 310000,
+      "moneda": "UYU",
+      "fecha": "2024-02-02T11:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1115552",
+      "mes": 2,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "TARJETA DE POLIESTER",
+      "proveedor": "IDEFOTO S A",
+      "monto": 17250,
+      "moneda": "USD",
+      "fecha": "2024-02-08T15:35:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1096741",
+      "mes": 2,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "CAMION SIN CARROZAR",
+      "proveedor": "HOMERO DE LEON Y CIA SOCIEDAD ANONIMA",
+      "monto": 33950,
+      "moneda": "USD",
+      "fecha": "2024-02-27T11:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1116555",
+      "mes": 4,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "LAVADO DE VEHICULO",
+      "proveedor": "COSTA OLIVERA LAURA",
+      "monto": 21985,
+      "moneda": "UYU",
+      "fecha": "2024-04-01T11:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1115780",
+      "mes": 4,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "CONTENEDOR PLASTICO DE RESIDUOS DOMICILIARIOS DE 2 RUEDAS",
+      "proveedor": "QUINQUIN S.R.L.",
+      "monto": 100810,
+      "moneda": "UYU",
+      "fecha": "2024-04-09T10:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1115845",
+      "mes": 4,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "RETROEXCAVADORA SOBRE NEUMATICOS",
+      "proveedor": "TORNOMETAL SOCIEDAD ANONIMA",
+      "monto": 91000,
+      "moneda": "USD",
+      "fecha": "2024-04-10T12:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1130493",
+      "mes": 4,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "CONTRATACION DE PERSONAL TECNICO DOCENTE",
+      "proveedor": "ASOCIACION CRISTIANA DE JOVENES DE SAN JOSE",
+      "monto": 913.9344,
+      "moneda": "UYU",
+      "fecha": "2024-04-05T10:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1117169",
+      "mes": 4,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "CONSTRUCCION DE CORDON CUNETA",
+      "proveedor": "ACOSTA PERALTA JORGE HECTOR",
+      "monto": 9646850.629999999,
+      "moneda": "UYU",
+      "fecha": "2024-04-19T10:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1116123",
+      "mes": 4,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "CONSTRUCCION DE CORDON CUNETA",
+      "proveedor": "ACOSTA PERALTA JORGE HECTOR",
+      "monto": 10248920,
+      "moneda": "UYU",
+      "fecha": "2024-04-23T13:35:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1142457",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "LIMPIEZA Y/O CONSERVACION DE ESPACIOS VERDES",
+      "proveedor": "CALLERO CASTRO LUCIA",
+      "monto": 199819.6721,
+      "moneda": "UYU",
+      "fecha": "2024-05-14T12:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1143849",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "ACONDICIONAMIENTO DE AREA PARA GIMNASIO",
+      "proveedor": "MONTES DE OCA MACIEL MARCELO DANIEL",
+      "monto": 1720420.24,
+      "moneda": "UYU",
+      "fecha": "2024-05-17T10:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1084015",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "CONSTRUCCION DE VIVIENDA",
+      "proveedor": "C I E M S A CONSTRUCCIONES E INSTALACIONES ELECTROM",
+      "monto": 91584743,
+      "moneda": "UYU",
+      "fecha": "2024-05-29T13:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1111208",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "INSTALACION ELECTRICA COMPLETA DE LOCAL",
+      "proveedor": "NARUVIL SOCIEDAD ANONIMA",
+      "monto": 4021651,
+      "moneda": "UYU",
+      "fecha": "2024-05-29T14:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1124595",
+      "mes": 6,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "SERVICIO DE VIGILANCIA",
+      "proveedor": "CIMA CLARA SA",
+      "monto": 232140,
+      "moneda": "UYU",
+      "fecha": "2024-06-04T14:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1138344",
+      "mes": 6,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "LIMPIEZA DE TERMINAL DE OMNIBUS",
+      "proveedor": "BARCELO PEREZ ANA MARIA",
+      "monto": 327600,
+      "moneda": "UYU",
+      "fecha": "2024-06-26T14:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1143049",
+      "mes": 6,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "PANTALON DE TRABAJO UNISEX",
+      "proveedor": "LANCER S A",
+      "monto": 687720,
+      "moneda": "UYU",
+      "fecha": "2024-06-26T14:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1143912",
+      "mes": 6,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "CONSTRUCCION DE CORDON CUNETA",
+      "proveedor": "ACOSTA PERALTA JORGE HECTOR",
+      "monto": 5072989.73,
+      "moneda": "UYU",
+      "fecha": "2024-06-27T11:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1147134",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-07-04T11:45:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1141483",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "CAÑO DE HORMIGON ARMADO",
+      "proveedor": "EDGARDO DOMINGUEZ SAS",
+      "monto": 1914900,
+      "moneda": "UYU",
+      "fecha": "2024-07-04T13:05:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1139296",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "SERVICIO DE PALA RETROEXCAVADORA CON MAQUINISTA INCLUIDO",
+      "proveedor": "HERNANDEZ BARCIA NICOLAS DAVID",
+      "monto": 1350,
+      "moneda": "UYU",
+      "fecha": "2024-07-22T12:20:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1144473",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-07-26T16:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1156284",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "TARJETA DE POLIESTER",
+      "proveedor": "IDEFOTO S A",
+      "monto": 23000,
+      "moneda": "USD",
+      "fecha": "2024-07-31T14:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1155779",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "CONSTRUCCION DE ESPACIO PUBLICO ABIERTO",
+      "proveedor": "MALAN AYALA MAURICIO DANIEL Y MALAN AYALA GONZALO JAVIER",
+      "monto": 9877583,
+      "moneda": "UYU",
+      "fecha": "2024-08-06T13:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1153961",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "EJECUCION DE PAVIMENTO",
+      "proveedor": "ACOSTA PERALTA JORGE HECTOR",
+      "monto": 7470131.8845999995,
+      "moneda": "UYU",
+      "fecha": "2024-08-16T15:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1153813",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "CONSTRUCCION DE ACCESO PEATONAL",
+      "proveedor": "INVEDAL SOCIEDAD ANONIMA",
+      "monto": 2458331,
+      "moneda": "UYU",
+      "fecha": "2024-08-23T11:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1161317",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "CONSTRUCCION DE CABAÑA",
+      "proveedor": "INVEDAL SOCIEDAD ANONIMA",
+      "monto": 2597344,
+      "moneda": "UYU",
+      "fecha": "2024-08-23T13:35:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1158233",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "CONSTRUCCION DE ACCESO PEATONAL",
+      "proveedor": "MALAN AYALA MAURICIO DANIEL Y MALAN AYALA GONZALO JAVIER",
+      "monto": 2819573,
+      "moneda": "UYU",
+      "fecha": "2024-08-26T15:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1170739",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "CONSTRUCCION DE ACCESO PEATONAL",
+      "proveedor": "INVEDAL SOCIEDAD ANONIMA",
+      "monto": 2076947,
+      "moneda": "UYU",
+      "fecha": "2024-09-10T11:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1173320",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "SERVICIO DE PUBLICIDAD Y DIFUSION",
+      "proveedor": "PUBLIMA S.R.L.",
+      "monto": 701000,
+      "moneda": "UYU",
+      "fecha": "2024-09-11T14:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1180171",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "LIMPIEZA Y/O CONSERVACION DE ESPACIOS VERDES",
+      "proveedor": "CALLERO CASTRO LUCIA",
+      "monto": 131445,
+      "moneda": "UYU",
+      "fecha": "2024-09-11T13:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1180175",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "BALASTO NATURAL",
+      "proveedor": "ALONSO DE LEON ARACELY JACQUELINE Y DE LEON DELGADO OLGA",
+      "monto": 8893435,
+      "moneda": "UYU",
+      "fecha": "2024-09-11T13:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1173766",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "SERVIDOR DE RED",
+      "proveedor": "CMD LINE S.R.L.",
+      "monto": 65117,
+      "moneda": "USD",
+      "fecha": "2024-10-01T13:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1179188",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "CONSTRUCCION DE CORDON CUNETA",
+      "proveedor": "TRANSEO SOCIEDAD ANONIMA",
+      "monto": 4155999,
+      "moneda": "UYU",
+      "fecha": "2024-10-07T10:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1189395",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "MANTENIMIENTO DE SISTEMA DE ILUMINACION EXTERIOR",
+      "proveedor": "MUNCHS PERERA LUCIANO FACUNDO",
+      "monto": 240000,
+      "moneda": "UYU",
+      "fecha": "2024-10-10T14:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1178945",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "CONSTRUCCION DE CANCHA POLIDEPORTIVA",
+      "proveedor": "INVEDAL SOCIEDAD ANONIMA",
+      "monto": 2158156,
+      "moneda": "UYU",
+      "fecha": "2024-10-16T12:45:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1188045",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "AUTOMOVIL ESTANDAR 5 PUERTAS (NAFTA)",
+      "proveedor": "MOREIRA ROLANDO LUIS MARCELO",
+      "monto": 16057,
+      "moneda": "UYU",
+      "fecha": "2024-10-31T12:20:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1183775",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "BOMBA DE CALOR PARA PISCINA",
+      "proveedor": "ALTERNATIVAS SUSTENTABLES SOCIEDAD ANONIMA",
+      "monto": 105117,
+      "moneda": "UYU",
+      "fecha": "2024-11-08T13:35:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1197831",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "CONSTRUCCION DE CORDON CUNETA",
+      "proveedor": "ACOSTA PERALTA JORGE HECTOR",
+      "monto": 10248920,
+      "moneda": "UYU",
+      "fecha": "2024-11-08T12:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1195936",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-11-20T14:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1195933",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-11-20T14:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1183096",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "CONSTRUCCION DE CORDON CUNETA",
+      "proveedor": "MONTELECNOR SOCIEDAD ANONIMA",
+      "monto": 9879676.56,
+      "moneda": "UYU",
+      "fecha": "2024-11-25T11:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1195281",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "CASTRACION ANIMAL",
+      "proveedor": "MACHADO RODRIGUEZ JAIME YAMANDU",
+      "monto": 3073770.5,
+      "moneda": "UYU",
+      "fecha": "2024-12-02T13:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1201436",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "LIMPIEZA DE PLAYAS",
+      "proveedor": "SALVO GANDINI SEBASTIAN LORENZO",
+      "monto": 426000,
+      "moneda": "UYU",
+      "fecha": "2024-12-03T12:45:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1201432",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "LIMPIEZA DE PLAYAS",
+      "proveedor": "SALVO GANDINI SEBASTIAN LORENZO",
+      "monto": 424500,
+      "moneda": "UYU",
+      "fecha": "2024-12-03T14:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1196583",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-12-04T11:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1197347",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-12-04T12:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1188296",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "ACONDICIONAMIENTO DE ESPACIO PUBLICO ABIERTO",
+      "proveedor": "INVEDAL SOCIEDAD ANONIMA",
+      "monto": 8419400,
+      "moneda": "UYU",
+      "fecha": "2024-12-04T13:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1194721",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "REPARACION DE PAVIMENTO",
+      "proveedor": "ACOSTA PERALTA JORGE HECTOR",
+      "monto": 9271446.71,
+      "moneda": "UYU",
+      "fecha": "2024-12-10T15:20:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1205056",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "CONSTRUCCION DE CORDON CUNETA",
+      "proveedor": "ACOSTA PERALTA JORGE HECTOR",
+      "monto": 2435035.0703999996,
+      "moneda": "UYU",
+      "fecha": "2024-12-05T14:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1202716",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "TARJETA DE POLIESTER",
+      "proveedor": "IDEFOTO S A",
+      "monto": 17250,
+      "moneda": "USD",
+      "fecha": "2024-12-17T11:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1194978",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE SAN JOSÉ",
+      "objeto": "TANQUE DE POLIETILENO",
+      "proveedor": "MAAMATZ SAS",
+      "monto": 42599.05,
+      "moneda": "USD",
+      "fecha": "2024-12-26T16:10:00Z"
+    }
+  ]
+}

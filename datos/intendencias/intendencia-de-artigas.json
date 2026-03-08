@@ -1,0 +1,308 @@
+{
+  "nombre": "INTENDENCIA DE ARTIGAS",
+  "año": 2024,
+  "stats": {
+    "total_contratos": 15,
+    "con_monto": 13,
+    "monto_total_uyu": 79061287.86999999,
+    "monto_promedio_uyu": 6081638,
+    "proveedores_unicos": 7,
+    "top_proveedores": [
+      {
+        "nombre": "PEDRERA DEL NORTE S.R.L",
+        "contratos": 5
+      },
+      {
+        "nombre": "JIMENEZ FELICE RODRIGO",
+        "contratos": 3
+      },
+      {
+        "nombre": "CORPORACION DE MAQUINARIA S.A.",
+        "contratos": 1
+      },
+      {
+        "nombre": "SILBERO NARIO ANA RAQUEL",
+        "contratos": 1
+      },
+      {
+        "nombre": "PRENORTE S.R.L.",
+        "contratos": 1
+      },
+      {
+        "nombre": "SANTA ROSA AUTOMOTORES S A",
+        "contratos": 1
+      },
+      {
+        "nombre": "SERVIAM SOCIEDAD ANONIMA.-",
+        "contratos": 1
+      }
+    ],
+    "top_objetos": [
+      {
+        "descripcion": "PIEDRA PARTIDA",
+        "veces": 5
+      },
+      {
+        "descripcion": "EJECUCION DE OBRA DE INFRAESTRUCTURA",
+        "veces": 1
+      },
+      {
+        "descripcion": "RETROEXCAVADORA SOBRE NEUMATICOS",
+        "veces": 1
+      },
+      {
+        "descripcion": "EXCAVACION",
+        "veces": 1
+      },
+      {
+        "descripcion": "LIBRETA DE PROPIEDAD VEHICULAR NACIONAL",
+        "veces": 1
+      },
+      {
+        "descripcion": "CEMENTO PORTLAND",
+        "veces": 1
+      },
+      {
+        "descripcion": "CAMION BAROMETRICA",
+        "veces": 1
+      },
+      {
+        "descripcion": "PLACAS DE MATRICULAS PARTICULARES",
+        "veces": 1
+      },
+      {
+        "descripcion": "CONSTRUCCION DE ALCANTARILLA",
+        "veces": 1
+      }
+    ],
+    "por_mes": [
+      {
+        "mes": 1,
+        "contratos": 2,
+        "monto_uyu": 44862241.51
+      },
+      {
+        "mes": 2,
+        "contratos": 2,
+        "monto_uyu": 4524590.16
+      },
+      {
+        "mes": 3,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 4,
+        "contratos": 1,
+        "monto_uyu": 2587200
+      },
+      {
+        "mes": 5,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 6,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 7,
+        "contratos": 2,
+        "monto_uyu": 4904660
+      },
+      {
+        "mes": 8,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 9,
+        "contratos": 3,
+        "monto_uyu": 2521910
+      },
+      {
+        "mes": 10,
+        "contratos": 1,
+        "monto_uyu": 2262295.08
+      },
+      {
+        "mes": 11,
+        "contratos": 3,
+        "monto_uyu": 5647541.119999999
+      },
+      {
+        "mes": 12,
+        "contratos": 1,
+        "monto_uyu": 11750850
+      }
+    ]
+  },
+  "contratos": [
+    {
+      "id": "ocds-yfs5dr-1106030",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE ARTIGAS",
+      "objeto": "EJECUCION DE OBRA DE INFRAESTRUCTURA",
+      "proveedor": "JIMENEZ FELICE RODRIGO",
+      "monto": 44718241.51,
+      "moneda": "UYU",
+      "fecha": "2024-01-05T16:05:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1086441",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE ARTIGAS",
+      "objeto": "RETROEXCAVADORA SOBRE NEUMATICOS",
+      "proveedor": "CORPORACION DE MAQUINARIA S.A.",
+      "monto": 144000,
+      "moneda": "UYU",
+      "fecha": "2024-01-31T14:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1104801",
+      "mes": 2,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE ARTIGAS",
+      "objeto": "PIEDRA PARTIDA",
+      "proveedor": "PEDRERA DEL NORTE S.R.L",
+      "monto": 2262295.08,
+      "moneda": "UYU",
+      "fecha": "2024-02-20T17:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1104803",
+      "mes": 2,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE ARTIGAS",
+      "objeto": "PIEDRA PARTIDA",
+      "proveedor": "PEDRERA DEL NORTE S.R.L",
+      "monto": 2262295.08,
+      "moneda": "UYU",
+      "fecha": "2024-02-20T17:20:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1133144",
+      "mes": 4,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE ARTIGAS",
+      "objeto": "EXCAVACION",
+      "proveedor": "JIMENEZ FELICE RODRIGO",
+      "monto": 2587200,
+      "moneda": "UYU",
+      "fecha": "2024-04-12T15:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1143105",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE ARTIGAS",
+      "objeto": "LIBRETA DE PROPIEDAD VEHICULAR NACIONAL",
+      "proveedor": "SILBERO NARIO ANA RAQUEL",
+      "monto": 2004660,
+      "moneda": "UYU",
+      "fecha": "2024-07-08T16:20:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1143098",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE ARTIGAS",
+      "objeto": "CEMENTO PORTLAND",
+      "proveedor": "PRENORTE S.R.L.",
+      "monto": 2900000,
+      "moneda": "UYU",
+      "fecha": "2024-07-12T14:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1149326",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE ARTIGAS",
+      "objeto": "CAMION BAROMETRICA",
+      "proveedor": "SANTA ROSA AUTOMOTORES S A",
+      "monto": 118670,
+      "moneda": "UYU",
+      "fecha": "2024-09-03T15:35:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1170778",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE ARTIGAS",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-09-04T16:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1157895",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE ARTIGAS",
+      "objeto": "PLACAS DE MATRICULAS PARTICULARES",
+      "proveedor": "SERVIAM SOCIEDAD ANONIMA.-",
+      "monto": 2403240,
+      "moneda": "UYU",
+      "fecha": "2024-09-09T14:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1186772",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE ARTIGAS",
+      "objeto": "PIEDRA PARTIDA",
+      "proveedor": "PEDRERA DEL NORTE S.R.L",
+      "monto": 2262295.08,
+      "moneda": "UYU",
+      "fecha": "2024-10-02T15:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1179781",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE ARTIGAS",
+      "objeto": "PIEDRA PARTIDA",
+      "proveedor": "PEDRERA DEL NORTE S.R.L",
+      "monto": 2172131.1999999997,
+      "moneda": "UYU",
+      "fecha": "2024-11-11T15:05:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1179764",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE ARTIGAS",
+      "objeto": "PIEDRA PARTIDA",
+      "proveedor": "PEDRERA DEL NORTE S.R.L",
+      "monto": 3475409.92,
+      "moneda": "UYU",
+      "fecha": "2024-11-11T15:05:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1182778",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE ARTIGAS",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-11-27T17:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1151256",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE ARTIGAS",
+      "objeto": "CONSTRUCCION DE ALCANTARILLA",
+      "proveedor": "JIMENEZ FELICE RODRIGO",
+      "monto": 11750850,
+      "moneda": "UYU",
+      "fecha": "2024-12-06T14:55:00Z"
+    }
+  ]
+}

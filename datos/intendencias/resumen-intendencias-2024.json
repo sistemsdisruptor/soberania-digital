@@ -1,0 +1,157 @@
+{
+  "año": 2024,
+  "total_intendencias": 15,
+  "generado": "2026-03-08T22:11:49.279Z",
+  "intendencias": [
+    {
+      "nombre": "INTENDENCIA DE ARTIGAS",
+      "total_contratos": 15,
+      "monto_total_uyu": 79061287.86999999,
+      "proveedores_unicos": 7,
+      "top_proveedor": {
+        "nombre": "PEDRERA DEL NORTE S.R.L",
+        "contratos": 5
+      }
+    },
+    {
+      "nombre": "INTENDENCIA DE CANELONES",
+      "total_contratos": 843,
+      "monto_total_uyu": 1110629359.4126,
+      "proveedores_unicos": 430,
+      "top_proveedor": {
+        "nombre": "COOPERATIVA SOCIAL SEMAGE",
+        "contratos": 17
+      }
+    },
+    {
+      "nombre": "INTENDENCIA DE CERRO LARGO",
+      "total_contratos": 1,
+      "monto_total_uyu": 326414.0164,
+      "proveedores_unicos": 1,
+      "top_proveedor": {
+        "nombre": "CORPORACION DE MAQUINARIA S.A.",
+        "contratos": 1
+      }
+    },
+    {
+      "nombre": "INTENDENCIA DE COLONIA",
+      "total_contratos": 546,
+      "monto_total_uyu": 642635293.170926,
+      "proveedores_unicos": 194,
+      "top_proveedor": {
+        "nombre": "GOMEZ SEQUEIRA S.R.L.",
+        "contratos": 22
+      }
+    },
+    {
+      "nombre": "INTENDENCIA DE DURAZNO",
+      "total_contratos": 11,
+      "monto_total_uyu": 130406813.27,
+      "proveedores_unicos": 6,
+      "top_proveedor": {
+        "nombre": "TABILO S.A.S.",
+        "contratos": 3
+      }
+    },
+    {
+      "nombre": "INTENDENCIA DE FLORES",
+      "total_contratos": 51,
+      "monto_total_uyu": 39448722.65299999,
+      "proveedores_unicos": 32,
+      "top_proveedor": {
+        "nombre": "MOREIRA PEÑA LIZ YANET",
+        "contratos": 7
+      }
+    },
+    {
+      "nombre": "INTENDENCIA DE FLORIDA",
+      "total_contratos": 553,
+      "monto_total_uyu": 475382733.8103597,
+      "proveedores_unicos": 218,
+      "top_proveedor": {
+        "nombre": "BENITO SALGADO SOCIEDAD ANONIMA",
+        "contratos": 19
+      }
+    },
+    {
+      "nombre": "INTENDENCIA DE MONTEVIDEO",
+      "total_contratos": 24564,
+      "monto_total_uyu": 7032078349.9512205,
+      "proveedores_unicos": 2826,
+      "top_proveedor": {
+        "nombre": "COOPERATIVA DE LAS ARTES DEL URUGUAY SUPLEMENTADA",
+        "contratos": 1305
+      }
+    },
+    {
+      "nombre": "INTENDENCIA DE PAYSANDÚ",
+      "total_contratos": 397,
+      "monto_total_uyu": 400104911.86833996,
+      "proveedores_unicos": 146,
+      "top_proveedor": {
+        "nombre": "LIMA GINI VICTOR OMAR Y BENKENDORF QUINTEROS ROMINA VALERIA",
+        "contratos": 16
+      }
+    },
+    {
+      "nombre": "INTENDENCIA DE RIVERA",
+      "total_contratos": 37,
+      "monto_total_uyu": 333865408.4907,
+      "proveedores_unicos": 17,
+      "top_proveedor": {
+        "nombre": "PORTICO PRONAOS SRL",
+        "contratos": 4
+      }
+    },
+    {
+      "nombre": "INTENDENCIA DE RÍO NEGRO",
+      "total_contratos": 10,
+      "monto_total_uyu": 134378140.49,
+      "proveedores_unicos": 7,
+      "top_proveedor": {
+        "nombre": "MOEM SAS",
+        "contratos": 1
+      }
+    },
+    {
+      "nombre": "INTENDENCIA DE SALTO",
+      "total_contratos": 28,
+      "monto_total_uyu": 154581911.52719998,
+      "proveedores_unicos": 11,
+      "top_proveedor": {
+        "nombre": "BATISTA OLIVERA HONORIO BENITO",
+        "contratos": 5
+      }
+    },
+    {
+      "nombre": "INTENDENCIA DE SAN JOSÉ",
+      "total_contratos": 60,
+      "monto_total_uyu": 237737385.87750003,
+      "proveedores_unicos": 34,
+      "top_proveedor": {
+        "nombre": "ACOSTA PERALTA JORGE HECTOR",
+        "contratos": 8
+      }
+    },
+    {
+      "nombre": "INTENDENCIA DE TACUAREMBÓ",
+      "total_contratos": 70,
+      "monto_total_uyu": 712872440.268884,
+      "proveedores_unicos": 32,
+      "top_proveedor": {
+        "nombre": "GONCALVEZ DE MEZQUITA JOSE LUIS",
+        "contratos": 6
+      }
+    },
+    {
+      "nombre": "INTENDENCIA DE TREINTA Y TRES",
+      "total_contratos": 62,
+      "monto_total_uyu": 174983525.48809996,
+      "proveedores_unicos": 41,
+      "top_proveedor": {
+        "nombre": "SOSA NIEVES NELMA SILVANA",
+        "contratos": 4
+      }
+    }
+  ]
+}

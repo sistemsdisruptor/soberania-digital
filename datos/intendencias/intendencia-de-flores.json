@@ -1,0 +1,800 @@
+{
+  "nombre": "INTENDENCIA DE FLORES",
+  "año": 2024,
+  "stats": {
+    "total_contratos": 51,
+    "con_monto": 43,
+    "monto_total_uyu": 39448722.65299999,
+    "monto_promedio_uyu": 917412,
+    "proveedores_unicos": 32,
+    "top_proveedores": [
+      {
+        "nombre": "MOREIRA PEÑA LIZ YANET",
+        "contratos": 7
+      },
+      {
+        "nombre": "STALORI S A",
+        "contratos": 4
+      },
+      {
+        "nombre": "CABRERA GODOY HUGO FERNANDO",
+        "contratos": 3
+      },
+      {
+        "nombre": "MULTIRUBRO S.R.L.",
+        "contratos": 2
+      },
+      {
+        "nombre": "DECAR SRL",
+        "contratos": 2
+      },
+      {
+        "nombre": "FICUZZ S.R.L.",
+        "contratos": 1
+      },
+      {
+        "nombre": "HRM S.R.L.",
+        "contratos": 1
+      },
+      {
+        "nombre": "ASOCIACIÓN GVSIG",
+        "contratos": 1
+      },
+      {
+        "nombre": "TEBLIX S A",
+        "contratos": 1
+      },
+      {
+        "nombre": "SINERXIA S.A.",
+        "contratos": 1
+      },
+      {
+        "nombre": "NUAMERICA SA",
+        "contratos": 1
+      },
+      {
+        "nombre": "SUCESORES DE JORGE ESTEFAN S A",
+        "contratos": 1
+      },
+      {
+        "nombre": "BARRACA SALVATTO S R L",
+        "contratos": 1
+      },
+      {
+        "nombre": "BLONMAR SRL",
+        "contratos": 1
+      },
+      {
+        "nombre": "IDLA SOCIEDAD ANONIMA",
+        "contratos": 1
+      },
+      {
+        "nombre": "ROMERO GARCIA HECTOR DANILO",
+        "contratos": 1
+      },
+      {
+        "nombre": "MARTIN VIDAL MARISA BEATRIZ",
+        "contratos": 1
+      },
+      {
+        "nombre": "MAGUINOR S A",
+        "contratos": 1
+      },
+      {
+        "nombre": "PARAMAGOM SOCIEDAD ANONIMA",
+        "contratos": 1
+      },
+      {
+        "nombre": "SANTANA REIZ JORGE OMAR",
+        "contratos": 1
+      }
+    ],
+    "top_objetos": [
+      {
+        "descripcion": "CANASTA DE FRUTAS Y HORTALIZAS",
+        "veces": 10
+      },
+      {
+        "descripcion": "EMULSION ASFALTICA",
+        "veces": 2
+      },
+      {
+        "descripcion": "CEMENTO PORTLAND",
+        "veces": 2
+      },
+      {
+        "descripcion": "NEUMATICO PARA AUTOMOVILES, CAMIONETAS Y MICROBUSES",
+        "veces": 2
+      },
+      {
+        "descripcion": "ARRENDAMIENTO DE GABINETE HIGIENICO",
+        "veces": 1
+      },
+      {
+        "descripcion": "PIEDRA PARTIDA",
+        "veces": 1
+      },
+      {
+        "descripcion": "PLATAFORMA COMO SERVICIO",
+        "veces": 1
+      },
+      {
+        "descripcion": "MALLA ELECTROSOLDADA",
+        "veces": 1
+      },
+      {
+        "descripcion": "ARRENDAMIENTO DE ESPARCIDORA DE ASFALTO (PAVIMENTADORA)",
+        "veces": 1
+      },
+      {
+        "descripcion": "PIEDRA DE GRANITO",
+        "veces": 1
+      },
+      {
+        "descripcion": "CAÑO DE POLIETILENO DE ALTA DENSIDAD (PEAD)",
+        "veces": 1
+      },
+      {
+        "descripcion": "CANASTA DE MATERIALES PARA CONSTRUCCION",
+        "veces": 1
+      },
+      {
+        "descripcion": "ALCANTARILLA Y CALZADA",
+        "veces": 1
+      },
+      {
+        "descripcion": "ALIMENTO BALANCEADO CANINO",
+        "veces": 1
+      },
+      {
+        "descripcion": "RACION PARA POLLO (TERMINACION)",
+        "veces": 1
+      },
+      {
+        "descripcion": "JUEGO MANGRULLO",
+        "veces": 1
+      },
+      {
+        "descripcion": "OPERACION DE RED DE SANEAMIENTO",
+        "veces": 1
+      },
+      {
+        "descripcion": "TALADO DE ARBOLES",
+        "veces": 1
+      },
+      {
+        "descripcion": "TABLON DE MADERA DE CEREJEIRA",
+        "veces": 1
+      },
+      {
+        "descripcion": "PISO DE CAUCHO",
+        "veces": 1
+      }
+    ],
+    "por_mes": [
+      {
+        "mes": 1,
+        "contratos": 4,
+        "monto_uyu": 1500262.3004
+      },
+      {
+        "mes": 2,
+        "contratos": 3,
+        "monto_uyu": 326076.2316
+      },
+      {
+        "mes": 3,
+        "contratos": 4,
+        "monto_uyu": 11712665.869
+      },
+      {
+        "mes": 4,
+        "contratos": 5,
+        "monto_uyu": 4255757.2564
+      },
+      {
+        "mes": 5,
+        "contratos": 4,
+        "monto_uyu": 4279351.0066
+      },
+      {
+        "mes": 6,
+        "contratos": 3,
+        "monto_uyu": 2051633.7138999999
+      },
+      {
+        "mes": 7,
+        "contratos": 4,
+        "monto_uyu": 4284791.4109000005
+      },
+      {
+        "mes": 8,
+        "contratos": 3,
+        "monto_uyu": 316182.0834
+      },
+      {
+        "mes": 9,
+        "contratos": 3,
+        "monto_uyu": 1860258.8524
+      },
+      {
+        "mes": 10,
+        "contratos": 7,
+        "monto_uyu": 3831230.655
+      },
+      {
+        "mes": 11,
+        "contratos": 8,
+        "monto_uyu": 4591309.1694
+      },
+      {
+        "mes": 12,
+        "contratos": 3,
+        "monto_uyu": 439204.10400000005
+      }
+    ]
+  },
+  "contratos": [
+    {
+      "id": "ocds-yfs5dr-965177",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-01-05T09:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1101183",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "ARRENDAMIENTO DE GABINETE HIGIENICO",
+      "proveedor": "FICUZZ S.R.L.",
+      "monto": 822786.8904,
+      "moneda": "UYU",
+      "fecha": "2024-01-08T14:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1099155",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "PIEDRA PARTIDA",
+      "proveedor": "HRM S.R.L.",
+      "monto": 166000,
+      "moneda": "UYU",
+      "fecha": "2024-01-12T10:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1100848",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "PLATAFORMA COMO SERVICIO",
+      "proveedor": "ASOCIACIÓN GVSIG",
+      "monto": 511475.41,
+      "moneda": "UYU",
+      "fecha": "2024-01-26T09:20:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1116988",
+      "mes": 2,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "CANASTA DE FRUTAS Y HORTALIZAS",
+      "proveedor": "MOREIRA PEÑA LIZ YANET",
+      "monto": 326076.2316,
+      "moneda": "UYU",
+      "fecha": "2024-02-29T12:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1103126",
+      "mes": 2,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-02-29T12:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1110166",
+      "mes": 2,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-02-29T12:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1114759",
+      "mes": 3,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "EMULSION ASFALTICA",
+      "proveedor": "STALORI S A",
+      "monto": 3207678,
+      "moneda": "UYU",
+      "fecha": "2024-03-12T13:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1114766",
+      "mes": 3,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "EMULSION ASFALTICA",
+      "proveedor": "STALORI S A",
+      "monto": 6488160,
+      "moneda": "UYU",
+      "fecha": "2024-03-12T13:45:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1122125",
+      "mes": 3,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "MALLA ELECTROSOLDADA",
+      "proveedor": "MULTIRUBRO S.R.L.",
+      "monto": 416827.869,
+      "moneda": "UYU",
+      "fecha": "2024-03-21T13:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1116819",
+      "mes": 3,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "ARRENDAMIENTO DE ESPARCIDORA DE ASFALTO (PAVIMENTADORA)",
+      "proveedor": "STALORI S A",
+      "monto": 1600000,
+      "moneda": "UYU",
+      "fecha": "2024-03-22T09:20:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1122080",
+      "mes": 4,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-04-10T13:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1116333",
+      "mes": 4,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "PIEDRA DE GRANITO",
+      "proveedor": "TEBLIX S A",
+      "monto": 1766000,
+      "moneda": "UYU",
+      "fecha": "2024-04-11T14:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1116315",
+      "mes": 4,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "CAÑO DE POLIETILENO DE ALTA DENSIDAD (PEAD)",
+      "proveedor": "SINERXIA S.A.",
+      "monto": 1958280,
+      "moneda": "UYU",
+      "fecha": "2024-04-11T14:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1088430",
+      "mes": 4,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "CANASTA DE MATERIALES PARA CONSTRUCCION",
+      "proveedor": "DECAR SRL",
+      "monto": 277459.0164,
+      "moneda": "UYU",
+      "fecha": "2024-04-11T15:20:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1133913",
+      "mes": 4,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "CANASTA DE FRUTAS Y HORTALIZAS",
+      "proveedor": "MOREIRA PEÑA LIZ YANET",
+      "monto": 254018.24,
+      "moneda": "UYU",
+      "fecha": "2024-04-26T13:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1128564",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "ALCANTARILLA Y CALZADA",
+      "proveedor": "NUAMERICA SA",
+      "monto": 1966581.1475,
+      "moneda": "UYU",
+      "fecha": "2024-05-10T13:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1100857",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "ALIMENTO BALANCEADO CANINO",
+      "proveedor": "SUCESORES DE JORGE ESTEFAN S A",
+      "monto": 1534425.5999999999,
+      "moneda": "UYU",
+      "fecha": "2024-05-14T10:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1142472",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "CANASTA DE FRUTAS Y HORTALIZAS",
+      "proveedor": "CABRERA GODOY HUGO FERNANDO",
+      "monto": 245721.30800000002,
+      "moneda": "UYU",
+      "fecha": "2024-05-21T13:35:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1143598",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "CEMENTO PORTLAND",
+      "proveedor": "MULTIRUBRO S.R.L.",
+      "monto": 532622.9511000001,
+      "moneda": "UYU",
+      "fecha": "2024-05-24T13:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1152032",
+      "mes": 6,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "CANASTA DE FRUTAS Y HORTALIZAS",
+      "proveedor": "CABRERA GODOY HUGO FERNANDO",
+      "monto": 216534.416,
+      "moneda": "UYU",
+      "fecha": "2024-06-20T15:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1144937",
+      "mes": 6,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "RACION PARA POLLO (TERMINACION)",
+      "proveedor": "BARRACA SALVATTO S R L",
+      "monto": 987823.888,
+      "moneda": "UYU",
+      "fecha": "2024-06-21T14:05:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1152663",
+      "mes": 6,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "JUEGO MANGRULLO",
+      "proveedor": "BLONMAR SRL",
+      "monto": 847275.4099,
+      "moneda": "UYU",
+      "fecha": "2024-06-26T12:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1125218",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "OPERACION DE RED DE SANEAMIENTO",
+      "proveedor": "IDLA SOCIEDAD ANONIMA",
+      "monto": 2982338.9508,
+      "moneda": "UYU",
+      "fecha": "2024-07-01T13:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1161125",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "CANASTA DE FRUTAS Y HORTALIZAS",
+      "proveedor": "MOREIRA PEÑA LIZ YANET",
+      "monto": 260763.9356,
+      "moneda": "UYU",
+      "fecha": "2024-07-19T13:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1148503",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "NEUMATICO PARA AUTOMOVILES, CAMIONETAS Y MICROBUSES",
+      "proveedor": "ROMERO GARCIA HECTOR DANILO",
+      "monto": 13819.672,
+      "moneda": "USD",
+      "fecha": "2024-07-23T15:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1158220",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "TALADO DE ARBOLES",
+      "proveedor": "MARTIN VIDAL MARISA BEATRIZ",
+      "monto": 1027868.8525,
+      "moneda": "UYU",
+      "fecha": "2024-07-29T10:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1168853",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "CANASTA DE FRUTAS Y HORTALIZAS",
+      "proveedor": "CABRERA GODOY HUGO FERNANDO",
+      "monto": 281804.91839999997,
+      "moneda": "UYU",
+      "fecha": "2024-08-13T10:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1167849",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "TABLON DE MADERA DE CEREJEIRA",
+      "proveedor": "MAGUINOR S A",
+      "monto": 18817.155000000002,
+      "moneda": "USD",
+      "fecha": "2024-08-16T13:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1169230",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "PISO DE CAUCHO",
+      "proveedor": "PARAMAGOM SOCIEDAD ANONIMA",
+      "monto": 15560.01,
+      "moneda": "USD",
+      "fecha": "2024-08-21T13:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1173288",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "SERVICIO DE ALBAÑILERIA",
+      "proveedor": "SANTANA REIZ JORGE OMAR",
+      "monto": 652868.8525,
+      "moneda": "UYU",
+      "fecha": "2024-09-02T14:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1177671",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "CANASTA DE FRUTAS Y HORTALIZAS",
+      "proveedor": "MOREIRA PEÑA LIZ YANET",
+      "monto": 257949.9999,
+      "moneda": "UYU",
+      "fecha": "2024-09-10T10:35:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1180140",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "IMPRIMACION ASFALTICA",
+      "proveedor": "STALORI S A",
+      "monto": 949440,
+      "moneda": "UYU",
+      "fecha": "2024-09-26T10:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1181646",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "NEUMATICO PARA AUTOMOVILES, CAMIONETAS Y MICROBUSES",
+      "proveedor": "ROLCON S.A.",
+      "monto": 341284.4256,
+      "moneda": "UYU",
+      "fecha": "2024-10-02T09:35:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1182654",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "CONSTRUCCION DE BADEN",
+      "proveedor": "AVILA RODRIGUEZ FABRICIO RAMIRO",
+      "monto": 864048.6885,
+      "moneda": "UYU",
+      "fecha": "2024-10-02T09:45:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1184798",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "CANASTA DE FRUTAS Y HORTALIZAS",
+      "proveedor": "MOREIRA PEÑA LIZ YANET",
+      "monto": 216558.1992,
+      "moneda": "UYU",
+      "fecha": "2024-10-10T09:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1186126",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "ANAFE A GAS",
+      "proveedor": "CANCELA GIORELLO PABLO ERNESTO Y CANCELA GIORELLO FERNANDO ENRIQUE",
+      "monto": 98970.4917,
+      "moneda": "UYU",
+      "fecha": "2024-10-11T09:35:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1182529",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "CEMENTO PORTLAND",
+      "proveedor": "QUALITY CEMENTOS S.A.",
+      "monto": 1282500,
+      "moneda": "UYU",
+      "fecha": "2024-10-17T12:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1187989",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-10-22T12:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1178792",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "MANTENIMIENTO DE PAVIMENTO",
+      "proveedor": "SANABRIA ESTEVEZ WASHINGTON ARIEL",
+      "monto": 1027868.85,
+      "moneda": "UYU",
+      "fecha": "2024-10-23T14:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1179632",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "AGUA MINERAL",
+      "proveedor": "RELETRA S.R.L",
+      "monto": 300983.76,
+      "moneda": "UYU",
+      "fecha": "2024-11-04T12:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1183941",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "CONTENEDOR DE RESIDUOS DOMICILIARIOS DE 4 RUEDAS",
+      "proveedor": "LOZA FIRPO LUIS MARIA",
+      "monto": 206557.377,
+      "moneda": "UYU",
+      "fecha": "2024-11-05T13:20:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1026970",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-11-05T13:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1194186",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "CANASTA DE FRUTAS Y HORTALIZAS",
+      "proveedor": "MOREIRA PEÑA LIZ YANET",
+      "monto": 208768.03220000002,
+      "moneda": "UYU",
+      "fecha": "2024-11-05T14:45:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1182900",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "CAMIONETA RURAL 4 PUERTAS 4X4 (DIESEL)",
+      "proveedor": "HOMERO DE LEON Y CIA SOCIEDAD ANONIMA",
+      "monto": 186475.41,
+      "moneda": "UYU",
+      "fecha": "2024-11-13T14:45:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1186960",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "SERVICIO DE AMPLIFICACION E ILUMINACION",
+      "proveedor": "GRUPO CARABALLO SAS",
+      "monto": 3688524.5902,
+      "moneda": "UYU",
+      "fecha": "2024-11-14T15:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1192870",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "ARRENDAMIENTO DE STAND",
+      "proveedor": "URUGUAY SE MUESTRA SAS",
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-11-15T13:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1196647",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "SERVICIO DE VENTA DE ENTRADAS PARA ESPECTACULOS",
+      "proveedor": "CERRO LINDO S A",
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-11-15T13:20:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1202064",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "CANASTA DE FRUTAS Y HORTALIZAS",
+      "proveedor": "MOREIRA PEÑA LIZ YANET",
+      "monto": 228892.623,
+      "moneda": "UYU",
+      "fecha": "2024-12-05T10:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1203209",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "COLCHON DE POLIURETANO CON FORRO DE TELA",
+      "proveedor": "TIENDA MARTELLA S R L",
+      "monto": 151295.081,
+      "moneda": "UYU",
+      "fecha": "2024-12-18T08:35:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1204350",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE FLORES",
+      "objeto": "ARENA MEDIA",
+      "proveedor": "DECAR SRL",
+      "monto": 59016.4,
+      "moneda": "UYU",
+      "fecha": "2024-12-20T08:50:00Z"
+    }
+  ]
+}

@@ -1,0 +1,921 @@
+{
+  "nombre": "INTENDENCIA DE TREINTA Y TRES",
+  "año": 2024,
+  "stats": {
+    "total_contratos": 62,
+    "con_monto": 57,
+    "monto_total_uyu": 174983525.48809996,
+    "monto_promedio_uyu": 3069886,
+    "proveedores_unicos": 41,
+    "top_proveedores": [
+      {
+        "nombre": "SOSA NIEVES NELMA SILVANA",
+        "contratos": 4
+      },
+      {
+        "nombre": "RODALES MUÑOZ JORGE ALDEMIR",
+        "contratos": 3
+      },
+      {
+        "nombre": "CW45 SRL",
+        "contratos": 3
+      },
+      {
+        "nombre": "MENDEZ CUARTIN GUILLERMO ANDRES Y RODRIGUEZ DIAZ SANTIAGO NICOLAS",
+        "contratos": 3
+      },
+      {
+        "nombre": "URUGUAY CONSTRUCCIONES SAS",
+        "contratos": 3
+      },
+      {
+        "nombre": "ULBRIKA URUGUAYA SOCIEDAD ANONIMA",
+        "contratos": 2
+      },
+      {
+        "nombre": "CABRERA GRAÑA WALTER HUGO",
+        "contratos": 2
+      },
+      {
+        "nombre": "GOLDSZTEIN MUCHINIK DIEGO",
+        "contratos": 2
+      },
+      {
+        "nombre": "MIRABALLES MIER MARTIN SEBASTIAN Y MATTO LENU VIVIANA FERMINA",
+        "contratos": 2
+      },
+      {
+        "nombre": "YERTINIZ S.R.L.",
+        "contratos": 2
+      },
+      {
+        "nombre": "NALFER S.A.",
+        "contratos": 1
+      },
+      {
+        "nombre": "SILOMAX S A",
+        "contratos": 1
+      },
+      {
+        "nombre": "CESMAR LTDA.",
+        "contratos": 1
+      },
+      {
+        "nombre": "MED TERMOMECANICA SOCIEDAD ANONIMA",
+        "contratos": 1
+      },
+      {
+        "nombre": "DIANELCO S A",
+        "contratos": 1
+      },
+      {
+        "nombre": "PRENDES DUARTE JAVIER HORACIO",
+        "contratos": 1
+      },
+      {
+        "nombre": "APPELSA",
+        "contratos": 1
+      },
+      {
+        "nombre": "SOLUCIONES VIALES S.R.L.",
+        "contratos": 1
+      },
+      {
+        "nombre": "M T A S.A.",
+        "contratos": 1
+      },
+      {
+        "nombre": "GOPAR BON LUCIA GABRIELA",
+        "contratos": 1
+      }
+    ],
+    "top_objetos": [
+      {
+        "descripcion": "ARRENDAMIENTO DE PALA CARGADORA RETROEXCAVADORA",
+        "veces": 4
+      },
+      {
+        "descripcion": "ARRENDAMIENTO DE CAMION CON CAJA VOLCADORA",
+        "veces": 4
+      },
+      {
+        "descripcion": "SERVICIO DE AMPLIFICACION E ILUMINACION",
+        "veces": 4
+      },
+      {
+        "descripcion": "SERVICIO DE BAROMETRICA",
+        "veces": 4
+      },
+      {
+        "descripcion": "SERVICIO DE BULLDOZER CON MAQUINISTA INCLUIDO",
+        "veces": 3
+      },
+      {
+        "descripcion": "BAÑO QUIMICO",
+        "veces": 2
+      },
+      {
+        "descripcion": "SERVICIO DE TRANSPORTE DE PASAJEROS",
+        "veces": 2
+      },
+      {
+        "descripcion": "TRATAMIENTO BITUMINOSO EN CALZADA",
+        "veces": 2
+      },
+      {
+        "descripcion": "CAÑO DE HIERRO GALVANIZADO SIN COSTURA",
+        "veces": 2
+      },
+      {
+        "descripcion": "GUIA DE LUCES LED",
+        "veces": 1
+      },
+      {
+        "descripcion": "PINTURA SINTETICA",
+        "veces": 1
+      },
+      {
+        "descripcion": "COMPUTADORA CONFIGURACION ESTANDAR",
+        "veces": 1
+      },
+      {
+        "descripcion": "CUCHILLA PARA MOTONIVELADORA",
+        "veces": 1
+      },
+      {
+        "descripcion": "INSTALACION DE EQUIPO PARA ACONDICIONAMIENTO TERMICO",
+        "veces": 1
+      },
+      {
+        "descripcion": "BOLSA DE PLASTICO BIODEGRADABLE O COMPOSTABLE PARA RESIDUOS",
+        "veces": 1
+      },
+      {
+        "descripcion": "VARILLA DE HIERRO REDONDA COMUN (LISA)",
+        "veces": 1
+      },
+      {
+        "descripcion": "ARRENDAMIENTO DE FRESADORA",
+        "veces": 1
+      },
+      {
+        "descripcion": "CONSTRUCCION  DE TERMINAL DE TRANSPORTE",
+        "veces": 1
+      },
+      {
+        "descripcion": "ARRENDAMIENTO DE CARPA",
+        "veces": 1
+      },
+      {
+        "descripcion": "ARRENDAMIENTO DE PANTALLA",
+        "veces": 1
+      }
+    ],
+    "por_mes": [
+      {
+        "mes": 1,
+        "contratos": 6,
+        "monto_uyu": 25148883.3321
+      },
+      {
+        "mes": 2,
+        "contratos": 6,
+        "monto_uyu": 7565526
+      },
+      {
+        "mes": 3,
+        "contratos": 10,
+        "monto_uyu": 73030428
+      },
+      {
+        "mes": 4,
+        "contratos": 2,
+        "monto_uyu": 950000
+      },
+      {
+        "mes": 5,
+        "contratos": 8,
+        "monto_uyu": 12664837.6
+      },
+      {
+        "mes": 6,
+        "contratos": 5,
+        "monto_uyu": 30245073.7959
+      },
+      {
+        "mes": 7,
+        "contratos": 3,
+        "monto_uyu": 1285333.4601
+      },
+      {
+        "mes": 8,
+        "contratos": 3,
+        "monto_uyu": 1672800
+      },
+      {
+        "mes": 9,
+        "contratos": 6,
+        "monto_uyu": 3478655
+      },
+      {
+        "mes": 10,
+        "contratos": 7,
+        "monto_uyu": 15582840.88
+      },
+      {
+        "mes": 11,
+        "contratos": 3,
+        "monto_uyu": 1543147.42
+      },
+      {
+        "mes": 12,
+        "contratos": 3,
+        "monto_uyu": 1816000
+      }
+    ]
+  },
+  "contratos": [
+    {
+      "id": "ocds-yfs5dr-1100259",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "GUIA DE LUCES LED",
+      "proveedor": "NALFER S.A.",
+      "monto": 404000,
+      "moneda": "UYU",
+      "fecha": "2024-01-23T11:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1088221",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "PINTURA SINTETICA",
+      "proveedor": "ULBRIKA URUGUAYA SOCIEDAD ANONIMA",
+      "monto": 335134,
+      "moneda": "UYU",
+      "fecha": "2024-01-23T11:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1097408",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "COMPUTADORA CONFIGURACION ESTANDAR",
+      "proveedor": "SILOMAX S A",
+      "monto": 5568.0321,
+      "moneda": "USD",
+      "fecha": "2024-01-23T12:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1097399",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "CUCHILLA PARA MOTONIVELADORA",
+      "proveedor": "CESMAR LTDA.",
+      "monto": 616800,
+      "moneda": "UYU",
+      "fecha": "2024-01-23T14:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1097390",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "BAÑO QUIMICO",
+      "proveedor": "RODALES MUÑOZ JORGE ALDEMIR",
+      "monto": 5340,
+      "moneda": "UYU",
+      "fecha": "2024-01-23T14:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1086805",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "INSTALACION DE EQUIPO PARA ACONDICIONAMIENTO TERMICO",
+      "proveedor": "MED TERMOMECANICA SOCIEDAD ANONIMA",
+      "monto": 23782041.3,
+      "moneda": "UYU",
+      "fecha": "2024-01-25T12:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1076408",
+      "mes": 2,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "BOLSA DE PLASTICO BIODEGRADABLE O COMPOSTABLE PARA RESIDUOS",
+      "proveedor": "DIANELCO S A",
+      "monto": 1848000,
+      "moneda": "UYU",
+      "fecha": "2024-02-09T09:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1115808",
+      "mes": 2,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "ARRENDAMIENTO DE PALA CARGADORA RETROEXCAVADORA",
+      "proveedor": "SOSA NIEVES NELMA SILVANA",
+      "monto": 1152000,
+      "moneda": "UYU",
+      "fecha": "2024-02-09T12:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1087462",
+      "mes": 2,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "ARRENDAMIENTO DE CAMION CON CAJA VOLCADORA",
+      "proveedor": "PRENDES DUARTE JAVIER HORACIO",
+      "monto": 285000,
+      "moneda": "UYU",
+      "fecha": "2024-02-14T10:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1102235",
+      "mes": 2,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "VARILLA DE HIERRO REDONDA COMUN (LISA)",
+      "proveedor": "APPELSA",
+      "monto": 530526,
+      "moneda": "UYU",
+      "fecha": "2024-02-15T09:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1090810",
+      "mes": 2,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-02-15T12:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1102236",
+      "mes": 2,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "ARRENDAMIENTO DE FRESADORA",
+      "proveedor": "SOLUCIONES VIALES S.R.L.",
+      "monto": 3750000,
+      "moneda": "UYU",
+      "fecha": "2024-02-29T11:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1123056",
+      "mes": 3,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "SERVICIO DE BULLDOZER CON MAQUINISTA INCLUIDO",
+      "proveedor": "CABRERA GRAÑA WALTER HUGO",
+      "monto": 1330000,
+      "moneda": "UYU",
+      "fecha": "2024-03-08T11:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1096808",
+      "mes": 3,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "CONSTRUCCION  DE TERMINAL DE TRANSPORTE",
+      "proveedor": "M T A S.A.",
+      "monto": 65478428,
+      "moneda": "UYU",
+      "fecha": "2024-03-12T10:05:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1111833",
+      "mes": 3,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "SERVICIO DE AMPLIFICACION E ILUMINACION",
+      "proveedor": "CW45 SRL",
+      "monto": 340000,
+      "moneda": "UYU",
+      "fecha": "2024-03-20T11:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1111818",
+      "mes": 3,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "SERVICIO DE AMPLIFICACION E ILUMINACION",
+      "proveedor": "CW45 SRL",
+      "monto": 289000,
+      "moneda": "UYU",
+      "fecha": "2024-03-20T11:45:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1118902",
+      "mes": 3,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "SERVICIO DE AMPLIFICACION E ILUMINACION",
+      "proveedor": "GOPAR BON LUCIA GABRIELA",
+      "monto": 2440000,
+      "moneda": "UYU",
+      "fecha": "2024-03-21T13:05:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1120425",
+      "mes": 3,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "SERVICIO DE TRANSPORTE DE PASAJEROS",
+      "proveedor": "GONZALEZ SANTANA LUIS ALBERTO",
+      "monto": 847000,
+      "moneda": "UYU",
+      "fecha": "2024-03-21T13:05:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1120434",
+      "mes": 3,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "SERVICIO DE BAROMETRICA",
+      "proveedor": "MENDEZ CUARTIN GUILLERMO ANDRES Y RODRIGUEZ DIAZ SANTIAGO NICOLAS",
+      "monto": 120000,
+      "moneda": "UYU",
+      "fecha": "2024-03-21T13:05:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1119569",
+      "mes": 3,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "ARRENDAMIENTO DE CARPA",
+      "proveedor": "ROSSI JAIME RODOLFO",
+      "monto": 1039000,
+      "moneda": "UYU",
+      "fecha": "2024-03-22T13:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1118906",
+      "mes": 3,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "ARRENDAMIENTO DE PANTALLA",
+      "proveedor": "VIDEOTIME LTDA",
+      "monto": 955000,
+      "moneda": "UYU",
+      "fecha": "2024-03-22T13:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1119586",
+      "mes": 3,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "SERVICIO DE AMPLIFICACION E ILUMINACION",
+      "proveedor": "CW45 SRL",
+      "monto": 192000,
+      "moneda": "UYU",
+      "fecha": "2024-03-22T13:55:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1119576",
+      "mes": 4,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "BAÑO QUIMICO",
+      "proveedor": "RODALES MUÑOZ JORGE ALDEMIR",
+      "monto": 950000,
+      "moneda": "UYU",
+      "fecha": "2024-04-01T11:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1119589",
+      "mes": 4,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-04-01T11:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1125758",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "NEUMATICO PARA MAQ. VIAL Y AGRICOLA",
+      "proveedor": "TORNOMETAL SOCIEDAD ANONIMA",
+      "monto": 118292,
+      "moneda": "UYU",
+      "fecha": "2024-05-13T10:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1134567",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "SERVICIO DE BAROMETRICA",
+      "proveedor": "MENDEZ CUARTIN GUILLERMO ANDRES Y RODRIGUEZ DIAZ SANTIAGO NICOLAS",
+      "monto": 378000,
+      "moneda": "UYU",
+      "fecha": "2024-05-15T10:05:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1134565",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "COLOCACION DE ARTEFACTO PARA ALUMBRADO PUBLICO",
+      "proveedor": "DELTAZUL S.A.",
+      "monto": 926355,
+      "moneda": "UYU",
+      "fecha": "2024-05-15T10:15:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1127213",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "CONSTRUCCION DE SUBESTACION",
+      "proveedor": "PRODIE S A",
+      "monto": 7334044.6,
+      "moneda": "UYU",
+      "fecha": "2024-05-23T12:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1136050",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "SERVICIO DE BULLDOZER CON MAQUINISTA INCLUIDO",
+      "proveedor": "CABRERA GRAÑA WALTER HUGO",
+      "monto": 2470000,
+      "moneda": "UYU",
+      "fecha": "2024-05-27T11:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1120440",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "ARRENDAMIENTO DE PALA CARGADORA RETROEXCAVADORA",
+      "proveedor": "URUGUAY CONSTRUCCIONES SAS",
+      "monto": 450000,
+      "moneda": "UYU",
+      "fecha": "2024-05-30T10:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1130331",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "JUEGO MODULAR INFANTIL",
+      "proveedor": "GOLDSZTEIN MUCHINIK DIEGO",
+      "monto": 988108,
+      "moneda": "UYU",
+      "fecha": "2024-05-30T10:20:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1130336",
+      "mes": 5,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "SERVICIO DE TRANSPORTE DE PASAJEROS",
+      "proveedor": "BORGES GADEA ARTIGAS",
+      "monto": 38,
+      "moneda": "UYU",
+      "fecha": "2024-05-30T10:35:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1143900",
+      "mes": 6,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "ARRENDAMIENTO DE PALA CARGADORA RETROEXCAVADORA",
+      "proveedor": "URUGUAY CONSTRUCCIONES SAS",
+      "monto": 420000,
+      "moneda": "UYU",
+      "fecha": "2024-06-14T09:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1140587",
+      "mes": 6,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "PASTA SECA DE TRIGO",
+      "proveedor": "SAN ANTONIO S.R.L.",
+      "monto": 1084763.45,
+      "moneda": "UYU",
+      "fecha": "2024-06-20T10:45:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1134229",
+      "mes": 6,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "TRATAMIENTO BITUMINOSO EN CALZADA",
+      "proveedor": "R Y K INGENIEROS S R L",
+      "monto": 10761142,
+      "moneda": "UYU",
+      "fecha": "2024-06-20T11:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1140530",
+      "mes": 6,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "CONSTRUCCION DE EDIFICIO PUBLICO",
+      "proveedor": "EBAFOX SOCIEDAD ANONIMA",
+      "monto": 17742018.3459,
+      "moneda": "UYU",
+      "fecha": "2024-06-28T11:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1140641",
+      "mes": 6,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "TRAJE DE LLUVIA UNISEX",
+      "proveedor": "LANCER S A",
+      "monto": 237150,
+      "moneda": "UYU",
+      "fecha": "2024-06-28T11:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1141821",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "CAÑO DE HIERRO GALVANIZADO SIN COSTURA",
+      "proveedor": "MIRABALLES MIER MARTIN SEBASTIAN Y MATTO LENU VIVIANA FERMINA",
+      "monto": 489750,
+      "moneda": "UYU",
+      "fecha": "2024-07-02T10:45:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1137118",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "MOQUETTE",
+      "proveedor": "CAREY S A",
+      "monto": 450583.46009999997,
+      "moneda": "UYU",
+      "fecha": "2024-07-02T10:45:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1148322",
+      "mes": 7,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "ARENA FINA",
+      "proveedor": "\"RESURGE 33 S.R.L.\"",
+      "monto": 345000,
+      "moneda": "UYU",
+      "fecha": "2024-07-22T10:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1154675",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "LIMPIEZA Y RESTAURACION DE MONUMENTO",
+      "proveedor": "TIEMPO DE ESPERANZA SAS",
+      "monto": 899600,
+      "moneda": "UYU",
+      "fecha": "2024-08-16T10:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1172327",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "SERVICIO DE BAROMETRICA",
+      "proveedor": "MENDEZ CUARTIN GUILLERMO ANDRES Y RODRIGUEZ DIAZ SANTIAGO NICOLAS",
+      "monto": 378000,
+      "moneda": "UYU",
+      "fecha": "2024-08-16T10:35:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1174076",
+      "mes": 8,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "ARRENDAMIENTO DE CAMION CON CAJA VOLCADORA",
+      "proveedor": "SOSA NIEVES NELMA SILVANA",
+      "monto": 395200,
+      "moneda": "UYU",
+      "fecha": "2024-08-22T11:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1166839",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "SERVICIO DE MECANICA AUTOMOTRIZ",
+      "proveedor": "FABIDAL SOCIEDAD ANONIMA",
+      "monto": 695895,
+      "moneda": "UYU",
+      "fecha": "2024-09-13T10:45:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1169110",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "SERVICIO DE BULLDOZER CON MAQUINISTA INCLUIDO",
+      "proveedor": "URUGUAY CONSTRUCCIONES SAS",
+      "monto": 2250000,
+      "moneda": "UYU",
+      "fecha": "2024-09-25T11:35:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1148734",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-09-26T10:45:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1169115",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "ARRENDAMIENTO DE CAMION CON CAJA VOLCADORA",
+      "proveedor": "SOSA NIEVES NELMA SILVANA",
+      "monto": 2400,
+      "moneda": "UYU",
+      "fecha": "2024-09-26T11:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1158425",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "CONJUNTO DE RETENCION DE ACOMETIDAS PARA CABLE PREENSAMBLADO",
+      "proveedor": "FIERRO VIGNOLI S A FIVISA",
+      "monto": 413560,
+      "moneda": "UYU",
+      "fecha": "2024-09-27T10:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1185073",
+      "mes": 9,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "ZAPATO DE TRABAJO PARA CABALLERO",
+      "proveedor": "RELYM SA",
+      "monto": 116800,
+      "moneda": "UYU",
+      "fecha": "2024-09-27T10:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1162076",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "SISTEMA DE EXTINCION DE INCENDIO",
+      "proveedor": "BORSIL VIERA FERNANDO DARIO",
+      "monto": 3142489,
+      "moneda": "UYU",
+      "fecha": "2024-10-03T11:05:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1163804",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "CAMION CON CAJA VOLCADORA",
+      "proveedor": "YERTINIZ S.R.L.",
+      "monto": 576000,
+      "moneda": "UYU",
+      "fecha": "2024-10-08T16:05:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1177514",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "TRATAMIENTO BITUMINOSO EN CALZADA",
+      "proveedor": "MOLINSUR S A",
+      "monto": 9910251.88,
+      "moneda": "UYU",
+      "fecha": "2024-10-11T10:30:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1184683",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "SERVICIO DE BAROMETRICA",
+      "proveedor": "RODALES MUÑOZ JORGE ALDEMIR",
+      "monto": 648000,
+      "moneda": "UYU",
+      "fecha": "2024-10-15T10:40:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1184677",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "ARRENDAMIENTO DE PALA CARGADORA RETROEXCAVADORA",
+      "proveedor": "SOSA NIEVES NELMA SILVANA",
+      "monto": 875600,
+      "moneda": "UYU",
+      "fecha": "2024-10-18T09:05:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1185108",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "CORTADORA DE CESPED A NAFTA",
+      "proveedor": "COMERCIAL LATINA S.R.L",
+      "monto": 430500,
+      "moneda": "UYU",
+      "fecha": "2024-10-24T11:10:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1184305",
+      "mes": 10,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-10-24T11:25:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1186997",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "PINTURA ACRILICA",
+      "proveedor": "ULBRIKA URUGUAYA SOCIEDAD ANONIMA",
+      "monto": 595237.42,
+      "moneda": "UYU",
+      "fecha": "2024-11-21T09:45:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1177342",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "JUEGO DE MINIATLETISMO",
+      "proveedor": "GOLDSZTEIN MUCHINIK DIEGO",
+      "monto": 458160,
+      "moneda": "UYU",
+      "fecha": "2024-11-21T10:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1201231",
+      "mes": 11,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "CAÑO DE HIERRO GALVANIZADO SIN COSTURA",
+      "proveedor": "MIRABALLES MIER MARTIN SEBASTIAN Y MATTO LENU VIVIANA FERMINA",
+      "monto": 489750,
+      "moneda": "UYU",
+      "fecha": "2024-11-21T09:20:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1185927",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "ARRENDAMIENTO DE CAMION CON CAJA VOLCADORA",
+      "proveedor": "YERTINIZ S.R.L.",
+      "monto": 1020000,
+      "moneda": "UYU",
+      "fecha": "2024-12-11T12:50:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1185126",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": null,
+      "proveedor": null,
+      "monto": null,
+      "moneda": "UYU",
+      "fecha": "2024-12-11T13:00:00Z"
+    },
+    {
+      "id": "ocds-yfs5dr-1193736",
+      "mes": 12,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE TREINTA Y TRES",
+      "objeto": "LECHE ENTERA EN POLVO (USO HUMANO)",
+      "proveedor": "COOPERATIVA NACIONAL DE PRODUCTORES DE LECHE CONAP",
+      "monto": 796000,
+      "moneda": "UYU",
+      "fecha": "2024-12-12T10:50:00Z"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "nombre": "INTENDENCIA DE CERRO LARGO",
+  "año": 2024,
+  "stats": {
+    "total_contratos": 1,
+    "con_monto": 1,
+    "monto_total_uyu": 326414.0164,
+    "monto_promedio_uyu": 326414,
+    "proveedores_unicos": 1,
+    "top_proveedores": [
+      {
+        "nombre": "CORPORACION DE MAQUINARIA S.A.",
+        "contratos": 1
+      }
+    ],
+    "top_objetos": [
+      {
+        "descripcion": "TRACTOR",
+        "veces": 1
+      }
+    ],
+    "por_mes": [
+      {
+        "mes": 1,
+        "contratos": 1,
+        "monto_uyu": 326414.0164
+      },
+      {
+        "mes": 2,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 3,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 4,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 5,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 6,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 7,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 8,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 9,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 10,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 11,
+        "contratos": 0,
+        "monto_uyu": 0
+      },
+      {
+        "mes": 12,
+        "contratos": 0,
+        "monto_uyu": 0
+      }
+    ]
+  },
+  "contratos": [
+    {
+      "id": "ocds-yfs5dr-1101383",
+      "mes": 1,
+      "año": 2024,
+      "organismo": "INTENDENCIA DE CERRO LARGO",
+      "objeto": "TRACTOR",
+      "proveedor": "CORPORACION DE MAQUINARIA S.A.",
+      "monto": 326414.0164,
+      "moneda": "UYU",
+      "fecha": "2024-01-24T10:50:00Z"
+    }
+  ]
+}
