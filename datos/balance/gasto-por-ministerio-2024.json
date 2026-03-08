@@ -1,0 +1,826 @@
+{
+  "año": 2024,
+  "generado": "2026-03-08T22:43:53.346Z",
+  "ministerios": [
+    {
+      "nombre": "Administración Nacional de Usinas y Trasmisiones Eléctricas",
+      "monto": 413980770958,
+      "contratos": 899
+    },
+    {
+      "nombre": "Administración de las Obras Sanitarias del Estado",
+      "monto": 17829877813,
+      "contratos": 1583
+    },
+    {
+      "nombre": "ADMINISTRACIÓN NACIONAL DE TELECOMUNICACIONES",
+      "monto": 8675298758,
+      "contratos": 615
+    },
+    {
+      "nombre": "INTENDENCIA DE MONTEVIDEO",
+      "monto": 7032078350,
+      "contratos": 24564
+    },
+    {
+      "nombre": "Ministerio de Salud Pública",
+      "monto": 6814549404,
+      "contratos": 47809
+    },
+    {
+      "nombre": "Administración Nacional de Combustible, Alcohol y Portland",
+      "monto": 5410594745,
+      "contratos": 1311
+    },
+    {
+      "nombre": "Ministerio del Interior",
+      "monto": 4368409264,
+      "contratos": 9040
+    },
+    {
+      "nombre": "DIRECCIÓN DE DESARROLLO SOCIAL",
+      "monto": 3114973929,
+      "contratos": 234
+    },
+    {
+      "nombre": "Ministerio de Transporte y Obras Públicas",
+      "monto": 2800712191,
+      "contratos": 2499
+    },
+    {
+      "nombre": "Ministerio de Defensa Nacional",
+      "monto": 1915408022,
+      "contratos": 2633
+    },
+    {
+      "nombre": "Ministerio de Educación y Cultura",
+      "monto": 1683010772,
+      "contratos": 3971
+    },
+    {
+      "nombre": "OTROS",
+      "monto": 1646068904,
+      "contratos": 105
+    },
+    {
+      "nombre": "Banco de la República Oriental del Uruguay",
+      "monto": 1478282064,
+      "contratos": 2752
+    },
+    {
+      "nombre": "Banco de Previsión Social",
+      "monto": 1260924848,
+      "contratos": 2704
+    },
+    {
+      "nombre": "INTENDENCIA DE CANELONES",
+      "monto": 1110629359,
+      "contratos": 843
+    },
+    {
+      "nombre": "CONSEJO DIRECTIVO CENTRAL",
+      "monto": 902290277,
+      "contratos": 740
+    },
+    {
+      "nombre": "INTENDENCIA DE TACUAREMBÓ",
+      "monto": 712872440,
+      "contratos": 70
+    },
+    {
+      "nombre": "INSTITUTO NACIONAL DE ALIMENTACIÓN",
+      "monto": 694249241,
+      "contratos": 103
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE VIVIENDA",
+      "monto": 686701817,
+      "contratos": 55
+    },
+    {
+      "nombre": "Banco de Seguros del Estado",
+      "monto": 654645513,
+      "contratos": 6654
+    },
+    {
+      "nombre": "INTENDENCIA DE COLONIA",
+      "monto": 642635293,
+      "contratos": 546
+    },
+    {
+      "nombre": "DIRECCIÓN GENERAL DE CASINOS",
+      "monto": 491159780,
+      "contratos": 448
+    },
+    {
+      "nombre": "INTENDENCIA DE FLORIDA",
+      "monto": 475382734,
+      "contratos": 553
+    },
+    {
+      "nombre": "DIRECCIÓN GENERAL DE SECRETARÍA",
+      "monto": 433771086,
+      "contratos": 1855
+    },
+    {
+      "nombre": "OFICINAS CENTRALES Y ESCUELAS DEPENDIENTES DE RECTORADO",
+      "monto": 408156186,
+      "contratos": 670
+    },
+    {
+      "nombre": "INTENDENCIA DE PAYSANDÚ",
+      "monto": 400104912,
+      "contratos": 397
+    },
+    {
+      "nombre": "DIREC. GENERAL DE SECRETARÍA.",
+      "monto": 387406829,
+      "contratos": 288
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE ASUNTOS SOCIALES",
+      "monto": 377124615,
+      "contratos": 598
+    },
+    {
+      "nombre": "INSTITUTO NACIONAL DE REHABILITACIÓN",
+      "monto": 362747937,
+      "contratos": 586
+    },
+    {
+      "nombre": "INTENDENCIA DE RIVERA",
+      "monto": 333865408,
+      "contratos": 37
+    },
+    {
+      "nombre": "PODER JUDICIAL",
+      "monto": 322441083,
+      "contratos": 654
+    },
+    {
+      "nombre": "PRESIDENCIA DE LA REPÚBLICA",
+      "monto": 248552852,
+      "contratos": 111
+    },
+    {
+      "nombre": "INTENDENCIA DE SAN JOSÉ",
+      "monto": 237737386,
+      "contratos": 60
+    },
+    {
+      "nombre": "FACULTAD DE CIENCIAS",
+      "monto": 224360188,
+      "contratos": 294
+    },
+    {
+      "nombre": "AGENCIA NACIONAL DE VIVIENDA",
+      "monto": 216459591,
+      "contratos": 67
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE HIDROGRAFÍA",
+      "monto": 210557678,
+      "contratos": 206
+    },
+    {
+      "nombre": "SECRETARÍA NACIONAL DEL DEPORTE",
+      "monto": 206796389,
+      "contratos": 222
+    },
+    {
+      "nombre": "DIRECCIÓN GENERAL IMPOSITIVA",
+      "monto": 199966169,
+      "contratos": 293
+    },
+    {
+      "nombre": "INSTITUTO DEL NIÑO Y ADOLESCENTE DEL URUGUAY INAU",
+      "monto": 198483834,
+      "contratos": 914
+    },
+    {
+      "nombre": "INSTITUTO NACIONAL DE LA JUVENTUD",
+      "monto": 190000000,
+      "contratos": 1
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE CULTURA",
+      "monto": 184050652,
+      "contratos": 558
+    },
+    {
+      "nombre": "INTENDENCIA DE TREINTA Y TRES",
+      "monto": 174983525,
+      "contratos": 62
+    },
+    {
+      "nombre": "Administración Nacional de Correos",
+      "monto": 168913572,
+      "contratos": 881
+    },
+    {
+      "nombre": "DESPACHO DE LA SECRETARÍA  ESTADO Y OFICINAS DEPENDIENTES",
+      "monto": 160127179,
+      "contratos": 281
+    },
+    {
+      "nombre": "INTENDENCIA DE SALTO",
+      "monto": 154581912,
+      "contratos": 28
+    },
+    {
+      "nombre": "MINISTERIO DE RELACIONES EXTERIORES",
+      "monto": 136116159,
+      "contratos": 678
+    },
+    {
+      "nombre": "INTENDENCIA DE RÍO NEGRO",
+      "monto": 134378140,
+      "contratos": 10
+    },
+    {
+      "nombre": "INTENDENCIA DE DURAZNO",
+      "monto": 130406813,
+      "contratos": 11
+    },
+    {
+      "nombre": "SERVICIO NACIONAL DE ORTOPEDIA Y TRAUMATOLOGÍA",
+      "monto": 124873243,
+      "contratos": 437
+    },
+    {
+      "nombre": "Ministerio de Ganadería, Agricultura y Pesca",
+      "monto": 107586145,
+      "contratos": 1020
+    },
+    {
+      "nombre": "DIRECCIÓN GENERAL DE SECRETARÍA DE ESTADO",
+      "monto": 107262392,
+      "contratos": 315
+    },
+    {
+      "nombre": "BANCO HIPOTECARIO DEL URUGUAY",
+      "monto": 107124225,
+      "contratos": 138
+    },
+    {
+      "nombre": "FISCALIA GENERAL DE LA NACIÓN",
+      "monto": 101210359,
+      "contratos": 498
+    },
+    {
+      "nombre": "Ministerio de Economía y Finanzas",
+      "monto": 98020679,
+      "contratos": 317
+    },
+    {
+      "nombre": "COMISIÓN ADMINISTRATIVA DEL PODER LEGISLATIVO",
+      "monto": 97754091,
+      "contratos": 293
+    },
+    {
+      "nombre": "PRESIDENCIA DE LA REPÚBLICA Y UNIDADES DEPENDIENTES",
+      "monto": 96227067,
+      "contratos": 187
+    },
+    {
+      "nombre": "INSTITUTO NACIONAL DE INCLUSION SOCIAL ADOLESCENTE",
+      "monto": 91318936,
+      "contratos": 219
+    },
+    {
+      "nombre": "BANCO CENTRAL DEL URUGUAY",
+      "monto": 80713473,
+      "contratos": 140
+    },
+    {
+      "nombre": "INTENDENCIA DE ARTIGAS",
+      "monto": 79061288,
+      "contratos": 15
+    },
+    {
+      "nombre": "CANAL 5 - SERVICIO DE TELEVISIÓN NACIONAL",
+      "monto": 75858754,
+      "contratos": 217
+    },
+    {
+      "nombre": "JUNTA DEPARTAMENTAL DE MONTEVIDEO",
+      "monto": 71730625,
+      "contratos": 181
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE SANIDAD POLICIAL",
+      "monto": 68430372,
+      "contratos": 179
+    },
+    {
+      "nombre": "CORTE ELECTORAL",
+      "monto": 67318203,
+      "contratos": 304
+    },
+    {
+      "nombre": "LABORATORIO QUÍMICO INDUSTRIAL FRANCISCO DORREGO",
+      "monto": 64201429,
+      "contratos": 408
+    },
+    {
+      "nombre": "FACULTAD DE AGRONOMÍA",
+      "monto": 61394752,
+      "contratos": 116
+    },
+    {
+      "nombre": "FACULTAD DE ODONTOLOGÍA",
+      "monto": 54001726,
+      "contratos": 130
+    },
+    {
+      "nombre": "FACULTAD DE CIENCIAS SOCIALES",
+      "monto": 47672679,
+      "contratos": 139
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL AVIACIÓN CIVIL E INFRAESTRUCTURA AERONÁUT",
+      "monto": 46193983,
+      "contratos": 351
+    },
+    {
+      "nombre": "DIRECCIÓN GENERAL DE SERVICIOS AGRÍCOLAS",
+      "monto": 41724584,
+      "contratos": 433
+    },
+    {
+      "nombre": "INTENDENCIA DE FLORES",
+      "monto": 39448723,
+      "contratos": 51
+    },
+    {
+      "nombre": "FACULTAD DE CIENCIAS ECONÓMICAS Y DE ADMINISTRACIÓN",
+      "monto": 39364892,
+      "contratos": 132
+    },
+    {
+      "nombre": "DIRECCIÓN GENERAL DEL REGISTRO DE ESTADO CIVIL",
+      "monto": 38471521,
+      "contratos": 64
+    },
+    {
+      "nombre": "FACULTAD DE INGENIERIA",
+      "monto": 37451108,
+      "contratos": 131
+    },
+    {
+      "nombre": "INSTITUTO NAL.DE REUMATALOGÍA PROF.DR. MOISÉS MIZRAJI",
+      "monto": 34964756,
+      "contratos": 299
+    },
+    {
+      "nombre": "SERVICIO NACIONAL DE SANGRE",
+      "monto": 32747957,
+      "contratos": 51
+    },
+    {
+      "nombre": "DIRECCIÓN GENERAL DE REGISTROS",
+      "monto": 32642448,
+      "contratos": 116
+    },
+    {
+      "nombre": "INSTITUTO URUGUAYO DE METEOROLOGIA INUMET",
+      "monto": 32342602,
+      "contratos": 276
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE CATASTRO",
+      "monto": 30721015,
+      "contratos": 108
+    },
+    {
+      "nombre": "CÁMARA DE REPRESENTANTES",
+      "monto": 30696138,
+      "contratos": 141
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE LOTERÍAS Y QUINIELAS",
+      "monto": 30603886,
+      "contratos": 93
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE TURISMO",
+      "monto": 30375415,
+      "contratos": 215
+    },
+    {
+      "nombre": "DIRECCIÓN GENERAL DE COMERCIO",
+      "monto": 27808551,
+      "contratos": 8
+    },
+    {
+      "nombre": "CONTADURÍA GENERAL DE LA NACIÓN",
+      "monto": 27564639,
+      "contratos": 221
+    },
+    {
+      "nombre": "UNIDAD REGULADORA DE SERVICIOS DE ENERGÍA Y AGUA",
+      "monto": 27071939,
+      "contratos": 123
+    },
+    {
+      "nombre": "CENTRO UNIVERSITARIO REGIONAL LITORAL NORTE",
+      "monto": 23799737,
+      "contratos": 134
+    },
+    {
+      "nombre": "UNIDAD REGULADORA DE SERVICIOS DE COMUNICACIONES (URSEC)",
+      "monto": 23248830,
+      "contratos": 226
+    },
+    {
+      "nombre": "FACULTAD DE DERECHO",
+      "monto": 22593184,
+      "contratos": 43
+    },
+    {
+      "nombre": "DIRECCIÓN GENERAL DE LOS SERVICIOS",
+      "monto": 22545869,
+      "contratos": 98
+    },
+    {
+      "nombre": "INSTITUTO NACIONAL DE COLONIZACIÓN",
+      "monto": 19487311,
+      "contratos": 61
+    },
+    {
+      "nombre": "CENTRO UNIVERSITARIO REGIONAL ESTE",
+      "monto": 19296242,
+      "contratos": 257
+    },
+    {
+      "nombre": "INSTITUTO DE INVESTIGACIONES BIOLÓGICAS CLEMENTE ESTABLE",
+      "monto": 17148856,
+      "contratos": 61
+    },
+    {
+      "nombre": "DIRECCIÓN GRAL .DESARR.RURAL",
+      "monto": 17074857,
+      "contratos": 175
+    },
+    {
+      "nombre": "CTRO INF.Y REF.NAL DE RED DROGAS",
+      "monto": 16979192,
+      "contratos": 71
+    },
+    {
+      "nombre": "DIRECCIÓN GENERAL DE COORDINACIÓN",
+      "monto": 16919065,
+      "contratos": 472
+    },
+    {
+      "nombre": "INSTITUTO DE HIGIENE",
+      "monto": 16501269,
+      "contratos": 78
+    },
+    {
+      "nombre": "DIR.NAL. DE REC.ACUÁTICOS(EX-INAPE)",
+      "monto": 16374760,
+      "contratos": 439
+    },
+    {
+      "nombre": "FACULTAD DE VETERINARIA",
+      "monto": 16300210,
+      "contratos": 121
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE PROTECCIÓN SOCIAL",
+      "monto": 15962862,
+      "contratos": 4
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE ZONAS FRANCAS",
+      "monto": 15826298,
+      "contratos": 49
+    },
+    {
+      "nombre": "DIREC.SISTEMA DE ATENCIÒN INTEGRAL PERSONAS PRIVAD. LIBERTAD",
+      "monto": 15772830,
+      "contratos": 207
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE BOMBEROS",
+      "monto": 15443803,
+      "contratos": 248
+    },
+    {
+      "nombre": "AUDITORÍA INTERNA DE LA NACIÓN",
+      "monto": 15021589,
+      "contratos": 82
+    },
+    {
+      "nombre": "INST.NAL.DONAC.YTRASP.CÉLULAS,TEJ.Y ORGANOS",
+      "monto": 14949845,
+      "contratos": 176
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE IDENTIFICACIÓN CIVIL",
+      "monto": 14862534,
+      "contratos": 113
+    },
+    {
+      "nombre": "FACULTAD DE ARTES",
+      "monto": 14076431,
+      "contratos": 285
+    },
+    {
+      "nombre": "FACULTAD DE QUÍMICA",
+      "monto": 13661026,
+      "contratos": 27
+    },
+    {
+      "nombre": "DIRECCIÓN GENERAL DE LA BIBLIOTECA NACIONAL",
+      "monto": 12605282,
+      "contratos": 43
+    },
+    {
+      "nombre": "FACULTAD DE MEDICINA",
+      "monto": 11664791,
+      "contratos": 152
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE ASISTENCIA Y SEGURIDAD SOCIAL POLICIAL",
+      "monto": 11517007,
+      "contratos": 92
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE MINERÍA Y GEOLOGÍA",
+      "monto": 11193993,
+      "contratos": 137
+    },
+    {
+      "nombre": "OFICINA NACIONAL DEL SERVICIO CIVIL",
+      "monto": 11058799,
+      "contratos": 145
+    },
+    {
+      "nombre": "CENTRO AUX. DE CARDONA Y FLORENCIO SÁNCHEZ",
+      "monto": 10972735,
+      "contratos": 47
+    },
+    {
+      "nombre": "COMISIÓN DEL PATRIMONIO CULTURAL DE LA NACIÓN",
+      "monto": 9767242,
+      "contratos": 122
+    },
+    {
+      "nombre": "CÁMARA DE SENADORES",
+      "monto": 8746344,
+      "contratos": 86
+    },
+    {
+      "nombre": "INSTITUTO NACIONAL DEL CÁNCER",
+      "monto": 8574655,
+      "contratos": 78
+    },
+    {
+      "nombre": "ADMINISTRACIÓN DE LOS FERROCARRILES DEL ESTADO",
+      "monto": 8408976,
+      "contratos": 11
+    },
+    {
+      "nombre": "GUARDIA REPUBLICANA",
+      "monto": 7918931,
+      "contratos": 47
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE INDUSTRIAS",
+      "monto": 7878229,
+      "contratos": 74
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE AGUAS (DINAGUA)",
+      "monto": 7124426,
+      "contratos": 48
+    },
+    {
+      "nombre": "TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO",
+      "monto": 6125115,
+      "contratos": 40
+    },
+    {
+      "nombre": "ARCHIVO GENERAL DE LA NACIÓN",
+      "monto": 5696365,
+      "contratos": 41
+    },
+    {
+      "nombre": "DIRECCIÓN GENERAL FORESTAL",
+      "monto": 5505343,
+      "contratos": 131
+    },
+    {
+      "nombre": "JUNTA DE TRANSPARENCIA Y ETICA PUBLICA",
+      "monto": 5240161,
+      "contratos": 49
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE TRABAJO",
+      "monto": 4907224,
+      "contratos": 9
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE CALIDAD Y EVALUACIÓN AMBIENTAL",
+      "monto": 4507606,
+      "contratos": 106
+    },
+    {
+      "nombre": "TRIBUNAL DE CUENTAS",
+      "monto": 4097324,
+      "contratos": 35
+    },
+    {
+      "nombre": "FACULTAD DE INFORMACIÓN Y COMUNICACIÓN",
+      "monto": 4021607,
+      "contratos": 41
+    },
+    {
+      "nombre": "DIRECCIÓN GENERAL DE LA GRANJA",
+      "monto": 3628928,
+      "contratos": 31
+    },
+    {
+      "nombre": "DIRECCIÓN GENERAL DE RECURSOS NATURALES RENOVABLES",
+      "monto": 3574673,
+      "contratos": 157
+    },
+    {
+      "nombre": "OFICINA DE PLANEAMIENTO Y PRESUPUESTO",
+      "monto": 3153964,
+      "contratos": 80
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE ENERGÍA",
+      "monto": 3140807,
+      "contratos": 62
+    },
+    {
+      "nombre": "JUNTA DEPARTAMENTAL DE TREINTA Y TRES",
+      "monto": 3107498,
+      "contratos": 236
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE ARTESANÍAS Y PEQUEÑAS Y MEDIANAS EMPRE",
+      "monto": 3084797,
+      "contratos": 54
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE TOPOGRAFÍA",
+      "monto": 2978006,
+      "contratos": 131
+    },
+    {
+      "nombre": "JUNTA DEPARTAMENTAL DE PAYSANDÚ",
+      "monto": 2746000,
+      "contratos": 5
+    },
+    {
+      "nombre": "FACULTAD DE ENFERMERÍA",
+      "monto": 2599906,
+      "contratos": 8
+    },
+    {
+      "nombre": "INSTITUTO NACIONAL DE ESTADÍSTICA",
+      "monto": 2327271,
+      "contratos": 15
+    },
+    {
+      "nombre": "ASISTENCIA INTEGRAL",
+      "monto": 2238102,
+      "contratos": 15
+    },
+    {
+      "nombre": "FACULTAD DE PSICOLOGÍA",
+      "monto": 2127975,
+      "contratos": 28
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE INNOVACIÓN, CIENCIA Y TECNOLOGÍA",
+      "monto": 2022652,
+      "contratos": 70
+    },
+    {
+      "nombre": "PROCURADURÍA ESTADO EN CONTENCIOSO-ADMINISTRATIVO",
+      "monto": 1783314,
+      "contratos": 26
+    },
+    {
+      "nombre": "DIR. GRAL. DE SECRETARÍA (M.E.F.)",
+      "monto": 1320961,
+      "contratos": 14
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE LA PROPIEDAD INDUSTRIAL",
+      "monto": 1283184,
+      "contratos": 51
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE APLICACIONES DE TECNOLOGÍA NUCLEAR",
+      "monto": 1225410,
+      "contratos": 39
+    },
+    {
+      "nombre": "AGEN.P/DES.DEL GOB.DE GEST.ELECTR.Y SOC.INFORM.Y DEL CONOC.",
+      "monto": 1090284,
+      "contratos": 28
+    },
+    {
+      "nombre": "DIRECCIÓN GENERAL DE FISCALIZACIÓN",
+      "monto": 939942,
+      "contratos": 8
+    },
+    {
+      "nombre": "DIR. NAL. DE TELECOM.Y SERV.COMUN.AUDIOVISUAL",
+      "monto": 878781,
+      "contratos": 50
+    },
+    {
+      "nombre": "JUNTA DEPARTAMENTAL DE LAVALLEJA",
+      "monto": 740416,
+      "contratos": 4
+    },
+    {
+      "nombre": "JUNTA DEPARTAMENTAL DE MALDONADO",
+      "monto": 720300,
+      "contratos": 2
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE BIODIVERSIDAD Y SERVICIOS ECOSISTÉMICO",
+      "monto": 658275,
+      "contratos": 19
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE CAMBIO CLIMÁTICO",
+      "monto": 656547,
+      "contratos": 11
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE EMPLEO",
+      "monto": 635187,
+      "contratos": 11
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE LA SEGURIDAD RURAL",
+      "monto": 623765,
+      "contratos": 104
+    },
+    {
+      "nombre": "DIRECCIÓN NACIONAL DE ORDENAMIENTO TERRITORIAL",
+      "monto": 608425,
+      "contratos": 13
+    },
+    {
+      "nombre": "AUTORIDAD REGULADORA NACIONAL EN RADIOPROTECCIÓN",
+      "monto": 548419,
+      "contratos": 26
+    },
+    {
+      "nombre": "CASA MILITAR",
+      "monto": 530637,
+      "contratos": 59
+    },
+    {
+      "nombre": "SERV. OFICIAL DIFUSIÓN, RADIOTELEVISIÓN, ESPECTÁCULOS",
+      "monto": 528392,
+      "contratos": 2
+    },
+    {
+      "nombre": "INSPECCIÓN GENERAL DEL TRABAJO Y DE LA SEGURIDAD SOCIAL",
+      "monto": 457953,
+      "contratos": 10
+    },
+    {
+      "nombre": "TESORERÍA GENERAL DE LA NACIÓN",
+      "monto": 441692,
+      "contratos": 8
+    },
+    {
+      "nombre": "INTENDENCIA DE CERRO LARGO",
+      "monto": 326414,
+      "contratos": 1
+    },
+    {
+      "nombre": "FISCALÍAS DE GOBIERNO DE PRIMER Y SEGUNDO TURNO",
+      "monto": 178860,
+      "contratos": 10
+    },
+    {
+      "nombre": "JUNTA DEPARTAMENTAL DE CANELONES",
+      "monto": 123544,
+      "contratos": 3
+    },
+    {
+      "nombre": "DIREC.NAL DE SEG.SOCIAL",
+      "monto": 56236,
+      "contratos": 4
+    },
+    {
+      "nombre": "CONGRESO DE INTENDENTES",
+      "monto": 26525,
+      "contratos": 1
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "año": 2024,
+  "generado": "2026-03-08T22:41:49.694Z",
+  "organismos": [
+    {
+      "organismo": "Diversos CrÃ©ditos",
+      "asignado": 228988083217,
+      "ejecutado_ppto": 195797427393,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 86,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Transferencias Financieras al Sector Seguridad Social",
+      "asignado": 187513388586,
+      "ejecutado_ppto": 192361151887,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 103,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "AdministraciÃ³n Nacional de EducaciÃ³n PÃºblica",
+      "asignado": 98939812950,
+      "ejecutado_ppto": 104598967245,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 106,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Intereses y otros Gastos de la Deuda",
+      "asignado": 91044426655,
+      "ejecutado_ppto": 88507023330,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 97,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "AdministraciÃ³n de los Servicios de Salud del Estado",
+      "asignado": 53335874726,
+      "ejecutado_ppto": 65749977294,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 123,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Ministerio del Interior",
+      "asignado": 46720332865,
+      "ejecutado_ppto": 48218322650,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 103,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Ministerio de Defensa Nacional",
+      "asignado": 30136044993,
+      "ejecutado_ppto": 29505640578,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 98,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Ministerio de Desarrollo Social",
+      "asignado": 21632527446,
+      "ejecutado_ppto": 28527235557,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 132,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Universidad de la RepÃºblica",
+      "asignado": 24398731603,
+      "ejecutado_ppto": 26479805429,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 109,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Instituto del NiÃ±o y Adolescente del Uruguay (INAU)",
+      "asignado": 19538067229,
+      "ejecutado_ppto": 22063952733,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 113,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Ministerio de Transporte y Obras PÃºblicas",
+      "asignado": 15393355399,
+      "ejecutado_ppto": 15851882459,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 103,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Subsidios y Subvenciones",
+      "asignado": 13733471858,
+      "ejecutado_ppto": 15680591451,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 114,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Ministerio de Vivienda y Ordenamiento Territorial",
+      "asignado": 9593790443,
+      "ejecutado_ppto": 14236987599,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 148,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Poder Judicial",
+      "asignado": 9580271241,
+      "ejecutado_ppto": 9812060883,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 102,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Ministerio de Salud PÃºblica",
+      "asignado": 3952404952,
+      "ejecutado_ppto": 8361169673,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 212,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Ministerio de EconomÃ­a y Finanzas",
+      "asignado": 9591871515,
+      "ejecutado_ppto": 8147641018,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 85,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Poder Legislativo",
+      "asignado": 10232468589,
+      "ejecutado_ppto": 6638724450,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 65,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Ministerio de EducaciÃ³n y Cultura",
+      "asignado": 6239190131,
+      "ejecutado_ppto": 5222601016,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 84,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Ministerio de GanaderÃ­a, Agricultura y Pesca",
+      "asignado": 5454973761,
+      "ejecutado_ppto": 4581310214,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 84,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Presidencia de la RepÃºblica",
+      "asignado": 5204866584,
+      "ejecutado_ppto": 4232494315,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 81,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Ministerio de Relaciones Exteriores",
+      "asignado": 3899099477,
+      "ejecutado_ppto": 3920791873,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 101,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Instituto Nacional de InclusiÃ³n Social Adolescente",
+      "asignado": 2812718121,
+      "ejecutado_ppto": 2935155632,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 104,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "FiscalÃ­a General de la NaciÃ³n",
+      "asignado": 1948765661,
+      "ejecutado_ppto": 2054339415,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 105,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Corte Electoral",
+      "asignado": 1699126904,
+      "ejecutado_ppto": 1944738794,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 114,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Universidad TecnolÃ³gica del Uruguay",
+      "asignado": 1484415385,
+      "ejecutado_ppto": 1593716078,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 107,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Ministerio de Trabajo y Seguridad Social",
+      "asignado": 1638397274,
+      "ejecutado_ppto": 1272071457,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 78,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Ministerio de Industria, EnergÃ­a y MinerÃ­a",
+      "asignado": 1498779456,
+      "ejecutado_ppto": 1137333698,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 76,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Tribunal de Cuentas",
+      "asignado": 980685653,
+      "ejecutado_ppto": 988778326,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 101,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Ministerio de Ambiente",
+      "asignado": 1106540478,
+      "ejecutado_ppto": 982990051,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 89,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Ministerio de Turismo",
+      "asignado": 775851148,
+      "ejecutado_ppto": 692038770,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 89,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Instituto Uruguayo de MeteorologÃ­a",
+      "asignado": 379523370,
+      "ejecutado_ppto": 369661163,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 97,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Tribunal de lo Contencioso Administrativo",
+      "asignado": 285276884,
+      "ejecutado_ppto": 258775231,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 91,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Junta de Transparencia y Ãtica PÃºblica",
+      "asignado": 58622025,
+      "ejecutado_ppto": 41208057,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 70,
+      "top_proveedores": []
+    },
+    {
+      "organismo": "Partidas a Reaplicar",
+      "asignado": 37620779393,
+      "ejecutado_ppto": 0,
+      "gastado_contratos": 0,
+      "cantidad_contratos": 0,
+      "pct_ejecucion": 0,
+      "top_proveedores": []
+    }
+  ]
+}
