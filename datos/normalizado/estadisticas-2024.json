@@ -1,0 +1,234 @@
+{
+  "total_contratos": 134916,
+  "con_monto": 560,
+  "monto_total_uyu": 8760332292,
+  "monto_promedio_uyu": 15643451,
+  "organismos_unicos": 271,
+  "proveedores_unicos": 10651,
+  "top_organismos": [
+    {
+      "nombre": "INTENDENCIA DE MONTEVIDEO",
+      "contratos": 24564
+    },
+    {
+      "nombre": "DIRECCIÓN GENERAL DE LA SALUD",
+      "contratos": 12767
+    },
+    {
+      "nombre": "BANCO DE SEGUROS DEL ESTADO",
+      "contratos": 6654
+    },
+    {
+      "nombre": "HOSPITAL MACIEL",
+      "contratos": 4445
+    },
+    {
+      "nombre": "CENTRO HOSPITALARIO PEREIRA ROSSELL",
+      "contratos": 3292
+    },
+    {
+      "nombre": "CENTRO DEPARTAMENTAL DE ROCHA",
+      "contratos": 2973
+    },
+    {
+      "nombre": "BANCO DE LA REPÚBLICA DEL URUGUAY",
+      "contratos": 2752
+    },
+    {
+      "nombre": "BANCO DE PREVISIÓN SOCIAL",
+      "contratos": 2704
+    },
+    {
+      "nombre": "CENTRO DEPARTAMENTAL DE FLORES",
+      "contratos": 2592
+    },
+    {
+      "nombre": "DIRECCIÓN GENERAL DE SECRETARÍA",
+      "contratos": 1855
+    },
+    {
+      "nombre": "HOSPITAL DE SAN CARLOS",
+      "contratos": 1784
+    },
+    {
+      "nombre": "HOSPITAL ESPAÑOL",
+      "contratos": 1727
+    },
+    {
+      "nombre": "CENTRO AUXILIAR DE PANDO",
+      "contratos": 1710
+    },
+    {
+      "nombre": "CENTRO AUXILIAR DE BELLA UNIÓN",
+      "contratos": 1590
+    },
+    {
+      "nombre": "CENTRO DEPARTAMENTAL DE SALTO",
+      "contratos": 1533
+    },
+    {
+      "nombre": "ADMINISTRACIÓN DE LAS OBRAS SANITARIAS DEL ESTADO",
+      "contratos": 1505
+    },
+    {
+      "nombre": "ADMINISTRACIÓN NACIONAL DE COMBUSTIBLE, ALCOHOL Y PORTLAND",
+      "contratos": 1311
+    },
+    {
+      "nombre": "CONSEJO DE EDUCACIÓN TÉCNICO-PROFESIONAL",
+      "contratos": 1222
+    },
+    {
+      "nombre": "HOSPITAL DEL CERRO",
+      "contratos": 1202
+    },
+    {
+      "nombre": "CONSEJO DE EDUCACIÓN INICIAL Y PRIMARIA",
+      "contratos": 1177
+    }
+  ],
+  "top_proveedores": [
+    {
+      "nombre": "MURRY S A",
+      "contratos": 2420
+    },
+    {
+      "nombre": "ADIUM URUGUAY SOCIEDAD ANONIMA",
+      "contratos": 1848
+    },
+    {
+      "nombre": "COMPAÑIA CIBELES S A",
+      "contratos": 1369
+    },
+    {
+      "nombre": "COOPERATIVA DE LAS ARTES DEL URUGUAY SUPLEMENTADA",
+      "contratos": 1344
+    },
+    {
+      "nombre": "ROCHE INTERNATIONAL LTD",
+      "contratos": 1264
+    },
+    {
+      "nombre": "GRAMON BAGO DE URUGUAY S A",
+      "contratos": 1156
+    },
+    {
+      "nombre": "FIERRO VIGNOLI S A FIVISA",
+      "contratos": 1114
+    },
+    {
+      "nombre": "SANYFICO S A",
+      "contratos": 1053
+    },
+    {
+      "nombre": "MEGALABS URUGUAY S A",
+      "contratos": 964
+    },
+    {
+      "nombre": "BIOERIX SA",
+      "contratos": 821
+    },
+    {
+      "nombre": "LABORATORIO LIBRA SOCIEDAD ANONIMA",
+      "contratos": 783
+    },
+    {
+      "nombre": "GUNTER SCHAAF SOCIEDAD ANONIMA",
+      "contratos": 724
+    },
+    {
+      "nombre": "ASTRAZENECA S A",
+      "contratos": 658
+    },
+    {
+      "nombre": "EMME SISTEMAS SOCIEDAD ANONIMA",
+      "contratos": 632
+    },
+    {
+      "nombre": "MEDI IMPORT S.A.",
+      "contratos": 584
+    },
+    {
+      "nombre": "S BIDEGAIN S A",
+      "contratos": 537
+    },
+    {
+      "nombre": "WARNER LAMBERT DEL URUGUAY S A",
+      "contratos": 534
+    },
+    {
+      "nombre": "BOEHRINGER INGELHEIM S A",
+      "contratos": 532
+    },
+    {
+      "nombre": "ALONSO BRUSCIANI MARTIN ENRIQUE",
+      "contratos": 524
+    },
+    {
+      "nombre": "BAYER S A",
+      "contratos": 516
+    }
+  ],
+  "por_mes": [
+    {
+      "mes": 1,
+      "contratos": 8910,
+      "monto_uyu": 2292124650
+    },
+    {
+      "mes": 2,
+      "contratos": 7295,
+      "monto_uyu": 379768605
+    },
+    {
+      "mes": 3,
+      "contratos": 15006,
+      "monto_uyu": 341412592
+    },
+    {
+      "mes": 4,
+      "contratos": 11181,
+      "monto_uyu": 616701421
+    },
+    {
+      "mes": 5,
+      "contratos": 12035,
+      "monto_uyu": 243989923
+    },
+    {
+      "mes": 6,
+      "contratos": 10120,
+      "monto_uyu": 372571833
+    },
+    {
+      "mes": 7,
+      "contratos": 14308,
+      "monto_uyu": 1267609339
+    },
+    {
+      "mes": 8,
+      "contratos": 11541,
+      "monto_uyu": 1096361927
+    },
+    {
+      "mes": 9,
+      "contratos": 10577,
+      "monto_uyu": 514331759
+    },
+    {
+      "mes": 10,
+      "contratos": 13216,
+      "monto_uyu": 461521622
+    },
+    {
+      "mes": 11,
+      "contratos": 10032,
+      "monto_uyu": 584900295
+    },
+    {
+      "mes": 12,
+      "contratos": 10695,
+      "monto_uyu": 588815292
+    }
+  ]
+}
