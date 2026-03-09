@@ -1,0 +1,267 @@
+{
+  "id": "746b4a46b41b5420e740e00ea8a1abb9",
+  "timestamp": "2026-03-06T23:09:31.080Z",
+  "datos": {
+    "organismo": "dinacia",
+    "total": 5,
+    "datasets": [
+      {
+        "id": "2ed576dc-75d9-434a-a0aa-60bdf9714f8b",
+        "nombre": "Estadísticas de cabotaje anuales de movimiento de pasajeros",
+        "slug": "dinacia-estadisticas-de-cabotaje-anuales-de-movimiento-de-pasajeros",
+        "organismo": {
+          "id": "dinacia",
+          "nombre": "DINACIA",
+          "tipo": "organization"
+        },
+        "descripcion": "Cifras anuales de partidas y arribos de pasajeros en vuelos dentro del territorio nacional.",
+        "etiquetas": [],
+        "grupos": [],
+        "creado": "2014-05-20T21:20:08.874825",
+        "modificado": "2014-05-28T00:00:00",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "ce808a79-2d0a-48fb-a7cb-088c0a1ce084",
+            "nombre": "Estadísticas anuales de pasajeros en vuelos de cabotaje",
+            "url": "https://catalogodatos.gub.uy/dataset/2ed576dc-75d9-434a-a0aa-60bdf9714f8b/resource/ce808a79-2d0a-48fb-a7cb-088c0a1ce084/download/estadisticasvueloscabotajedesde2004.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2014-05-20T18:23:47.764759"
+          },
+          {
+            "id": "fe125b45-95cc-46aa-8d96-25aca1ee6885",
+            "nombre": "Estadísticas anuales de pasajeros en vuelos de cabotaje",
+            "url": "https://catalogodatos.gub.uy/dataset/2ed576dc-75d9-434a-a0aa-60bdf9714f8b/resource/fe125b45-95cc-46aa-8d96-25aca1ee6885/download/estadisticasvueloscabotajedesde2004.xml",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2014-05-20T18:29:02.876275"
+          },
+          {
+            "id": "b48f85a1-ae51-4502-acae-0000518255bd",
+            "nombre": "Metadatos de estadísticas anuales de pasajeros en vuelos de cabotaje",
+            "url": "https://catalogodatos.gub.uy/dataset/2ed576dc-75d9-434a-a0aa-60bdf9714f8b/resource/b48f85a1-ae51-4502-acae-0000518255bd/download/metadatosestadisticasvueloscabotajedesde2004.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2014-05-20T18:30:47.081717"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:31.080Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/dinacia-estadisticas-de-cabotaje-anuales-de-movimiento-de-pasajeros",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "f5ee0dedbc866f4a5691172e8c45f58ecfed149de9140fb8ee2c12c18f995539"
+        }
+      },
+      {
+        "id": "ae75879f-66d1-429f-96c5-e63ddd9eea8a",
+        "nombre": "Estadísticas anuales de transporte de carga",
+        "slug": "dinacia-estadisticas-anuales-de-transporte-de-carga",
+        "organismo": {
+          "id": "dinacia",
+          "nombre": "DINACIA",
+          "tipo": "organization"
+        },
+        "descripcion": "Movimiento de cargas importación y exportación en Aeropuerto Internacional de Carrasco.",
+        "etiquetas": [],
+        "grupos": [],
+        "creado": "2014-05-20T20:46:13.584823",
+        "modificado": "2014-05-28T00:00:00",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "13a80d87-e1d5-4752-b2f5-c7c6061b70a4",
+            "nombre": "Estadísticas-anuales-de-transporte-de-carga-en-toneladas",
+            "url": "https://catalogodatos.gub.uy/dataset/ae75879f-66d1-429f-96c5-e63ddd9eea8a/resource/13a80d87-e1d5-4752-b2f5-c7c6061b70a4/download/estadisticashistoricocargastoneladasdesde2003.xml",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2014-05-20T17:52:28.715801"
+          },
+          {
+            "id": "baea004e-bc24-4c8e-9d98-5ea3fe535009",
+            "nombre": "Estadísticas anuales de transporte de cargas en toneladas",
+            "url": "https://catalogodatos.gub.uy/dataset/ae75879f-66d1-429f-96c5-e63ddd9eea8a/resource/baea004e-bc24-4c8e-9d98-5ea3fe535009/download/estadisticashistoricocargastoneladasdesde2003.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2014-05-20T17:56:38.071934"
+          },
+          {
+            "id": "2bac54fd-3b75-4ec2-b1fb-9dac1db631fb",
+            "nombre": "Metadatos-estadisticas-historico-cargas-toneladas-desde-2003",
+            "url": "https://catalogodatos.gub.uy/dataset/ae75879f-66d1-429f-96c5-e63ddd9eea8a/resource/2bac54fd-3b75-4ec2-b1fb-9dac1db631fb/download/metadatosestadisticashistoricocargastoneladasdesde2003.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2014-05-20T18:05:47.865059"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:31.080Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/dinacia-estadisticas-anuales-de-transporte-de-carga",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "f2d1f296e202afb1f7f7737b532250d18663b8ac1f5fdce8e9e30a0dbd9b91fa"
+        }
+      },
+      {
+        "id": "458afe25-1650-4469-abf6-497ac2575d22",
+        "nombre": "Movimiento mensual de pasajeros",
+        "slug": "dinacia-movimiento-mensual-de-pasajeros",
+        "organismo": {
+          "id": "dinacia",
+          "nombre": "DINACIA",
+          "tipo": "organization"
+        },
+        "descripcion": "Movimiento de pasajeros desde enero de 2013 en el Aeropuerto Internacional de Carrasco. ",
+        "etiquetas": [],
+        "grupos": [],
+        "creado": "2014-05-20T20:23:35.756466",
+        "modificado": "2014-05-28T00:00:00",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "1d137b5f-f4cd-4501-862d-4e69f689fd54",
+            "nombre": "Estadisticas movimiento de pasajeros",
+            "url": "https://catalogodatos.gub.uy/dataset/458afe25-1650-4469-abf6-497ac2575d22/resource/1d137b5f-f4cd-4501-862d-4e69f689fd54/download/estadisticamovimientopasajeros2013.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2014-05-20T17:28:56.506734"
+          },
+          {
+            "id": "2317f6ba-0f04-45dd-8b6b-63152418095f",
+            "nombre": "Estadisticas movimiento de pasajeros",
+            "url": "https://catalogodatos.gub.uy/dataset/458afe25-1650-4469-abf6-497ac2575d22/resource/2317f6ba-0f04-45dd-8b6b-63152418095f/download/estadisticamovimientopasajeros2013.xml",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2014-05-20T17:29:27.433268"
+          },
+          {
+            "id": "c9384761-05ef-429d-a949-e88c0dcad58f",
+            "nombre": "Metadatos-movimiento-mensual-de-pasajeros",
+            "url": "https://catalogodatos.gub.uy/dataset/458afe25-1650-4469-abf6-497ac2575d22/resource/c9384761-05ef-429d-a949-e88c0dcad58f/download/metadatosestadisticamovimientopasajeros2013.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2014-05-20T17:30:45.713143"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:31.080Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/dinacia-movimiento-mensual-de-pasajeros",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "2d4a203289cd1911cdb28bd713e20e34641b2a18cf4c40287dfd49f6900e984d"
+        }
+      },
+      {
+        "id": "92f8910f-51dd-4cf6-9d6f-d71be45d53e7",
+        "nombre": "Estadísticas mensuales de transporte de carga",
+        "slug": "dinacia-estadisticas-mensuales-de-transporte-de-carga",
+        "organismo": {
+          "id": "dinacia",
+          "nombre": "DINACIA",
+          "tipo": "organization"
+        },
+        "descripcion": "Cifras de transporte de cargas en toneladas. Movimiento de cargas realizados por DNA, couriers y correos.",
+        "etiquetas": [],
+        "grupos": [],
+        "creado": "2014-05-20T21:50:35.076568",
+        "modificado": "2014-05-28T00:00:00",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "a4556862-4c80-4b14-93f8-5e0f4a2f7401",
+            "nombre": "Estadisticas mensuales de transporte de carga",
+            "url": "https://catalogodatos.gub.uy/dataset/92f8910f-51dd-4cf6-9d6f-d71be45d53e7/resource/a4556862-4c80-4b14-93f8-5e0f4a2f7401/download/estadisticatransportedecargas2013.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2014-05-20T18:52:39.926968"
+          },
+          {
+            "id": "4d902758-08a9-4625-918b-e27349da53dd",
+            "nombre": "Estadisticas mensuales de transporte de carga",
+            "url": "https://catalogodatos.gub.uy/dataset/92f8910f-51dd-4cf6-9d6f-d71be45d53e7/resource/4d902758-08a9-4625-918b-e27349da53dd/download/estadisticatransportedecargas2013.xml",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2014-05-20T18:53:10.737795"
+          },
+          {
+            "id": "b2abaea4-1227-4c99-b4ca-f4b33188a045",
+            "nombre": "Metadatos de estadisticas mensuales de transporte de carga",
+            "url": "https://catalogodatos.gub.uy/dataset/92f8910f-51dd-4cf6-9d6f-d71be45d53e7/resource/b2abaea4-1227-4c99-b4ca-f4b33188a045/download/metadatosestadisticatransportedecargas2013.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2014-05-20T18:54:31.288074"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:31.080Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/dinacia-estadisticas-mensuales-de-transporte-de-carga",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "d075604b1c55d5ce86fc39a8b1086b2b4784725da82e51f599c6063f26459569"
+        }
+      },
+      {
+        "id": "cfa91519-cd9c-4dd1-87df-7a5eb5da55d9",
+        "nombre": "Estadísticas historicas de partidas y arribos de pasajeros",
+        "slug": "dinacia-estadisticas-historicas-de-partidas-y-arribos-de-pasajeros",
+        "organismo": {
+          "id": "dinacia",
+          "nombre": "DINACIA",
+          "tipo": "organization"
+        },
+        "descripcion": "Cifras anuales de partidas y arribos de pasajeros al Aeropuerto Internacional de Carrasco (AIC).",
+        "etiquetas": [],
+        "grupos": [],
+        "creado": "2014-05-20T21:36:51.102922",
+        "modificado": "2014-05-28T00:00:00",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "ff47b01d-b815-42e5-bed9-585a5f5cb03a",
+            "nombre": "Estadísticas anuales de movimientos de pasajeros en AIC",
+            "url": "https://catalogodatos.gub.uy/dataset/cfa91519-cd9c-4dd1-87df-7a5eb5da55d9/resource/ff47b01d-b815-42e5-bed9-585a5f5cb03a/download/estadisticaspartidasarribospasajeroshistoricodesde2004.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2014-05-20T18:38:08.107018"
+          },
+          {
+            "id": "6c7aee3c-bdc2-4fec-bd31-6849b27964e1",
+            "nombre": "Estadisticas movimiento de pasajeros",
+            "url": "https://catalogodatos.gub.uy/dataset/cfa91519-cd9c-4dd1-87df-7a5eb5da55d9/resource/6c7aee3c-bdc2-4fec-bd31-6849b27964e1/download/estadisticaspartidasarribospasajeroshistoricodesde2004.xml",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2014-05-20T18:39:05.457045"
+          },
+          {
+            "id": "6db186d7-4ad1-4679-a3b2-1200ac38650e",
+            "nombre": "Metadatos de estadísticas anuales de pasajeros en AIC",
+            "url": "https://catalogodatos.gub.uy/dataset/cfa91519-cd9c-4dd1-87df-7a5eb5da55d9/resource/6db186d7-4ad1-4679-a3b2-1200ac38650e/download/metadatosestadisticaspartidasarribospasajeroshistoricodesde2004.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2014-05-20T18:40:38.370951"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:31.080Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/dinacia-estadisticas-historicas-de-partidas-y-arribos-de-pasajeros",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "46f031cd8b0e8badc954d6956258dc9ea74ffb7a1357de5185309db2bc27ad87"
+        }
+      }
+    ]
+  },
+  "hash": "3f7546bbadd28bd673f0d822909aeb2dd161cef56c43f138280775c1c5040705",
+  "firma": "31ea61e109f108a12a44daae1bf2e992df4175b62f877c31d9d4d2dcbb982c3c"
+}

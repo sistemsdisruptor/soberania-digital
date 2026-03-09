@@ -1,0 +1,910 @@
+{
+  "id": "44925eaf4cca9eeefad59a677bdf2650",
+  "timestamp": "2026-03-06T23:09:27.660Z",
+  "datos": {
+    "organismo": "data",
+    "total": 14,
+    "datasets": [
+      {
+        "id": "0e1659f8-75f5-48ee-bcff-6356010635c1",
+        "nombre": "Clasificación de vías de Montevideo (ATuNombre.uy)",
+        "slug": "data-clasificacion-de-vias-de-montevideo-atunombre-uy",
+        "organismo": {
+          "id": "data",
+          "nombre": "Data Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Clasificación del nomenclator de Montevideo según los tipos de cosas y personas reconocidas con nombres de calles. En base al juego de datos \"Vías de Montevideo con cabezales de numeración, significado, tipo y título\" (https://catalogodatos.gub.uy/dataset/vias-montevideo-con-cabezales-numeracion-significado-tipo-titulo) de la Intendencia de Montevideo y desarrollado en colaboración con la IM para los proyectos Mujeres con Calle y ATuNombre.uy.\r\n\r\nÉstos datos son utilizados para la visualización de calles que llevan nombres de mujeres en http://atunombre.uy.",
+        "etiquetas": [
+          "Calles",
+          "Equidad",
+          "Género",
+          "Nomenclator",
+          "Vías de tránsito"
+        ],
+        "grupos": [
+          "Infraestructura"
+        ],
+        "creado": "2017-03-10T18:15:52.832324",
+        "modificado": "2024-05-06T13:07:59.348957",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "9af580fc-a127-4e64-be50-5308d7ea25bb",
+            "nombre": "Clasificación de calles de Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/0e1659f8-75f5-48ee-bcff-6356010635c1/resource/9af580fc-a127-4e64-be50-5308d7ea25bb/download/calles_marzo2023-calles_marzo2023.csv",
+            "formato": "CSV",
+            "tamaño": 1630544,
+            "creado": "2017-03-10T15:17:22.439173"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:27.659Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/data-clasificacion-de-vias-de-montevideo-atunombre-uy",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "1df97fb5c76680434c64273c2fb72ee35fe4f9906876c7aed4e27a47a515369c"
+        }
+      },
+      {
+        "id": "4b152f30-9de8-464a-b214-6046bf11465c",
+        "nombre": "Espacios e intangibles en homenaje a personas - A Tu Nombre UDELAR",
+        "slug": "a-tu-nombre-udelar",
+        "organismo": {
+          "id": "data",
+          "nombre": "Data Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Sistematización de información sobre espacios físicos e intangibles (colecciones, archivos, premios, concursos, etc.) nombrados en honor a personas o cosas. Incluye biografías o reseñas de las personas homenajeadas.\r\nDatos estadísticos sobre la proporción de mujeres entre distintos niveles de estudiantes, grados del cuerpo docente y escalafones funcionales de la UDELAR, clasificado por servicio.",
+        "etiquetas": [
+          "Educación",
+          "Equidad",
+          "Género",
+          "Mujer",
+          "UDELAR",
+          "Universidad"
+        ],
+        "grupos": [
+          "Educación"
+        ],
+        "creado": "2021-10-19T17:50:47.379023",
+        "modificado": "2024-03-11T15:11:16.011904",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "c15cd285-1fef-4342-af48-4a7b81da7222",
+            "nombre": "Personas reconocidas",
+            "url": "https://catalogodatos.gub.uy/dataset/4b152f30-9de8-464a-b214-6046bf11465c/resource/c15cd285-1fef-4342-af48-4a7b81da7222/download/people-2024-03-11.csv",
+            "formato": "CSV",
+            "tamaño": 126725,
+            "creado": "2021-10-26T12:43:19.933498"
+          },
+          {
+            "id": "0a185adb-1a5d-467e-af8e-b5477551b5ac",
+            "nombre": "Lugares",
+            "url": "https://catalogodatos.gub.uy/dataset/4b152f30-9de8-464a-b214-6046bf11465c/resource/0a185adb-1a5d-467e-af8e-b5477551b5ac/download/places-2024-03-11.csv",
+            "formato": "CSV",
+            "tamaño": 32266,
+            "creado": "2021-10-26T12:44:17.085234"
+          },
+          {
+            "id": "638a8dd8-c971-446b-a8e9-850728c46bd7",
+            "nombre": "Intangibles",
+            "url": "https://catalogodatos.gub.uy/dataset/4b152f30-9de8-464a-b214-6046bf11465c/resource/638a8dd8-c971-446b-a8e9-850728c46bd7/download/intangibles-2024-03-11.csv",
+            "formato": "CSV",
+            "tamaño": 14126,
+            "creado": "2021-10-26T12:45:18.932763"
+          },
+          {
+            "id": "30079842-2012-4641-b3a3-7f454f07ec2f",
+            "nombre": "Edificios",
+            "url": "https://catalogodatos.gub.uy/dataset/4b152f30-9de8-464a-b214-6046bf11465c/resource/30079842-2012-4641-b3a3-7f454f07ec2f/download/buildings-2024-03-11.csv",
+            "formato": "CSV",
+            "tamaño": 4035,
+            "creado": "2021-10-26T12:55:35.055650"
+          },
+          {
+            "id": "30e4a5f2-a051-461d-995c-95f00584e650",
+            "nombre": "Servicios",
+            "url": "https://catalogodatos.gub.uy/dataset/4b152f30-9de8-464a-b214-6046bf11465c/resource/30e4a5f2-a051-461d-995c-95f00584e650/download/services-2024-03-11.csv",
+            "formato": "CSV",
+            "tamaño": 4365,
+            "creado": "2021-10-26T12:58:46.826802"
+          },
+          {
+            "id": "2bb872dd-e256-477b-94ff-0708af6b102f",
+            "nombre": "Tipos de datos de servicios",
+            "url": "https://catalogodatos.gub.uy/dataset/4b152f30-9de8-464a-b214-6046bf11465c/resource/2bb872dd-e256-477b-94ff-0708af6b102f/download/serv-data-types-2021-10-26.csv",
+            "formato": "CSV",
+            "tamaño": 2535,
+            "creado": "2021-10-26T13:00:01.323484"
+          },
+          {
+            "id": "01353dcb-ac13-45d0-b743-e612ef71c2eb",
+            "nombre": "Datos de servicios",
+            "url": "https://catalogodatos.gub.uy/dataset/4b152f30-9de8-464a-b214-6046bf11465c/resource/01353dcb-ac13-45d0-b743-e612ef71c2eb/download/service-data-2021-10-26.csv",
+            "formato": "CSV",
+            "tamaño": 27179,
+            "creado": "2021-10-26T13:01:39.102704"
+          },
+          {
+            "id": "a884d212-ab3b-4c12-ae31-d8ac733915be",
+            "nombre": "Personas reconocidas - metadatos",
+            "url": "https://catalogodatos.gub.uy/dataset/4b152f30-9de8-464a-b214-6046bf11465c/resource/a884d212-ab3b-4c12-ae31-d8ac733915be/download/people-metadatos.numbers",
+            "formato": "CSV",
+            "tamaño": 127450,
+            "creado": "2021-11-22T21:35:30.244200"
+          },
+          {
+            "id": "e8392766-77a8-4f70-9586-ddfe69cb81ba",
+            "nombre": "Lugares - metadatos",
+            "url": "https://catalogodatos.gub.uy/dataset/4b152f30-9de8-464a-b214-6046bf11465c/resource/e8392766-77a8-4f70-9586-ddfe69cb81ba/download/places-metadatos.csv",
+            "formato": "CSV",
+            "tamaño": 470,
+            "creado": "2021-11-22T21:37:14.536711"
+          },
+          {
+            "id": "7e114194-a631-4f1e-868d-463d8c443a3d",
+            "nombre": "Intangibles - metadatos",
+            "url": "https://catalogodatos.gub.uy/dataset/4b152f30-9de8-464a-b214-6046bf11465c/resource/7e114194-a631-4f1e-868d-463d8c443a3d/download/intangibles-metadatos.csv",
+            "formato": "CSV",
+            "tamaño": 494,
+            "creado": "2021-11-22T21:38:35.449618"
+          },
+          {
+            "id": "8fa3ed64-52ed-4fcb-8ab9-cac298b81e7a",
+            "nombre": "Edificios - metadatos",
+            "url": "https://catalogodatos.gub.uy/dataset/4b152f30-9de8-464a-b214-6046bf11465c/resource/8fa3ed64-52ed-4fcb-8ab9-cac298b81e7a/download/buildings-metadatos.csv",
+            "formato": "CSV",
+            "tamaño": 314,
+            "creado": "2021-11-22T21:40:41.657382"
+          },
+          {
+            "id": "92d8f8b5-df33-4cf3-afce-79c9c0e37611",
+            "nombre": "Servicios - metadatos",
+            "url": "https://catalogodatos.gub.uy/dataset/4b152f30-9de8-464a-b214-6046bf11465c/resource/92d8f8b5-df33-4cf3-afce-79c9c0e37611/download/services-metadatos.csv",
+            "formato": "CSV",
+            "tamaño": 331,
+            "creado": "2021-11-22T21:42:22.669540"
+          },
+          {
+            "id": "38c15d45-913c-42fd-be5c-384cd439fc6b",
+            "nombre": "Tipos de datos de servicios - metadatos",
+            "url": "https://catalogodatos.gub.uy/dataset/4b152f30-9de8-464a-b214-6046bf11465c/resource/38c15d45-913c-42fd-be5c-384cd439fc6b/download/serv-data-types-metadatos.csv",
+            "formato": "CSV",
+            "tamaño": 435,
+            "creado": "2021-11-22T21:43:51.112948"
+          },
+          {
+            "id": "495c79db-4de0-445b-a2d6-5ce7e2ee705e",
+            "nombre": "Datos de servicios - metadatos",
+            "url": "https://catalogodatos.gub.uy/dataset/4b152f30-9de8-464a-b214-6046bf11465c/resource/495c79db-4de0-445b-a2d6-5ce7e2ee705e/download/service-data-metadatos.csv",
+            "formato": "CSV",
+            "tamaño": 486,
+            "creado": "2021-11-22T21:45:22.785051"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:27.659Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/a-tu-nombre-udelar",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "a195286be29b3bb59712eae021361751ae898d4e28b93f64f2ad0205428a0515"
+        }
+      },
+      {
+        "id": "35f63f8b-e0e5-4608-bc70-70a253420512",
+        "nombre": "Reportes y totales de reclamos en Por Mi Barrio",
+        "slug": "data-reportes-y-totales-de-reclamos-en-por-mi-barrio",
+        "organismo": {
+          "id": "data",
+          "nombre": "Data Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Estadísticas de funcionamiento de Por Mi Barrio (http://pormibarrio.uy). Incluye totales de reportes por categoría y subcategoría, así como reportes completos con su estado a la fecha de carga de los datos.\r\n\r\nLos datos al día de hoy pueden ser descargados desde http://pormibarrio.uy/stats",
+        "etiquetas": [
+          "Por Mi Barrio",
+          "Reportes",
+          "Totales de Reclamos"
+        ],
+        "grupos": [
+          "Desarrollo Social"
+        ],
+        "creado": "2015-08-04T21:42:56.178250",
+        "modificado": "2024-03-11T14:04:01.584484",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "cb66b6c5-5fc0-42c8-a137-723ac5147368",
+            "nombre": "Reportes completos",
+            "url": "https://catalogodatos.gub.uy/dataset/35f63f8b-e0e5-4608-bc70-70a253420512/resource/cb66b6c5-5fc0-42c8-a137-723ac5147368/download/reports.csv",
+            "formato": "CSV",
+            "tamaño": 1836062,
+            "creado": "2015-08-04T18:45:26.861845"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:27.659Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/data-reportes-y-totales-de-reclamos-en-por-mi-barrio",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "bde315c19f009c66b481e0c838bd2e4b4957579be0084c8c8a660c4c52072cb9"
+        }
+      },
+      {
+        "id": "ebe312a9-6d4f-4c1f-801e-4b9dc18af8a9",
+        "nombre": "Diccionario de sinónimos Elijo Estudiar",
+        "slug": "data-diccionario-de-sinonimos-elijo-estudiar",
+        "organismo": {
+          "id": "data",
+          "nombre": "Data Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "En la herramienta ElijoEstudiar.uy desarrollada junto a ANEP, utilizamos un diccionario de sinónimos para las búsquedas de los distintos tipos de cursos en educación inicial, secundaria y UTU.\r\n\r\nPor ejemplo, para obtener el resultado \"Ciclo Básico\", se puede utilizar cualquiera de los siguientes términos: liceo, secundaria, media, primero, 1 de, 1 liceo, 1 año, 1 secundaria, 1º de, 1º liceo, 1º año, 1º secundaria, 1o de, 1o liceo, 1o año, 1o secundaria, 1ro, 1er, primer, primero, 2 de, 2 liceo, 2 año, 2 secundaria, 2º de, 2º liceo, 2º año, 2º secundaria, 2o de, 2o liceo, 2o año, 2o secundaria, 2do, primero, 3 de, 3 liceo, 3 año, 3 secundaria, 3º de, 3º liceo, 3º año, 3º secundaria, 3o de, 3o liceo, 3o año, 3o secundaria, 3ro, 3er, tercero.",
+        "etiquetas": [
+          "Educación Incial y Primaria",
+          "Educación Pública",
+          "Educación Secundaria",
+          "Educación Técnico Profesional",
+          "educación"
+        ],
+        "grupos": [
+          "Desarrollo Social"
+        ],
+        "creado": "2019-10-05T21:46:30.789784",
+        "modificado": "2024-02-29T14:08:43.748567",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "948e1a40-57ee-4334-bac2-cd5a79e7b9c2",
+            "nombre": "Diccionario de sinónimos.csv",
+            "url": "https://catalogodatos.gub.uy/dataset/ebe312a9-6d4f-4c1f-801e-4b9dc18af8a9/resource/948e1a40-57ee-4334-bac2-cd5a79e7b9c2/download/diccionario-de-sinonimos-datos.csv",
+            "formato": "CSV",
+            "tamaño": 9167,
+            "creado": "2019-10-05T21:47:13.158809"
+          },
+          {
+            "id": "4c8a1a3c-3671-435a-abe4-f501dd42ed11",
+            "nombre": "Diccionario de sinónimos (con fórmulas)",
+            "url": "https://catalogodatos.gub.uy/dataset/ebe312a9-6d4f-4c1f-801e-4b9dc18af8a9/resource/4c8a1a3c-3671-435a-abe4-f501dd42ed11/download/diccionario-de-sinonimos.ods",
+            "formato": "ODS",
+            "tamaño": 17775,
+            "creado": "2019-10-05T21:48:12.611024"
+          },
+          {
+            "id": "04aeb7bf-fd47-4e67-86e5-bc7267936c84",
+            "nombre": "Diccionario de sinónimos (con fórmulas)",
+            "url": "https://catalogodatos.gub.uy/dataset/ebe312a9-6d4f-4c1f-801e-4b9dc18af8a9/resource/04aeb7bf-fd47-4e67-86e5-bc7267936c84/download/diccionario-de-sinonimos.xlsx",
+            "formato": "XLSX",
+            "tamaño": 11398,
+            "creado": "2019-10-09T18:57:42.828880"
+          },
+          {
+            "id": "189bdd9b-3747-4518-aff1-39f224eb72ab",
+            "nombre": "Metadatos",
+            "url": "https://catalogodatos.gub.uy/dataset/ebe312a9-6d4f-4c1f-801e-4b9dc18af8a9/resource/189bdd9b-3747-4518-aff1-39f224eb72ab/download/diccionario-de-sinonimos-metadatos.csv",
+            "formato": "CSV",
+            "tamaño": 337,
+            "creado": "2019-10-09T18:58:53.588116"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:27.659Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/data-diccionario-de-sinonimos-elijo-estudiar",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "593c2607fa044c1903ac23c294bdc14ca79a6e4ed31ad0aa0350742b645b3c3f"
+        }
+      },
+      {
+        "id": "82f253f9-9a0e-498c-9b1c-d161487e3042",
+        "nombre": "Propuestas, inscripciones, asistentes y sesiones de #OGPMontevideo 2016",
+        "slug": "data-ogpmontevideo",
+        "organismo": {
+          "id": "data",
+          "nombre": "Data Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Datos del llamado a propuestas, inscripción, registro y datos de agenda y asistencia en el evento de la conferencia y desconferencia del Día de la Sociedad Civil, en el marco del Encuentro Regional de las Américas de la Alianza para el Gobierno Abierto.",
+        "etiquetas": [
+          "Conferencia",
+          "Gobierno abierto",
+          "OGP"
+        ],
+        "grupos": [
+          "Desarrollo Social",
+          "Transparencia"
+        ],
+        "creado": "2016-06-06T01:59:56.057200",
+        "modificado": "2022-11-17T13:12:34.505031",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "659f84cf-a670-4796-a202-febc43a73005",
+            "nombre": "Resultados llamado a propuestas",
+            "url": "https://catalogodatos.gub.uy/dataset/82f253f9-9a0e-498c-9b1c-d161487e3042/resource/659f84cf-a670-4796-a202-febc43a73005/download/propuestas.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2016-06-05T23:03:45.537675"
+          },
+          {
+            "id": "be4de00d-a585-42e9-b317-8f26ef3d38f9",
+            "nombre": "Inscripciones a conferencia y desconferencia",
+            "url": "https://catalogodatos.gub.uy/dataset/82f253f9-9a0e-498c-9b1c-d161487e3042/resource/be4de00d-a585-42e9-b317-8f26ef3d38f9/download/inscripciones.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2016-06-05T23:05:23.494603"
+          },
+          {
+            "id": "2f74ee84-7629-42d4-86eb-b02c05dc556f",
+            "nombre": "Asistentes en Sched",
+            "url": "https://catalogodatos.gub.uy/dataset/82f253f9-9a0e-498c-9b1c-d161487e3042/resource/2f74ee84-7629-42d4-86eb-b02c05dc556f/download/asistentessched.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2016-06-06T00:18:42.680512"
+          },
+          {
+            "id": "5533aadb-a412-4df8-be05-b8dc92a9dcd6",
+            "nombre": "Información de las sesiones en Sched",
+            "url": "https://catalogodatos.gub.uy/dataset/82f253f9-9a0e-498c-9b1c-d161487e3042/resource/5533aadb-a412-4df8-be05-b8dc92a9dcd6/download/sesionessched.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2016-06-06T00:21:55.556316"
+          },
+          {
+            "id": "160b2c74-c73e-41d3-852c-bb71a671461c",
+            "nombre": "Asistentes por sesión en Sched",
+            "url": "https://catalogodatos.gub.uy/dataset/82f253f9-9a0e-498c-9b1c-d161487e3042/resource/160b2c74-c73e-41d3-852c-bb71a671461c/download/asistentesporsesionsched.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2016-06-06T00:23:05.536906"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:27.659Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/data-ogpmontevideo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "38db90056cb10103f395c4abac6e4f46b058838c8792c3cdb1924657e5f87290"
+        }
+      },
+      {
+        "id": "f7e0ba91-1649-4dd4-a313-e20d45df3f67",
+        "nombre": "Contenedores, programas para la recepción de residuos reciclables y condiciones de recepción (¿Dónde Reciclo?)",
+        "slug": "data-contenedores-para-la-recepcion-de-residuos-reciclables-donde-reciclo",
+        "organismo": {
+          "id": "data",
+          "nombre": "Data Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Datos utilizados por la aplicación ¿Dónde Reciclo? (http://dondereciclo.com.uy).\r\nIncluyen ubicación e información sobre contenedores para la recepción de residuos reciclables, programas, subprogramas de reciclaje e información sobre los residuos recibidos y no recibidos de cada uno, e información sobre las condiciones de recepción y programas asociados a cada tipo de residuo.",
+        "etiquetas": [
+          "Ambiente",
+          "CEMPRE",
+          "Contenedores de residuos",
+          "Medio Ambiente",
+          "Reciclaje",
+          "Residuos"
+        ],
+        "grupos": [
+          "Medio Ambiente"
+        ],
+        "creado": "2018-03-27T16:06:00.208877",
+        "modificado": "2022-11-17T13:11:11.325110",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "00928700-0b2f-4685-97b3-1dc0d5009d90",
+            "nombre": "Ubicación e información sobre contenedores para la recepción de residuos reciclables",
+            "url": "https://catalogodatos.gub.uy/dataset/f7e0ba91-1649-4dd4-a313-e20d45df3f67/resource/00928700-0b2f-4685-97b3-1dc0d5009d90/download/containers-2022-07-27.csv",
+            "formato": "CSV",
+            "tamaño": 403960,
+            "creado": "2018-03-27T16:10:34.072018"
+          },
+          {
+            "id": "781c0b26-c126-4823-b993-8a9ecb65198a",
+            "nombre": "Subprogramas de recepción de residuos reciclables",
+            "url": "https://catalogodatos.gub.uy/dataset/f7e0ba91-1649-4dd4-a313-e20d45df3f67/resource/781c0b26-c126-4823-b993-8a9ecb65198a/download/sub-programs-2022-07-27.csv",
+            "formato": "CSV",
+            "tamaño": 168031,
+            "creado": "2018-03-27T16:12:40.088708"
+          },
+          {
+            "id": "e7b398a2-18f6-4622-9f4c-1d3cb61a5e4a",
+            "nombre": "Información sobre las condiciones de recepción de cada tipo de residuo",
+            "url": "https://catalogodatos.gub.uy/dataset/f7e0ba91-1649-4dd4-a313-e20d45df3f67/resource/e7b398a2-18f6-4622-9f4c-1d3cb61a5e4a/download/wastes-2022-07-27.csv",
+            "formato": "CSV",
+            "tamaño": 26206,
+            "creado": "2018-03-27T16:19:34.074184"
+          },
+          {
+            "id": "fc37867f-cac9-488d-ad3d-2dcf26f4490d",
+            "nombre": "Programas de recepción de residuos reciclables",
+            "url": "https://catalogodatos.gub.uy/dataset/f7e0ba91-1649-4dd4-a313-e20d45df3f67/resource/fc37867f-cac9-488d-ad3d-2dcf26f4490d/download/programs-2022-07-27.csv",
+            "formato": "CSV",
+            "tamaño": 60677,
+            "creado": "2020-11-12T19:37:51.113606"
+          },
+          {
+            "id": "be2864d0-4faa-474b-b8da-38047cd04f92",
+            "nombre": "Materiales reciclables o de economía circular",
+            "url": "https://catalogodatos.gub.uy/dataset/f7e0ba91-1649-4dd4-a313-e20d45df3f67/resource/be2864d0-4faa-474b-b8da-38047cd04f92/download/materials-2022-07-27.csv",
+            "formato": "CSV",
+            "tamaño": 1730,
+            "creado": "2020-11-12T19:39:47.560165"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:27.659Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/data-contenedores-para-la-recepcion-de-residuos-reciclables-donde-reciclo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "6aac8df5c486f7edf3535f39486a54e51fb931a0cbebd25d9f6ad4252cce21b2"
+        }
+      },
+      {
+        "id": "19fe84d9-7632-4235-a0b2-362454840a3f",
+        "nombre": "Pedidos de Acceso a la Información Pública realizados mediante QueSabes.uy e información de contacto de organismos",
+        "slug": "data-pedidos-de-informacion-publica",
+        "organismo": {
+          "id": "data",
+          "nombre": "Data Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Todos los pedidos de acceso a la información pública hechos mediante el portal QueSabes.uy.\r\nCada fila tiene titulo, fecha de realizado, estado y organismo.\r\nListado de organismos disponibles en la plataforma y correos utilizados para el envío de pedidos de acceso.",
+        "etiquetas": [
+          "AIP",
+          "Acceso a la información pública"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2014-02-02T21:29:14.237869",
+        "modificado": "2022-11-17T13:06:37.763623",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "d1a3974c-105d-4067-94b0-7782e54908ce",
+            "nombre": "Pedidos de acceso realizados a través de QueSabes.uy",
+            "url": "http://datos.quesabes.org/latest/pedidos.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2021-07-06T15:19:43.089257"
+          },
+          {
+            "id": "ddd3324d-b880-4c5d-8b63-ed5802953e0c",
+            "nombre": "Pedidos de acceso realizados a través de QueSabes.uy",
+            "url": "http://datos.quesabes.org/latest/pedidos.json",
+            "formato": "JSON",
+            "tamaño": null,
+            "creado": "2021-07-06T15:21:01.880422"
+          },
+          {
+            "id": "4d5391b0-9007-437c-99d5-113ceb2f8191",
+            "nombre": "Cantidad de pedidos de información pública por organismo hechos en QueSabes.uy",
+            "url": "http://datos.quesabes.org/latest/cantidad_pedidos_por_organismo.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2014-02-02T19:30:27.184720"
+          },
+          {
+            "id": "032f6d4d-01e6-488e-bb6f-8efa21658a9b",
+            "nombre": "Cantidad de pedidos de información pública por organismo hechos en QueSabes.uy",
+            "url": "http://datos.quesabes.org/latest/cantidad_pedidos_por_organismo.json",
+            "formato": "JSON",
+            "tamaño": null,
+            "creado": "2020-05-23T16:45:30.058835"
+          },
+          {
+            "id": "c04e9d49-7ebe-4b06-8fdf-143b38bb0f7f",
+            "nombre": "Listado de organismos y correos",
+            "url": "http://datos.quesabes.org/latest/organismos_publicos.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2021-07-06T15:10:55.429878"
+          },
+          {
+            "id": "efe5c320-8acc-4bf6-b2f2-8dadd4959d65",
+            "nombre": "Listado de organismos y correos",
+            "url": "http://datos.quesabes.org/latest/organismos_publicos.json",
+            "formato": "JSON",
+            "tamaño": null,
+            "creado": "2021-07-06T15:12:13.953521"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:27.659Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/data-pedidos-de-informacion-publica",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "a6e0642edfd4a25c7289062584b07201ecb664549e047a96e354021089a28788"
+        }
+      },
+      {
+        "id": "8c51c4f1-5635-4872-a1d6-19bb5ff6f97e",
+        "nombre": "Respuestas de formulario en Cuarentena.uy",
+        "slug": "data-respuestas-de-formulario-en-cuarentena-uy",
+        "organismo": {
+          "id": "data",
+          "nombre": "Data Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Respuestas completas (menos datos personales y respuestas de texto libre sin autorización para difusión) del formulario del proyecto Cuarentena.uy. El proyecto con docentes de la Fac. Psicología Udelar (Alejandro Maiche y equipo) buscó medir datos oportunos sobre el aislamiento social debido a la pandemia por Covid-19.",
+        "etiquetas": [
+          "COVID-19",
+          "Covid-19",
+          "Cuarentena",
+          "Encuesta"
+        ],
+        "grupos": [
+          "Salud"
+        ],
+        "creado": "2020-05-23T18:09:54.365298",
+        "modificado": "2022-11-17T13:06:00.526332",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "c05cc443-4f92-4ccd-b9aa-8b3bbb681051",
+            "nombre": "Respuestas al cuestionario",
+            "url": "https://catalogodatos.gub.uy/dataset/8c51c4f1-5635-4872-a1d6-19bb5ff6f97e/resource/c05cc443-4f92-4ccd-b9aa-8b3bbb681051/download/cuarentena.ods",
+            "formato": "ODS",
+            "tamaño": 119118,
+            "creado": "2020-05-23T18:13:37.762645"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:27.659Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/data-respuestas-de-formulario-en-cuarentena-uy",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "0a4b0405bbef39f0ef9b1d940e07649f20e82dec4181ff947367f7b027cba068"
+        }
+      },
+      {
+        "id": "5e2710c8-b6d5-48d2-9191-49fbf8cee10b",
+        "nombre": "Cantidad de pedidos de acceso a la información por organismo mediante quesabes.org",
+        "slug": "data-cantidad-pedidos-ai-por-organismo",
+        "organismo": {
+          "id": "data",
+          "nombre": "Data Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Cantidad de pedidos de información hechos por el portal quesabes.uy por organismo y por estado.\r\nCada fila tiene organismo, cantidad de pedidos, estado de esos pedidos.",
+        "etiquetas": [
+          "Acceso a la información pública"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2014-02-02T21:25:19.943412",
+        "modificado": "2022-11-17T13:03:49.209632",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "12bb0a17-1f9a-4757-81ae-8ebad586cf1d",
+            "nombre": "Cantidad de pedidos de información pública por organismo por estado del pedido.",
+            "url": "https://github.com/datauy/quesabes-data/raw/master/data/cantidad_pedidos_por_organismo.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2014-02-02T19:26:11.441786"
+          },
+          {
+            "id": "5c11b606-728f-4e86-ba69-63db8ca29856",
+            "nombre": "Cantidad de pedidos de información pública por organismo por estado del pedido.",
+            "url": "https://github.com/datauy/quesabes-data/blob/master/data/cantidad_pedidos_por_organismo.json",
+            "formato": "JSON",
+            "tamaño": null,
+            "creado": "2020-05-23T17:49:23.857452"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:27.659Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/data-cantidad-pedidos-ai-por-organismo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "55df37db2cd8c1e1b8e716a8461ba2f0fe5b9fff5c6625d887223219bb9fc124"
+        }
+      },
+      {
+        "id": "8259bf22-846d-4051-9b3c-a597f5a7e048",
+        "nombre": "Contactos de organismos publicos uruguayos",
+        "slug": "data-organismos_publicos",
+        "organismo": {
+          "id": "data",
+          "nombre": "Data Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "No contiene todos los organismos publicos sino todos los que se han incorporado al portal de acceso a información pública quesabes.uy para realizar pedidos de acceso a la información pública.",
+        "etiquetas": [
+          "Organismos",
+          "Organismos públicos"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2014-02-02T20:56:50.386719",
+        "modificado": "2022-11-17T13:02:30.316260",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "c250c0e1-d054-4224-843a-03d8545f9c8a",
+            "nombre": "Contactos de organismos públicos (2014)",
+            "url": "https://github.com/datauy/quesabes-data/raw/master/data/organismos_publicos.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2014-02-02T18:58:25.482610"
+          },
+          {
+            "id": "805fb393-4f8f-48da-80a1-618379fcdced",
+            "nombre": "Contactos de organismos públicos (oct. 2017)",
+            "url": "https://catalogodatos.gub.uy/dataset/8259bf22-846d-4051-9b3c-a597f5a7e048/resource/805fb393-4f8f-48da-80a1-618379fcdced/download/all-authorities.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2017-10-27T10:28:04.200304"
+          },
+          {
+            "id": "e7fb41b6-db66-48d0-badf-f89268e1d11c",
+            "nombre": "Contactos de organismos públicos (servicio en línea, siempre actualizado)",
+            "url": "http://www.quesabes.org/body/all-authorities.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2017-10-27T10:55:54.685772"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:27.659Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/data-organismos_publicos",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "6ef86aecc7b5a6add298fc0d076cf12544757f4ac7fa4217e8784abd4be04511"
+        }
+      },
+      {
+        "id": "509dbb0a-6dad-40a0-9920-e42ad371cffc",
+        "nombre": "Participantes Conferencia Regional de Datos Abiertos 2013",
+        "slug": "data-participantes-conferencia-regional-de-datos-abiertos-2013",
+        "organismo": {
+          "id": "data",
+          "nombre": "Data Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Cantidad de participantes por país",
+        "etiquetas": [
+          "Conferencia"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2013-11-26T19:11:47.754527",
+        "modificado": "2022-11-17T13:01:37.535232",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "6cdc0378-43be-4f48-b2ad-132ba5785458",
+            "nombre": "Numero de participantes de conferencia 2013",
+            "url": "http://datauy.org/datos/conferencia_2013.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2013-11-26T17:16:36.486735"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:27.659Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/data-participantes-conferencia-regional-de-datos-abiertos-2013",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "cb188687391ca82df3d610078074f7c0831e3759a300dec7725ac5b05034c847"
+        }
+      },
+      {
+        "id": "1d243616-0878-4d34-8622-43fa416f9cc0",
+        "nombre": "Participantes ABRE LATAM 2013",
+        "slug": "data-participantes-abrelatam-2013",
+        "organismo": {
+          "id": "data",
+          "nombre": "Data Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Organizaciones por ciudad y país que participaron en desconferencia sobre datos abiertos y transparencia AbreLataM 2013. ",
+        "etiquetas": [
+          "Abre Latam",
+          "Abrelatam",
+          "Condatos"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2013-11-26T19:18:51.118735",
+        "modificado": "2022-11-17T13:00:23.040309",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "7e2a960f-4df7-48a3-b9b4-9f59d44fed1d",
+            "nombre": "Participantes AbreLataM 2013",
+            "url": "http://www.datauy.org/datos/abrelatam2013.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2013-11-26T17:20:57.548001"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:27.659Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/data-participantes-abrelatam-2013",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "b2fcb94e8fd970ea1deca62cd9d8efab219c10ff604b60895780a6960c72efb0"
+        }
+      },
+      {
+        "id": "8678e32c-3c0a-4864-bd60-c25aa1ed2d67",
+        "nombre": "Rendicion de Cuentas Conferencia de Datos Abiertos 2013",
+        "slug": "data-rendicion-de-cuentas-conferencia-de-datos-abiertos-2013",
+        "organismo": {
+          "id": "data",
+          "nombre": "Data Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Conferencia Regional de Datos Abiertos 2013",
+        "etiquetas": [],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2013-11-26T22:17:35.387569",
+        "modificado": "2022-11-14T13:47:10.083466",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "649b9e9f-8868-4a58-aa40-dad36557d205",
+            "nombre": "Rendicion de Cuentas Conferencia 2013",
+            "url": "http://datauy.org/datos/RendicionCuentasConferenciaRegional2013.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2013-11-26T20:21:09.868199"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:27.659Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/data-rendicion-de-cuentas-conferencia-de-datos-abiertos-2013",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "bb09b5ee6ee9d946651c8f17dd3b0b73f12e47c576a1aad2b0956ad0896eb56d"
+        }
+      },
+      {
+        "id": "79ff8d7d-54a6-44d6-88c9-b5d797b8a7c9",
+        "nombre": "Derechos, Preguntas, respuestas y dudas - DerechosdeEstudiantes.edu.uy",
+        "slug": "data-preguntas-derechos-de-estudiantes",
+        "organismo": {
+          "id": "data",
+          "nombre": "Data Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Base de derechos sobre derechos de estudiantes de educación media (Secundaria y UTU), elaborada por CES y CETP, para la herramienta DerechosDeEstudiantes.edu.uy. Incluye dudas sobre los derechos publicadas por estudiantes en el sitio.\r\nConsultas de estudiantes a través de la herramienta y sus correspondientes respuestas elaboradas por CES y CETP.",
+        "etiquetas": [
+          "Derechos",
+          "Educación Secundaria",
+          "Educación Técnico Profesional",
+          "ddhh",
+          "niñez y adolescencia"
+        ],
+        "grupos": [
+          "Desarrollo Social"
+        ],
+        "creado": "2019-10-21T14:59:00.013660",
+        "modificado": "2022-11-14T13:45:22.227034",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "95c46824-b270-4f91-9d1f-c62e2533ca0f",
+            "nombre": "Derechos",
+            "url": "https://derechosdeestudiantes.edu.uy/data/latest/derechos.csv",
+            "formato": "CSV",
+            "tamaño": 50597,
+            "creado": "2019-10-21T15:13:35.782878"
+          },
+          {
+            "id": "4c7bf1c7-9106-4ef6-bd01-83f93866228a",
+            "nombre": "Derechos",
+            "url": "https://derechosdeestudiantes.edu.uy/data/latest/derechos.json",
+            "formato": "JSON",
+            "tamaño": null,
+            "creado": "2021-07-19T13:05:27.507482"
+          },
+          {
+            "id": "76f06f40-877b-49f7-8be1-b24f22c958cc",
+            "nombre": "Preguntas",
+            "url": "https://derechosdeestudiantes.edu.uy/data/latest/preguntas.csv",
+            "formato": "CSV",
+            "tamaño": 36542,
+            "creado": "2019-10-21T15:14:56.567828"
+          },
+          {
+            "id": "aaf6d62d-26b1-48b1-b09b-8b0b84510f44",
+            "nombre": "Preguntas",
+            "url": "https://derechosdeestudiantes.edu.uy/data/latest/preguntas.json",
+            "formato": "JSON",
+            "tamaño": null,
+            "creado": "2021-07-19T13:06:46.149992"
+          },
+          {
+            "id": "150b5b14-47be-404b-b456-239726368de3",
+            "nombre": "Respuestas",
+            "url": "https://derechosdeestudiantes.edu.uy/data/latest/respuestas.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2021-07-19T13:13:03.107179"
+          },
+          {
+            "id": "aa75d41a-4e53-4e73-9a49-876ac9ce3140",
+            "nombre": "Respuestas",
+            "url": "https://derechosdeestudiantes.edu.uy/data/latest/respuestas.json",
+            "formato": "JSON",
+            "tamaño": null,
+            "creado": "2021-07-19T13:13:47.133865"
+          },
+          {
+            "id": "cd80608e-8906-4d39-b0e1-996abcac1e7f",
+            "nombre": "Dudas",
+            "url": "https://derechosdeestudiantes.edu.uy/data/latest/dudas.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2021-07-19T13:10:02.033426"
+          },
+          {
+            "id": "4683e222-84c0-4bd1-8f65-dec989c80814",
+            "nombre": "Dudas",
+            "url": "https://derechosdeestudiantes.edu.uy/data/latest/dudas.json",
+            "formato": "JSON",
+            "tamaño": null,
+            "creado": "2021-07-19T13:10:38.323901"
+          },
+          {
+            "id": "1af37522-c89f-4368-902f-25d65a74035d",
+            "nombre": "Metadatos",
+            "url": "https://catalogodatos.gub.uy/dataset/79ff8d7d-54a6-44d6-88c9-b5d797b8a7c9/resource/1af37522-c89f-4368-902f-25d65a74035d/download/metadatos-metadatos.csv",
+            "formato": "CSV",
+            "tamaño": 1818,
+            "creado": "2019-10-21T15:15:43.090920"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:27.659Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/data-preguntas-derechos-de-estudiantes",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "20f159d691752f83ecf518d9f99d90e302376cbe590b32ab75996dc0422669ff"
+        }
+      }
+    ]
+  },
+  "hash": "fb75b55fbee26d6baa182552e84f85d261f1f8fd86c3e1ab47d437d998f97c28",
+  "firma": "fe3e32c3fd7c47e4a4f637161dac9f4b1bad8c4172e5d2c24465c2b8a6cc8da4"
+}

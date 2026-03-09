@@ -1,0 +1,69 @@
+{
+  "id": "3b08a2ee56f06738553fff935b3d030f",
+  "timestamp": "2026-03-06T23:09:17.055Z",
+  "datos": {
+    "organismo": "cei",
+    "total": 1,
+    "datasets": [
+      {
+        "id": "655b3cfa-c59d-484c-8035-3cd960ff1648",
+        "nombre": "Base de datos que utiliza el Buscador de Soluciones- Portal CEI",
+        "slug": "cei-base-de-datos-que-utiliza-el-buscador-de-soluciones-portal-cei",
+        "organismo": {
+          "id": "cei",
+          "nombre": "Centro de Extensionismo Industrial",
+          "tipo": "organization"
+        },
+        "descripcion": "Cada fila de la base de datos corresponde a una “Solución”. Las soluciones son apoyos económicos, servicios, estudios o investigación y fuentes de información, brindados por instituciones públicas o privadas (oferentes). En el año 2014 el Centro de Extensionismo Industrial (CEI) junto con la Comisión Sectorial de Investigación Científica (CSIC) de la Universidad de la República comenzaron un relevamiento de las capacidades de I+D de aplicación industrial disponibles en el país. Este relevamiento se realizó con un formulario breve, que utilizó un enfoque diferente al usual: no se indagó sobre líneas de investigación, sino sobre capacidades de resolver problemas en la industria. Es así que se relevaron más de 700 capacidades de I+D provistas por 280 unidades de distintas facultades y centros de investigación, que a través de aplicaciones prácticas ilustran los tipos de problemas y oportunidades que sus conocimientos permiten resolver o aprovechar. Sumado a este esfuerzo, el CEI relevó más de 70 programas e instrumentos de apoyo a la competitividad empresarial, disponibles actualmente, tales como subsidios a proyectos de innovación, exoneraciones fiscales, créditos blandos, servicios a bajo costo y capacitaciones para el sector industrial. Esta información se completó con un relevamiento de servicios públicos para la industria, servicios intensivos en conocimiento provistos por empresas privadas, y algunas fuentes de información de utilidad para el desarrollo industrial.",
+        "etiquetas": [
+          "política industrial",
+          "pymes industriales",
+          "vinculación con la academia"
+        ],
+        "grupos": [
+          "Industria y energía"
+        ],
+        "creado": "2017-08-28T19:51:32.420393",
+        "modificado": "2018-05-24T14:30:56.156233",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "2f692af0-63eb-4b07-aae0-887c950666dd",
+            "nombre": "Metadatos-Soluciones-abril-2018",
+            "url": "https://catalogodatos.gub.uy/dataset/655b3cfa-c59d-484c-8035-3cd960ff1648/resource/2f692af0-63eb-4b07-aae0-887c950666dd/download/metadatos-soluciones.csv",
+            "formato": "CSV",
+            "tamaño": 8483,
+            "creado": "2017-08-28T16:52:52.888878"
+          },
+          {
+            "id": "724dc1d6-b81f-4e9e-bf0a-7596a8ad89e6",
+            "nombre": "Microdatos-Soluciones-abril 2018",
+            "url": "https://catalogodatos.gub.uy/dataset/655b3cfa-c59d-484c-8035-3cd960ff1648/resource/724dc1d6-b81f-4e9e-bf0a-7596a8ad89e6/download/microdatos-soluciones-2018-04-18.csv",
+            "formato": "CSV",
+            "tamaño": 1693445,
+            "creado": "2017-08-28T16:54:10.342517"
+          },
+          {
+            "id": "821630ff-6f14-45e9-8dc4-2a981d884722",
+            "nombre": "Palabras clave-Soluciones-abril 2018",
+            "url": "https://catalogodatos.gub.uy/dataset/655b3cfa-c59d-484c-8035-3cd960ff1648/resource/821630ff-6f14-45e9-8dc4-2a981d884722/download/tags-2018-04-18.csv",
+            "formato": "CSV",
+            "tamaño": 48874,
+            "creado": "2017-08-28T16:55:30.645396"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:17.055Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/cei-base-de-datos-que-utiliza-el-buscador-de-soluciones-portal-cei",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "9dbbf91d8e2e17c4859ec16438bd4f8db315d55ff73db368fda794e43a822f75"
+        }
+      }
+    ]
+  },
+  "hash": "654f40ec44d9c09b14ec41a4d8f2bf107ede8b52d6461446bd633538698092f4",
+  "firma": "c7d7433a869be937c5f70a3316f380d4dfa7dfdd8da550addb656fc827a7382f"
+}

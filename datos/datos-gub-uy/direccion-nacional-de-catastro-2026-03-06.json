@@ -1,0 +1,1605 @@
+{
+  "id": "6154d84062e4d0d432402a8394419ba3",
+  "timestamp": "2026-03-06T23:09:33.057Z",
+  "datos": {
+    "organismo": "direccion-nacional-de-catastro",
+    "total": 3,
+    "datasets": [
+      {
+        "id": "a0ff3085-b886-454b-8e8b-88f59bd980cc",
+        "nombre": "Padrones urbanos y rurales",
+        "slug": "direccion-nacional-de-catastro-padrones-urbanos-y-rurales",
+        "organismo": {
+          "id": "direccion-nacional-de-catastro",
+          "nombre": "Dirección Nacional de Catastro",
+          "tipo": "organization"
+        },
+        "descripcion": "Datos alfanuméricos relevantes de padrones urbanos y rurales de todo el país.",
+        "etiquetas": [
+          "Catastro",
+          "Geográficos",
+          "Padrones urbanos y rurales"
+        ],
+        "grupos": [
+          "Geográficos"
+        ],
+        "creado": "2014-12-02T18:37:39.679035",
+        "modificado": "2026-02-10T15:14:45.181415",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "233c1fed-0e75-4fe5-926f-2ba65cd87961",
+            "nombre": "Padrones urbanos y rurales 09/2016",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/233c1fed-0e75-4fe5-926f-2ba65cd87961/download/datos.abiertos.dnc9-2016.rar",
+            "formato": "RAR",
+            "tamaño": null,
+            "creado": "2016-09-13T20:09:39.708652"
+          },
+          {
+            "id": "18b4d38a-9ab4-42fb-8ff6-63a823f3b221",
+            "nombre": "Metadatos de padrones urbanos y rurales 09/2016",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/18b4d38a-9ab4-42fb-8ff6-63a823f3b221/download/metadatos.9-2016.pdf",
+            "formato": "PDF",
+            "tamaño": null,
+            "creado": "2016-09-13T20:11:28.775671"
+          },
+          {
+            "id": "02dc1715-21cb-451a-baae-9097a75b3814",
+            "nombre": "Padrones urbanos y rurales 10/2016",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/02dc1715-21cb-451a-baae-9097a75b3814/download/datos.abiertos.dnc10-2016.rar",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2016-10-14T10:57:00.975348"
+          },
+          {
+            "id": "eae34141-e8d3-47d7-a11b-9c8b8b136faa",
+            "nombre": "Metadatos de padrones urbanos y rurales 10/2016",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/eae34141-e8d3-47d7-a11b-9c8b8b136faa/download/metadatos.10-2016.pdf",
+            "formato": "PDF",
+            "tamaño": null,
+            "creado": "2016-10-14T11:26:52.248386"
+          },
+          {
+            "id": "50b16d7f-755a-4e09-8d03-7f30acca69b4",
+            "nombre": "Metadatos de padrones urbanos y rurales 11/2016",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/50b16d7f-755a-4e09-8d03-7f30acca69b4/download/metadatos11-2016.pdf",
+            "formato": "PDF",
+            "tamaño": null,
+            "creado": "2016-11-09T16:05:14.053649"
+          },
+          {
+            "id": "2d621699-99a9-492e-ba2a-398f9e2eef33",
+            "nombre": "Padrones urbanos y rurales 11/2016",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/2d621699-99a9-492e-ba2a-398f9e2eef33/download/datos.abiertos.dnc11-2016.rar",
+            "formato": "RAR",
+            "tamaño": null,
+            "creado": "2016-11-09T16:06:32.388171"
+          },
+          {
+            "id": "5b44f059-cfef-461d-a7ab-a923a4170855",
+            "nombre": "Metadatos de padrones urbanos y rurales 12/2016",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/5b44f059-cfef-461d-a7ab-a923a4170855/download/metadatos.12-2016.pdf",
+            "formato": "PDF",
+            "tamaño": null,
+            "creado": "2016-12-16T17:09:39.930300"
+          },
+          {
+            "id": "0dda5cfb-04a4-48c0-bc01-92c16568738c",
+            "nombre": " Padrones urbanos y rurales 12/2016",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/0dda5cfb-04a4-48c0-bc01-92c16568738c/download/datos.abiertos.dnc.12-2016.rar",
+            "formato": "RAR",
+            "tamaño": null,
+            "creado": "2016-12-16T17:10:57.937489"
+          },
+          {
+            "id": "30d25049-719f-4374-b797-cc70c1d02839",
+            "nombre": "Padrones urbanos y rurales 01/2017",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/30d25049-719f-4374-b797-cc70c1d02839/download/datos-abiertos-dnc-2017-01.zip",
+            "formato": "ZIP",
+            "tamaño": null,
+            "creado": "2017-01-18T16:21:47.818180"
+          },
+          {
+            "id": "dd0be2d8-155f-4783-ab0c-1cecee4f190e",
+            "nombre": "Metadatos de padrones urbanos y rurales 01/2017",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/dd0be2d8-155f-4783-ab0c-1cecee4f190e/download/metadatos-dnc-2017-01.pdf",
+            "formato": "PDF",
+            "tamaño": null,
+            "creado": "2017-01-18T16:26:38.315795"
+          },
+          {
+            "id": "b43ae5c7-d899-4328-b3b7-338f5a5d59fe",
+            "nombre": "Padrones urbanos y rurales 02/2017",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/b43ae5c7-d899-4328-b3b7-338f5a5d59fe/download/datos-abiertos-dnc-2017-02.zip",
+            "formato": "ZIP",
+            "tamaño": null,
+            "creado": "2017-02-07T14:42:16.542861"
+          },
+          {
+            "id": "29970eb1-19ef-40c2-844a-1a0185415481",
+            "nombre": "Metadatos de padrones urbanos y rurales 02/2017",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/29970eb1-19ef-40c2-844a-1a0185415481/download/metadatos-dnc-2017-02.pdf",
+            "formato": "PDF",
+            "tamaño": null,
+            "creado": "2017-02-07T14:43:34.356772"
+          },
+          {
+            "id": "418497e4-3a08-4b83-a6b2-aa408efdcaec",
+            "nombre": "Metadatos de padrones urbanos y rurales 03/2017",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/418497e4-3a08-4b83-a6b2-aa408efdcaec/download/metadatos-dnc-2017-03.pdf",
+            "formato": "PDF",
+            "tamaño": null,
+            "creado": "2017-03-10T13:20:45.000874"
+          },
+          {
+            "id": "1b3ad23f-47dc-4e4b-bc05-890b75dbc176",
+            "nombre": "Padrones urbanos y rurales 03/2017",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/1b3ad23f-47dc-4e4b-bc05-890b75dbc176/download/datos-abiertos-dnc-2017-03.zip",
+            "formato": "ZIP",
+            "tamaño": null,
+            "creado": "2017-03-21T13:50:20.031473"
+          },
+          {
+            "id": "09631173-1824-4805-a715-98c64d537757",
+            "nombre": "Padrones urbanos y rurales 04/2017",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/09631173-1824-4805-a715-98c64d537757/download/datos-abiertos-dnc-2017-04.zip",
+            "formato": "ZIP",
+            "tamaño": null,
+            "creado": "2017-04-04T13:48:42.644365"
+          },
+          {
+            "id": "6d313766-7e82-43fb-af02-b81dc1481477",
+            "nombre": "Metadatos de padrones urbanos y rurales 04/2017",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/6d313766-7e82-43fb-af02-b81dc1481477/download/metadatos-dnc-2017-04.pdf",
+            "formato": "PDF",
+            "tamaño": null,
+            "creado": "2017-04-04T13:52:26.644551"
+          },
+          {
+            "id": "f06168aa-8217-48cd-83f9-ddc9fed9a55d",
+            "nombre": "Padrones urbanos y rurales 05/2017",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/f06168aa-8217-48cd-83f9-ddc9fed9a55d/download/datos-abiertos-dnc-2017-05.zip",
+            "formato": "ZIP",
+            "tamaño": null,
+            "creado": "2017-05-05T13:40:18.091974"
+          },
+          {
+            "id": "fe272bbd-0ed3-4ce3-81aa-dbd1b03abe7e",
+            "nombre": "Metadatos de padrones urbanos y rurales 05/2017",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/fe272bbd-0ed3-4ce3-81aa-dbd1b03abe7e/download/metadatos-dnc-2017-05.pdf",
+            "formato": "PDF",
+            "tamaño": null,
+            "creado": "2017-05-05T13:41:22.907627"
+          },
+          {
+            "id": "404f6fa4-ba57-42d3-8dd1-a27e61844eb4",
+            "nombre": "Metadatos de padrones urbanos y rurales 06/2017",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/404f6fa4-ba57-42d3-8dd1-a27e61844eb4/download/metadatos-dnc-2017-06.pdf",
+            "formato": "PDF",
+            "tamaño": null,
+            "creado": "2017-06-05T17:35:32.983161"
+          },
+          {
+            "id": "6b774527-a8aa-47e8-a570-dde911ff62da",
+            "nombre": "Padrones urbanos y rurales 06/2017",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/6b774527-a8aa-47e8-a570-dde911ff62da/download/datos-abiertos-dnc-2017-06.zip",
+            "formato": "ZIP",
+            "tamaño": null,
+            "creado": "2017-06-05T17:36:46.437077"
+          },
+          {
+            "id": "40d94f1c-0b4a-4215-9f1c-0589006df7a7",
+            "nombre": "Padrones urbanos y rurales 07/2017",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/40d94f1c-0b4a-4215-9f1c-0589006df7a7/download/datos-abiertos-dnc-2017-07.zip",
+            "formato": "ZIP",
+            "tamaño": null,
+            "creado": "2017-07-04T15:31:40.185671"
+          },
+          {
+            "id": "4f102149-fcd2-4750-a9c9-2d4bfac8eac5",
+            "nombre": "Metadatos de padrones urbanos y rurales 07/2017",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/4f102149-fcd2-4750-a9c9-2d4bfac8eac5/download/metadatos-dnc-2017-07.pdf",
+            "formato": "PDF",
+            "tamaño": null,
+            "creado": "2017-07-04T15:32:44.237958"
+          },
+          {
+            "id": "e83e3eda-8402-41c8-b931-80947dcc8385",
+            "nombre": "Padrones urbanos y rurales 08/2017",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/e83e3eda-8402-41c8-b931-80947dcc8385/download/datos-abiertos-dnc-2017-08.zip",
+            "formato": "ZIP",
+            "tamaño": null,
+            "creado": "2017-08-04T17:28:37.239031"
+          },
+          {
+            "id": "ea0996d5-abb6-411b-8929-1bda660c2a4d",
+            "nombre": "Metadatos de padrones urbanos y rurales 08/2017",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/ea0996d5-abb6-411b-8929-1bda660c2a4d/download/metadatos-dnc-2017-08.pdf",
+            "formato": "PDF",
+            "tamaño": null,
+            "creado": "2017-08-04T17:40:20.724482"
+          },
+          {
+            "id": "d3ecc305-1dd7-481e-968d-8052ce17b08f",
+            "nombre": "Padrones urbanos y rurales 09/2017",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/d3ecc305-1dd7-481e-968d-8052ce17b08f/download/datos-abiertos-dnc-2017-09.zip",
+            "formato": "ZIP",
+            "tamaño": null,
+            "creado": "2017-09-06T16:43:32.793463"
+          },
+          {
+            "id": "f4d96934-6d89-4dd8-8fcf-8199107c988b",
+            "nombre": "Metadatos de padrones urbanos y rurales 09/2017",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/f4d96934-6d89-4dd8-8fcf-8199107c988b/download/metadatos-dnc-2017-09.pdf",
+            "formato": "PDF",
+            "tamaño": null,
+            "creado": "2017-09-06T16:45:58.787293"
+          },
+          {
+            "id": "51c85779-b7f4-4321-ba1a-52dc6cc2d46a",
+            "nombre": "Metadatos de padrones urbanos y rurales 10/2017",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/51c85779-b7f4-4321-ba1a-52dc6cc2d46a/download/metadatos-dnc-2017-10.pdf",
+            "formato": "PDF",
+            "tamaño": null,
+            "creado": "2017-10-09T11:11:13.791570"
+          },
+          {
+            "id": "4f52bfae-720c-4849-822e-cf05b9d1f67d",
+            "nombre": "Padrones urbanos y rurales 10/2017",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/4f52bfae-720c-4849-822e-cf05b9d1f67d/download/datos-abiertos-dnc-2017-10.zip",
+            "formato": "ZIP",
+            "tamaño": null,
+            "creado": "2017-10-09T11:13:13.140788"
+          },
+          {
+            "id": "8b84f83d-6631-4f4a-bf3c-5acad5499182",
+            "nombre": "Padrones urbanos y rurales 11/2017",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/8b84f83d-6631-4f4a-bf3c-5acad5499182/download/datos-abiertos-dnc-2017-11.zip",
+            "formato": "ZIP",
+            "tamaño": null,
+            "creado": "2017-11-10T11:12:34.881854"
+          },
+          {
+            "id": "4b4c89a2-054c-4312-899c-7730bc0cd24b",
+            "nombre": "Metadatos de padrones urbanos y rurales 11/2017",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/4b4c89a2-054c-4312-899c-7730bc0cd24b/download/metadatos-dnc-2017-11.pdf",
+            "formato": "PDF",
+            "tamaño": null,
+            "creado": "2017-11-10T11:16:19.423005"
+          },
+          {
+            "id": "c9a6c746-53de-4611-94a4-0a09d931ce93",
+            "nombre": "Metadatos de padrones urbanos y rurales 12/2017",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/c9a6c746-53de-4611-94a4-0a09d931ce93/download/metadatos-dnc-2017-12.pdf",
+            "formato": "PDF",
+            "tamaño": null,
+            "creado": "2017-12-08T14:58:38.050842"
+          },
+          {
+            "id": "bf41eda3-3569-4209-b462-8b0bc22fc8ce",
+            "nombre": "Padrones urbanos y rurales 12/2017",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/bf41eda3-3569-4209-b462-8b0bc22fc8ce/download/datos-abiertos-dnc-2017-12.zip",
+            "formato": "ZIP",
+            "tamaño": null,
+            "creado": "2017-12-08T15:00:56.858791"
+          },
+          {
+            "id": "ad7c4a9d-da57-4382-93e4-5273a149fa9a",
+            "nombre": "Padrones urbanos y rurales 01/2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/ad7c4a9d-da57-4382-93e4-5273a149fa9a/download/r_ufsa5x_400x400.jpg",
+            "formato": "ZIP",
+            "tamaño": 10865,
+            "creado": "2018-01-10T19:41:10.814183"
+          },
+          {
+            "id": "417e7bc8-f820-4b65-9d3a-92f05432b3f1",
+            "nombre": "Metadatos de padrones urbanos y rurales 01/2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/417e7bc8-f820-4b65-9d3a-92f05432b3f1/download/metadatos-dnc-2018-01.pdf",
+            "formato": "PDF",
+            "tamaño": 48601,
+            "creado": "2018-01-10T19:42:57.421901"
+          },
+          {
+            "id": "17535e2e-a5f4-4203-bf4f-e3ee34e9e47d",
+            "nombre": "Metadatos de padrones urbanos y rurales 02/2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/17535e2e-a5f4-4203-bf4f-e3ee34e9e47d/download/metadatos-dnc-2018-02.pdf",
+            "formato": "PDF",
+            "tamaño": 48601,
+            "creado": "2018-02-01T19:33:17.041020"
+          },
+          {
+            "id": "20fd758b-98a2-40b1-83e2-e7599777ddf7",
+            "nombre": "Padrones urbanos y rurales 02/2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/20fd758b-98a2-40b1-83e2-e7599777ddf7/download/datos-abiertos-dnc-2018-02.zip",
+            "formato": "ZIP",
+            "tamaño": 40619534,
+            "creado": "2018-02-01T19:34:13.743252"
+          },
+          {
+            "id": "431a5cb7-38e1-44ed-a444-16965be4f4f7",
+            "nombre": "Padrones urbanos y rurales 03/2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/431a5cb7-38e1-44ed-a444-16965be4f4f7/download/datos-abiertos-dnc-2018-03.zip",
+            "formato": "ZIP",
+            "tamaño": 40675619,
+            "creado": "2018-03-06T18:03:51.363864"
+          },
+          {
+            "id": "48a94981-6871-462f-a700-89cb8d3c75c5",
+            "nombre": "Metadatos de padrones urbanos y rurales 03/2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/48a94981-6871-462f-a700-89cb8d3c75c5/download/metadatos-dnc-2018-03.pdf",
+            "formato": "PDF",
+            "tamaño": 48601,
+            "creado": "2018-03-06T18:07:52.157397"
+          },
+          {
+            "id": "5b9ab5be-d596-438a-b8a0-e08468d09d8c",
+            "nombre": "Padrones urbanos y rurales 04/2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/5b9ab5be-d596-438a-b8a0-e08468d09d8c/download/datos-abiertos-dnc-2018-04.zip",
+            "formato": "ZIP",
+            "tamaño": 40861417,
+            "creado": "2018-04-04T15:19:28.852820"
+          },
+          {
+            "id": "f525f8b2-26c1-4ff5-92b1-5a149381a6ba",
+            "nombre": "Metadatos de padrones urbanos y rurales 04/2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/f525f8b2-26c1-4ff5-92b1-5a149381a6ba/download/metadatos-dnc-2018-04.pdf",
+            "formato": "PDF",
+            "tamaño": 48601,
+            "creado": "2018-04-04T15:20:09.628457"
+          },
+          {
+            "id": "ff103c9f-075c-461d-b529-a6483185cb51",
+            "nombre": "Metadatos de padrones urbanos y rurales 05/2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/ff103c9f-075c-461d-b529-a6483185cb51/download/metadatos-dnc-2018-05.pdf",
+            "formato": "PDF",
+            "tamaño": 48601,
+            "creado": "2018-05-03T17:04:06.756665"
+          },
+          {
+            "id": "61b36261-c754-46d2-b200-efd857ea482f",
+            "nombre": "Padrones urbanos y rurales 05/2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/61b36261-c754-46d2-b200-efd857ea482f/download/datos-abiertos-dnc-2018-05.zip",
+            "formato": "ZIP",
+            "tamaño": 40828406,
+            "creado": "2018-05-03T17:13:03.872698"
+          },
+          {
+            "id": "bb39aa8c-a428-4cba-a49e-7a9767f6f3a6",
+            "nombre": "Padrones urbanos y rurales 06/2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/bb39aa8c-a428-4cba-a49e-7a9767f6f3a6/download/datos-abiertos-dnc-2018-06.zip",
+            "formato": "ZIP",
+            "tamaño": 40955013,
+            "creado": "2018-06-06T20:47:19.358088"
+          },
+          {
+            "id": "5c04c42c-afc2-453a-be20-653d78e84ac4",
+            "nombre": "Metadatos de padrones urbanos y rurales 06/2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/5c04c42c-afc2-453a-be20-653d78e84ac4/download/metadatos-dnc-2018-06.pdf",
+            "formato": "PDF",
+            "tamaño": 48601,
+            "creado": "2018-06-06T20:47:30.773970"
+          },
+          {
+            "id": "a3bba99a-8ab4-4987-a7cf-8a9377a94a38",
+            "nombre": "Padrones urbanos y rurales 07/2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/a3bba99a-8ab4-4987-a7cf-8a9377a94a38/download/datos-abiertos-dnc-2018-07.zip",
+            "formato": "ZIP",
+            "tamaño": 45458545,
+            "creado": "2018-07-12T19:28:04.825070"
+          },
+          {
+            "id": "4413a6aa-fa2a-4198-bbf8-c3676185104f",
+            "nombre": "Metadatos de padrones urbanos y rurales 07/2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/4413a6aa-fa2a-4198-bbf8-c3676185104f/download/metadatos-dnc-2018-07.pdf",
+            "formato": "PDF",
+            "tamaño": 48964,
+            "creado": "2018-07-12T19:28:40.468861"
+          },
+          {
+            "id": "fe891d55-d04e-4037-b7d4-2c7060912b51",
+            "nombre": "Metadatos de padrones urbanos y rurales 08/2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/fe891d55-d04e-4037-b7d4-2c7060912b51/download/metadatos-dnc-2018-08.pdf",
+            "formato": "PDF",
+            "tamaño": 48964,
+            "creado": "2018-08-10T17:58:33.480565"
+          },
+          {
+            "id": "02b41f5d-5445-4bca-a0cd-65366de81d93",
+            "nombre": "Padrones urbanos y rurales 08/2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/02b41f5d-5445-4bca-a0cd-65366de81d93/download/datos-abiertos-dnc-2018-08.zip",
+            "formato": "ZIP",
+            "tamaño": 44689866,
+            "creado": "2018-08-10T18:00:30.493384"
+          },
+          {
+            "id": "62b2ea8c-9d4c-4a76-ad30-312694e1564e",
+            "nombre": "Metadatos de padrones urbanos y rurales 09/2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/62b2ea8c-9d4c-4a76-ad30-312694e1564e/download/metadatos-dnc-2018-09.pdf",
+            "formato": "PDF",
+            "tamaño": 48964,
+            "creado": "2018-09-10T19:00:16.709315"
+          },
+          {
+            "id": "ea977909-57d4-421a-aba9-2aff79af153e",
+            "nombre": "Padrones urbanos y rurales 09/2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/ea977909-57d4-421a-aba9-2aff79af153e/download/datos-abiertos-dnc-2018-09.zip",
+            "formato": "ZIP",
+            "tamaño": 44661062,
+            "creado": "2018-09-10T19:01:38.766044"
+          },
+          {
+            "id": "4e4df6c0-a803-405e-b339-043670df3e89",
+            "nombre": "Padrones urbanos y rurales 10/2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/4e4df6c0-a803-405e-b339-043670df3e89/download/datos-abiertos-dnc-2018-10.zip",
+            "formato": "ZIP",
+            "tamaño": 44738383,
+            "creado": "2018-10-08T17:41:09.283181"
+          },
+          {
+            "id": "ea3238dd-ee21-4b36-8fd0-f4f45239d75c",
+            "nombre": "Metadatos de padrones urbanos y rurales 10/2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/ea3238dd-ee21-4b36-8fd0-f4f45239d75c/download/metadatos-dnc-2018-10.pdf",
+            "formato": "PDF",
+            "tamaño": 48964,
+            "creado": "2018-10-08T17:42:31.195475"
+          },
+          {
+            "id": "67fadb32-5d44-40bc-a8cd-72234ff7377d",
+            "nombre": "Padrones urbanos y rurales 11/2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/67fadb32-5d44-40bc-a8cd-72234ff7377d/download/datos-abiertos-dnc-2018-11.zip",
+            "formato": "ZIP",
+            "tamaño": 44669559,
+            "creado": "2018-11-07T18:31:03.708967"
+          },
+          {
+            "id": "167c27ed-1d21-439f-8511-73f6882b5173",
+            "nombre": "Metadatos de padrones urbanos y rurales 11/2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/167c27ed-1d21-439f-8511-73f6882b5173/download/metadatos-dnc-2018-11.pdf",
+            "formato": "PDF",
+            "tamaño": 48964,
+            "creado": "2018-11-07T18:31:48.880441"
+          },
+          {
+            "id": "29590f79-001d-4b63-bae3-62c2f8da534b",
+            "nombre": "Metadatos de padrones urbanos y rurales 12/2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/29590f79-001d-4b63-bae3-62c2f8da534b/download/metadatos-dnc-2018-12.pdf",
+            "formato": "PDF",
+            "tamaño": 48964,
+            "creado": "2018-12-10T19:37:58.145686"
+          },
+          {
+            "id": "cd9e5eaa-2046-4c4e-bffc-96dd44812c5c",
+            "nombre": "Padrones urbanos y rurales 12/2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/cd9e5eaa-2046-4c4e-bffc-96dd44812c5c/download/datos-abiertos-dnc-2018-12.zip",
+            "formato": "ZIP",
+            "tamaño": 44729872,
+            "creado": "2018-12-10T19:39:11.617058"
+          },
+          {
+            "id": "85898e78-1208-48e1-9f2b-847b14354add",
+            "nombre": "Padrones urbanos y rurales 12/2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/85898e78-1208-48e1-9f2b-847b14354add/download/datos-abiertos-dnc-2019-01.zip",
+            "formato": "ZIP",
+            "tamaño": 44789580,
+            "creado": "2019-01-09T20:20:16.899920"
+          },
+          {
+            "id": "a3d9480d-5876-49db-8fc9-904a567e4048",
+            "nombre": "Padrones urbanos y rurales 01/2019",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/a3d9480d-5876-49db-8fc9-904a567e4048/download/datos-abiertos-dnc-2019-01.zip",
+            "formato": "ZIP",
+            "tamaño": 44792864,
+            "creado": "2019-01-09T20:20:42.593376"
+          },
+          {
+            "id": "367bee41-9fe0-444c-9f10-93abf52232be",
+            "nombre": "Metadatos de padrones urbanos y rurales 01/2019",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/367bee41-9fe0-444c-9f10-93abf52232be/download/metadatos-dnc-2019-01.pdf",
+            "formato": "PDF",
+            "tamaño": 48964,
+            "creado": "2019-01-09T20:21:21.687141"
+          },
+          {
+            "id": "a78e2071-f47d-4c9a-8bbd-ad1d70ef732c",
+            "nombre": "Metadatos de padrones urbanos y rurales 02/2019",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/a78e2071-f47d-4c9a-8bbd-ad1d70ef732c/download/metadatos-dnc-2019-02.pdf",
+            "formato": "PDF",
+            "tamaño": 48964,
+            "creado": "2019-02-08T19:00:14.818545"
+          },
+          {
+            "id": "8d683882-0502-418b-8861-abf65e14ce32",
+            "nombre": "Padrones urbanos y rurales 02/2019",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/8d683882-0502-418b-8861-abf65e14ce32/download/datos-abiertos-dnc-2019-02.zip",
+            "formato": "ZIP",
+            "tamaño": 44841148,
+            "creado": "2019-02-08T19:01:15.289089"
+          },
+          {
+            "id": "bfc81367-9a7b-4aff-aa9c-616bf9d0de2f",
+            "nombre": "Padrones urbanos y rurales 03/2019",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/bfc81367-9a7b-4aff-aa9c-616bf9d0de2f/download/datos-abiertos-dnc-2019-03-version-12-3-2019.zip",
+            "formato": "ZIP",
+            "tamaño": 44915955,
+            "creado": "2019-03-11T20:20:56.445650"
+          },
+          {
+            "id": "427aa231-ed9e-41cb-94a1-9df881c00d64",
+            "nombre": "Metadatos de padrones urbanos y rurales 03/2019",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/427aa231-ed9e-41cb-94a1-9df881c00d64/download/metadatos-dnc-2019-03.pdf",
+            "formato": "PDF",
+            "tamaño": 48964,
+            "creado": "2019-03-11T20:22:03.514084"
+          },
+          {
+            "id": "53137d69-5744-4684-afc6-70bbbd7755da",
+            "nombre": "Metadatos de padrones urbanos y rurales 04/2019",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/53137d69-5744-4684-afc6-70bbbd7755da/download/metadatos-dnc-2019-04.pdf",
+            "formato": "PDF",
+            "tamaño": 48964,
+            "creado": "2019-04-10T15:43:40.999844"
+          },
+          {
+            "id": "4efb0e4c-936d-4a2c-97e1-7f1719399f52",
+            "nombre": "Padrones urbanos y rurales 04/2019",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/4efb0e4c-936d-4a2c-97e1-7f1719399f52/download/datos-abiertos-dnc-2019-04.zip",
+            "formato": "ZIP",
+            "tamaño": 44960570,
+            "creado": "2019-04-10T15:45:03.605740"
+          },
+          {
+            "id": "ec7ec754-945c-41dd-8c20-856c46fe79e1",
+            "nombre": "Metadatos de padrones urbanos y rurales 05/2019",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/ec7ec754-945c-41dd-8c20-856c46fe79e1/download/metadatos-dnc-2019-05.pdf",
+            "formato": "PDF",
+            "tamaño": 48964,
+            "creado": "2019-05-10T18:36:53.634405"
+          },
+          {
+            "id": "4871e4f8-07d0-4f2c-80c6-63e0cbbc750b",
+            "nombre": "Padrones urbanos y rurales 05/2019",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/4871e4f8-07d0-4f2c-80c6-63e0cbbc750b/download/datos-abiertos-dnc-2019-05.zip",
+            "formato": "ZIP",
+            "tamaño": 49011721,
+            "creado": "2019-05-10T18:39:08.414645"
+          },
+          {
+            "id": "ec11cc7e-df8e-42bb-ae2b-73dfd57ea57f",
+            "nombre": "Padrones urbanos y rurales 06/2019",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/ec11cc7e-df8e-42bb-ae2b-73dfd57ea57f/download/datos-abiertos-dnc-2019-06.zip",
+            "formato": "ZIP",
+            "tamaño": 49070898,
+            "creado": "2019-06-07T20:37:33.014321"
+          },
+          {
+            "id": "6a19593b-bf0a-4e4a-8d4d-bccc54d5f614",
+            "nombre": "Metadatos de padrones urbanos y rurales 06/2019",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/6a19593b-bf0a-4e4a-8d4d-bccc54d5f614/download/metadatos-dnc-2019-06.pdf",
+            "formato": "PDF",
+            "tamaño": 48964,
+            "creado": "2019-06-07T20:37:51.365633"
+          },
+          {
+            "id": "13bdc025-35da-4c01-8830-94837aae2c4a",
+            "nombre": "Metadatos de padrones urbanos y rurales 07/2019",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/13bdc025-35da-4c01-8830-94837aae2c4a/download/metadatos-dnc-2019-07.pdf",
+            "formato": "PDF",
+            "tamaño": 48964,
+            "creado": "2019-07-10T16:33:39.963762"
+          },
+          {
+            "id": "b5765f57-c567-40c6-b792-d08f3dd03636",
+            "nombre": "Padrones urbanos y rurales 07/2019",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/b5765f57-c567-40c6-b792-d08f3dd03636/download/datos-abiertos-dnc-2019-07.zip",
+            "formato": "ZIP",
+            "tamaño": 49136550,
+            "creado": "2019-07-10T16:35:53.470933"
+          },
+          {
+            "id": "a66410d4-b41d-4b7f-a797-f83cd325aa58",
+            "nombre": "Metadatos de padrones urbanos y rurales 08/2019",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/a66410d4-b41d-4b7f-a797-f83cd325aa58/download/metadatos-dnc-2019-08.pdf",
+            "formato": "PDF",
+            "tamaño": 48964,
+            "creado": "2019-08-09T19:25:30.831023"
+          },
+          {
+            "id": "5792a9b2-2244-4113-b83b-750ed5951201",
+            "nombre": "Padrones urbanos y rurales 08/2019",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/5792a9b2-2244-4113-b83b-750ed5951201/download/datos-abiertos-dnc-2019-08.zip",
+            "formato": "ZIP",
+            "tamaño": 49203300,
+            "creado": "2019-08-09T19:26:51.208830"
+          },
+          {
+            "id": "33e8d1be-1c36-43b4-a1d5-dfe0110298a3",
+            "nombre": "Padrones urbanos y rurales 09/2019",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/33e8d1be-1c36-43b4-a1d5-dfe0110298a3/download/datos-abiertos-dnc-2019-09.zip",
+            "formato": "ZIP",
+            "tamaño": 49292085,
+            "creado": "2019-09-10T20:08:31.012806"
+          },
+          {
+            "id": "54f9929d-b305-4e72-a8ef-53ab18dd7968",
+            "nombre": "Metadatos de padrones urbanos y rurales 09/2019",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/54f9929d-b305-4e72-a8ef-53ab18dd7968/download/metadatos-dnc-2019-09.pdf",
+            "formato": "PDF",
+            "tamaño": 48964,
+            "creado": "2019-09-10T20:10:12.108720"
+          },
+          {
+            "id": "0ff5d1bc-9887-4f21-87ce-4ff2517bcaab",
+            "nombre": "Metadatos de padrones urbanos y rurales 10/2019",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/0ff5d1bc-9887-4f21-87ce-4ff2517bcaab/download/metadatos-dnc-2019-10.pdf",
+            "formato": "PDF",
+            "tamaño": 48964,
+            "creado": "2019-10-10T15:24:37.141518"
+          },
+          {
+            "id": "e36c1afa-1352-4699-82d4-6496b3c82d98",
+            "nombre": "Padrones urbanos y rurales 10/2019",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/e36c1afa-1352-4699-82d4-6496b3c82d98/download/datos-abiertos-dnc-2019-10.zip",
+            "formato": "ZIP",
+            "tamaño": 49331506,
+            "creado": "2019-10-10T16:00:00.297024"
+          },
+          {
+            "id": "c125c57f-4dca-4ed7-a716-d624160bd2e6",
+            "nombre": "Metadatos de padrones urbanos y rurales 11/2019",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/c125c57f-4dca-4ed7-a716-d624160bd2e6/download/metadatos-dnc-2019-11.pdf",
+            "formato": "PDF",
+            "tamaño": 48964,
+            "creado": "2019-11-11T19:08:55.597597"
+          },
+          {
+            "id": "ad66bc51-a5a6-4162-b78d-3fda915ed2fe",
+            "nombre": "Padrones urbanos y rurales 11/2019",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/ad66bc51-a5a6-4162-b78d-3fda915ed2fe/download/datos-abiertos-dnc-2019-11.zip",
+            "formato": "ZIP",
+            "tamaño": 48410093,
+            "creado": "2019-11-11T19:11:11.824889"
+          },
+          {
+            "id": "733d6682-76b4-4c54-9f08-54cd7b11bafe",
+            "nombre": "Metadatos de padrones urbanos y rurales 12/2019",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/733d6682-76b4-4c54-9f08-54cd7b11bafe/download/metadatos-dnc-2019-12.pdf",
+            "formato": "PDF",
+            "tamaño": 48964,
+            "creado": "2019-12-12T18:42:15.295234"
+          },
+          {
+            "id": "18c70d8b-8398-48d8-859f-6422116b3bb5",
+            "nombre": "Padrones urbanos y rurales 12/2019",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/18c70d8b-8398-48d8-859f-6422116b3bb5/download/datos-abiertos-dnc-2019-12.zip",
+            "formato": "ZIP",
+            "tamaño": 45634299,
+            "creado": "2019-12-12T18:45:01.927238"
+          },
+          {
+            "id": "126fb37a-378b-4c91-88a2-053a0dde13c4",
+            "nombre": "Padrones urbanos y rurales 01/2020",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/126fb37a-378b-4c91-88a2-053a0dde13c4/download/datos-abiertos-dnc-2020-01.zip",
+            "formato": "ZIP",
+            "tamaño": 81635886,
+            "creado": "2020-01-08T19:15:44.047358"
+          },
+          {
+            "id": "f7d952a2-780f-4b3d-acfc-fc015968f042",
+            "nombre": "Metadatos de padrones urbanos y rurales 01/2020",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/f7d952a2-780f-4b3d-acfc-fc015968f042/download/metadatos-dnc-2020-01.pdf",
+            "formato": "PDF",
+            "tamaño": 67666,
+            "creado": "2020-01-10T20:28:13.822929"
+          },
+          {
+            "id": "8df4aa69-fd7e-4a1f-8cc1-66e2443a6aa9",
+            "nombre": "Metadatos de padrones urbanos y rurales 02/2020",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/8df4aa69-fd7e-4a1f-8cc1-66e2443a6aa9/download/metadatos-dnc-2020-02.pdf",
+            "formato": "PDF",
+            "tamaño": 67666,
+            "creado": "2020-02-10T14:12:06.605192"
+          },
+          {
+            "id": "1bd5beb2-c028-4286-83c3-7bdc922c0c2b",
+            "nombre": "Padrones urbanos y rurales 02/2020",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/1bd5beb2-c028-4286-83c3-7bdc922c0c2b/download/datos-abiertos-dnc-2020-02.zip",
+            "formato": "ZIP",
+            "tamaño": 81105205,
+            "creado": "2020-02-10T14:31:54.331849"
+          },
+          {
+            "id": "59101de7-8192-4d67-82f7-e0dd9aeb628b",
+            "nombre": "Metadatos de padrones urbanos y rurales 03/2020",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/59101de7-8192-4d67-82f7-e0dd9aeb628b/download/metadatos-dnc-2020-03.pdf",
+            "formato": "PDF",
+            "tamaño": 71698,
+            "creado": "2020-03-11T19:33:00.339106"
+          },
+          {
+            "id": "b6d187ea-4ca8-46a7-bfe8-128f50e1376e",
+            "nombre": "Padrones urbanos y rurales 03/2020",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/b6d187ea-4ca8-46a7-bfe8-128f50e1376e/download/datos-abiertos-dnc-2020-03.zip",
+            "formato": "ZIP",
+            "tamaño": 87356253,
+            "creado": "2020-03-11T19:56:17.164164"
+          },
+          {
+            "id": "468342b5-11f0-41c2-80ac-e0bd9b2b0e8a",
+            "nombre": "Padrones urbanos y rurales 04/2020",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/468342b5-11f0-41c2-80ac-e0bd9b2b0e8a/download/datos-abiertos-dnc-2020-04.zip",
+            "formato": "ZIP",
+            "tamaño": 87991851,
+            "creado": "2020-04-14T19:11:09.729638"
+          },
+          {
+            "id": "212d624f-0e1c-4e27-acd8-20a4854ac979",
+            "nombre": "Metadatos de padrones urbanos y rurales 04/2020",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/212d624f-0e1c-4e27-acd8-20a4854ac979/download/metadatos-dnc-2020-04.pdf",
+            "formato": "PDF",
+            "tamaño": 71698,
+            "creado": "2020-04-14T19:14:18.344463"
+          },
+          {
+            "id": "f25367cd-9191-4556-b0bc-c17830d187b9",
+            "nombre": "Padrones urbanos y rurales 05/2020",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/f25367cd-9191-4556-b0bc-c17830d187b9/download/datos-abiertos-dnc-2020-05.zip",
+            "formato": "ZIP",
+            "tamaño": 88502525,
+            "creado": "2020-05-11T18:15:02.179092"
+          },
+          {
+            "id": "f6faeac9-7543-4a30-85df-84fad622f515",
+            "nombre": "Metadatos de padrones urbanos y rurales 05/2020",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/f6faeac9-7543-4a30-85df-84fad622f515/download/metadatos-dnc-2020-05.pdf",
+            "formato": "PDF",
+            "tamaño": 71698,
+            "creado": "2020-05-11T18:16:18.496392"
+          },
+          {
+            "id": "49b93690-6dfe-4ccf-99ce-1c1d740a14f3",
+            "nombre": "Metadatos de padrones urbanos y rurales 06/2020",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/49b93690-6dfe-4ccf-99ce-1c1d740a14f3/download/metadatos-dnc-2020-06.pdf",
+            "formato": "PDF",
+            "tamaño": 71698,
+            "creado": "2020-06-10T18:59:28.207110"
+          },
+          {
+            "id": "e47f364d-bf67-4b1e-9e0b-a501ee459740",
+            "nombre": "Padrones urbanos y rurales 06/2020",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/e47f364d-bf67-4b1e-9e0b-a501ee459740/download/datos-abiertos-dnc-2020-06.zip",
+            "formato": "ZIP",
+            "tamaño": 89221720,
+            "creado": "2020-06-10T19:01:01.357781"
+          },
+          {
+            "id": "fd8439cc-5b1e-40e1-a48b-3c2fd5dcaaf0",
+            "nombre": "Metadatos de padrones urbanos y rurales 07/2020",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/fd8439cc-5b1e-40e1-a48b-3c2fd5dcaaf0/download/metadatos-dnc-2020-07.pdf",
+            "formato": "PDF",
+            "tamaño": 71698,
+            "creado": "2020-07-10T19:15:56.961571"
+          },
+          {
+            "id": "c8c84fcd-ec80-40e2-ad52-ac37da7b0abc",
+            "nombre": "Padrones urbanos y rurales 07/2020",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/c8c84fcd-ec80-40e2-ad52-ac37da7b0abc/download/datos-abiertos-dnc-2020-07.zip",
+            "formato": "ZIP",
+            "tamaño": 89268799,
+            "creado": "2020-07-10T19:17:23.917907"
+          },
+          {
+            "id": "ef61589f-24d6-4ee8-9615-d034b35a0829",
+            "nombre": "Metadatos de padrones urbanos y rurales 08/2020",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/ef61589f-24d6-4ee8-9615-d034b35a0829/download/metadatos-dnc-2020-08.pdf",
+            "formato": "PDF",
+            "tamaño": 71698,
+            "creado": "2020-08-13T18:40:04.740589"
+          },
+          {
+            "id": "808b94ec-246f-442b-b2d7-2c5f2c64d9ff",
+            "nombre": "Padrones urbanos y rurales 08/2020",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/808b94ec-246f-442b-b2d7-2c5f2c64d9ff/download/datos-abiertos-dnc-2020-08.zip",
+            "formato": "ZIP",
+            "tamaño": 83043525,
+            "creado": "2020-08-13T18:40:24.288947"
+          },
+          {
+            "id": "66429c7a-ee06-4f23-8fac-7fbe1ac4bf24",
+            "nombre": "Metadatos de padrones urbanos y rurales 09/2020",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/66429c7a-ee06-4f23-8fac-7fbe1ac4bf24/download/metadatos-dnc-2020-09.pdf",
+            "formato": "PDF",
+            "tamaño": 71698,
+            "creado": "2020-09-11T18:56:04.196325"
+          },
+          {
+            "id": "da129efa-be80-4e78-86cb-56180f2f5643",
+            "nombre": "Padrones urbanos y rurales 09/2020",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/da129efa-be80-4e78-86cb-56180f2f5643/download/datos-abiertos-dnc-2020-09.zip",
+            "formato": "ZIP",
+            "tamaño": 85917261,
+            "creado": "2020-09-11T18:57:50.487228"
+          },
+          {
+            "id": "06ed908e-0f90-443b-806a-08fadc40d43d",
+            "nombre": "Padrones urbanos y rurales 10/2020",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/06ed908e-0f90-443b-806a-08fadc40d43d/download/datos-abiertos-dnc-2020-10.zip",
+            "formato": "ZIP",
+            "tamaño": 86220336,
+            "creado": "2020-10-14T19:10:47.123820"
+          },
+          {
+            "id": "31fc0c1c-f33e-48f7-96cb-e660f922ff99",
+            "nombre": "Metadatos de padrones urbanos y rurales 10/2020",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/31fc0c1c-f33e-48f7-96cb-e660f922ff99/download/metadatos-dnc-2020-10.pdf",
+            "formato": "PDF",
+            "tamaño": 71698,
+            "creado": "2020-10-14T19:11:05.152190"
+          },
+          {
+            "id": "bb0b91ff-d7e6-4f09-898e-5dbe4c204491",
+            "nombre": "Padrones urbanos y rurales 11/2020",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/bb0b91ff-d7e6-4f09-898e-5dbe4c204491/download/datos-abiertos-dnc-2020-11.zip",
+            "formato": "ZIP",
+            "tamaño": 86315597,
+            "creado": "2020-11-10T19:25:58.022948"
+          },
+          {
+            "id": "08a7922d-25fb-4a09-9f86-1db41b1407bb",
+            "nombre": "Padrones urbanos y rurales 12/2020",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/08a7922d-25fb-4a09-9f86-1db41b1407bb/download/datos-abiertos-dnc-2020-12.zip",
+            "formato": "ZIP",
+            "tamaño": 86755367,
+            "creado": "2020-12-10T14:13:13.444838"
+          },
+          {
+            "id": "fa6614bb-1cf1-469f-b7f2-3d81b81bd5d5",
+            "nombre": "Metadatos de padrones urbanos y rurales 12/2020",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/fa6614bb-1cf1-469f-b7f2-3d81b81bd5d5/download/metadatos-dnc-2020-12-.pdf",
+            "formato": "PDF",
+            "tamaño": 71698,
+            "creado": "2020-12-10T14:14:22.838457"
+          },
+          {
+            "id": "8f405a14-6b0d-43ec-8202-eebd9c78885c",
+            "nombre": "Metadatos de padrones urbanos y rurales 1/2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/8f405a14-6b0d-43ec-8202-eebd9c78885c/download/metadatos-dnc-2021-01-.pdf",
+            "formato": "PDF",
+            "tamaño": 71698,
+            "creado": "2021-01-13T15:06:40.133847"
+          },
+          {
+            "id": "63c925bb-e2be-4ff1-ad0d-b54725368016",
+            "nombre": "Padrones urbanos y rurales 1/2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/63c925bb-e2be-4ff1-ad0d-b54725368016/download/datos-abiertos-dnc-2021-01.zip",
+            "formato": "ZIP",
+            "tamaño": 90822055,
+            "creado": "2021-01-13T15:09:00.378498"
+          },
+          {
+            "id": "9745a464-c0db-4044-ac70-3fc0e9a70f33",
+            "nombre": "Metadatos de padrones urbanos y rurales 2/2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/9745a464-c0db-4044-ac70-3fc0e9a70f33/download/metadatos-dnc-2021-02-.pdf",
+            "formato": "PDF",
+            "tamaño": 71698,
+            "creado": "2021-02-10T18:51:04.250865"
+          },
+          {
+            "id": "d6684417-ca92-4e82-b378-d443636e5c1f",
+            "nombre": "Padrones urbanos y rurales 2/2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/d6684417-ca92-4e82-b378-d443636e5c1f/download/datos-abiertos-dnc-2021-02.zip",
+            "formato": "ZIP",
+            "tamaño": 83270227,
+            "creado": "2021-02-10T18:52:58.715700"
+          },
+          {
+            "id": "40dfe999-1e9d-4dae-afb4-17c70c6eeb2d",
+            "nombre": "Padrones urbanos y rurales 3/2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/40dfe999-1e9d-4dae-afb4-17c70c6eeb2d/download/datos-abiertos-dnc-2021-03.zip",
+            "formato": "ZIP",
+            "tamaño": 83326697,
+            "creado": "2021-03-11T22:29:09.680988"
+          },
+          {
+            "id": "ae3220e1-b205-461c-84ff-6534af85ab22",
+            "nombre": "Metadatos de padrones urbanos y rurales 3/2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/ae3220e1-b205-461c-84ff-6534af85ab22/download/metadatos-dnc-2021-03.pdf",
+            "formato": "PDF",
+            "tamaño": 71698,
+            "creado": "2021-03-11T22:29:39.025593"
+          },
+          {
+            "id": "bca67f54-5271-43b3-8b34-cd0220a0a5d0",
+            "nombre": "Metadatos de padrones urbanos y rurales 4/2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/bca67f54-5271-43b3-8b34-cd0220a0a5d0/download/metadatos-dnc-2021-04.pdf",
+            "formato": "PDF",
+            "tamaño": 71698,
+            "creado": "2021-04-13T18:32:35.489288"
+          },
+          {
+            "id": "825c0d00-d7de-4bf6-9602-f51a2115e149",
+            "nombre": "Padrones urbanos y rurales 4/2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/825c0d00-d7de-4bf6-9602-f51a2115e149/download/datos-abiertos-dnc-2021-04.zip",
+            "formato": "ZIP",
+            "tamaño": 68550856,
+            "creado": "2021-04-13T18:34:15.771791"
+          },
+          {
+            "id": "f45698f4-0c8d-47bc-82a1-7971a93326ac",
+            "nombre": "Padrones urbanos y rurales 5/2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/f45698f4-0c8d-47bc-82a1-7971a93326ac/download/datos-abiertos-dnc-2021-05.zip",
+            "formato": "ZIP",
+            "tamaño": 71063994,
+            "creado": "2021-05-10T16:52:31.096955"
+          },
+          {
+            "id": "9fa9975e-88b0-490b-a92e-8662871967c8",
+            "nombre": "Metadatos de padrones urbanos y rurales 5/2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/9fa9975e-88b0-490b-a92e-8662871967c8/download/metadatos-2021.odt",
+            "formato": "ODT",
+            "tamaño": 27566,
+            "creado": "2021-05-10T16:57:09.010960"
+          },
+          {
+            "id": "36238bbb-5d42-4395-aac3-c7589c001494",
+            "nombre": "Metadatos de padrones urbanos y rurales 6/2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/36238bbb-5d42-4395-aac3-c7589c001494/download/datos-abiertos-dnc-2021-06.zip",
+            "formato": "ZIP",
+            "tamaño": 69150435,
+            "creado": "2021-06-11T18:24:03.951636"
+          },
+          {
+            "id": "0261a973-5a35-42eb-809b-c76d6c348354",
+            "nombre": "Padrones urbanos y rurales 6/2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/0261a973-5a35-42eb-809b-c76d6c348354/download/metadatos-2021-06.pdf",
+            "formato": "PDF",
+            "tamaño": 66494,
+            "creado": "2021-06-11T18:24:23.731735"
+          },
+          {
+            "id": "a91fc72d-e244-495f-b316-f5f20edecaf7",
+            "nombre": "Padrones urbanos y rurales 7/2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/a91fc72d-e244-495f-b316-f5f20edecaf7/download/metadatos-dnc-2021-07.pdf",
+            "formato": "PDF",
+            "tamaño": 66494,
+            "creado": "2021-07-13T17:02:05.783510"
+          },
+          {
+            "id": "9ae42e56-6269-491d-a753-248d7490eab6",
+            "nombre": "Metadatos de padrones urbanos y rurales 7/2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/9ae42e56-6269-491d-a753-248d7490eab6/download/datos-abiertos-dnc-2021-07.zip",
+            "formato": "ZIP",
+            "tamaño": 69215466,
+            "creado": "2021-07-13T17:03:51.302337"
+          },
+          {
+            "id": "2fa63296-bbff-40a1-8676-daf9adb0b568",
+            "nombre": "Padrones urbanos y rurales 8/2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/2fa63296-bbff-40a1-8676-daf9adb0b568/download/metadatos-dnc-2021-08.pdf",
+            "formato": "PDF",
+            "tamaño": 66494,
+            "creado": "2021-08-13T18:56:44.459729"
+          },
+          {
+            "id": "2dc7c8b3-d8ff-4b99-8bbd-981fc810806d",
+            "nombre": "Metadatos de padrones urbanos y rurales 8/2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/2dc7c8b3-d8ff-4b99-8bbd-981fc810806d/download/datos-abiertos-dnc-2021-08.zip",
+            "formato": "ZIP",
+            "tamaño": 85614477,
+            "creado": "2021-08-13T18:58:31.333652"
+          },
+          {
+            "id": "e1780421-d8fd-443d-97c2-cdfc55ac4a42",
+            "nombre": "Padrones urbanos y rurales 9/2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/e1780421-d8fd-443d-97c2-cdfc55ac4a42/download/metadatos-dnc-2021-09.pdf",
+            "formato": "PDF",
+            "tamaño": 66494,
+            "creado": "2021-09-10T19:25:22.235550"
+          },
+          {
+            "id": "35dfe9a7-7bef-44a5-b7fb-e7ef2db809d1",
+            "nombre": "Metadatos de padrones urbanos y rurales 9/2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/35dfe9a7-7bef-44a5-b7fb-e7ef2db809d1/download/datos-abiertos-dnc-2021-09.zip",
+            "formato": "ZIP",
+            "tamaño": 85688131,
+            "creado": "2021-09-10T19:25:38.646195"
+          },
+          {
+            "id": "80ed0a55-4d0f-4993-a253-7041bd5d8e0c",
+            "nombre": "Metadatos de padrones urbanos y rurales 10/2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/80ed0a55-4d0f-4993-a253-7041bd5d8e0c/download/datos-abiertos-dnc-2021-10.zip",
+            "formato": "ZIP",
+            "tamaño": 85787349,
+            "creado": "2021-10-08T19:10:05.977745"
+          },
+          {
+            "id": "b99a787a-3a14-4c3f-8b23-f47e82b608c8",
+            "nombre": "Metadatos de padrones urbanos y rurales 10/2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/b99a787a-3a14-4c3f-8b23-f47e82b608c8/download/metadatos-dnc-2021-10.pdf",
+            "formato": "PDF",
+            "tamaño": 66494,
+            "creado": "2021-10-08T19:44:23.999589"
+          },
+          {
+            "id": "dffce427-a444-4c4d-bc92-0374574e10f4",
+            "nombre": "Metadatos de padrones urbanos y rurales 11/2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/dffce427-a444-4c4d-bc92-0374574e10f4/download/metadatos-dnc-2021-11.pdf",
+            "formato": "PDF",
+            "tamaño": 66494,
+            "creado": "2021-11-10T19:11:57.199367"
+          },
+          {
+            "id": "3590dbb6-cfae-48a3-ba48-d9c8ae18532f",
+            "nombre": "Metadatos de padrones urbanos y rurales 12/2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/3590dbb6-cfae-48a3-ba48-d9c8ae18532f/download/metadatos-dnc-2021-12.pdf",
+            "formato": "PDF",
+            "tamaño": 66494,
+            "creado": "2021-12-10T18:57:38.217855"
+          },
+          {
+            "id": "b05e3840-ec52-4bc6-b1da-0b1a6a04bc69",
+            "nombre": "Metadatos de padrones urbanos y rurales 12/2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/b05e3840-ec52-4bc6-b1da-0b1a6a04bc69/download/datos-abiertos-dnc-2021-12.zip",
+            "formato": "ZIP",
+            "tamaño": 71204909,
+            "creado": "2021-12-10T19:00:21.585273"
+          },
+          {
+            "id": "3906a2d5-26fa-4787-9529-8b85f61cd3db",
+            "nombre": "Metadatos de padrones urbanos y rurales 01/2022",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/3906a2d5-26fa-4787-9529-8b85f61cd3db/download/metadatos-dnc-2022-01.pdf",
+            "formato": "PDF",
+            "tamaño": 66494,
+            "creado": "2022-01-07T18:14:18.033584"
+          },
+          {
+            "id": "311521e3-c054-4f75-9b69-48709d122280",
+            "nombre": "Metadatos de padrones urbanos y rurales 01/2022",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/311521e3-c054-4f75-9b69-48709d122280/download/datos-abiertos-dnc-2022-01.zip",
+            "formato": "ZIP",
+            "tamaño": 76476037,
+            "creado": "2022-01-07T18:28:09.558425"
+          },
+          {
+            "id": "4ad8260b-aec8-4f24-bdc6-8d19a72ef258",
+            "nombre": "Metadatos de padrones urbanos y rurales 02/2022",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/4ad8260b-aec8-4f24-bdc6-8d19a72ef258/download/metadatos-dnc-2022-02.pdf",
+            "formato": "PDF",
+            "tamaño": 66494,
+            "creado": "2022-02-11T19:28:57.569071"
+          },
+          {
+            "id": "df03bc21-80e0-4808-9802-6fe3080c9137",
+            "nombre": "Metadatos de padrones urbanos y rurales 02/2022",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/df03bc21-80e0-4808-9802-6fe3080c9137/download/datos-abiertos-dnc-2022-02.zip",
+            "formato": "ZIP",
+            "tamaño": 90965563,
+            "creado": "2022-02-11T19:29:01.771481"
+          },
+          {
+            "id": "4e30d589-5105-49c0-b308-8635a1438f21",
+            "nombre": "Metadatos de padrones urbanos y rurales 03/2022",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/4e30d589-5105-49c0-b308-8635a1438f21/download/datos-abiertos-dnc-2022-03.zip",
+            "formato": "ZIP",
+            "tamaño": 91077493,
+            "creado": "2022-03-11T16:08:54.646713"
+          },
+          {
+            "id": "2dd39955-94d2-4b45-ba4d-56780e319bd5",
+            "nombre": "Metadatos de padrones urbanos y rurales 03/2022",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/2dd39955-94d2-4b45-ba4d-56780e319bd5/download/metadatos-dnc-2022-03.pdf",
+            "formato": "PDF",
+            "tamaño": 66494,
+            "creado": "2022-03-11T16:09:09.211418"
+          },
+          {
+            "id": "c9820417-1ab5-461e-accf-35c7cf4b7be9",
+            "nombre": "Metadatos de padrones urbanos y rurales 04/2022",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/c9820417-1ab5-461e-accf-35c7cf4b7be9/download/metadatos-dnc-2022-04.pdf",
+            "formato": "PDF",
+            "tamaño": 66494,
+            "creado": "2022-04-08T19:23:03.019955"
+          },
+          {
+            "id": "4212e31d-398c-4b3d-b077-d9a834c1460f",
+            "nombre": "Metadatos de padrones urbanos y rurales 04/2022",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/4212e31d-398c-4b3d-b077-d9a834c1460f/download/datos-abiertos-dnc-2022-04.zip",
+            "formato": "ZIP",
+            "tamaño": 90534403,
+            "creado": "2022-04-08T19:24:11.630533"
+          },
+          {
+            "id": "581c0e2e-5697-4537-a4aa-482e7c77d516",
+            "nombre": "Metadatos de padrones urbanos y rurales 05/2022",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/581c0e2e-5697-4537-a4aa-482e7c77d516/download/metadatos-dnc-2022-05.pdf",
+            "formato": "PDF",
+            "tamaño": 66494,
+            "creado": "2022-05-18T19:24:58.898040"
+          },
+          {
+            "id": "71a25f34-ae1f-44a6-ae89-6fd645a844bf",
+            "nombre": "Metadatos de padrones urbanos y rurales 05/2022",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/71a25f34-ae1f-44a6-ae89-6fd645a844bf/download/datos-abiertos-dnc-2022-05.zip",
+            "formato": "ZIP",
+            "tamaño": 90379834,
+            "creado": "2022-05-18T19:25:30.030172"
+          },
+          {
+            "id": "bc80b0ce-ab7a-469e-b470-274097991d67",
+            "nombre": "Metadatos de padrones urbanos y rurales 06/2022",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/bc80b0ce-ab7a-469e-b470-274097991d67/download/metadatos-dnc-2022-06.pdf",
+            "formato": "PDF",
+            "tamaño": 66494,
+            "creado": "2022-06-10T19:45:57.012356"
+          },
+          {
+            "id": "3c74e76c-25d6-4819-8bd2-def35cc09881",
+            "nombre": "Metadatos de padrones urbanos y rurales 06/2022",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/3c74e76c-25d6-4819-8bd2-def35cc09881/download/datos-abiertos-dnc-2022-06.zip",
+            "formato": "ZIP",
+            "tamaño": 91167365,
+            "creado": "2022-06-10T19:47:25.245135"
+          },
+          {
+            "id": "4e44124f-292f-4021-aa25-63768a66760e",
+            "nombre": "Metadatos de padrones urbanos y rurales 07/2022",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/4e44124f-292f-4021-aa25-63768a66760e/download/datos-abiertos-dnc-2022-07.zip",
+            "formato": "ZIP",
+            "tamaño": 91319207,
+            "creado": "2022-07-12T04:14:38.650255"
+          },
+          {
+            "id": "abf73dcd-a428-44c9-9c71-549b7e258c29",
+            "nombre": "Metadatos de padrones urbanos y rurales 07/2022",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/abf73dcd-a428-44c9-9c71-549b7e258c29/download/metadatos-dnc-2022-07.pdf",
+            "formato": "PDF",
+            "tamaño": 66494,
+            "creado": "2022-07-12T04:16:02.112552"
+          },
+          {
+            "id": "2d22da19-530d-46ce-8381-9f3d410e54b7",
+            "nombre": "metadatos-dnc-2022-08.pdf",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/2d22da19-530d-46ce-8381-9f3d410e54b7/download/metadatos-dnc-2022-08.pdf",
+            "formato": "PDF",
+            "tamaño": 66494,
+            "creado": "2022-08-12T20:34:14.793761"
+          },
+          {
+            "id": "4b780996-97ef-42b7-a704-3d491b601ac7",
+            "nombre": "Metadatos de padrones urbanos y rurales 08/2022",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/4b780996-97ef-42b7-a704-3d491b601ac7/download/datos-abiertos-dnc-2022-08.zip",
+            "formato": "ZIP",
+            "tamaño": 91438684,
+            "creado": "2022-08-12T20:34:43.681504"
+          },
+          {
+            "id": "e3e30755-175c-4bae-9135-ca3cda5f555c",
+            "nombre": "Metadatos de padrones urbanos y rurales 09/2022",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/e3e30755-175c-4bae-9135-ca3cda5f555c/download/metadatos-dnc-2022-09.pdf",
+            "formato": "PDF",
+            "tamaño": 66494,
+            "creado": "2022-09-13T15:20:59.843969"
+          },
+          {
+            "id": "be9d1655-d512-422a-9240-653fe8a17940",
+            "nombre": "Datos de padrones urbanos y rurales 09/2022",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/be9d1655-d512-422a-9240-653fe8a17940/download/datos-abiertos-dnc-2022-09.zip",
+            "formato": "csv zip",
+            "tamaño": 91556441,
+            "creado": "2022-09-13T15:22:54.367226"
+          },
+          {
+            "id": "88f1554a-67e4-4476-aee4-10cbffef406e",
+            "nombre": "Datos de padrones urbanos y rurales 05/2023",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/88f1554a-67e4-4476-aee4-10cbffef406e/download/datosabiertosdnc2023-05.zip",
+            "formato": "csv zip",
+            "tamaño": 90035591,
+            "creado": "2023-05-10T20:28:09.785489"
+          },
+          {
+            "id": "2c882d49-d3fa-4cbd-b1bb-e10f22a8c72d",
+            "nombre": "DatosAbiertosDNC(2023-06).zip",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/2c882d49-d3fa-4cbd-b1bb-e10f22a8c72d/download/datosabiertosdnc2023-06.zip",
+            "formato": "csv zip",
+            "tamaño": 90211257,
+            "creado": "2023-06-14T20:39:35.030951"
+          },
+          {
+            "id": "46605fbc-7b94-4ba9-971e-c029c63b9b61",
+            "nombre": "metadatos-dnc-1.0.pdf",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/46605fbc-7b94-4ba9-971e-c029c63b9b61/download/metadatos-dnc-1.0.pdf",
+            "formato": "PDF",
+            "tamaño": 66494,
+            "creado": "2023-06-14T20:44:32.710949"
+          },
+          {
+            "id": "2cabc195-7693-49c7-852a-31ee60cc4d56",
+            "nombre": "DatosAbiertosDNC(2023-07).zip",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/2cabc195-7693-49c7-852a-31ee60cc4d56/download/datosabiertosdnc2023-07.zip",
+            "formato": "ZIP",
+            "tamaño": 90222369,
+            "creado": "2023-07-10T20:38:45.937487"
+          },
+          {
+            "id": "6989a003-67be-49f1-a0b7-ead58bba3858",
+            "nombre": "DatosAbiertosDNC(2023-08).zip",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/6989a003-67be-49f1-a0b7-ead58bba3858/download/datosabiertosdnc2023-08.zip",
+            "formato": "csv zip",
+            "tamaño": 89204181,
+            "creado": "2023-08-10T20:46:53.666023"
+          },
+          {
+            "id": "2007e06c-7fa4-4451-a596-e432c402c01c",
+            "nombre": "Datos de padrones urbanos y rurales 09/2023",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/2007e06c-7fa4-4451-a596-e432c402c01c/download/datosabiertosdnc2023-09.zip",
+            "formato": "csv zip",
+            "tamaño": 74703377,
+            "creado": "2023-09-11T20:57:59.172562"
+          },
+          {
+            "id": "b2f14a0f-d021-4d4d-8061-4e4b4be1c953",
+            "nombre": "Datos de padrones urbanos y rurales 10/2023",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/b2f14a0f-d021-4d4d-8061-4e4b4be1c953/download/datosabiertosdnc2023-10.zip",
+            "formato": "csv zip",
+            "tamaño": 89525274,
+            "creado": "2023-10-13T20:37:04.854717"
+          },
+          {
+            "id": "d5646fe2-eeeb-4d09-aae0-bb35b08d496a",
+            "nombre": "Datos de padrones urbanos y rurales 11/2023",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/d5646fe2-eeeb-4d09-aae0-bb35b08d496a/download/datosabiertosdnc2023-11.zip",
+            "formato": "csv zip",
+            "tamaño": 89693734,
+            "creado": "2023-11-15T21:21:28.602333"
+          },
+          {
+            "id": "1f01aa13-147d-42c0-b37c-4a026de2e613",
+            "nombre": "Datos de padrones urbanos y rurales 12/2023",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/1f01aa13-147d-42c0-b37c-4a026de2e613/download/datosabiertosdnc2023-12.zip",
+            "formato": "csv zip",
+            "tamaño": 89999707,
+            "creado": "2023-12-13T20:08:41.782090"
+          },
+          {
+            "id": "66332c36-96d4-45b6-ab1c-17552076554f",
+            "nombre": "Datos de padrones urbanos y rurales 01/2024",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/66332c36-96d4-45b6-ab1c-17552076554f/download/datosabiertosdnc2024-01.zip",
+            "formato": "csv zip",
+            "tamaño": 85675551,
+            "creado": "2024-01-15T20:51:08.901480"
+          },
+          {
+            "id": "398a38ce-d2da-45a5-b910-c6bccc3837c6",
+            "nombre": "Datos de padrones urbanos y rurales 02/2024",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/398a38ce-d2da-45a5-b910-c6bccc3837c6/download/datosabiertosdnc2024-02.zip",
+            "formato": "csv zip",
+            "tamaño": 85775542,
+            "creado": "2024-02-09T21:54:14.261978"
+          },
+          {
+            "id": "bcc0c2d1-de18-4053-84f9-874bff6c6315",
+            "nombre": "Datos de padrones urbanos y rurales 03/2024",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/bcc0c2d1-de18-4053-84f9-874bff6c6315/download/datosabiertosdnc2024-03.zip",
+            "formato": "zip csv",
+            "tamaño": 85871683,
+            "creado": "2024-03-15T21:00:21.653672"
+          },
+          {
+            "id": "58b7caac-c967-499b-802b-ec9393341b7c",
+            "nombre": "Datos de padrones urbanos y rurales 04/2024",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/58b7caac-c967-499b-802b-ec9393341b7c/download/datosabiertosdnc2024-04.zip",
+            "formato": "zip csv",
+            "tamaño": 85971048,
+            "creado": "2024-04-12T14:47:00.792151"
+          },
+          {
+            "id": "f19c2787-9822-48d9-bafa-44a92415ae26",
+            "nombre": "Datos de padrones urbanos y rurales 05/2024",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/f19c2787-9822-48d9-bafa-44a92415ae26/download/datosabiertosdnc2024-05.zip",
+            "formato": "zip csv",
+            "tamaño": 88430917,
+            "creado": "2024-05-16T17:28:54.296852"
+          },
+          {
+            "id": "d6630411-3ca4-40b0-addb-ce00ea43dfb5",
+            "nombre": "Datos de padrones urbanos y rurales 06/2024",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/d6630411-3ca4-40b0-addb-ce00ea43dfb5/download/datosabiertosdnc2024-06.zip",
+            "formato": "zip csv",
+            "tamaño": 86273944,
+            "creado": "2024-06-18T19:10:26.977797"
+          },
+          {
+            "id": "adbe45d0-833e-42ce-8fa6-49bc40117a87",
+            "nombre": "Datos de padrones urbanos y rurales 07/2024",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/adbe45d0-833e-42ce-8fa6-49bc40117a87/download/datosabiertosdnc2024-07.zip",
+            "formato": "zip csv",
+            "tamaño": 86314144,
+            "creado": "2024-07-16T20:54:38.833298"
+          },
+          {
+            "id": "c0b91948-9013-44f0-94cd-89dc8b1f1c4b",
+            "nombre": "Datos de padrones urbanos y rurales 08/2024",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/c0b91948-9013-44f0-94cd-89dc8b1f1c4b/download/datosabiertosdnc2024-08.zip",
+            "formato": "zip csv",
+            "tamaño": 86444661,
+            "creado": "2024-08-20T14:40:43.189072"
+          },
+          {
+            "id": "14a3e2e5-a7c4-4795-8baf-f56691765d8e",
+            "nombre": "Datos de padrones urbanos y rurales 09/2024",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/14a3e2e5-a7c4-4795-8baf-f56691765d8e/download/datosabiertosdnc2024-09.zip",
+            "formato": "csv zip",
+            "tamaño": 86605231,
+            "creado": "2024-09-20T19:05:20.765241"
+          },
+          {
+            "id": "e71f6d78-d8aa-4ff0-a01d-92aea1fa1c9c",
+            "nombre": "Datos de padrones urbanos y rurales 10/2024",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/e71f6d78-d8aa-4ff0-a01d-92aea1fa1c9c/download/datosabiertosdnc2024-10.zip",
+            "formato": "zip csv",
+            "tamaño": 86687929,
+            "creado": "2024-10-14T16:27:18.216494"
+          },
+          {
+            "id": "c2fb8719-d230-43fc-8ceb-fc2a9f51664a",
+            "nombre": "Datos de padrones urbanos y rurales 11/2024",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/c2fb8719-d230-43fc-8ceb-fc2a9f51664a/download/datosabiertosdnc2024-11.zip",
+            "formato": "zip csv",
+            "tamaño": 83242333,
+            "creado": "2024-11-13T12:39:37.942009"
+          },
+          {
+            "id": "cc38759a-0ed1-43d1-a1b8-3c4f9e0a1ea4",
+            "nombre": "Datos de padrones urbanos y rurales 12/2024 ",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/cc38759a-0ed1-43d1-a1b8-3c4f9e0a1ea4/download/datosabiertosdnc2024-12.zip",
+            "formato": "zip csv",
+            "tamaño": 86967624,
+            "creado": "2024-12-09T15:22:44.001062"
+          },
+          {
+            "id": "33e30ede-379f-4c8b-b132-8ee1e86190cf",
+            "nombre": "Datos de padrones urbanos y rurales 01/2025",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/33e30ede-379f-4c8b-b132-8ee1e86190cf/download/datosabiertosdnc2025-01.zip",
+            "formato": "zip csv",
+            "tamaño": 87542774,
+            "creado": "2025-01-23T18:08:27.620952"
+          },
+          {
+            "id": "6adb7ed0-6055-4bf6-b380-b05a66c05c06",
+            "nombre": "Datos de padrones urbanos y rurales 02/2025",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/6adb7ed0-6055-4bf6-b380-b05a66c05c06/download/datosabiertosdnc2025-02.zip",
+            "formato": "zip csv",
+            "tamaño": 159278637,
+            "creado": "2025-02-06T14:19:03.228213"
+          },
+          {
+            "id": "1b159b02-0997-42d7-ae2a-530a9080d0d0",
+            "nombre": "Datos de padrones urbanos y rurales 03/2025",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/1b159b02-0997-42d7-ae2a-530a9080d0d0/download/datosabiertosdnc2025-03.zip",
+            "formato": "zip csv",
+            "tamaño": 89353298,
+            "creado": "2025-03-25T14:42:50.593519"
+          },
+          {
+            "id": "390bf517-24ee-44f5-9df4-5a44b24bd6cf",
+            "nombre": "Datos de padrones urbanos y rurales 04/2025",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/390bf517-24ee-44f5-9df4-5a44b24bd6cf/download/datosabiertosdnc2025-04.zip",
+            "formato": "csv zip",
+            "tamaño": 86389362,
+            "creado": "2025-04-04T13:44:11.580798"
+          },
+          {
+            "id": "aad57e56-35fb-4ac7-afa7-a37afcb0b361",
+            "nombre": "Datos de padrones urbanos y rurales 05/2024",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/aad57e56-35fb-4ac7-afa7-a37afcb0b361/download/datosabiertosdnc2025-04.zip",
+            "formato": "csv zip",
+            "tamaño": 86389362,
+            "creado": "2025-04-04T13:51:09.945412"
+          },
+          {
+            "id": "8f9655e7-c5da-4b06-a607-00923a37731d",
+            "nombre": "Datos de padrones urbanos y rurales 05/2025",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/8f9655e7-c5da-4b06-a607-00923a37731d/download/datosabiertosdnc2025-05.zip",
+            "formato": "csv zip",
+            "tamaño": 81166457,
+            "creado": "2025-05-19T17:11:59.060197"
+          },
+          {
+            "id": "377da17f-a657-42b5-a855-5ef4662804e2",
+            "nombre": "Datos de padrones urbanos y rurales 06/2025",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/377da17f-a657-42b5-a855-5ef4662804e2/download/datosabiertosdnc2025-06.zip",
+            "formato": "zip csv",
+            "tamaño": 86626869,
+            "creado": "2025-06-11T14:43:14.089586"
+          },
+          {
+            "id": "0dd4d57b-e6d7-4be6-ad12-9190d16a2275",
+            "nombre": "Datos de padrones urbanos y rurales 07/2025",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/0dd4d57b-e6d7-4be6-ad12-9190d16a2275/download/datosabiertosdnc2025-07.zip",
+            "formato": "zip csv",
+            "tamaño": 86761094,
+            "creado": "2025-07-02T18:39:58.244223"
+          },
+          {
+            "id": "8f338440-d9c3-487f-bcfb-9a09b29d1313",
+            "nombre": "Datos de padrones urbanos y rurales 08/2025",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/8f338440-d9c3-487f-bcfb-9a09b29d1313/download/datosabiertosdnc2025-08.zip",
+            "formato": "csv zip",
+            "tamaño": 86899876,
+            "creado": "2025-08-14T16:55:43.428074"
+          },
+          {
+            "id": "0e07fa24-140a-4270-911d-93f54347223e",
+            "nombre": "Datos de padrones urbanos y rurales 09/2025",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/0e07fa24-140a-4270-911d-93f54347223e/download/datosabiertosdnc2025-09.zip",
+            "formato": "csv zip",
+            "tamaño": 86237830,
+            "creado": "2025-09-18T13:54:24.995477"
+          },
+          {
+            "id": "fe0d884e-3457-4ac1-ba9a-29b40b01abb7",
+            "nombre": "Datos de padrones urbanos y rurales 10/2025",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/fe0d884e-3457-4ac1-ba9a-29b40b01abb7/download/datosabiertosdnc2025-10.zip",
+            "formato": "csv zip",
+            "tamaño": 86367247,
+            "creado": "2025-10-06T14:09:18.489851"
+          },
+          {
+            "id": "95e0ae0a-4cd4-46c8-8bab-16ca745ee7ce",
+            "nombre": "Datos de padrones urbanos y rurales 11/2025",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/95e0ae0a-4cd4-46c8-8bab-16ca745ee7ce/download/datosabiertosdnc2025-11.zip",
+            "formato": "csv zip",
+            "tamaño": 86117313,
+            "creado": "2025-11-06T13:50:31.075500"
+          },
+          {
+            "id": "291b0676-1e68-4951-8108-6563d27c5291",
+            "nombre": "Datos de padrones urbanos y rurales 12/2025",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/291b0676-1e68-4951-8108-6563d27c5291/download/datosabiertosdnc2025-12.zip",
+            "formato": "zip csv",
+            "tamaño": 86107594,
+            "creado": "2025-12-10T16:27:18.709209"
+          },
+          {
+            "id": "62777f18-7cc4-4757-8abb-53ff377b3476",
+            "nombre": "Datos de padrones urbanos y rurales 01/2026",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/62777f18-7cc4-4757-8abb-53ff377b3476/download/datosabiertosdnc2026-01.zip",
+            "formato": "zip csv",
+            "tamaño": 83128771,
+            "creado": "2026-01-14T15:02:08.441278"
+          },
+          {
+            "id": "348d6942-1099-42f9-beee-df16d19f7f6f",
+            "nombre": "Datos de padrones urbanos y rurales 02/2026",
+            "url": "https://catalogodatos.gub.uy/dataset/a0ff3085-b886-454b-8e8b-88f59bd980cc/resource/348d6942-1099-42f9-beee-df16d19f7f6f/download/datosabiertosdnc2026-02.zip",
+            "formato": "csv zip",
+            "tamaño": 86590409,
+            "creado": "2026-02-10T15:14:45.404855"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:33.054Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/direccion-nacional-de-catastro-padrones-urbanos-y-rurales",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "3b11094122b5923ae3328e1e49dbf790a2875b6984bd00034b724102806c4f4e"
+        }
+      },
+      {
+        "id": "9e0dc092-a669-4697-b3ba-88808165c902",
+        "nombre": "Shapes del parcelario rural y urbano",
+        "slug": "direccion-nacional-de-catastro-shapes-del-parcelario-rural-y-urbano",
+        "organismo": {
+          "id": "direccion-nacional-de-catastro",
+          "nombre": "Dirección Nacional de Catastro",
+          "tipo": "organization"
+        },
+        "descripcion": "Archivos shape para descargar de los parcelarios catastrales del Uruguay.",
+        "etiquetas": [
+          "Catastro",
+          "Parcelario"
+        ],
+        "grupos": [
+          "Geográficos"
+        ],
+        "creado": "2016-07-26T19:30:01.525227",
+        "modificado": "2026-02-04T16:58:55.221472",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "3d211675-14a6-4e69-bc0b-6cc549060633",
+            "nombre": "Total País - Urbano",
+            "url": "https://catalogodatos.gub.uy/dataset/9e0dc092-a669-4697-b3ba-88808165c902/resource/3d211675-14a6-4e69-bc0b-6cc549060633/download/paisurbano_shp.zip",
+            "formato": "SHP",
+            "tamaño": 111957636,
+            "creado": "2016-07-26T16:47:56.841536"
+          },
+          {
+            "id": "2073596d-f122-4030-9eb4-eaca1cdf1e9c",
+            "nombre": "Total País - Rural",
+            "url": "https://catalogodatos.gub.uy/dataset/9e0dc092-a669-4697-b3ba-88808165c902/resource/2073596d-f122-4030-9eb4-eaca1cdf1e9c/download/paisrural_shp.zip",
+            "formato": "SHP",
+            "tamaño": 173595275,
+            "creado": "2018-06-11T19:00:30.440103"
+          },
+          {
+            "id": "5ab54026-7ce8-4604-be54-17dcde0a02be",
+            "nombre": "Total País - Secciones Catastrales",
+            "url": "https://catalogodatos.gub.uy/dataset/9e0dc092-a669-4697-b3ba-88808165c902/resource/5ab54026-7ce8-4604-be54-17dcde0a02be/download/paisseccat_shp.zip",
+            "formato": "SHP",
+            "tamaño": 51359259,
+            "creado": "2018-06-12T20:11:58.953201"
+          },
+          {
+            "id": "510012c9-12b0-4e96-9dbb-52bb10180a91",
+            "nombre": "Total País - Localidades",
+            "url": "https://catalogodatos.gub.uy/dataset/9e0dc092-a669-4697-b3ba-88808165c902/resource/510012c9-12b0-4e96-9dbb-52bb10180a91/download/paislocalidades_shp.zip",
+            "formato": "SHP",
+            "tamaño": 413942,
+            "creado": "2018-06-12T20:13:45.549784"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:33.054Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/direccion-nacional-de-catastro-shapes-del-parcelario-rural-y-urbano",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "0fbcb516fb2cf0794f252cd4b000bcc88f64f5da884754ce1682bad1b6ed3251"
+        }
+      },
+      {
+        "id": "46d904d5-8901-4324-bc74-1ada8e4196b5",
+        "nombre": "DXF del parcelario urbano y rural",
+        "slug": "direccion-nacional-de-catastro-dxf-del-parcelario-urbano-y-rural",
+        "organismo": {
+          "id": "direccion-nacional-de-catastro",
+          "nombre": "Dirección Nacional de Catastro",
+          "tipo": "organization"
+        },
+        "descripcion": "Archivos de intercambio DXF para descargar de los parcelarios catastrales del Uruguay. Parcelarios Urbanos y Rurales de todos los padrones del país.",
+        "etiquetas": [
+          "Cartografía",
+          "Parcelario"
+        ],
+        "grupos": [
+          "Geográficos"
+        ],
+        "creado": "2018-06-05T20:04:06.376894",
+        "modificado": "2026-01-09T17:38:11.261596",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "426295f1-0761-46ad-9844-8d2c8c8236f7",
+            "nombre": "Total País URBANO",
+            "url": "https://catalogodatos.gub.uy/dataset/46d904d5-8901-4324-bc74-1ada8e4196b5/resource/426295f1-0761-46ad-9844-8d2c8c8236f7/download/paisurbano_dxf.zip",
+            "formato": "DXF",
+            "tamaño": 152289990,
+            "creado": "2018-06-15T19:31:25.039699"
+          },
+          {
+            "id": "582e4899-71fe-4e4f-a06f-2ab6de2a28cb",
+            "nombre": "Total País RURAL",
+            "url": "https://catalogodatos.gub.uy/dataset/46d904d5-8901-4324-bc74-1ada8e4196b5/resource/582e4899-71fe-4e4f-a06f-2ab6de2a28cb/download/paisrural_dxf.zip",
+            "formato": "DXF",
+            "tamaño": 183454351,
+            "creado": "2018-06-15T19:32:26.060485"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:33.054Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/direccion-nacional-de-catastro-dxf-del-parcelario-urbano-y-rural",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "e590e48de3c2225bdf54dd57ada8a80ea13eccb7acdde8b2746367531ad0e83f"
+        }
+      }
+    ]
+  },
+  "hash": "7674c0ba63f7b7f20c6d6b54bf81ecbcc94d05a4b7ea86d7cda29c314b681b5b",
+  "firma": "c0fda93397c06bbf80a702b1b84df437c9219466086df54f4b6869e59500a55c"
+}

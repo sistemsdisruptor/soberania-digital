@@ -1,0 +1,1152 @@
+{
+  "id": "cb8acc02af05402d5caa5b463ed11e23",
+  "timestamp": "2026-03-06T23:09:34.787Z",
+  "datos": {
+    "organismo": "dna",
+    "total": 18,
+    "datasets": [
+      {
+        "id": "d90650d8-d02d-43d8-9275-73048634a18b",
+        "nombre": "Capacitaciones",
+        "slug": "dna-capacitaciones",
+        "organismo": {
+          "id": "dna",
+          "nombre": "DNA",
+          "tipo": "organization"
+        },
+        "descripcion": "Listado de programas de capacitación, número de funcionarios capacitados así como sus evaluaciones",
+        "etiquetas": [
+          "Capacitaciones",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2024-12-26T14:49:54.428204",
+        "modificado": "2026-02-09T19:36:30.322122",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "ea2a231d-8f17-4216-870c-08c495c1b42f",
+            "nombre": "Capacitaciones realizadas",
+            "url": "https://catalogodatos.gub.uy/dataset/d90650d8-d02d-43d8-9275-73048634a18b/resource/ea2a231d-8f17-4216-870c-08c495c1b42f/download/datos-de-capacitaciones-realizadas.xlsx",
+            "formato": "XLSX",
+            "tamaño": 26928,
+            "creado": "2024-12-26T14:49:56.253161"
+          },
+          {
+            "id": "af8a0c6f-bf2d-4c09-ae35-cfeef6ef7fb3",
+            "nombre": "Capacitaciones realizadas",
+            "url": "https://catalogodatos.gub.uy/dataset/d90650d8-d02d-43d8-9275-73048634a18b/resource/af8a0c6f-bf2d-4c09-ae35-cfeef6ef7fb3/download/datos-de-capacitaciones-realizadas.csv",
+            "formato": "CSV",
+            "tamaño": 24477,
+            "creado": "2024-12-26T14:49:56.726879"
+          },
+          {
+            "id": "7d88ed40-ab25-4dbf-a902-76ab0e996818",
+            "nombre": "Capacitaciones realizadas",
+            "url": "https://catalogodatos.gub.uy/dataset/d90650d8-d02d-43d8-9275-73048634a18b/resource/7d88ed40-ab25-4dbf-a902-76ab0e996818/download/datos-de-capacitaciones-realizadas.xml",
+            "formato": "XML",
+            "tamaño": 51725,
+            "creado": "2024-12-26T14:49:57.408925"
+          },
+          {
+            "id": "63c4d059-920e-48b6-a7bb-28702c7420e9",
+            "nombre": "Metadatos de capacitaciones realizadas",
+            "url": "https://catalogodatos.gub.uy/dataset/d90650d8-d02d-43d8-9275-73048634a18b/resource/63c4d059-920e-48b6-a7bb-28702c7420e9/download/metadatos_datos-de-capacitaciones-realizadas.json",
+            "formato": "JSON",
+            "tamaño": 4163,
+            "creado": "2024-12-26T14:49:57.894577"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:34.786Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/dna-capacitaciones",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "79f2ce155c495912db2275a91652aecedf1978c97e0b29640c0efd240c99eaa8"
+        }
+      },
+      {
+        "id": "96cab02c-2629-455d-9555-c72dcdde1b7d",
+        "nombre": "Resoluciones",
+        "slug": "dna-resoluciones",
+        "organismo": {
+          "id": "dna",
+          "nombre": "DNA",
+          "tipo": "organization"
+        },
+        "descripcion": "Datos de resoluciones y otros dictámenes que emanen de la máxima jerarquía del Organismo (jerarca, sesiones de comisión, de directorio, de plenario, de asamblea, etc.)",
+        "etiquetas": [
+          "Resoluciones",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2024-11-06T14:56:19.737688",
+        "modificado": "2026-02-09T19:32:49.920598",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "a01c67a0-666e-445f-ad66-34cc5309cf97",
+            "nombre": "Resoluciones y otros dictámenes",
+            "url": "https://catalogodatos.gub.uy/dataset/96cab02c-2629-455d-9555-c72dcdde1b7d/resource/a01c67a0-666e-445f-ad66-34cc5309cf97/download/datos-de-las-resoluciones-y-otros-dictamenes.xlsx",
+            "formato": "XLSX",
+            "tamaño": 37001,
+            "creado": "2024-11-06T14:56:21.482917"
+          },
+          {
+            "id": "587a1880-f658-4fb1-8b60-935100eba0a8",
+            "nombre": "Resoluciones y otros dictámenes",
+            "url": "https://catalogodatos.gub.uy/dataset/96cab02c-2629-455d-9555-c72dcdde1b7d/resource/587a1880-f658-4fb1-8b60-935100eba0a8/download/datos-de-las-resoluciones-y-otros-dictamenes.csv",
+            "formato": "CSV",
+            "tamaño": 68541,
+            "creado": "2024-11-06T14:56:22.103241"
+          },
+          {
+            "id": "c1916c2b-2df0-47f5-b37e-f8246ebff9ef",
+            "nombre": "Resoluciones y otros dictámenes",
+            "url": "https://catalogodatos.gub.uy/dataset/96cab02c-2629-455d-9555-c72dcdde1b7d/resource/c1916c2b-2df0-47f5-b37e-f8246ebff9ef/download/datos-de-las-resoluciones-y-otros-dictamenes.xml",
+            "formato": "XML",
+            "tamaño": 124539,
+            "creado": "2024-11-06T14:56:22.829420"
+          },
+          {
+            "id": "a9778f0f-3b2b-454c-8799-4e5dc9158d8a",
+            "nombre": "Metadatos de resoluciones y otros dictámenes",
+            "url": "https://catalogodatos.gub.uy/dataset/96cab02c-2629-455d-9555-c72dcdde1b7d/resource/a9778f0f-3b2b-454c-8799-4e5dc9158d8a/download/metadatos_datos-de-las-resoluciones-y-otros-dictamenes.json",
+            "formato": "JSON",
+            "tamaño": 3011,
+            "creado": "2024-11-06T14:56:23.345635"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:34.786Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/dna-resoluciones",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "df0f3dcef63226dd141e2d3885d8248463d9c550bb7ed5d081a59ed8d8a73949"
+        }
+      },
+      {
+        "id": "5ce1737a-4e77-4567-b4b0-d6d2c3a5c2a3",
+        "nombre": "Remuneraciones",
+        "slug": "dna-remuneraciones",
+        "organismo": {
+          "id": "dna",
+          "nombre": "DNA",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto presenta la información sobre el sistema de remuneraciones de los funcionarios.",
+        "etiquetas": [
+          "Remuneraciones",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2024-12-26T15:42:43.541314",
+        "modificado": "2026-02-09T19:32:12.109092",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "58adee25-1d5f-45b8-a712-ebbc2c0d03e4",
+            "nombre": "Remuneraciones del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/5ce1737a-4e77-4567-b4b0-d6d2c3a5c2a3/resource/58adee25-1d5f-45b8-a712-ebbc2c0d03e4/download/datos-de-las-remuneraciones-del-organismo.xlsx",
+            "formato": "XLSX",
+            "tamaño": 17893,
+            "creado": "2024-12-26T15:42:45.189624"
+          },
+          {
+            "id": "35006539-304f-4003-ae64-8cfa488be144",
+            "nombre": "Remuneraciones del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/5ce1737a-4e77-4567-b4b0-d6d2c3a5c2a3/resource/35006539-304f-4003-ae64-8cfa488be144/download/datos-de-las-remuneraciones-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 17494,
+            "creado": "2024-12-26T15:42:45.732876"
+          },
+          {
+            "id": "3fde283e-7d2e-427a-9363-971db8555445",
+            "nombre": "Remuneraciones del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/5ce1737a-4e77-4567-b4b0-d6d2c3a5c2a3/resource/3fde283e-7d2e-427a-9363-971db8555445/download/datos-de-las-remuneraciones-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 50636,
+            "creado": "2024-12-26T15:42:46.261566"
+          },
+          {
+            "id": "db9344c1-a453-4848-abcc-9dd72ae7f313",
+            "nombre": "Metadatos de remuneraciones del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/5ce1737a-4e77-4567-b4b0-d6d2c3a5c2a3/resource/db9344c1-a453-4848-abcc-9dd72ae7f313/download/metadatos_datos-de-las-remuneraciones-del-organismo.json",
+            "formato": "JSON",
+            "tamaño": 3053,
+            "creado": "2024-12-26T15:42:46.674826"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:34.786Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/dna-remuneraciones",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "cedb4624ff231f2e6bea27893372ef04ff3c3732b45bceffc9756eb7e5910be0"
+        }
+      },
+      {
+        "id": "4718d689-0299-4627-943f-5c33441ad15e",
+        "nombre": "Funcionarios en comisión",
+        "slug": "dna-funcionarios_en_comision",
+        "organismo": {
+          "id": "dna",
+          "nombre": "DNA",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto presenta la información relevante sobre los funcionarios en comisión provenientes de otros Organismos del Estado.",
+        "etiquetas": [
+          "Funcionarios",
+          "Funcionarios en comisión",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2024-12-26T15:05:50.983083",
+        "modificado": "2026-02-09T19:29:47.497355",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "e48371fb-52f6-4e9f-a248-b5dda5c9a62d",
+            "nombre": "Funcionarios en comisión de otros organismos",
+            "url": "https://catalogodatos.gub.uy/dataset/4718d689-0299-4627-943f-5c33441ad15e/resource/e48371fb-52f6-4e9f-a248-b5dda5c9a62d/download/datos-de-los-funcionarios-en-comision-de-otros-organismos.xlsx",
+            "formato": "XLSX",
+            "tamaño": 17244,
+            "creado": "2024-12-26T15:05:52.693982"
+          },
+          {
+            "id": "6a4236d4-d451-447b-976d-5ac8a8935825",
+            "nombre": "Funcionarios en comisión de otros organismos",
+            "url": "https://catalogodatos.gub.uy/dataset/4718d689-0299-4627-943f-5c33441ad15e/resource/6a4236d4-d451-447b-976d-5ac8a8935825/download/datos-de-los-funcionarios-en-comision-de-otros-organismos.csv",
+            "formato": "CSV",
+            "tamaño": 13786,
+            "creado": "2024-12-26T15:05:53.304858"
+          },
+          {
+            "id": "8a52f358-d92f-4194-9c87-dc8bd84a9a74",
+            "nombre": "Funcionarios en comisión de otros organismos",
+            "url": "https://catalogodatos.gub.uy/dataset/4718d689-0299-4627-943f-5c33441ad15e/resource/8a52f358-d92f-4194-9c87-dc8bd84a9a74/download/datos-de-los-funcionarios-en-comision-de-otros-organismos.xml",
+            "formato": "XML",
+            "tamaño": 35100,
+            "creado": "2024-12-26T15:05:53.864112"
+          },
+          {
+            "id": "99f0b0b0-374f-49d5-8265-ee0c0308a447",
+            "nombre": "Metadatos de funcionarios en comisión de otros organismos",
+            "url": "https://catalogodatos.gub.uy/dataset/4718d689-0299-4627-943f-5c33441ad15e/resource/99f0b0b0-374f-49d5-8265-ee0c0308a447/download/metadatos_datos-de-los-funcionarios-en-comision-de-otros-organismos.json",
+            "formato": "JSON",
+            "tamaño": 3707,
+            "creado": "2024-12-26T15:05:54.290223"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:34.786Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/dna-funcionarios_en_comision",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "1584ea4e33c2b6cdc71cf17b5172a7efd3f5a0d858ddc17418846696cd34a79a"
+        }
+      },
+      {
+        "id": "de9e3aba-c2dd-4669-8a2e-164c5fd69a5e",
+        "nombre": "Compensaciones a funcionarios en comisión",
+        "slug": "dna-compensaciones_a_funcionarios_en_comision",
+        "organismo": {
+          "id": "dna",
+          "nombre": "DNA",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto presenta la información de las compensaciones a funcionarios en comisión provenientes de otros Organismos del Estado.",
+        "etiquetas": [
+          "Compensaciones",
+          "Funcionarios",
+          "Funcionarios en comisión",
+          "Transparencia activa",
+          "compensaciones funcionarios en comision"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2024-12-26T14:55:28.101841",
+        "modificado": "2026-02-09T19:29:04.339051",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "48b45f87-4e5f-47b1-9490-2263bb066d45",
+            "nombre": "Información de Compensaciones",
+            "url": "https://catalogodatos.gub.uy/dataset/de9e3aba-c2dd-4669-8a2e-164c5fd69a5e/resource/48b45f87-4e5f-47b1-9490-2263bb066d45/download/informacion-de-compensaciones.xlsx",
+            "formato": "XLSX",
+            "tamaño": 31878,
+            "creado": "2025-01-02T18:10:44.940112"
+          },
+          {
+            "id": "0d44df80-6688-41e3-9718-c1a1c42dd09f",
+            "nombre": "Información de Compensaciones",
+            "url": "https://catalogodatos.gub.uy/dataset/de9e3aba-c2dd-4669-8a2e-164c5fd69a5e/resource/0d44df80-6688-41e3-9718-c1a1c42dd09f/download/informacion-de-compensaciones.csv",
+            "formato": "CSV",
+            "tamaño": 9736,
+            "creado": "2025-01-02T18:10:45.499457"
+          },
+          {
+            "id": "e9492cd7-4b12-467e-ba40-340ac30c4015",
+            "nombre": "Información de Compensaciones",
+            "url": "https://catalogodatos.gub.uy/dataset/de9e3aba-c2dd-4669-8a2e-164c5fd69a5e/resource/e9492cd7-4b12-467e-ba40-340ac30c4015/download/informacion-de-compensaciones.xml",
+            "formato": "XML",
+            "tamaño": 23885,
+            "creado": "2025-01-02T18:10:46.110849"
+          },
+          {
+            "id": "abed5eb9-84dd-4f96-87ef-c45f6948d460",
+            "nombre": "Metadatos de información de compensaciones",
+            "url": "https://catalogodatos.gub.uy/dataset/de9e3aba-c2dd-4669-8a2e-164c5fd69a5e/resource/abed5eb9-84dd-4f96-87ef-c45f6948d460/download/metadatos_informacion-de-compensaciones.json",
+            "formato": "JSON",
+            "tamaño": 2502,
+            "creado": "2025-01-02T18:10:46.528729"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:34.786Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/dna-compensaciones_a_funcionarios_en_comision",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "61f4fa463a027f59f0d12c51b8f12e5e282226f9191927b8552a2da8bddf0a70"
+        }
+      },
+      {
+        "id": "45861754-38e1-4216-8205-a53b8534d065",
+        "nombre": "Licitaciones",
+        "slug": "dna-licitaciones_",
+        "organismo": {
+          "id": "dna",
+          "nombre": "DNA",
+          "tipo": "organization"
+        },
+        "descripcion": "Pliegos de bases y condiciones particulares de los procedimientos licitatorios que representen gastos de funcionamiento o de inversión y las resoluciones que dispongan la adjudicación en dichos procedimientos, las que declaren desiertas o dispongan el rechazo de todas las ofertas presentadas. ",
+        "etiquetas": [
+          "Licitaciones",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2024-12-26T15:27:12.658096",
+        "modificado": "2026-01-09T19:56:14.073367",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "42675d58-8a25-4582-a5f1-c4c1c5599809",
+            "nombre": "Licitaciones del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/45861754-38e1-4216-8205-a53b8534d065/resource/42675d58-8a25-4582-a5f1-c4c1c5599809/download/datos-de-las-licitaciones-.xlsx",
+            "formato": "XLSX",
+            "tamaño": 33957,
+            "creado": "2024-12-26T15:27:14.385669"
+          },
+          {
+            "id": "a928e67e-3864-44b5-8053-625f21be33ca",
+            "nombre": "Licitaciones del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/45861754-38e1-4216-8205-a53b8534d065/resource/a928e67e-3864-44b5-8053-625f21be33ca/download/datos-de-las-licitaciones-.csv",
+            "formato": "CSV",
+            "tamaño": 48876,
+            "creado": "2024-12-26T15:27:14.943696"
+          },
+          {
+            "id": "33374b23-9525-4b29-94c7-cd93f54d27a2",
+            "nombre": "Licitaciones del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/45861754-38e1-4216-8205-a53b8534d065/resource/33374b23-9525-4b29-94c7-cd93f54d27a2/download/datos-de-las-licitaciones-.xml",
+            "formato": "XML",
+            "tamaño": 94432,
+            "creado": "2024-12-26T15:27:15.496345"
+          },
+          {
+            "id": "df97a3ed-cd46-43fa-b36f-be3db0989e40",
+            "nombre": "Metadatos de licitaciones del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/45861754-38e1-4216-8205-a53b8534d065/resource/df97a3ed-cd46-43fa-b36f-be3db0989e40/download/metadatos_datos-de-las-licitaciones-.json",
+            "formato": "JSON",
+            "tamaño": 3107,
+            "creado": "2024-12-26T15:27:15.929695"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:34.786Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/dna-licitaciones_",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "075c8bf69c3cc971551ff6247bcd348dd314a97558e02faa9a13b92bb3ac8cdb"
+        }
+      },
+      {
+        "id": "366f3902-ad6f-4f5b-8aa4-b25ad2987b48",
+        "nombre": "Auditorías",
+        "slug": "dna-auditorias",
+        "organismo": {
+          "id": "dna",
+          "nombre": "DNA",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto presenta la información sobre las auditorías del Organismo.",
+        "etiquetas": [
+          "Auditoria",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2024-12-26T14:40:03.468332",
+        "modificado": "2026-01-09T19:54:18.357719",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "3a9eb1e3-1a19-4c2e-88b0-657a0e57ae5d",
+            "nombre": "Auditorías del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/366f3902-ad6f-4f5b-8aa4-b25ad2987b48/resource/3a9eb1e3-1a19-4c2e-88b0-657a0e57ae5d/download/datos-de-las-auditorias.xlsx",
+            "formato": "XLSX",
+            "tamaño": 24911,
+            "creado": "2024-12-26T14:40:05.456921"
+          },
+          {
+            "id": "4ff815c3-493c-414a-91a0-727577185631",
+            "nombre": "Auditorías del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/366f3902-ad6f-4f5b-8aa4-b25ad2987b48/resource/4ff815c3-493c-414a-91a0-727577185631/download/datos-de-las-auditorias.csv",
+            "formato": "CSV",
+            "tamaño": 38889,
+            "creado": "2024-12-26T14:40:06.058965"
+          },
+          {
+            "id": "50620ff1-06e9-4c19-b306-717828f2fd69",
+            "nombre": "Auditorías del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/366f3902-ad6f-4f5b-8aa4-b25ad2987b48/resource/50620ff1-06e9-4c19-b306-717828f2fd69/download/datos-de-las-auditorias.xml",
+            "formato": "XML",
+            "tamaño": 70642,
+            "creado": "2024-12-26T14:40:06.646792"
+          },
+          {
+            "id": "d94bd8ca-92d7-478e-98b5-d36874d3b074",
+            "nombre": "Metadatos de auditorías del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/366f3902-ad6f-4f5b-8aa4-b25ad2987b48/resource/d94bd8ca-92d7-478e-98b5-d36874d3b074/download/metadatos_datos-de-las-auditorias.json",
+            "formato": "JSON",
+            "tamaño": 2627,
+            "creado": "2024-12-26T14:40:07.182597"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:34.786Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/dna-auditorias",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "1645da8ab5a4356e41497397c5cbb96c8f05c28090516c63910cbd20c890caf3"
+        }
+      },
+      {
+        "id": "95269998-4220-41b6-bda7-52fba57ea3fa",
+        "nombre": "Perfil de los puestos",
+        "slug": "dna-perfil_de_los_puestos",
+        "organismo": {
+          "id": "dna",
+          "nombre": "DNA",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto presenta la información sobre los diferentes puestos de trabajo y currículum actualizado de quienes ocupan aquéllos a partir del jefe de departamento, gerente, director o equivalente hasta el jerarca máximo.",
+        "etiquetas": [
+          "Perfil Puestos",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Trabajo",
+          "Transparencia"
+        ],
+        "creado": "2024-12-26T15:40:31.682100",
+        "modificado": "2025-08-06T20:16:07.840069",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "9c961a8b-5c08-4faf-a9b1-ac17061cba3f",
+            "nombre": "Perfiles",
+            "url": "https://catalogodatos.gub.uy/dataset/95269998-4220-41b6-bda7-52fba57ea3fa/resource/9c961a8b-5c08-4faf-a9b1-ac17061cba3f/download/datos-de-los-perfiles-de-los-puestos.xlsx",
+            "formato": "XLSX",
+            "tamaño": 20968,
+            "creado": "2024-12-26T15:40:33.408954"
+          },
+          {
+            "id": "d2632545-dfee-4c64-895c-80b427843130",
+            "nombre": "Perfiles",
+            "url": "https://catalogodatos.gub.uy/dataset/95269998-4220-41b6-bda7-52fba57ea3fa/resource/d2632545-dfee-4c64-895c-80b427843130/download/datos-de-los-perfiles-de-los-puestos.csv",
+            "formato": "CSV",
+            "tamaño": 23682,
+            "creado": "2024-12-26T15:40:33.925675"
+          },
+          {
+            "id": "7e34914f-5986-4761-ab15-252000be550b",
+            "nombre": "Perfiles",
+            "url": "https://catalogodatos.gub.uy/dataset/95269998-4220-41b6-bda7-52fba57ea3fa/resource/7e34914f-5986-4761-ab15-252000be550b/download/datos-de-los-perfiles-de-los-puestos.xml",
+            "formato": "XML",
+            "tamaño": 46491,
+            "creado": "2024-12-26T15:40:34.774431"
+          },
+          {
+            "id": "20368546-db8d-4cb2-b4eb-cd22810a7c04",
+            "nombre": "Metadatos de perfiles",
+            "url": "https://catalogodatos.gub.uy/dataset/95269998-4220-41b6-bda7-52fba57ea3fa/resource/20368546-db8d-4cb2-b4eb-cd22810a7c04/download/metadatos_datos-de-los-perfiles-de-los-puestos.json",
+            "formato": "JSON",
+            "tamaño": 2816,
+            "creado": "2024-12-26T15:40:35.243324"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:34.786Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/dna-perfil_de_los_puestos",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "90c58f4d2f5ee7c02a56489b72e17636e0b677cd3feb159810d96b51a0711cff"
+        }
+      },
+      {
+        "id": "e0d6824c-0dde-4f22-8f06-343ba0f33d64",
+        "nombre": "Organigrama",
+        "slug": "dna-organigrama",
+        "organismo": {
+          "id": "dna",
+          "nombre": "DNA",
+          "tipo": "organization"
+        },
+        "descripcion": "Estructura orgánica del organismo con información adicional de las distintas unidades que lo conforman y sus respectivos jerarcas.",
+        "etiquetas": [
+          "Organigrama",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2024-11-06T14:42:51.489902",
+        "modificado": "2025-08-06T20:15:30.312734",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "271dfefa-746e-4dc4-b365-91ed3baf9696",
+            "nombre": "Organigrama del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/e0d6824c-0dde-4f22-8f06-343ba0f33d64/resource/271dfefa-746e-4dc4-b365-91ed3baf9696/download/organigrama-del-organismo.xlsx",
+            "formato": "XLSX",
+            "tamaño": 30233,
+            "creado": "2024-11-06T14:42:53.318988"
+          },
+          {
+            "id": "0bb92ddf-01da-4336-812b-21488d8aeed5",
+            "nombre": "Organigrama del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/e0d6824c-0dde-4f22-8f06-343ba0f33d64/resource/0bb92ddf-01da-4336-812b-21488d8aeed5/download/organigrama-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 28928,
+            "creado": "2024-11-06T14:42:53.972844"
+          },
+          {
+            "id": "944135ef-8a9d-47cf-bd13-6c83681395c3",
+            "nombre": "Organigrama del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/e0d6824c-0dde-4f22-8f06-343ba0f33d64/resource/944135ef-8a9d-47cf-bd13-6c83681395c3/download/organigrama-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 63689,
+            "creado": "2024-11-06T14:42:54.681732"
+          },
+          {
+            "id": "bed17142-1d91-471a-bb66-cdbe8b8df3f0",
+            "nombre": "Metadatos de organigrama del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/e0d6824c-0dde-4f22-8f06-343ba0f33d64/resource/bed17142-1d91-471a-bb66-cdbe8b8df3f0/download/metadatos_organigrama-del-organismo.json",
+            "formato": "JSON",
+            "tamaño": 4975,
+            "creado": "2024-11-06T14:42:55.261263"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:34.786Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/dna-organigrama",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "525de598d9732184c163b092541f494e37d0e0d8c6a779ebecc3d8cacabe4948"
+        }
+      },
+      {
+        "id": "aea281d2-08b1-43ba-b17d-d68934bed954",
+        "nombre": "Autoridades",
+        "slug": "dna-autoridades",
+        "organismo": {
+          "id": "dna",
+          "nombre": "DNA",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto presenta la información sobre los funcionarios con cargos de jefatura a partir del jefe de departamento, gerente, director o equivalente hasta el jerarca máximo, incluyendo: nombre, domicilio postal, electrónico y números telefónicos oficiales.",
+        "etiquetas": [
+          "Autoridades",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2024-12-26T14:46:02.980585",
+        "modificado": "2025-08-06T20:14:36.856472",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "d8b88821-48a0-4cd9-92de-63c440fffe1f",
+            "nombre": "Autoridades del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/aea281d2-08b1-43ba-b17d-d68934bed954/resource/d8b88821-48a0-4cd9-92de-63c440fffe1f/download/datos-de-las-autoridades-del-organismo.xlsx",
+            "formato": "XLSX",
+            "tamaño": 27727,
+            "creado": "2024-12-26T14:46:04.717075"
+          },
+          {
+            "id": "feaf1515-11c7-4f7a-852a-cb58ca0fd256",
+            "nombre": "Autoridades del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/aea281d2-08b1-43ba-b17d-d68934bed954/resource/feaf1515-11c7-4f7a-852a-cb58ca0fd256/download/datos-de-las-autoridades-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 23684,
+            "creado": "2024-12-26T14:46:05.255287"
+          },
+          {
+            "id": "48777745-29f5-4078-a526-2690b81658a9",
+            "nombre": "Autoridades del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/aea281d2-08b1-43ba-b17d-d68934bed954/resource/48777745-29f5-4078-a526-2690b81658a9/download/datos-de-las-autoridades-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 48571,
+            "creado": "2024-12-26T14:46:05.912343"
+          },
+          {
+            "id": "3b2fc34a-0ec9-4583-bf70-043ee74255a2",
+            "nombre": "Metadatos de autoridades del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/aea281d2-08b1-43ba-b17d-d68934bed954/resource/3b2fc34a-0ec9-4583-bf70-043ee74255a2/download/metadatos_datos-de-las-autoridades-del-organismo.json",
+            "formato": "JSON",
+            "tamaño": 3856,
+            "creado": "2024-12-26T14:46:06.629972"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:34.786Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/dna-autoridades",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "fa726df37d45a3f4c9af325d661f32aee3a3b06f12bf8a592d0fb26e16744ca6"
+        }
+      },
+      {
+        "id": "6053cdf5-2fbd-432f-970a-fd83e67a69b2",
+        "nombre": "Marco jurídico",
+        "slug": "dna-marco_juridico",
+        "organismo": {
+          "id": "dna",
+          "nombre": "DNA",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto presenta la información de leyes y decretos que son aplicables al funcionamiento del Organismo.",
+        "etiquetas": [
+          "Marco Jurídico",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2024-12-26T15:32:42.394227",
+        "modificado": "2025-01-02T17:20:07.563184",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "1c0a3a65-bfba-452d-bc39-41bfca95537a",
+            "nombre": "Marco jurídico del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/6053cdf5-2fbd-432f-970a-fd83e67a69b2/resource/1c0a3a65-bfba-452d-bc39-41bfca95537a/download/datos-del-marco-juridico-del-organismo.xlsx",
+            "formato": "XLSX",
+            "tamaño": 18085,
+            "creado": "2024-12-26T15:32:44.143757"
+          },
+          {
+            "id": "87e4bd08-3d88-4a18-9f73-61b1db3c2097",
+            "nombre": "Marco jurídico del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/6053cdf5-2fbd-432f-970a-fd83e67a69b2/resource/87e4bd08-3d88-4a18-9f73-61b1db3c2097/download/datos-del-marco-juridico-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 388,
+            "creado": "2024-12-26T15:32:44.664142"
+          },
+          {
+            "id": "11dfa6dc-9595-4595-87d0-0473a883d6c1",
+            "nombre": "Marco jurídico del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/6053cdf5-2fbd-432f-970a-fd83e67a69b2/resource/11dfa6dc-9595-4595-87d0-0473a883d6c1/download/datos-del-marco-juridico-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 629,
+            "creado": "2024-12-26T15:32:45.185449"
+          },
+          {
+            "id": "cc8d78fa-28ca-4e9f-9443-056a7e3ff4e3",
+            "nombre": "Metadatos de marco jurídico del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/6053cdf5-2fbd-432f-970a-fd83e67a69b2/resource/cc8d78fa-28ca-4e9f-9443-056a7e3ff4e3/download/metadatos_datos-del-marco-juridico-del-organismo.json",
+            "formato": "JSON",
+            "tamaño": 3235,
+            "creado": "2024-12-26T15:32:45.650451"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:34.786Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/dna-marco_juridico",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "95b0b3650bc40ac67e62b5db4970619d17055b6acd372d2353107ec7bc51e619"
+        }
+      },
+      {
+        "id": "41756f25-0f0d-4c1b-9fba-6750ad0da1ec",
+        "nombre": "Llamados y concursos",
+        "slug": "dna-llamados_y_concursos",
+        "organismo": {
+          "id": "dna",
+          "nombre": "DNA",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto presenta la información sobre las convocatorias a concursos de ingreso para ocupar cargos y resultados de los mismos en el Organismo.",
+        "etiquetas": [
+          "Concursos",
+          "Llamados",
+          "Llamados y concursos",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Desarrollo Social",
+          "Trabajo",
+          "Transparencia"
+        ],
+        "creado": "2024-12-26T15:29:47.137674",
+        "modificado": "2025-01-02T17:17:10.264575",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "0033625d-ac78-4c33-8be9-f6b07f15056a",
+            "nombre": "Llamados y concursos del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/41756f25-0f0d-4c1b-9fba-6750ad0da1ec/resource/0033625d-ac78-4c33-8be9-f6b07f15056a/download/datos-de-los-llamados-y-concursos.xlsx",
+            "formato": "XLSX",
+            "tamaño": 17332,
+            "creado": "2024-12-26T15:29:48.857359"
+          },
+          {
+            "id": "c3011ca3-0227-4ddc-ae5b-dc751a377ef7",
+            "nombre": "Llamados y concursos del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/41756f25-0f0d-4c1b-9fba-6750ad0da1ec/resource/c3011ca3-0227-4ddc-ae5b-dc751a377ef7/download/datos-de-los-llamados-y-concursos.csv",
+            "formato": "CSV",
+            "tamaño": 1689,
+            "creado": "2024-12-26T15:29:49.481279"
+          },
+          {
+            "id": "32d936f6-395d-4a55-a9d6-bd5364c688ad",
+            "nombre": "Llamados y concursos del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/41756f25-0f0d-4c1b-9fba-6750ad0da1ec/resource/32d936f6-395d-4a55-a9d6-bd5364c688ad/download/datos-de-los-llamados-y-concursos.xml",
+            "formato": "XML",
+            "tamaño": 3597,
+            "creado": "2024-12-26T15:29:50.039417"
+          },
+          {
+            "id": "7af6cabc-d845-40ad-9683-e9d088577f9a",
+            "nombre": "Metadatos de llamados y concursos del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/41756f25-0f0d-4c1b-9fba-6750ad0da1ec/resource/7af6cabc-d845-40ad-9683-e9d088577f9a/download/metadatos_datos-de-los-llamados-y-concursos.json",
+            "formato": "JSON",
+            "tamaño": 3074,
+            "creado": "2024-12-26T15:29:50.522739"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:34.786Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/dna-llamados_y_concursos",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "4522fcefa022ee69dd4f8638354800928729ef61af35b48437160fc8cd71a5ee"
+        }
+      },
+      {
+        "id": "cfba27a8-d1da-40ec-9e0a-27aec4dbe02f",
+        "nombre": "Comunicación y participación",
+        "slug": "dna-comunicacion_y_participacion",
+        "organismo": {
+          "id": "dna",
+          "nombre": "DNA",
+          "tipo": "organization"
+        },
+        "descripcion": "Datos de contacto: canales y mecanismos de comunicación y participación ciudadana",
+        "etiquetas": [
+          "Comunicación",
+          "Comunicación y participación",
+          "Medios de comunicación",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2024-12-26T15:02:56.717874",
+        "modificado": "2025-01-02T17:10:37.464357",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "f34eb65e-7838-4a87-ad2d-5d556e82c7b8",
+            "nombre": "Información de contacto del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/cfba27a8-d1da-40ec-9e0a-27aec4dbe02f/resource/f34eb65e-7838-4a87-ad2d-5d556e82c7b8/download/datos-de-contacto-del-organismo.xlsx",
+            "formato": "XLSX",
+            "tamaño": 27555,
+            "creado": "2024-12-26T15:02:58.656526"
+          },
+          {
+            "id": "38916d0a-d52f-46fa-af50-476ea871b639",
+            "nombre": "Información de contacto del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/cfba27a8-d1da-40ec-9e0a-27aec4dbe02f/resource/38916d0a-d52f-46fa-af50-476ea871b639/download/datos-de-contacto-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 39708,
+            "creado": "2024-12-26T15:02:59.183608"
+          },
+          {
+            "id": "8083f7bb-c302-4d5e-b5b9-e1f05dfac63d",
+            "nombre": "Información de contacto del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/cfba27a8-d1da-40ec-9e0a-27aec4dbe02f/resource/8083f7bb-c302-4d5e-b5b9-e1f05dfac63d/download/datos-de-contacto-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 87466,
+            "creado": "2024-12-26T15:02:59.757537"
+          },
+          {
+            "id": "7008b0a7-c3b5-4522-b069-d1948146e998",
+            "nombre": "Metadatos de Información de contacto del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/cfba27a8-d1da-40ec-9e0a-27aec4dbe02f/resource/7008b0a7-c3b5-4522-b069-d1948146e998/download/metadatos_datos-de-contacto-del-organismo.json",
+            "formato": "JSON",
+            "tamaño": 3354,
+            "creado": "2024-12-26T15:03:00.184485"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:34.786Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/dna-comunicacion_y_participacion",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "2d3ac9b75adc6cbbf2103bc8a744a438c0990be774b5228756add526852de863"
+        }
+      },
+      {
+        "id": "52419308-58c0-462d-8e78-d0e7948a08ae",
+        "nombre": "Información de Transparencia",
+        "slug": "dna-informacion_de_transparencia",
+        "organismo": {
+          "id": "dna",
+          "nombre": "DNA",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto presenta la información sobre los mecanismos de participación ciudadana, domicilio y unidad a la que deben dirigirse las solicitudes para obtener información.",
+        "etiquetas": [
+          "Información de Transparencia",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2024-12-26T15:18:55.375493",
+        "modificado": "2025-01-02T17:04:46.338117",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "3e6a2c67-a6d7-4947-9871-d73275f10119",
+            "nombre": "Información de Transparencia",
+            "url": "https://catalogodatos.gub.uy/dataset/52419308-58c0-462d-8e78-d0e7948a08ae/resource/3e6a2c67-a6d7-4947-9871-d73275f10119/download/informacion-de-transparencia.xlsx",
+            "formato": "XLSX",
+            "tamaño": 17407,
+            "creado": "2024-12-26T15:18:57.111520"
+          },
+          {
+            "id": "f2857f9e-da63-49c8-acb8-f0dc40f42ee4",
+            "nombre": "Información de Transparencia",
+            "url": "https://catalogodatos.gub.uy/dataset/52419308-58c0-462d-8e78-d0e7948a08ae/resource/f2857f9e-da63-49c8-acb8-f0dc40f42ee4/download/informacion-de-transparencia.csv",
+            "formato": "CSV",
+            "tamaño": 504,
+            "creado": "2024-12-26T15:18:57.614195"
+          },
+          {
+            "id": "09fc6e15-37b0-4f22-bcc4-a0eb5cc28c42",
+            "nombre": "Información de Transparencia",
+            "url": "https://catalogodatos.gub.uy/dataset/52419308-58c0-462d-8e78-d0e7948a08ae/resource/09fc6e15-37b0-4f22-bcc4-a0eb5cc28c42/download/informacion-de-transparencia.xml",
+            "formato": "XML",
+            "tamaño": 798,
+            "creado": "2024-12-26T15:18:58.140502"
+          },
+          {
+            "id": "64630acd-fcd2-48c8-b35f-45c6feb694da",
+            "nombre": "Metadatos de información de transparencia",
+            "url": "https://catalogodatos.gub.uy/dataset/52419308-58c0-462d-8e78-d0e7948a08ae/resource/64630acd-fcd2-48c8-b35f-45c6feb694da/download/metadatos_informacion-de-transparencia.json",
+            "formato": "JSON",
+            "tamaño": 4537,
+            "creado": "2024-12-26T15:18:58.539325"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:34.786Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/dna-informacion_de_transparencia",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "2919441bade1f0117951367ecaa8394e7ed1e5777417346a60e845096b07b160"
+        }
+      },
+      {
+        "id": "95f7aaf8-faa7-4084-8f40-adf4b93d965f",
+        "nombre": "Información de servicios y trámites",
+        "slug": "dna-informacion_de_servicios_y_tramites",
+        "organismo": {
+          "id": "dna",
+          "nombre": "DNA",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto presenta toda la información sobre los servicios y tramites que realiza la Dirección Nacional de Aduanas.",
+        "etiquetas": [
+          "Tramites y servicios",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2024-11-05T15:09:43.889071",
+        "modificado": "2024-11-06T14:49:03.850517",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "f744bb4b-f841-4fed-81e0-c6c0a0fb28f7",
+            "nombre": "Información de servicios y trámites del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/95f7aaf8-faa7-4084-8f40-adf4b93d965f/resource/f744bb4b-f841-4fed-81e0-c6c0a0fb28f7/download/informacion-de-servicios-y-tramites-del-organismo.xlsx",
+            "formato": "XLSX",
+            "tamaño": 26110,
+            "creado": "2024-11-05T15:09:45.398876"
+          },
+          {
+            "id": "c57808c7-9816-4e0e-8ce6-f737dceb1c19",
+            "nombre": "Información de servicios y trámites del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/95f7aaf8-faa7-4084-8f40-adf4b93d965f/resource/c57808c7-9816-4e0e-8ce6-f737dceb1c19/download/informacion-de-servicios-y-tramites-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 21503,
+            "creado": "2024-11-05T15:09:46.009208"
+          },
+          {
+            "id": "2edced07-744d-4d19-baec-94a763e9cac4",
+            "nombre": "Información de servicios y trámites del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/95f7aaf8-faa7-4084-8f40-adf4b93d965f/resource/2edced07-744d-4d19-baec-94a763e9cac4/download/informacion-de-servicios-y-tramites-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 29684,
+            "creado": "2024-11-05T15:09:46.535054"
+          },
+          {
+            "id": "8aa97d4b-0b6f-418e-8da7-902f80245fc2",
+            "nombre": "Metadatos de información de servicios y trámites del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/95f7aaf8-faa7-4084-8f40-adf4b93d965f/resource/8aa97d4b-0b6f-418e-8da7-902f80245fc2/download/metadatos_informacion-de-servicios-y-tramites-del-organismo.json",
+            "formato": "JSON",
+            "tamaño": 3162,
+            "creado": "2024-11-05T15:09:47.014608"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:34.786Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/dna-informacion_de_servicios_y_tramites",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "85dcda2fd66d8f8a398cd2d16439badffd83072f1f3df8528e297ced42569659"
+        }
+      },
+      {
+        "id": "041c38c8-41b5-4bdd-87d2-3e6752115298",
+        "nombre": "Incautaciones DNA",
+        "slug": "incautaciones",
+        "organismo": {
+          "id": "dna",
+          "nombre": "DNA",
+          "tipo": "organization"
+        },
+        "descripcion": "Información de incautaciones cargadas en el sistema LUCIA de la Dirección Nacional de Aduanas  (DNA). \r\nSe consideran las incautaciones a partir del 1 de octubre de 2018.",
+        "etiquetas": [
+          "Comercio exterior",
+          "DNA"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2020-12-16T12:05:36.877044",
+        "modificado": "2024-10-04T20:23:52.458338",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "eea9df60-e39a-42de-8754-fb9392fb1a89",
+            "nombre": "Metadatos Incautaciones",
+            "url": "https://catalogodatos.gub.uy/dataset/041c38c8-41b5-4bdd-87d2-3e6752115298/resource/eea9df60-e39a-42de-8754-fb9392fb1a89/download/v_da_ft_incautaciones.json",
+            "formato": "JSON",
+            "tamaño": 3798,
+            "creado": "2020-12-16T12:13:26.752556"
+          },
+          {
+            "id": "964e492a-1680-4687-9e27-d790e051b7b6",
+            "nombre": "Incautaciones DNA",
+            "url": "https://catalogodatos.gub.uy/dataset/041c38c8-41b5-4bdd-87d2-3e6752115298/resource/964e492a-1680-4687-9e27-d790e051b7b6/download/v_da_ft_incautaciones_xml.zip",
+            "formato": "xml zip",
+            "tamaño": 2185874,
+            "creado": "2020-12-16T12:13:25.301804"
+          },
+          {
+            "id": "3bf8386c-2b3a-486c-a403-6288cb422ca5",
+            "nombre": "Incautaciones DNA",
+            "url": "https://catalogodatos.gub.uy/dataset/041c38c8-41b5-4bdd-87d2-3e6752115298/resource/3bf8386c-2b3a-486c-a403-6288cb422ca5/download/v_da_ft_incautaciones_csv.zip",
+            "formato": "csv zip",
+            "tamaño": 7792920,
+            "creado": "2020-12-17T14:22:47.838425"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:34.786Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/incautaciones",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "fc0a17e312124d3f4226a6a2c0f90a136c19eb6d29bedd7d665bb0193521e8e0"
+        }
+      },
+      {
+        "id": "19786236-315a-4a2e-85c5-da020f9ba85b",
+        "nombre": "Cargas en arribo DNA",
+        "slug": "cargasenarribo",
+        "organismo": {
+          "id": "dna",
+          "nombre": "DNA",
+          "tipo": "organization"
+        },
+        "descripcion": "Información de cargas, proveniente del sistema LUCIA de la Dirección Nacional de Aduanas.\r\nComprende manifiestos de ingreso marítimos, fluviales, aéreos y terrestres, oficializados a partir del 1 de enero de 2018.\r\nNo se consideran los conocimientos declarados por Agentes de Carga Aéreos (ACA).\r\nNo se toman en cuenta los conocimientos desconsolidados. ",
+        "etiquetas": [
+          "Comercio exterior",
+          "DNA"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2020-12-11T13:03:29.037335",
+        "modificado": "2023-02-17T00:56:28.424474",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "21b8af64-2d57-456b-bf86-84e3cc40d998",
+            "nombre": "Metadatos Cargas en arribo",
+            "url": "https://catalogodatos.gub.uy/dataset/19786236-315a-4a2e-85c5-da020f9ba85b/resource/21b8af64-2d57-456b-bf86-84e3cc40d998/download/v_da_ft_cargas_en_arribo.json",
+            "formato": "JSON",
+            "tamaño": 4719,
+            "creado": "2020-12-11T13:09:04.208614"
+          },
+          {
+            "id": "d4a4b38a-918c-4a41-b082-c7388814a544",
+            "nombre": "Cargas en arribo",
+            "url": "https://catalogodatos.gub.uy/dataset/19786236-315a-4a2e-85c5-da020f9ba85b/resource/d4a4b38a-918c-4a41-b082-c7388814a544/download/v_da_ft_cargas_en_arribo_xml.zip",
+            "formato": "xml zip",
+            "tamaño": 50424737,
+            "creado": "2020-12-11T13:09:02.839038"
+          },
+          {
+            "id": "b14cf1dc-a489-47ef-b2cc-6d6b2299f228",
+            "nombre": "Cargas en arribo",
+            "url": "https://catalogodatos.gub.uy/dataset/19786236-315a-4a2e-85c5-da020f9ba85b/resource/b14cf1dc-a489-47ef-b2cc-6d6b2299f228/download/v_da_ft_cargas_en_arribo_csv.zip",
+            "formato": "csv zip",
+            "tamaño": 135796639,
+            "creado": "2020-12-18T03:01:54.860391"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:34.786Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/cargasenarribo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "cdd57585787b497a6deabe1e5986ca2d7fe8ae9deb34282b280fd4acc11301bc"
+        }
+      },
+      {
+        "id": "351eab09-8ac9-4a0b-b27f-765de063f20a",
+        "nombre": "Recaudación DNA",
+        "slug": "recaudacion",
+        "organismo": {
+          "id": "dna",
+          "nombre": "DNA",
+          "tipo": "organization"
+        },
+        "descripcion": "Recaudación realizada por la Dirección Nacional de Aduanas, información completa del año actual y el anterior.\r\n ",
+        "etiquetas": [
+          "Comercio exterior",
+          "DNA"
+        ],
+        "grupos": [
+          "Economía",
+          "Transparencia"
+        ],
+        "creado": "2020-12-11T13:04:00.289930",
+        "modificado": "2022-10-02T19:15:07.227946",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "8304449a-f225-4671-b16f-ff1f4a7e6c7b",
+            "nombre": "Metadatos Recaudacion",
+            "url": "https://catalogodatos.gub.uy/dataset/351eab09-8ac9-4a0b-b27f-765de063f20a/resource/8304449a-f225-4671-b16f-ff1f4a7e6c7b/download/v_da_ft_recaudacion.json",
+            "formato": "JSON",
+            "tamaño": 3202,
+            "creado": "2020-12-11T13:12:12.984768"
+          },
+          {
+            "id": "07259041-b395-4559-9ccd-b4654d4d8d5d",
+            "nombre": "Recaudacion",
+            "url": "https://catalogodatos.gub.uy/dataset/351eab09-8ac9-4a0b-b27f-765de063f20a/resource/07259041-b395-4559-9ccd-b4654d4d8d5d/download/v_da_ft_recaudacion_xml.zip",
+            "formato": "xml zip",
+            "tamaño": 271284509,
+            "creado": "2020-12-11T13:12:11.663385"
+          },
+          {
+            "id": "d10e60c1-8297-474f-a4c0-8150f4a9c0f4",
+            "nombre": "Recaudacion",
+            "url": "https://catalogodatos.gub.uy/dataset/351eab09-8ac9-4a0b-b27f-765de063f20a/resource/d10e60c1-8297-474f-a4c0-8150f4a9c0f4/download/v_da_ft_recaudacion_csv.zip",
+            "formato": "csv zip",
+            "tamaño": 633525723,
+            "creado": "2020-12-17T18:53:57.702226"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:34.786Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/recaudacion",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "d9597933da65f0b78fcda8b1983d7525e068d489f5fc814b9ae0bdd7eaf43a42"
+        }
+      }
+    ]
+  },
+  "hash": "62ad1dc3986857f08ba4ee65ccb89d07475bc94eaf6e6e4f048669e2360883e8",
+  "firma": "190ce5adc28a4d240f2e294e6bbb77be0368956d3df9f24b09d2809d99d98719"
+}

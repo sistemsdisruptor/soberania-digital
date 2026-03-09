@@ -1,0 +1,154 @@
+{
+  "id": "9d1031e7c46015e7651d11040590eba1",
+  "timestamp": "2026-03-06T23:09:39.777Z",
+  "datos": {
+    "organismo": "fiscalia-general-de-la-nacion",
+    "total": 2,
+    "datasets": [
+      {
+        "id": "20cfecaa-f557-423b-b6fe-c137c85ecd1b",
+        "nombre": "Imputaciones y condenas a personas",
+        "slug": "fiscalia-general-de-la-nacion-imputaciones-y-condenas-a-personas",
+        "organismo": {
+          "id": "fiscalia-general-de-la-nacion",
+          "nombre": "Fiscalía General de la Nación",
+          "tipo": "organization"
+        },
+        "descripcion": "El presente conjunto de datos brinda información sobre personas imputadas y condenadas cuya primera audiencia de formalización tuvo lugar a partir del 01/02/2019 en adelante. \r\n",
+        "etiquetas": [
+          "5toPlanGA",
+          "Administración de justicia",
+          "Condenas",
+          "Criminalidad",
+          "Fiscalía",
+          "Imputaciones"
+        ],
+        "grupos": [
+          "Justicia"
+        ],
+        "creado": "2022-06-16T15:29:20.765501",
+        "modificado": "2025-08-19T15:02:59.810070",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "34f163e4-312b-405a-9495-45e29e60cb4a",
+            "nombre": "Datos de imputaciones y condenas a personas",
+            "url": "https://catalogodatos.gub.uy/dataset/20cfecaa-f557-423b-b6fe-c137c85ecd1b/resource/34f163e4-312b-405a-9495-45e29e60cb4a/download/imputaciones-y-condenas-a-personas.csv",
+            "formato": "CSV",
+            "tamaño": 33640366,
+            "creado": "2023-02-24T18:16:50.138604"
+          },
+          {
+            "id": "e06dc550-2fa0-4f1f-b558-5b5d71dbdeb8",
+            "nombre": "Datos de imputaciones y condenas a personas",
+            "url": "https://catalogodatos.gub.uy/dataset/20cfecaa-f557-423b-b6fe-c137c85ecd1b/resource/e06dc550-2fa0-4f1f-b558-5b5d71dbdeb8/download/imputaciones-y-condenas-a-personas.xlsx",
+            "formato": "XLSX",
+            "tamaño": 14479899,
+            "creado": "2023-02-24T19:45:12.334356"
+          },
+          {
+            "id": "f63d2e76-b55a-4a58-b5d2-2172affef5ad",
+            "nombre": "Nota metodológica",
+            "url": "https://catalogodatos.gub.uy/dataset/20cfecaa-f557-423b-b6fe-c137c85ecd1b/resource/f63d2e76-b55a-4a58-b5d2-2172affef5ad/download/nota-metodologica.pdf",
+            "formato": "PDF",
+            "tamaño": 754836,
+            "creado": "2022-06-17T12:59:59.029654"
+          },
+          {
+            "id": "a8e3f815-aaa4-4a91-a19d-534f9efc9c6b",
+            "nombre": "Metadatos de imputaciones y condenas a personas",
+            "url": "https://catalogodatos.gub.uy/dataset/20cfecaa-f557-423b-b6fe-c137c85ecd1b/resource/a8e3f815-aaa4-4a91-a19d-534f9efc9c6b/download/metadatos_imputaciones-y-condenas-a-personas.json",
+            "formato": "JSON",
+            "tamaño": 6886,
+            "creado": "2023-09-12T18:14:26.386458"
+          },
+          {
+            "id": "767b160b-8650-46f8-a73b-7bb9e1bbeb56",
+            "nombre": "Datos de imputaciones y condenas a personas",
+            "url": "https://catalogodatos.gub.uy/dataset/20cfecaa-f557-423b-b6fe-c137c85ecd1b/resource/767b160b-8650-46f8-a73b-7bb9e1bbeb56/download/imputaciones-y-condenas-a-personas.xml",
+            "formato": "XML",
+            "tamaño": 93173839,
+            "creado": "2023-09-12T18:19:11.041432"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:39.777Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/fiscalia-general-de-la-nacion-imputaciones-y-condenas-a-personas",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "ecc5e38b93d77ae9726be8e1166df5d540e63a2267c1672e643454ca79f4409d"
+        }
+      },
+      {
+        "id": "7aadbb2d-9f00-4421-ad94-d06457ae955e",
+        "nombre": "Casos formalizados - Nuevo Código de Proceso Penal",
+        "slug": "fiscalia-general-de-la-nacion-microdatos-de-casos-formalizados-nuevo-cpp",
+        "organismo": {
+          "id": "fiscalia-general-de-la-nacion",
+          "nombre": "Fiscalía General de la Nación",
+          "tipo": "organization"
+        },
+        "descripcion": "A continuación se presenta la información sobre los casos formalizados en el marco del nuevo Código del Proceso Penal. Los datos presentados incluyen; Número único de noticia criminal y de caso, Tipo de delito según registro en denuncia, Departamento, Fiscalía y turno actuante. El Estado o vía procesal por la que concluyó el caso y las Fechas de audiencia de formalización y de conclusión.\r\n\r\nDicha información es a partir del 1° de noviembre del año 2017 hasta el 31 de octubre del 2018.",
+        "etiquetas": [
+          "Nuevo Código del Proceso Penal",
+          "Seguridad Pública",
+          "Sistema Penal",
+          "Uruguay"
+        ],
+        "grupos": [
+          "Justicia"
+        ],
+        "creado": "2018-12-05T14:28:22.014670",
+        "modificado": "2024-02-19T13:13:10.416122",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "b194227c-b17a-4827-a086-f2bffd7f8fd1",
+            "nombre": "Casos formalizados",
+            "url": "https://catalogodatos.gub.uy/dataset/7aadbb2d-9f00-4421-ad94-d06457ae955e/resource/b194227c-b17a-4827-a086-f2bffd7f8fd1/download/20181118_fgn_microdatos-casos-formalizados-20171101-a-20181031.csv",
+            "formato": "CSV",
+            "tamaño": 1648513,
+            "creado": "2018-12-05T14:30:00.083353"
+          },
+          {
+            "id": "aab59437-0df3-40a4-95ab-7724b07ac285",
+            "nombre": "Diccionario de variables",
+            "url": "https://catalogodatos.gub.uy/dataset/7aadbb2d-9f00-4421-ad94-d06457ae955e/resource/aab59437-0df3-40a4-95ab-7724b07ac285/download/20181118_fgn_microdatos-casos-formalizados_diccionario-de-variables.csv",
+            "formato": "CSV",
+            "tamaño": 4809,
+            "creado": "2018-12-05T14:31:03.253341"
+          },
+          {
+            "id": "549933b4-d09b-48aa-ae62-7cb67a471109",
+            "nombre": "Codiguera variable estado",
+            "url": "https://catalogodatos.gub.uy/dataset/7aadbb2d-9f00-4421-ad94-d06457ae955e/resource/549933b4-d09b-48aa-ae62-7cb67a471109/download/20181118_fgn_microdatos-casos-formalizados_codiguera-variable-estado.csv",
+            "formato": "CSV",
+            "tamaño": 519,
+            "creado": "2018-12-05T14:32:25.994752"
+          },
+          {
+            "id": "2d3751ff-d99c-4579-b138-3489ae05a2b6",
+            "nombre": "Nota metodológica",
+            "url": "https://catalogodatos.gub.uy/dataset/7aadbb2d-9f00-4421-ad94-d06457ae955e/resource/2d3751ff-d99c-4579-b138-3489ae05a2b6/download/20181120_fgn-pp-nota-metodologica-v5.0.pdf",
+            "formato": "PDF",
+            "tamaño": 938686,
+            "creado": "2018-12-05T14:35:01.092203"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:39.777Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/fiscalia-general-de-la-nacion-microdatos-de-casos-formalizados-nuevo-cpp",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "1f40fb7cc7e58849094e5b27164f4ce47d225393bd08c58e9c4746992c6bb7a8"
+        }
+      }
+    ]
+  },
+  "hash": "94f475a8a70234a7694b13afee784f4d4145af065de6ab8add059cc0a13ea373",
+  "firma": "85e40d5ddc1c5a046c59a1afa988f8070445cc30061f4c2d843524f635c380f0"
+}

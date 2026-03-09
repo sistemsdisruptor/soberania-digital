@@ -1,0 +1,63 @@
+{
+  "id": "731abe054c4bceff6d9c2b8cc526ec3f",
+  "timestamp": "2026-03-06T23:09:38.118Z",
+  "datos": {
+    "organismo": "facultad-de-psicologia",
+    "total": 1,
+    "datasets": [
+      {
+        "id": "b62bc86e-c4c2-4cb8-af18-388124eea2c9",
+        "nombre": "1er. Censo Nacional de Psicología -Uruguay 2014-",
+        "slug": "facultad-de-psicologia-1er-censo-nacional-de-psicologia-uruguay-2014",
+        "organismo": {
+          "id": "facultad-de-psicologia",
+          "nombre": "Facultad de Psicología",
+          "tipo": "organization"
+        },
+        "descripcion": "Del 14 al 31 de julio de 2014, se realizó la recolección de datos del 1er Censo Nacional de Psicología. Este proyecto realizado en conjunto entre el Ministerio de Salud Pública y la Facultad de Psicología de la Udelar, tiene como objetivo general conocer la realidad sociolaboral y las trayectorias de formación de las y los profesionales psicólogas/os. \r\nEn el marco de las políticas de democratización del conocimiento, acceso a la información y datos abiertos de la Facultad de Psicología, ponemos a disposición para uso público la base con los datos recabados en el censo, excluyendo los datos identificatorios. Esta base también se puede descargar de http://observatoriopsicologia.uy \r\nCómo citar la base dedatos: \r\nSuárez, Jorge; Facultad de Psicología de la Universidad de la República (2015): 1st. National Census of Psychology -Uruguay 2014-. Version: 1. FDP-URU - Facultad de Psicología de la Universidad de la República. Datensatz. http://doi.org/10.17891/19871.1",
+        "etiquetas": [],
+        "grupos": [],
+        "creado": "2015-04-14T17:00:01.478640",
+        "modificado": "2015-09-08T18:58:36.514944",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "dec0a55d-1d86-4100-88ec-fc8dad06a363",
+            "nombre": "Microdatos 1er Censo Nacional de Psicología",
+            "url": "https://catalogodatos.gub.uy/dataset/b62bc86e-c4c2-4cb8-af18-388124eea2c9/resource/dec0a55d-1d86-4100-88ec-fc8dad06a363/download/microdatoscensopsicologia.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2015-04-14T14:09:30.817902"
+          },
+          {
+            "id": "f2b4f2e5-26a3-409c-a0bd-243db97c2d9c",
+            "nombre": "Microdatos 1er Censo Psicología",
+            "url": "https://catalogodatos.gub.uy/dataset/b62bc86e-c4c2-4cb8-af18-388124eea2c9/resource/f2b4f2e5-26a3-409c-a0bd-243db97c2d9c/download/microdatoscensopsicologia.sav",
+            "formato": "SAV",
+            "tamaño": null,
+            "creado": "2015-04-14T18:15:07.016673"
+          },
+          {
+            "id": "b006fcc2-f28a-494e-b959-8f8acf90b6ea",
+            "nombre": "Diccionario de variables del 1er Censo Nacional de Psicología",
+            "url": "https://catalogodatos.gub.uy/dataset/b62bc86e-c4c2-4cb8-af18-388124eea2c9/resource/b006fcc2-f28a-494e-b959-8f8acf90b6ea/download/diccionario-de-variablescenso-psicologia.ods",
+            "formato": "ODT",
+            "tamaño": null,
+            "creado": "2015-04-14T18:23:20.527080"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:38.118Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/facultad-de-psicologia-1er-censo-nacional-de-psicologia-uruguay-2014",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "268d8cb9fd0f6a7fa62c5062bb221e0f23b0aa640622fc4cd5d565f92a1e33f2"
+        }
+      }
+    ]
+  },
+  "hash": "90875296efe10a711e66b33ff3037aab0605f0c3b933410de099e186499fb89e",
+  "firma": "5d723f72fa3b357e8fa2b8300778c24db19a48a3d7d8e6f4f6f093cf5da13166"
+}

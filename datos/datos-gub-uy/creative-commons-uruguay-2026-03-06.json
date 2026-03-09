@@ -1,0 +1,76 @@
+{
+  "id": "88991594aaeb5933b2dc60fcd6ca77c7",
+  "timestamp": "2026-03-06T23:09:25.855Z",
+  "datos": {
+    "organismo": "creative-commons-uruguay",
+    "total": 1,
+    "datasets": [
+      {
+        "id": "319808bd-74e7-45bc-8743-55b3312247ce",
+        "nombre": "Autores y obras de Uruguay",
+        "slug": "autores-y-obras-de-uruguay",
+        "organismo": {
+          "id": "creative-commons-uruguay",
+          "nombre": "Creative Commons Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Bases de datos que reúnen información sobre autores de Uruguay de todas las disciplinas y sobre obras uruguayas en dominio público, con sus respectivos enlaces de descarga. A octubre de 2017, la base de datos cuenta con información sobre más de 10.000 autores y 2.000 obras en dominio público.",
+        "etiquetas": [
+          "Autores de Obras",
+          "Obras uruguay"
+        ],
+        "grupos": [
+          "Cultura"
+        ],
+        "creado": "2015-08-27T17:53:52.686610",
+        "modificado": "2019-10-09T15:12:09.547579",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "85add796-8720-44c4-a7b8-99296d8db4ca",
+            "nombre": "Base de datos de autores de Uruguay (csv)",
+            "url": "http://autores.uy/sites/default/files/datos/autores.csv.zip",
+            "formato": "ZIP",
+            "tamaño": null,
+            "creado": "2015-08-27T14:57:49.440186"
+          },
+          {
+            "id": "876777d2-2cdb-49b4-b98b-3a4d4067b694",
+            "nombre": "Base de datos de autores de Uruguay (xml)",
+            "url": "http://autores.uy/sites/default/files/datos/autores.xml.zip",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2015-08-27T14:58:50.656552"
+          },
+          {
+            "id": "0996de07-3ff9-48cf-b297-a103cce285bc",
+            "nombre": "Base de datos de obras de Uruguay (csv)",
+            "url": "http://autores.uy/sites/default/files/datos/obras.csv.zip",
+            "formato": "ZIP",
+            "tamaño": null,
+            "creado": "2017-10-14T13:17:26.177830"
+          },
+          {
+            "id": "4c420507-711b-4244-93c8-79110ce32a4b",
+            "nombre": "Base de datos de obras de Uruguay (xml)",
+            "url": "http://autores.uy/sites/default/files/datos/obras.xml.zip",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2017-10-14T13:21:31.760797"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:25.855Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/autores-y-obras-de-uruguay",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "887208cf62da153f7dca16783e59ba588736506ae49bfc058690c0d7eba4e409"
+        }
+      }
+    ]
+  },
+  "hash": "293adb840d3f0a6559ec3a718938ddf9470538461fe8b5d61b8671a41b67c0fb",
+  "firma": "f4457da1e6eed9cabc9328342d97b147c4ee18e3729d8665ae93faa7341fe13e"
+}

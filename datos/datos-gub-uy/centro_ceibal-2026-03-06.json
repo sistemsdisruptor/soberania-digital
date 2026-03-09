@@ -1,0 +1,1175 @@
+{
+  "id": "fc6c99c0a8c9bc493ecd5d4023917992",
+  "timestamp": "2026-03-06T23:09:15.365Z",
+  "datos": {
+    "organismo": "centro_ceibal",
+    "total": 17,
+    "datasets": [
+      {
+        "id": "c355deb7-4ea2-4256-a116-f53560acd3a1",
+        "nombre": "Organigrama",
+        "slug": "centro-ceibal-organigrama",
+        "organismo": {
+          "id": "centro_ceibal",
+          "nombre": "Centro Ceibal",
+          "tipo": "organization"
+        },
+        "descripcion": "Estructura orgánica del organismo con información adicional de las distintas unidades que lo conforman y sus respectivos jerarcas.",
+        "etiquetas": [
+          "Organigrama",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2023-07-27T17:11:58.848295",
+        "modificado": "2025-11-17T19:27:48.752998",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "70670d6d-89f8-480e-93f9-7d88bc6084bb",
+            "nombre": "Organigrama del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/c355deb7-4ea2-4256-a116-f53560acd3a1/resource/70670d6d-89f8-480e-93f9-7d88bc6084bb/download/organigrama-del-organismo.xlsx",
+            "formato": "XLSX",
+            "tamaño": 26534,
+            "creado": "2023-07-27T17:12:00.556897"
+          },
+          {
+            "id": "b8cba44e-f5e3-48a8-868f-ba7b21b5c5d3",
+            "nombre": "Organigrama del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/c355deb7-4ea2-4256-a116-f53560acd3a1/resource/b8cba44e-f5e3-48a8-868f-ba7b21b5c5d3/download/organigrama-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 24126,
+            "creado": "2023-07-27T17:12:01.259610"
+          },
+          {
+            "id": "5c818ec3-b135-4a01-ab6d-771ec27b75d4",
+            "nombre": "Organigrama del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/c355deb7-4ea2-4256-a116-f53560acd3a1/resource/5c818ec3-b135-4a01-ab6d-771ec27b75d4/download/organigrama-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 56321,
+            "creado": "2023-07-27T17:12:02.107434"
+          },
+          {
+            "id": "1dfc35a8-8576-4830-8e51-b1b74cadb94e",
+            "nombre": "Metadatos de organigrama del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/c355deb7-4ea2-4256-a116-f53560acd3a1/resource/1dfc35a8-8576-4830-8e51-b1b74cadb94e/download/metadatos_organigrama-del-organismo.json",
+            "formato": "JSON",
+            "tamaño": 4740,
+            "creado": "2023-07-27T17:12:02.820746"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:15.363Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/centro-ceibal-organigrama",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "b76b79530746dcf09e755325d3332da531877f16faaa81555f6f1734159e5d72"
+        }
+      },
+      {
+        "id": "b6715e03-d77d-4a54-9c31-232eed2e0351",
+        "nombre": "Autoridades",
+        "slug": "centro-ceibal-autoridades",
+        "organismo": {
+          "id": "centro_ceibal",
+          "nombre": "Centro Ceibal",
+          "tipo": "organization"
+        },
+        "descripcion": "Funcionarios con cargos de jefatura a partir del jefe de departamento, gerente, director o equivalente hasta el jerarca máximo, incluyendo: nombre, domicilio postal, electrónico y números telefónicos oficiales",
+        "etiquetas": [
+          "Autoridades",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2023-07-27T17:00:15.535728",
+        "modificado": "2025-11-17T18:33:28.466052",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "944c0d0f-4348-4a02-89ef-d0c541c74d69",
+            "nombre": "Autoridades del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/b6715e03-d77d-4a54-9c31-232eed2e0351/resource/944c0d0f-4348-4a02-89ef-d0c541c74d69/download/autoridades-del-organismo.xlsx",
+            "formato": "XLSX",
+            "tamaño": 23400,
+            "creado": "2023-07-27T17:00:17.366542"
+          },
+          {
+            "id": "c9e3bba0-947f-4038-8642-1501a580eeff",
+            "nombre": "Autoridades del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/b6715e03-d77d-4a54-9c31-232eed2e0351/resource/c9e3bba0-947f-4038-8642-1501a580eeff/download/autoridades-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 17786,
+            "creado": "2023-07-27T17:00:18.222338"
+          },
+          {
+            "id": "34758a36-6776-4486-b3da-2c644ee6f0ea",
+            "nombre": "Marco jurídico del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/b6715e03-d77d-4a54-9c31-232eed2e0351/resource/34758a36-6776-4486-b3da-2c644ee6f0ea/download/marco-juridico-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 15265,
+            "creado": "2023-07-27T17:00:19.777436"
+          },
+          {
+            "id": "0fb082d0-1bcc-45ac-9bfa-28082bce5003",
+            "nombre": "Metadatos de autoridades del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/b6715e03-d77d-4a54-9c31-232eed2e0351/resource/0fb082d0-1bcc-45ac-9bfa-28082bce5003/download/metadatos_autoridades-del-organismo.json",
+            "formato": "JSON",
+            "tamaño": 3620,
+            "creado": "2023-07-27T17:00:20.467832"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:15.363Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/centro-ceibal-autoridades",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "8e8f0bb85382c4ad12d3a0effb2bc0d76ffd96c572c0ccfd461f40c4b8af029c"
+        }
+      },
+      {
+        "id": "a649a74a-04cb-47d7-965d-dd397e7b9458",
+        "nombre": "Presupuesto",
+        "slug": "centro-ceibal-presupuesto",
+        "organismo": {
+          "id": "centro_ceibal",
+          "nombre": "Centro Ceibal",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto presenta la asignación presupuestal de diferentes años por fuente de financiamiento. La ejecución se informa una vez finalizado el año.",
+        "etiquetas": [
+          "Presupuesto",
+          "Transparencia",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2023-09-22T17:22:19.595664",
+        "modificado": "2025-11-17T16:38:21.152868",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "da694942-e35c-4fe8-ab8b-18163cdae561",
+            "nombre": "Presupuesto del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/a649a74a-04cb-47d7-965d-dd397e7b9458/resource/da694942-e35c-4fe8-ab8b-18163cdae561/download/datos-del-presupuesto-del-organismo.xlsx",
+            "formato": "XLSX",
+            "tamaño": 26254,
+            "creado": "2023-09-22T17:22:21.632544"
+          },
+          {
+            "id": "b316c26f-a1b4-40db-9447-9d9c14ba0766",
+            "nombre": "Presupuesto del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/a649a74a-04cb-47d7-965d-dd397e7b9458/resource/b316c26f-a1b4-40db-9447-9d9c14ba0766/download/datos-del-presupuesto-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2023-09-22T17:22:22.363726"
+          },
+          {
+            "id": "558084c7-8056-448d-a804-0396f5344275",
+            "nombre": "Presupuesto del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/a649a74a-04cb-47d7-965d-dd397e7b9458/resource/558084c7-8056-448d-a804-0396f5344275/download/datos-del-presupuesto-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 54,
+            "creado": "2023-09-22T17:22:23.114014"
+          },
+          {
+            "id": "250a8abc-6bb3-44a4-994a-d338c94a361d",
+            "nombre": "Metadatos de presupuesto del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/a649a74a-04cb-47d7-965d-dd397e7b9458/resource/250a8abc-6bb3-44a4-994a-d338c94a361d/download/metadatos_datos-del-presupuesto-del-organismo.json",
+            "formato": "JSON",
+            "tamaño": 4874,
+            "creado": "2023-09-22T17:22:24.103543"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:15.363Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/centro-ceibal-presupuesto",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "50675c37c05745269f21b65cc5c0f77e23d63fb24e5a50fd9e6f488a382ea0d9"
+        }
+      },
+      {
+        "id": "48fc739e-52c4-428a-b2e4-10113306c302",
+        "nombre": "Marco jurídico",
+        "slug": "centro-ceibal-marco_juridico",
+        "organismo": {
+          "id": "centro_ceibal",
+          "nombre": "Centro Ceibal",
+          "tipo": "organization"
+        },
+        "descripcion": "Leyes y decretos que son aplicables al funcionamiento del sujeto obligado.",
+        "etiquetas": [
+          "Marco Jurídico",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2023-07-28T14:10:57.800206",
+        "modificado": "2025-11-17T14:58:11.720516",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "2b99e9f7-bc56-4de6-9200-7eff2a98b38b",
+            "nombre": "Marco jurídico del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/48fc739e-52c4-428a-b2e4-10113306c302/resource/2b99e9f7-bc56-4de6-9200-7eff2a98b38b/download/marco-juridico-del-organismo.xlsx",
+            "formato": "XLSX",
+            "tamaño": 19740,
+            "creado": "2023-07-28T14:10:59.561047"
+          },
+          {
+            "id": "fedea23d-13f6-4a75-bdde-4a00cf6dfc60",
+            "nombre": "Marco jurídico del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/48fc739e-52c4-428a-b2e4-10113306c302/resource/fedea23d-13f6-4a75-bdde-4a00cf6dfc60/download/marco-juridico-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 7660,
+            "creado": "2023-07-28T14:11:00.362991"
+          },
+          {
+            "id": "87bb19f3-3854-4d84-add0-398ccdf9b046",
+            "nombre": "Marco jurídico del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/48fc739e-52c4-428a-b2e4-10113306c302/resource/87bb19f3-3854-4d84-add0-398ccdf9b046/download/marco-juridico-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 15611,
+            "creado": "2023-07-28T14:11:01.562757"
+          },
+          {
+            "id": "15fdf9ea-d3d7-45f5-9a05-75b0f227ef48",
+            "nombre": "Metadatos de marco jurídico del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/48fc739e-52c4-428a-b2e4-10113306c302/resource/15fdf9ea-d3d7-45f5-9a05-75b0f227ef48/download/metadatos_marco-juridico-del-organismo.json",
+            "formato": "JSON",
+            "tamaño": 3215,
+            "creado": "2023-07-28T14:11:02.218878"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:15.363Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/centro-ceibal-marco_juridico",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "4ca6b9e42274510ada26407a49afe7eae2feb86f78fa70e714e733dc5b4b483e"
+        }
+      },
+      {
+        "id": "3a18c638-523b-4a02-ac91-6f57769a3857",
+        "nombre": "Remuneraciones",
+        "slug": "centro-ceibal-remuneraciones",
+        "organismo": {
+          "id": "centro_ceibal",
+          "nombre": "Centro Ceibal",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto presenta el sistema de remuneraciones de los funcionarios del Organismo.",
+        "etiquetas": [
+          "Remuneraciones",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2023-08-11T17:12:27.833281",
+        "modificado": "2025-11-17T13:38:07.954675",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "b7e17a52-99af-4f96-94c4-770ce203f105",
+            "nombre": "Remuneraciones del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/3a18c638-523b-4a02-ac91-6f57769a3857/resource/b7e17a52-99af-4f96-94c4-770ce203f105/download/datos-de-las-remuneraciones-del-organismo.xlsx",
+            "formato": "XLSX",
+            "tamaño": 6004277,
+            "creado": "2023-08-11T17:12:29.606981"
+          },
+          {
+            "id": "6e7e7059-32e5-4ab2-a4a6-db6cc8e179fa",
+            "nombre": "Remuneraciones del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/3a18c638-523b-4a02-ac91-6f57769a3857/resource/6e7e7059-32e5-4ab2-a4a6-db6cc8e179fa/download/datos-de-las-remuneraciones-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 7052,
+            "creado": "2023-08-11T17:12:30.264626"
+          },
+          {
+            "id": "bda7afa3-61a3-456d-bebe-10d1386ace64",
+            "nombre": "Remuneraciones del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/3a18c638-523b-4a02-ac91-6f57769a3857/resource/bda7afa3-61a3-456d-bebe-10d1386ace64/download/datos-de-las-remuneraciones-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 23718,
+            "creado": "2023-08-11T17:12:31.132090"
+          },
+          {
+            "id": "21d5c3a9-afd5-4d79-92a0-8a44a3c8d93a",
+            "nombre": "Metadatos de remuneraciones del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/3a18c638-523b-4a02-ac91-6f57769a3857/resource/21d5c3a9-afd5-4d79-92a0-8a44a3c8d93a/download/metadatos_datos-de-las-remuneraciones-del-organismo.json",
+            "formato": "JSON",
+            "tamaño": 3327,
+            "creado": "2023-08-11T17:12:31.703338"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:15.363Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/centro-ceibal-remuneraciones",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "b300377db4b198afa1260f946ae7c8ccf212fc3ed10414eb9283c0b7d6ea505e"
+        }
+      },
+      {
+        "id": "608de859-fe29-44a7-83ba-855644e8a45e",
+        "nombre": "Información de servicios y trámites",
+        "slug": "centro-ceibal-informacion_de_servicios_y_tramites",
+        "organismo": {
+          "id": "centro_ceibal",
+          "nombre": "Centro Ceibal",
+          "tipo": "organization"
+        },
+        "descripcion": "Este conjunto presenta a la población la información sobre los distintos servicios y tramites que se pueden realizar. \r\n\r\nCeibal asegura la conexión por wifi en centros educativos y el acceso a dispositivos para estudiantes de Educación Primaria, Educación Media y Formación Docente. También disponibiliza plataformas y programas educativos y brinda oportunidades de desarrollo profesional docente mediante cursos virtuales o presenciales. Los servicios son diversos, por lo que te aconsejamos visitar la sección de interés para obtener la información de tu interés o ponerte en contacto con nosotros.",
+        "etiquetas": [
+          "Servicios y tramites",
+          "Tramites y servicios",
+          "Transparecia",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2023-09-22T14:47:52.468539",
+        "modificado": "2025-11-17T12:54:07.635316",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "2aa0db21-0290-43be-ac39-ddd71ca484f9",
+            "nombre": "Información de servicios y trámites del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/608de859-fe29-44a7-83ba-855644e8a45e/resource/2aa0db21-0290-43be-ac39-ddd71ca484f9/download/datos-de-la-informacion-de-servicios-y-tramites-del-organismo.xlsx",
+            "formato": "XLSX",
+            "tamaño": 104887,
+            "creado": "2023-09-22T14:47:54.556951"
+          },
+          {
+            "id": "7baa45c7-a868-42c8-8ae5-612025ea0783",
+            "nombre": "Información de servicios y trámites del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/608de859-fe29-44a7-83ba-855644e8a45e/resource/7baa45c7-a868-42c8-8ae5-612025ea0783/download/datos-de-la-informacion-de-servicios-y-tramites-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 2455,
+            "creado": "2023-09-22T14:47:55.375332"
+          },
+          {
+            "id": "ffd5b518-0dd5-4c0e-be29-01b189be8a94",
+            "nombre": "Información de servicios y trámites del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/608de859-fe29-44a7-83ba-855644e8a45e/resource/ffd5b518-0dd5-4c0e-be29-01b189be8a94/download/datos-de-la-informacion-de-servicios-y-tramites-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 4519,
+            "creado": "2023-09-22T14:47:56.212941"
+          },
+          {
+            "id": "2535b32c-5ae8-4383-8bf0-a8509ee43a07",
+            "nombre": "Metadatos de información de servicios y trámites del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/608de859-fe29-44a7-83ba-855644e8a45e/resource/2535b32c-5ae8-4383-8bf0-a8509ee43a07/download/metadatos_datos-de-la-informacion-de-servicios-y-tramites-del-organismo.json",
+            "formato": "JSON",
+            "tamaño": 3162,
+            "creado": "2023-09-22T14:47:57.035869"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:15.363Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/centro-ceibal-informacion_de_servicios_y_tramites",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "0eca1c4374ccccec126a8c037a360b846a37b91ac3cb5c86a20a303d16118bc4"
+        }
+      },
+      {
+        "id": "f8b9a864-769f-4e97-b326-a75aa783d60d",
+        "nombre": "Comunicación y participación",
+        "slug": "centro-ceibal-comunicacion_y_participacion",
+        "organismo": {
+          "id": "centro_ceibal",
+          "nombre": "Centro Ceibal",
+          "tipo": "organization"
+        },
+        "descripcion": "Datos de contacto: canales y mecanismos de comunicación y participación ciudadana",
+        "etiquetas": [
+          "Contacto",
+          "Medios de comunicación",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2023-07-27T17:03:03.884680",
+        "modificado": "2025-11-17T12:49:45.858447",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "f0a2b338-accf-4046-a45a-c2908fd6aeab",
+            "nombre": "Contacto del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/f8b9a864-769f-4e97-b326-a75aa783d60d/resource/f0a2b338-accf-4046-a45a-c2908fd6aeab/download/contacto-del-organismo.xlsx",
+            "formato": "XLSX",
+            "tamaño": 16286,
+            "creado": "2023-07-27T17:03:05.586735"
+          },
+          {
+            "id": "246e6bf5-115f-4a57-a7a6-b4ff0ef73d08",
+            "nombre": "Contacto del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/f8b9a864-769f-4e97-b326-a75aa783d60d/resource/246e6bf5-115f-4a57-a7a6-b4ff0ef73d08/download/contacto-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 930,
+            "creado": "2023-07-27T17:03:06.401515"
+          },
+          {
+            "id": "4d6fc8b2-4f3d-4983-8528-05861ca2e744",
+            "nombre": "Contacto del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/f8b9a864-769f-4e97-b326-a75aa783d60d/resource/4d6fc8b2-4f3d-4983-8528-05861ca2e744/download/contacto-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 2068,
+            "creado": "2023-07-27T17:03:07.246533"
+          },
+          {
+            "id": "71df16f7-65a9-468a-b220-a490580043e0",
+            "nombre": "Metadatos de contacto del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/f8b9a864-769f-4e97-b326-a75aa783d60d/resource/71df16f7-65a9-468a-b220-a490580043e0/download/metadatos_contacto-del-organismo.json",
+            "formato": "JSON",
+            "tamaño": 3336,
+            "creado": "2023-07-27T17:03:07.841171"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:15.363Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/centro-ceibal-comunicacion_y_participacion",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "a9e6b1a89739c3a48d3b042e30ea32469fe53156e86553072db8bc65cc15e44f"
+        }
+      },
+      {
+        "id": "4de9ba07-b661-4e64-944c-353f183850a6",
+        "nombre": "Perfil de los puestos",
+        "slug": "centro-ceibal-perfil_de_los_puestos",
+        "organismo": {
+          "id": "centro_ceibal",
+          "nombre": "Centro Ceibal",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto cuenta con el perfil de puestos del organismo.",
+        "etiquetas": [
+          "Perfiles",
+          "Puestos de trabajo",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2023-07-27T17:58:50.426750",
+        "modificado": "2024-10-22T19:12:51.149277",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "e4db5d4b-3932-46d8-8f8f-07033b08263e",
+            "nombre": "Perfiles de los puestos",
+            "url": "https://catalogodatos.gub.uy/dataset/4de9ba07-b661-4e64-944c-353f183850a6/resource/e4db5d4b-3932-46d8-8f8f-07033b08263e/download/perfiles-de-los-puestos.xlsx",
+            "formato": "XLSX",
+            "tamaño": 25109,
+            "creado": "2023-07-27T17:58:52.063777"
+          },
+          {
+            "id": "81c0ef65-c434-4fcc-a5e8-bf1cd24c95da",
+            "nombre": "Perfiles de los puestos",
+            "url": "https://catalogodatos.gub.uy/dataset/4de9ba07-b661-4e64-944c-353f183850a6/resource/81c0ef65-c434-4fcc-a5e8-bf1cd24c95da/download/perfiles-de-los-puestos.csv",
+            "formato": "CSV",
+            "tamaño": 22357,
+            "creado": "2023-07-27T17:58:52.758010"
+          },
+          {
+            "id": "c34410d1-866d-404f-ba55-45f14ef9776f",
+            "nombre": "Perfiles de los puestos",
+            "url": "https://catalogodatos.gub.uy/dataset/4de9ba07-b661-4e64-944c-353f183850a6/resource/c34410d1-866d-404f-ba55-45f14ef9776f/download/perfiles-de-los-puestos.xml",
+            "formato": "XML",
+            "tamaño": 41599,
+            "creado": "2023-07-27T17:58:53.432457"
+          },
+          {
+            "id": "a2c12892-5a1d-403f-a0c3-d8189ae8f4cb",
+            "nombre": "Metadatos de perfiles de los puestos",
+            "url": "https://catalogodatos.gub.uy/dataset/4de9ba07-b661-4e64-944c-353f183850a6/resource/a2c12892-5a1d-403f-a0c3-d8189ae8f4cb/download/metadatos_perfiles-de-los-puestos.json",
+            "formato": "JSON",
+            "tamaño": 2846,
+            "creado": "2023-07-27T17:58:54.021177"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:15.363Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/centro-ceibal-perfil_de_los_puestos",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "12c4ee00ae3d7b7d70484f71cdd386789403f1768146f323ae89b06c7b2780b5"
+        }
+      },
+      {
+        "id": "2e7a7315-fc78-487a-bb0f-dab3ecbc6542",
+        "nombre": "Llamados y concursos",
+        "slug": "centro-ceibal-llamados_y_concursos",
+        "organismo": {
+          "id": "centro_ceibal",
+          "nombre": "Centro Ceibal",
+          "tipo": "organization"
+        },
+        "descripcion": "Informamos los llamados laborales abiertos y cerrados, su resolución y otra información relativa al cargo.",
+        "etiquetas": [
+          "Concursos",
+          "Llamados",
+          "Transparecia",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia",
+          "Transparencia"
+        ],
+        "creado": "2023-10-05T15:13:27.358525",
+        "modificado": "2024-10-14T18:41:54.500050",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "7d81bb16-2be0-459a-b19f-068d2e68ad23",
+            "nombre": "Llamados y concursos",
+            "url": "https://catalogodatos.gub.uy/dataset/2e7a7315-fc78-487a-bb0f-dab3ecbc6542/resource/7d81bb16-2be0-459a-b19f-068d2e68ad23/download/datos-de-los-llamados-y-concursos.xlsx",
+            "formato": "XLSX",
+            "tamaño": 30331,
+            "creado": "2023-10-05T15:13:29.576514"
+          },
+          {
+            "id": "b4fb8ccf-162a-4dfe-b11d-063db63de00e",
+            "nombre": "Llamados y concursos",
+            "url": "https://catalogodatos.gub.uy/dataset/2e7a7315-fc78-487a-bb0f-dab3ecbc6542/resource/b4fb8ccf-162a-4dfe-b11d-063db63de00e/download/datos-de-los-llamados-y-concursos.csv",
+            "formato": "CSV",
+            "tamaño": 39527,
+            "creado": "2023-10-05T15:13:30.384617"
+          },
+          {
+            "id": "5353d367-8c6f-44b9-91f5-8eaf157d4b5d",
+            "nombre": "Llamados y concursos",
+            "url": "https://catalogodatos.gub.uy/dataset/2e7a7315-fc78-487a-bb0f-dab3ecbc6542/resource/5353d367-8c6f-44b9-91f5-8eaf157d4b5d/download/datos-de-los-llamados-y-concursos.xml",
+            "formato": "XML",
+            "tamaño": 97656,
+            "creado": "2023-10-05T19:09:26.105062"
+          },
+          {
+            "id": "2be11bc4-1937-488c-9ba6-1c80043ed175",
+            "nombre": "Metadatos de llamados y concursos",
+            "url": "https://catalogodatos.gub.uy/dataset/2e7a7315-fc78-487a-bb0f-dab3ecbc6542/resource/2be11bc4-1937-488c-9ba6-1c80043ed175/download/metadatos_datos-de-los-llamados-y-concursos.json",
+            "formato": "JSON",
+            "tamaño": 3506,
+            "creado": "2023-10-05T15:16:32.725551"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:15.363Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/centro-ceibal-llamados_y_concursos",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "e89a79c2883bdd29b7361653f1fe2642914ef7b40970c6aa58700048d1ab56d1"
+        }
+      },
+      {
+        "id": "0dbb1a31-718a-4d20-8bcd-f7efbd57e50a",
+        "nombre": "Calendario de reuniones",
+        "slug": "centro-ceibal-calendario_de_reuniones",
+        "organismo": {
+          "id": "centro_ceibal",
+          "nombre": "Centro Ceibal",
+          "tipo": "organization"
+        },
+        "descripcion": "El conjunto cuenta con el calendario de reuniones del organismo.",
+        "etiquetas": [
+          "Calendario",
+          "Reuniones",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2023-07-27T17:15:44.125257",
+        "modificado": "2024-10-14T16:00:43.320423",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "d0a6455e-fc8e-455b-966b-b268197c632b",
+            "nombre": "Calendario de reuniones",
+            "url": "https://catalogodatos.gub.uy/dataset/0dbb1a31-718a-4d20-8bcd-f7efbd57e50a/resource/d0a6455e-fc8e-455b-966b-b268197c632b/download/calendario-de-reuniones.xlsx",
+            "formato": "XLSX",
+            "tamaño": 17462,
+            "creado": "2023-07-27T17:15:45.636182"
+          },
+          {
+            "id": "bcefcff3-2f14-4dab-bb14-0a591ec1a37d",
+            "nombre": "Calendario de reuniones",
+            "url": "https://catalogodatos.gub.uy/dataset/0dbb1a31-718a-4d20-8bcd-f7efbd57e50a/resource/bcefcff3-2f14-4dab-bb14-0a591ec1a37d/download/calendario-de-reuniones.csv",
+            "formato": "CSV",
+            "tamaño": 8220,
+            "creado": "2023-07-27T17:15:46.283014"
+          },
+          {
+            "id": "6780e848-a22b-427e-9ab3-4b6e7cf85b39",
+            "nombre": "Calendario de reuniones",
+            "url": "https://catalogodatos.gub.uy/dataset/0dbb1a31-718a-4d20-8bcd-f7efbd57e50a/resource/6780e848-a22b-427e-9ab3-4b6e7cf85b39/download/calendario-de-reuniones.xml",
+            "formato": "XML",
+            "tamaño": 23322,
+            "creado": "2023-07-27T17:15:47.076829"
+          },
+          {
+            "id": "a8d1e842-a03c-42d2-a7df-750a5f35ffe3",
+            "nombre": "Metadatos de calendario de reuniones",
+            "url": "https://catalogodatos.gub.uy/dataset/0dbb1a31-718a-4d20-8bcd-f7efbd57e50a/resource/a8d1e842-a03c-42d2-a7df-750a5f35ffe3/download/metadatos_calendario-de-reuniones.json",
+            "formato": "JSON",
+            "tamaño": 3564,
+            "creado": "2023-07-27T17:15:47.821049"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:15.363Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/centro-ceibal-calendario_de_reuniones",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "6b61515011c792899d32707e9c8094eee833c501e71e304350c34ab1683f5f31"
+        }
+      },
+      {
+        "id": "866b0bcf-859c-47aa-b382-5cbc46a8e8f0",
+        "nombre": "Licitaciones adjudicadas",
+        "slug": "centro-ceibal-licitaciones_adjudicadas",
+        "organismo": {
+          "id": "centro_ceibal",
+          "nombre": "Centro Ceibal",
+          "tipo": "organization"
+        },
+        "descripcion": "Este conjunto cuenta con la información de las licitaciones realizadas, incluyendo los pliegos de condiciones, datos relacionados con el objeto de la compra y con el proceso de licitación, resoluciones de adjudicación, de rechazo de las ofertas recibidas o resoluciones de declaración como licitación desierta desde el año 2022 en adelante.",
+        "etiquetas": [
+          "Adjudicaciones",
+          "Licitiaciones",
+          "Pliegos",
+          "Transparencia",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2023-08-29T20:18:49.904313",
+        "modificado": "2024-09-27T15:33:35.999316",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "e918b281-3a21-4580-b255-5fd5c6e0572b",
+            "nombre": "Datos de las licitaciones adjudicadas del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/866b0bcf-859c-47aa-b382-5cbc46a8e8f0/resource/e918b281-3a21-4580-b255-5fd5c6e0572b/download/datos-de-las-licitaciones-adjudicadas-del-organismo.xlsx",
+            "formato": "XLSX",
+            "tamaño": 23503,
+            "creado": "2023-08-29T20:18:52.365910"
+          },
+          {
+            "id": "ddc1621f-c460-4958-b57e-7f2a28252f91",
+            "nombre": "Datos de las licitaciones adjudicadas del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/866b0bcf-859c-47aa-b382-5cbc46a8e8f0/resource/ddc1621f-c460-4958-b57e-7f2a28252f91/download/datos-de-las-licitaciones-adjudicadas-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 18252,
+            "creado": "2023-08-29T20:18:53.517903"
+          },
+          {
+            "id": "f15036d3-1207-48b1-8c44-4ca7d06e0ed9",
+            "nombre": "Datos de las licitaciones adjudicadas del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/866b0bcf-859c-47aa-b382-5cbc46a8e8f0/resource/f15036d3-1207-48b1-8c44-4ca7d06e0ed9/download/datos-de-las-licitaciones-adjudicadas-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 43320,
+            "creado": "2023-08-29T20:18:55.088052"
+          },
+          {
+            "id": "0b787790-b511-4672-804e-765fb12b8b2c",
+            "nombre": "Metadatos de datos de las licitaciones adjudicadas del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/866b0bcf-859c-47aa-b382-5cbc46a8e8f0/resource/0b787790-b511-4672-804e-765fb12b8b2c/download/metadatos_datos-de-las-licitaciones-adjudicadas-del-organismo.json",
+            "formato": "JSON",
+            "tamaño": 3399,
+            "creado": "2023-08-29T20:18:55.930233"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:15.363Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/centro-ceibal-licitaciones_adjudicadas",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "d323337bb6d4b4e1aeb0021f5dbc6cda24cc6001bc3ece1181f9483aa85a565a"
+        }
+      },
+      {
+        "id": "e5b78d49-1707-4f50-9b3b-f2db591ac133",
+        "nombre": "Actividad en plataformas educativas - Docentes",
+        "slug": "centro_ceibal-actividad-en-plataformas-educativas-docentes",
+        "organismo": {
+          "id": "centro_ceibal",
+          "nombre": "Centro Ceibal",
+          "tipo": "organization"
+        },
+        "descripcion": "El conjunto cuenta con información sobre la actividad de los docentes en las plataformas CREA y Biblioteca País. \r\nDatos de CREA: total de días de ingreso, total de acciones y total de comentarios posteados por cada docente en cada año lectivo. \r\nDatos de Biblioteca País: total de préstamos y total días de ingreso a la plataforma por cada docente en cada año lectivo. \r\n\r\nSe disponibiliza información desde el año 2019. El conjunto de datos contiene información de la actividad docente en cada subsistema DGEIP, DGES, DGETP por departamento en cada año lectivo. Los datos de actividad en cada plataforma son acumulados a nivel anual para cada docente. Los docentes pueden figurar en más de un subsistema en el mismo año, por lo que la actividad correspondiente a estos casos estará repetidas. Los datos se encuentran anonimizados y desidentificados.\r\n",
+        "etiquetas": [
+          "Biblioteca País",
+          "CREA",
+          "Ceibal",
+          "Docentes",
+          "Plataformas"
+        ],
+        "grupos": [
+          "Educación",
+          "Estadísticas"
+        ],
+        "creado": "2022-06-10T13:53:20.713744",
+        "modificado": "2024-07-11T12:47:28.347297",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "91fb70d4-b938-43d1-ac4f-913e862fb7ad",
+            "nombre": "Metadata de la actividad de docentes",
+            "url": "https://catalogodatos.gub.uy/dataset/e5b78d49-1707-4f50-9b3b-f2db591ac133/resource/91fb70d4-b938-43d1-ac4f-913e862fb7ad/download/metadatos_actividad_docente.pdf",
+            "formato": "PDF",
+            "tamaño": 54213,
+            "creado": "2022-06-23T17:12:29.829212"
+          },
+          {
+            "id": "c09d9184-c244-4c15-80ab-bc36a91cea4c",
+            "nombre": "Metadata de la actividad de docentes",
+            "url": "https://catalogodatos.gub.uy/dataset/e5b78d49-1707-4f50-9b3b-f2db591ac133/resource/c09d9184-c244-4c15-80ab-bc36a91cea4c/download/metadatos_actividad_docente.csv",
+            "formato": "CSV",
+            "tamaño": 4792,
+            "creado": "2022-07-11T15:45:22.438192"
+          },
+          {
+            "id": "d651361a-5e21-4e80-9107-3418677443ee",
+            "nombre": "Actividad de docentes - 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/e5b78d49-1707-4f50-9b3b-f2db591ac133/resource/d651361a-5e21-4e80-9107-3418677443ee/download/datos_docentes_2019.csv",
+            "formato": "CSV",
+            "tamaño": 2897964,
+            "creado": "2023-06-27T15:21:32.855115"
+          },
+          {
+            "id": "c1ed83e6-5fbf-4e21-8fca-90be601aa803",
+            "nombre": "Actividad de docentes - 2020",
+            "url": "https://catalogodatos.gub.uy/dataset/e5b78d49-1707-4f50-9b3b-f2db591ac133/resource/c1ed83e6-5fbf-4e21-8fca-90be601aa803/download/datos_docentes_2020.csv",
+            "formato": "CSV",
+            "tamaño": 2996955,
+            "creado": "2023-06-27T15:22:06.106674"
+          },
+          {
+            "id": "bd2bf7f2-212b-4697-ae41-7497ed4dafb8",
+            "nombre": "Actividad de docentes - 2021",
+            "url": "https://catalogodatos.gub.uy/dataset/e5b78d49-1707-4f50-9b3b-f2db591ac133/resource/bd2bf7f2-212b-4697-ae41-7497ed4dafb8/download/datos_docentes_2021.csv",
+            "formato": "CSV",
+            "tamaño": 3144052,
+            "creado": "2023-06-27T15:22:39.543562"
+          },
+          {
+            "id": "bbee7686-18f0-48bf-b110-6a1864f916ad",
+            "nombre": "Actividad de docentes - 2022",
+            "url": "https://catalogodatos.gub.uy/dataset/e5b78d49-1707-4f50-9b3b-f2db591ac133/resource/bbee7686-18f0-48bf-b110-6a1864f916ad/download/datos_docentes_2022.csv",
+            "formato": "CSV",
+            "tamaño": 3144868,
+            "creado": "2023-06-27T15:23:32.189254"
+          },
+          {
+            "id": "5e6ef30c-6368-461c-a823-bb8f400a95d1",
+            "nombre": "Actividad de docentes - 2023",
+            "url": "https://catalogodatos.gub.uy/dataset/e5b78d49-1707-4f50-9b3b-f2db591ac133/resource/5e6ef30c-6368-461c-a823-bb8f400a95d1/download/docentes_datos_abiertos_agesic.csv",
+            "formato": "CSV",
+            "tamaño": 3451485,
+            "creado": "2024-07-11T12:47:28.391918"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:15.363Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/centro_ceibal-actividad-en-plataformas-educativas-docentes",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "f9fb8eb1807ca52eed482f6e433224c9913590492a735687a186e46a025791d7"
+        }
+      },
+      {
+        "id": "caf9f327-4446-4326-a6c2-450cfacf8446",
+        "nombre": "Actividad en plataformas educativas - Estudiantes",
+        "slug": "centro_ceibal-actividad-en-plataformas-educativas-estudiantes",
+        "organismo": {
+          "id": "centro_ceibal",
+          "nombre": "Centro Ceibal",
+          "tipo": "organization"
+        },
+        "descripcion": "El conjunto cuenta con información sobre la actividad de los estudiantes en las plataformas CREA, PAM, Matific y Biblioteca País, en cada año lectivo. \r\n\r\nSe incluye la siguiente información:\r\n-CREA: total de días de ingreso, acciones, entregas de tareas y comentarios posteados.\r\n-PAM: total de días de ingreso y actividades finalizadas (plataforma en desuso desde 2022).\r\n-Matific: total de días de ingreso y episodios finalizados.\r\n-Biblioteca País: total de días de ingreso y préstamos.\r\n\r\nSe disponibilizan datos desde el año 2019. El conjunto de datos contiene información de la actividad del estudiante en cada subsistema (DGEIP, DGES, DGETP), ciclo, grado y departamento en cada año lectivo. Los datos de actividad en cada plataforma son acumulados a nivel anual para cada estudiante. Los datos se encuentran anonimizados y desidentificados.",
+        "etiquetas": [
+          "Biblioteca País",
+          "CREA",
+          "Ceibal",
+          "Estudiantes",
+          "Matific",
+          "PAM",
+          "Plataformas"
+        ],
+        "grupos": [
+          "Educación",
+          "Estadísticas"
+        ],
+        "creado": "2022-06-21T19:27:16.794845",
+        "modificado": "2024-07-11T12:45:28.882827",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "784c7024-fbd5-40e5-b37e-6c04a4fed882",
+            "nombre": "Metadata de la actividad de los estudiantes",
+            "url": "https://catalogodatos.gub.uy/dataset/caf9f327-4446-4326-a6c2-450cfacf8446/resource/784c7024-fbd5-40e5-b37e-6c04a4fed882/download/metadatos_actividad_estudiante.pdf",
+            "formato": "PDF",
+            "tamaño": 64678,
+            "creado": "2022-06-23T17:10:34.047378"
+          },
+          {
+            "id": "aee6c1fd-e569-472a-8f6e-46dff577a439",
+            "nombre": "Metadata de la actividad de los estudiantes",
+            "url": "https://catalogodatos.gub.uy/dataset/caf9f327-4446-4326-a6c2-450cfacf8446/resource/aee6c1fd-e569-472a-8f6e-46dff577a439/download/metadatos_actividad_estudiante.csv",
+            "formato": "CSV",
+            "tamaño": 10952,
+            "creado": "2022-07-11T15:46:49.838521"
+          },
+          {
+            "id": "bf2fc5a4-c437-4767-9382-64a87b714765",
+            "nombre": "Actividad de estudiantes - 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/caf9f327-4446-4326-a6c2-450cfacf8446/resource/bf2fc5a4-c437-4767-9382-64a87b714765/download/datos_estudiantes_2019.csv",
+            "formato": "CSV",
+            "tamaño": 72669150,
+            "creado": "2023-06-27T18:44:20.579137"
+          },
+          {
+            "id": "4b379dea-9909-4b72-b88f-52412427955d",
+            "nombre": "Actividad de estudiantes - 2020",
+            "url": "https://catalogodatos.gub.uy/dataset/caf9f327-4446-4326-a6c2-450cfacf8446/resource/4b379dea-9909-4b72-b88f-52412427955d/download/datos_estudiantes_2020.csv",
+            "formato": "CSV",
+            "tamaño": 74616947,
+            "creado": "2023-06-27T18:45:34.140873"
+          },
+          {
+            "id": "a1c2af8b-f728-471b-b728-e2375f9ecad4",
+            "nombre": "Actividad de estudiantes - 2021",
+            "url": "https://catalogodatos.gub.uy/dataset/caf9f327-4446-4326-a6c2-450cfacf8446/resource/a1c2af8b-f728-471b-b728-e2375f9ecad4/download/datos_estudiantes_2021.csv",
+            "formato": "CSV",
+            "tamaño": 74620567,
+            "creado": "2023-06-27T18:46:55.936098"
+          },
+          {
+            "id": "1669107e-946b-4750-82d4-74eefa8abf48",
+            "nombre": "Actividad de estudiantes - 2022",
+            "url": "https://catalogodatos.gub.uy/dataset/caf9f327-4446-4326-a6c2-450cfacf8446/resource/1669107e-946b-4750-82d4-74eefa8abf48/download/datos_estudiantes_2022.csv",
+            "formato": "CSV",
+            "tamaño": 72123358,
+            "creado": "2023-06-27T18:47:48.285271"
+          },
+          {
+            "id": "4d9ab478-cd34-4cbb-bbaa-61144e74dde1",
+            "nombre": "Actividad de estudiantes - 2023",
+            "url": "https://catalogodatos.gub.uy/dataset/caf9f327-4446-4326-a6c2-450cfacf8446/resource/4d9ab478-cd34-4cbb-bbaa-61144e74dde1/download/estudiantes_datos_abiertos_agesic.csv",
+            "formato": "CSV",
+            "tamaño": 68908688,
+            "creado": "2024-07-11T12:45:28.957670"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:15.363Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/centro_ceibal-actividad-en-plataformas-educativas-estudiantes",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "0e3d8aaa91d88c20ad46a4ac475bbe448fc2348d60d71d911127c1b6bdc8ce14"
+        }
+      },
+      {
+        "id": "806ac6f1-69a5-45f8-81f9-1c87b5f26850",
+        "nombre": "Proyectos",
+        "slug": "centro-ceibal-proyectos",
+        "organismo": {
+          "id": "centro_ceibal",
+          "nombre": "Centro Ceibal",
+          "tipo": "organization"
+        },
+        "descripcion": "Este conjunto presenta la información sobre las metas y el cumplimiento de metas pactadas en los diferentes compromisos de gestión entre el Centro Ceibal y el Poder Ejecutivo. ",
+        "etiquetas": [
+          "Transparencia activa",
+          "proyectos",
+          "transparencia"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2023-09-22T16:59:46.676547",
+        "modificado": "2024-04-17T12:45:40.703595",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "cab02640-e150-4118-a380-1aa45bf77d26",
+            "nombre": "Proyectos del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/806ac6f1-69a5-45f8-81f9-1c87b5f26850/resource/cab02640-e150-4118-a380-1aa45bf77d26/download/datos-de-los-proyectos-del-organismo.xlsx",
+            "formato": "XLSX",
+            "tamaño": 18013,
+            "creado": "2023-09-22T17:06:31.313971"
+          },
+          {
+            "id": "e489ea20-eda1-44ca-b41a-5a3070ae3ea3",
+            "nombre": "Proyectos del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/806ac6f1-69a5-45f8-81f9-1c87b5f26850/resource/e489ea20-eda1-44ca-b41a-5a3070ae3ea3/download/datos-de-los-proyectos-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 2248,
+            "creado": "2023-09-22T17:06:32.126745"
+          },
+          {
+            "id": "d231359b-6baf-485d-9e61-89c31e55da5c",
+            "nombre": "Proyectos del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/806ac6f1-69a5-45f8-81f9-1c87b5f26850/resource/d231359b-6baf-485d-9e61-89c31e55da5c/download/datos-de-los-proyectos-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 12248,
+            "creado": "2023-09-22T17:06:33.021675"
+          },
+          {
+            "id": "b9173232-0a51-4157-9721-098bd7318204",
+            "nombre": "Metadatos de proyectos del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/806ac6f1-69a5-45f8-81f9-1c87b5f26850/resource/b9173232-0a51-4157-9721-098bd7318204/download/metadatos_datos-de-los-proyectos-del-organismo.json",
+            "formato": "JSON",
+            "tamaño": 2860,
+            "creado": "2023-09-22T17:06:33.892105"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:15.363Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/centro-ceibal-proyectos",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "60cf0a0a49932d8656dee3daaad584462d86a727aa001fb6f117cec5996c4342"
+        }
+      },
+      {
+        "id": "7b61d137-63ad-49cf-bdb2-7f17301998cd",
+        "nombre": "Presupuesto y financiamiento externo",
+        "slug": "centro-ceibal-presupuesto_y_financiamiento_externo",
+        "organismo": {
+          "id": "centro_ceibal",
+          "nombre": "Centro Ceibal",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto cuenta con la información sobre el presupuesto y financiamiento externo (Organismos Nacionales e Internacionales.)",
+        "etiquetas": [
+          "Financiamiento externo",
+          "Organismos internacionales",
+          "Presupuesto",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2023-09-05T17:51:02.515108",
+        "modificado": "2024-04-17T12:30:58.407191",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "6bb6e15d-83e2-41bc-87f5-289ebbb2d617",
+            "nombre": "Presupuesto asignado por organismos internacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/7b61d137-63ad-49cf-bdb2-7f17301998cd/resource/6bb6e15d-83e2-41bc-87f5-289ebbb2d617/download/datos-del-presupuesto-asignado-por-organismos-internacionales.xlsx",
+            "formato": "XLSX",
+            "tamaño": 18184,
+            "creado": "2023-09-05T17:51:04.529385"
+          },
+          {
+            "id": "83c772fd-005a-4bde-b433-e1695b12493b",
+            "nombre": "Presupuesto asignado por organismos internacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/7b61d137-63ad-49cf-bdb2-7f17301998cd/resource/83c772fd-005a-4bde-b433-e1695b12493b/download/datos-del-presupuesto-asignado-por-organismos-internacionales.csv",
+            "formato": "CSV",
+            "tamaño": 6709,
+            "creado": "2023-09-05T17:51:05.300485"
+          },
+          {
+            "id": "05e3965b-b7e2-4c6c-8f5f-54fd39e34c18",
+            "nombre": "Presupuesto asignado por organismos internacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/7b61d137-63ad-49cf-bdb2-7f17301998cd/resource/05e3965b-b7e2-4c6c-8f5f-54fd39e34c18/download/datos-del-presupuesto-asignado-por-organismos-internacionales.xml",
+            "formato": "XML",
+            "tamaño": 13821,
+            "creado": "2023-09-05T17:51:06.361418"
+          },
+          {
+            "id": "e99e8869-a6d4-4809-a287-90fcbbb66dff",
+            "nombre": "Metadatos de presupuesto asignado por organismos internacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/7b61d137-63ad-49cf-bdb2-7f17301998cd/resource/e99e8869-a6d4-4809-a287-90fcbbb66dff/download/metadatos_datos-del-presupuesto-asignado-por-organismos-internacionales.json",
+            "formato": "JSON",
+            "tamaño": 4339,
+            "creado": "2023-09-05T17:51:06.885098"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:15.363Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/centro-ceibal-presupuesto_y_financiamiento_externo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "a73bcd47819ac437cafd8e709017c107a8ee9833e32088702f1d005d66fe714b"
+        }
+      },
+      {
+        "id": "4cfaffb4-9966-4413-982d-259d6e314a1e",
+        "nombre": "Capacitaciones",
+        "slug": "centro-ceibal-capacitaciones",
+        "organismo": {
+          "id": "centro_ceibal",
+          "nombre": "Centro Ceibal",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto presenta los datos sobre un rango amplio de capacitaciones (cursos, talleres, especializaciones, maestrías, etc.) que brinda Centro Ceibal a su personal desglosados por tipo superior, operativo y transversal. \r\n\r\nSuperior significa que son estudios de postgrado, especializaciones, masters y programas directivos; operativos refiere a capacitaciones necesarias o de mejora en la operativa de actividades y, transversales son capacitaciones realizadas desde Ceibal en su gestión.",
+        "etiquetas": [
+          "Capacitaciones",
+          "Transparencia activa",
+          "transparencia"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2023-09-07T18:19:42.630881",
+        "modificado": "2023-10-05T15:58:06.075719",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "e798cd2a-4442-47f4-b526-09c7fd53d332",
+            "nombre": "Datos de capacitaciones realizadas",
+            "url": "https://catalogodatos.gub.uy/dataset/4cfaffb4-9966-4413-982d-259d6e314a1e/resource/e798cd2a-4442-47f4-b526-09c7fd53d332/download/datos-de-capacitaciones-realizadas.xlsx",
+            "formato": "XLSX",
+            "tamaño": 25874,
+            "creado": "2023-09-07T18:19:44.781682"
+          },
+          {
+            "id": "5b3cd5ce-522f-4bef-90a3-be1d51e127b0",
+            "nombre": "Datos de capacitaciones realizadas",
+            "url": "https://catalogodatos.gub.uy/dataset/4cfaffb4-9966-4413-982d-259d6e314a1e/resource/5b3cd5ce-522f-4bef-90a3-be1d51e127b0/download/datos-de-capacitaciones-realizadas.csv",
+            "formato": "CSV",
+            "tamaño": 28778,
+            "creado": "2023-09-07T18:19:45.409426"
+          },
+          {
+            "id": "87860322-9293-4db2-814b-a5c462546922",
+            "nombre": "Datos de capacitaciones realizadas",
+            "url": "https://catalogodatos.gub.uy/dataset/4cfaffb4-9966-4413-982d-259d6e314a1e/resource/87860322-9293-4db2-814b-a5c462546922/download/datos-de-capacitaciones-realizadas.xml",
+            "formato": "XML",
+            "tamaño": 97817,
+            "creado": "2023-09-07T18:19:46.050561"
+          },
+          {
+            "id": "8840ea59-c554-49e1-8bc5-696ac57cf403",
+            "nombre": "Metadatos de datos de capacitaciones realizadas",
+            "url": "https://catalogodatos.gub.uy/dataset/4cfaffb4-9966-4413-982d-259d6e314a1e/resource/8840ea59-c554-49e1-8bc5-696ac57cf403/download/metadatos_datos-de-capacitaciones-realizadas.json",
+            "formato": "JSON",
+            "tamaño": 4184,
+            "creado": "2023-09-07T18:19:46.801852"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:15.363Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/centro-ceibal-capacitaciones",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "187cfbb504479bc17dbe5eeef89393f2e65766e7277a81286ccbcc8a195babd6"
+        }
+      },
+      {
+        "id": "12181bd0-8887-44d6-abdb-8102a93df613",
+        "nombre": "Evolución",
+        "slug": "centro-ceibal-evolucion",
+        "organismo": {
+          "id": "centro_ceibal",
+          "nombre": "Centro Ceibal",
+          "tipo": "organization"
+        },
+        "descripcion": "Ley de creación del sujeto obligado y  reseña de los principales cambios que han tenido lugar dentro del organismo",
+        "etiquetas": [
+          "Evolución",
+          "Evolución del organismo",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2023-07-27T16:38:54.416846",
+        "modificado": "2023-08-11T17:14:31.572890",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "21332d83-7d40-473d-812d-d225f2983547",
+            "nombre": "Evolución del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/12181bd0-8887-44d6-abdb-8102a93df613/resource/21332d83-7d40-473d-812d-d225f2983547/download/evolucion-del-organismo.xlsx",
+            "formato": "XLSX",
+            "tamaño": 17539,
+            "creado": "2023-07-27T16:38:55.994972"
+          },
+          {
+            "id": "34286d0a-c0b9-438d-9aa0-88638e39b180",
+            "nombre": "Evolución del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/12181bd0-8887-44d6-abdb-8102a93df613/resource/34286d0a-c0b9-438d-9aa0-88638e39b180/download/evolucion-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 1140,
+            "creado": "2023-07-27T16:38:56.716974"
+          },
+          {
+            "id": "70c5eb2a-44f2-4e36-ac7f-eb41f384946c",
+            "nombre": "Evolución del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/12181bd0-8887-44d6-abdb-8102a93df613/resource/70c5eb2a-44f2-4e36-ac7f-eb41f384946c/download/evolucion-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 2418,
+            "creado": "2023-07-27T16:38:57.469314"
+          },
+          {
+            "id": "ab104751-a752-46c8-a3bc-4d345589f3ba",
+            "nombre": "Metadatos de evolución del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/12181bd0-8887-44d6-abdb-8102a93df613/resource/ab104751-a752-46c8-a3bc-4d345589f3ba/download/metadatos_evolucion-del-organismo.json",
+            "formato": "JSON",
+            "tamaño": 3262,
+            "creado": "2023-07-27T16:38:58.303140"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:15.363Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/centro-ceibal-evolucion",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "f6f5d19e1bc06e10fd917e179511f9fd93b1e37cd246009da74972297fcf35dc"
+        }
+      }
+    ]
+  },
+  "hash": "2996cc1b2dda2981240cef9801ace4122ad49d282f57f55786045d91ae0eaf82",
+  "firma": "059355a05b405c0cf991acf670e196d62e02ec4509b6e6aec3460e6f9500c65a"
+}

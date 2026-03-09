@@ -1,0 +1,76 @@
+{
+  "id": "59bb3e0cc2de13168e285ab4348ea010",
+  "timestamp": "2026-03-06T23:09:13.622Z",
+  "datos": {
+    "organismo": "caja-notarial",
+    "total": 1,
+    "datasets": [
+      {
+        "id": "4aab40e3-863c-4367-aa25-f94f78841d41",
+        "nombre": "Autoridades de la Caja Notarial",
+        "slug": "caja-notarial-autoridades_de_la_cajanotarial",
+        "organismo": {
+          "id": "caja-notarial",
+          "nombre": "Caja Notarial",
+          "tipo": "organization"
+        },
+        "descripcion": "Funcionarios con cargos de jefatura a partir del jefe de departamento, gerente, director o equivalente hasta el jerarca máximo, incluyendo: nombre, domicilio postal, electrónico y números telefónicos oficiales.",
+        "etiquetas": [
+          "Autoridades",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2026-02-13T18:45:47.950342",
+        "modificado": "2026-02-13T18:53:29.684733",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "ce3d1549-2138-4582-a44f-7ca69115d6fc",
+            "nombre": "Autoridades del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/4aab40e3-863c-4367-aa25-f94f78841d41/resource/ce3d1549-2138-4582-a44f-7ca69115d6fc/download/autoridades-del-organismo.xlsx",
+            "formato": "XLSX",
+            "tamaño": 17890,
+            "creado": "2026-02-13T18:45:50.432155"
+          },
+          {
+            "id": "ccd10fb1-aaab-4e20-b401-9a442ff9523b",
+            "nombre": "Autoridades del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/4aab40e3-863c-4367-aa25-f94f78841d41/resource/ccd10fb1-aaab-4e20-b401-9a442ff9523b/download/autoridades-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 5155,
+            "creado": "2026-02-13T18:45:51.312104"
+          },
+          {
+            "id": "b76e0335-3f2a-4410-b885-9651977f1be4",
+            "nombre": "Autoridades del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/4aab40e3-863c-4367-aa25-f94f78841d41/resource/b76e0335-3f2a-4410-b885-9651977f1be4/download/autoridades-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 11300,
+            "creado": "2026-02-13T18:45:52.135008"
+          },
+          {
+            "id": "c1609e30-ed5a-4106-b7c5-c8879d7d7af5",
+            "nombre": "Metadatos de autoridades del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/4aab40e3-863c-4367-aa25-f94f78841d41/resource/c1609e30-ed5a-4106-b7c5-c8879d7d7af5/download/metadatos_autoridades-del-organismo.json",
+            "formato": "JSON",
+            "tamaño": 3620,
+            "creado": "2026-02-13T18:45:53.012217"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:13.622Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/caja-notarial-autoridades_de_la_cajanotarial",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "6e07c5b5859079d34a700bac3955b54302616a84e42e5c463f7e10d1e3ddd9f3"
+        }
+      }
+    ]
+  },
+  "hash": "569bb1eede5cd354ef0a80dcc0bf5237dc8387450730bb9831afc40447edd13c",
+  "firma": "cf0013819ea861f96dc10ade8fc6f2d245e14b51cf6ab42035acd5a310015211"
+}

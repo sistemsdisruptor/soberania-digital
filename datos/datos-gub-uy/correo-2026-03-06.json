@@ -1,0 +1,2874 @@
+{
+  "id": "600a2efe008dc09bfd7d83e1d4fd39a9",
+  "timestamp": "2026-03-06T23:09:20.928Z",
+  "datos": {
+    "organismo": "correo",
+    "total": 43,
+    "datasets": [
+      {
+        "id": "e2761a2e-6f2d-4dfd-8ed9-d75e1845fb22",
+        "nombre": "Viáticos nacionales",
+        "slug": "correo-viaticos-nacionales",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Viáticos abonados a funcionarios de Correo Uruguayo para misiones de servicio dentro del territorio nacional.",
+        "etiquetas": [
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2021-09-08T16:29:45.915789",
+        "modificado": "2026-03-02T16:29:49.076722",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "bba7e4ec-e639-4114-b321-45910c60d455",
+            "nombre": "Metadatos de viáticos nacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/e2761a2e-6f2d-4dfd-8ed9-d75e1845fb22/resource/bba7e4ec-e639-4114-b321-45910c60d455/download/metadatos_viaticos-nacionales-2022.json",
+            "formato": "JSON",
+            "tamaño": 4198,
+            "creado": "2022-09-19T18:33:30.502947"
+          },
+          {
+            "id": "17f6c965-16b0-447e-8c1f-6275040efeda",
+            "nombre": "Viáticos nacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/e2761a2e-6f2d-4dfd-8ed9-d75e1845fb22/resource/17f6c965-16b0-447e-8c1f-6275040efeda/download/viaticos-nacionales-2022.csv",
+            "formato": "CSV",
+            "tamaño": 1893002,
+            "creado": "2022-09-19T18:33:32.978615"
+          },
+          {
+            "id": "e9d18bc5-ff56-4933-a1ca-e4ece59985cc",
+            "nombre": "Viáticos nacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/e2761a2e-6f2d-4dfd-8ed9-d75e1845fb22/resource/e9d18bc5-ff56-4933-a1ca-e4ece59985cc/download/viaticos-nacionales-2022.xlsx",
+            "formato": "XLSX",
+            "tamaño": 536045,
+            "creado": "2022-09-19T18:33:36.073871"
+          },
+          {
+            "id": "cd363f63-0d2e-4550-965c-a810f4180a83",
+            "nombre": "Viáticos nacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/e2761a2e-6f2d-4dfd-8ed9-d75e1845fb22/resource/cd363f63-0d2e-4550-965c-a810f4180a83/download/viaticos-nacionales-2022.xml",
+            "formato": "XML",
+            "tamaño": 4653090,
+            "creado": "2022-09-19T18:33:39.265187"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-viaticos-nacionales",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "869a8a74b9619d677d696763f04ced68977a838e7ecb6f6a9c23bdbc88ddf80b"
+        }
+      },
+      {
+        "id": "34a7646b-19f9-4c3e-9ea4-514dce848715",
+        "nombre": "Actas y Resoluciones de Directorio",
+        "slug": "correo-actas_resoluciones_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Datos de las actas y resoluciones de las reuniones del Directorio de la Administración Nacional de Correos, en las que se detalla cada orden del día.",
+        "etiquetas": [
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2021-01-20T17:44:37.873428",
+        "modificado": "2025-12-29T15:48:28.116946",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "18c311ea-1d48-44a4-948b-11969cf8a0ac",
+            "nombre": "Metadatos de actas y resoluciones",
+            "url": "https://catalogodatos.gub.uy/dataset/34a7646b-19f9-4c3e-9ea4-514dce848715/resource/18c311ea-1d48-44a4-948b-11969cf8a0ac/download/metadatos_actas-y-resoluciones-2.json",
+            "formato": "JSON",
+            "tamaño": 3120,
+            "creado": "2023-06-29T14:07:07.803004"
+          },
+          {
+            "id": "3258c496-a538-4461-b5d7-9a40041eca57",
+            "nombre": "Actas y resoluciones",
+            "url": "https://catalogodatos.gub.uy/dataset/34a7646b-19f9-4c3e-9ea4-514dce848715/resource/3258c496-a538-4461-b5d7-9a40041eca57/download/actas-y-resoluciones-2.csv",
+            "formato": "CSV",
+            "tamaño": 2161741,
+            "creado": "2023-06-29T19:23:41.120816"
+          },
+          {
+            "id": "44685d45-7cdd-41ff-9ac6-121cda97a741",
+            "nombre": "Actas y resoluciones",
+            "url": "https://catalogodatos.gub.uy/dataset/34a7646b-19f9-4c3e-9ea4-514dce848715/resource/44685d45-7cdd-41ff-9ac6-121cda97a741/download/actas-y-resoluciones-2.xlsx",
+            "formato": "XLSX",
+            "tamaño": 665125,
+            "creado": "2023-06-29T19:23:39.176295"
+          },
+          {
+            "id": "48af074e-1f3e-4332-86cd-11c0fbdbcfd8",
+            "nombre": "Actas y resoluciones",
+            "url": "https://catalogodatos.gub.uy/dataset/34a7646b-19f9-4c3e-9ea4-514dce848715/resource/48af074e-1f3e-4332-86cd-11c0fbdbcfd8/download/actas-y-resoluciones-2.xml",
+            "formato": "XML",
+            "tamaño": 3369325,
+            "creado": "2023-06-29T19:23:43.185850"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-actas_resoluciones_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "677894e9e4da70763bd2b484c040db519d0be75e120329e85951c465cf847fd6"
+        }
+      },
+      {
+        "id": "dbb9fa17-8250-44ae-bf15-9dfd8ec68373",
+        "nombre": "Tarifas - Grupo de países",
+        "slug": "correo-grupodepaises_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguente conjunto presenta el listado de países destino de los envíos internacionales y sus tarifas.",
+        "etiquetas": [
+          "Correo Uruguayo",
+          "Destinos internacionales",
+          "Productos postales",
+          "Tarifas"
+        ],
+        "grupos": [
+          "Cultura",
+          "Transparencia"
+        ],
+        "creado": "2019-11-12T15:25:01.225051",
+        "modificado": "2025-12-01T21:34:08.517404",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "af4cc7ba-81a2-4a41-b63f-07c501dbaf3f",
+            "nombre": "Países destino de los envíos internacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/dbb9fa17-8250-44ae-bf15-9dfd8ec68373/resource/af4cc7ba-81a2-4a41-b63f-07c501dbaf3f/download/grupo-de-paises.csv",
+            "formato": "CSV",
+            "tamaño": 25720,
+            "creado": "2021-11-29T14:30:34.131943"
+          },
+          {
+            "id": "719b61ed-64a9-4420-85f5-d84c72d294e5",
+            "nombre": "Países destino de los envíos internacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/dbb9fa17-8250-44ae-bf15-9dfd8ec68373/resource/719b61ed-64a9-4420-85f5-d84c72d294e5/download/grupo-de-paises.xlsx",
+            "formato": "XLSX",
+            "tamaño": 16147,
+            "creado": "2021-11-29T14:30:36.244767"
+          },
+          {
+            "id": "8f0e216b-a20d-4db7-816d-d8307f89c7ea",
+            "nombre": "Países destino de los envíos internacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/dbb9fa17-8250-44ae-bf15-9dfd8ec68373/resource/8f0e216b-a20d-4db7-816d-d8307f89c7ea/download/grupo-de-paises.xml",
+            "formato": "XML",
+            "tamaño": 39861,
+            "creado": "2021-11-29T14:30:38.851683"
+          },
+          {
+            "id": "d33932ce-088d-4d78-9bca-cf86255dfd96",
+            "nombre": "Metadatos de países destino de los envíos internacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/dbb9fa17-8250-44ae-bf15-9dfd8ec68373/resource/d33932ce-088d-4d78-9bca-cf86255dfd96/download/metadatos_grupo-de-paises.json",
+            "formato": "JSON",
+            "tamaño": 3250,
+            "creado": "2021-11-29T14:30:31.232017"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-grupodepaises_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "3a691192b6302e4f872c92353fba77e5eafc9df078dc597aee4099a43b023e5c"
+        }
+      },
+      {
+        "id": "e6d43b74-1de6-4cc8-bf3a-a3222815ab33",
+        "nombre": "Tarifas nacionales",
+        "slug": "correo-tarifas_nacionales_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Ajuste tarifario a ser aplicado a productos postales a partir del 1º de noviembre de cada año.",
+        "etiquetas": [
+          "Productos postales",
+          "Tarifas"
+        ],
+        "grupos": [
+          "Cultura",
+          "Transparencia"
+        ],
+        "creado": "2019-11-01T18:39:03.963281",
+        "modificado": "2025-12-01T21:22:26.523170",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "ab19bdae-e291-4d9d-839d-de24dea78266",
+            "nombre": "Metadatos de tarifas nacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/e6d43b74-1de6-4cc8-bf3a-a3222815ab33/resource/ab19bdae-e291-4d9d-839d-de24dea78266/download/metadatos_paquetes-y-cartas-nacionales.json",
+            "formato": "JSON",
+            "tamaño": 4477,
+            "creado": "2022-02-17T16:13:46.296432"
+          },
+          {
+            "id": "1f1257a9-3488-44ac-a3d0-2f5ad367f4ec",
+            "nombre": "Tarifas nacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/e6d43b74-1de6-4cc8-bf3a-a3222815ab33/resource/1f1257a9-3488-44ac-a3d0-2f5ad367f4ec/download/paquetes-y-cartas-nacionales.csv",
+            "formato": "CSV",
+            "tamaño": 83418,
+            "creado": "2022-02-17T16:13:48.490956"
+          },
+          {
+            "id": "6af0a6e3-2b89-4200-8016-ecde964776e2",
+            "nombre": "Tarifas nacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/e6d43b74-1de6-4cc8-bf3a-a3222815ab33/resource/6af0a6e3-2b89-4200-8016-ecde964776e2/download/paquetes-y-cartas-nacionales.xlsx",
+            "formato": "XLSX",
+            "tamaño": 34098,
+            "creado": "2022-02-17T16:13:50.579406"
+          },
+          {
+            "id": "55a178b7-ad73-49c6-9d2d-a4a9e99a5054",
+            "nombre": "Tarifas nacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/e6d43b74-1de6-4cc8-bf3a-a3222815ab33/resource/55a178b7-ad73-49c6-9d2d-a4a9e99a5054/download/paquetes-y-cartas-nacionales.xml",
+            "formato": "XML",
+            "tamaño": 189913,
+            "creado": "2022-02-17T16:13:52.707535"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-tarifas_nacionales_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "cd856846dd90d4699f84e011a50ae8f36b7003fbc2824ae46a4d72b00bfb169e"
+        }
+      },
+      {
+        "id": "c79e8011-8e28-482f-911a-399caea3b749",
+        "nombre": "Tarifas giros nacionales e internacionales",
+        "slug": "correo-tarifas_giros_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Ajuste tarifario a ser aplicado a productos postales a partir del 1º de noviembre cada año.",
+        "etiquetas": [
+          "Productos postales",
+          "Tarifas"
+        ],
+        "grupos": [
+          "Cultura",
+          "Transparencia"
+        ],
+        "creado": "2019-11-01T20:04:21.863452",
+        "modificado": "2025-12-01T21:19:51.879675",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "affbd9c7-1a80-46d5-9683-4900d16f2c91",
+            "nombre": "Metadatos de tarifas giros nacionales e internacionales ",
+            "url": "https://catalogodatos.gub.uy/dataset/c79e8011-8e28-482f-911a-399caea3b749/resource/affbd9c7-1a80-46d5-9683-4900d16f2c91/download/metadatos_tarifas-giros-nacionales-e-internacionales.json",
+            "formato": "JSON",
+            "tamaño": 4071,
+            "creado": "2022-02-17T16:52:01.965490"
+          },
+          {
+            "id": "d63ee59f-9f2f-4e9c-ac71-17f4d33df824",
+            "nombre": "Tarifas giros nacionales e internacionales ",
+            "url": "https://catalogodatos.gub.uy/dataset/c79e8011-8e28-482f-911a-399caea3b749/resource/d63ee59f-9f2f-4e9c-ac71-17f4d33df824/download/tarifas-giros-nacionales-e-internacionales.csv",
+            "formato": "CSV",
+            "tamaño": 12444,
+            "creado": "2022-02-17T16:52:04.405156"
+          },
+          {
+            "id": "6b3c04a5-1521-4170-852a-e9dde87fe4ad",
+            "nombre": "Tarifas giros nacionales e internacionales ",
+            "url": "https://catalogodatos.gub.uy/dataset/c79e8011-8e28-482f-911a-399caea3b749/resource/6b3c04a5-1521-4170-852a-e9dde87fe4ad/download/tarifas-giros-nacionales-e-internacionales.xlsx",
+            "formato": "XLSX",
+            "tamaño": 15812,
+            "creado": "2022-02-17T16:52:06.576522"
+          },
+          {
+            "id": "532d938d-381a-4db6-8a28-6cd33622b51d",
+            "nombre": "Tarifas giros nacionales e internacionales ",
+            "url": "https://catalogodatos.gub.uy/dataset/c79e8011-8e28-482f-911a-399caea3b749/resource/532d938d-381a-4db6-8a28-6cd33622b51d/download/tarifas-giros-nacionales-e-internacionales.xml",
+            "formato": "XML",
+            "tamaño": 28981,
+            "creado": "2022-02-17T16:52:08.922100"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-tarifas_giros_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "b067e67fb34bce9d3b9d85faff705343d6eb498a2360c01537a072f5b33f7128"
+        }
+      },
+      {
+        "id": "05aa82a2-1f5a-4d11-a3ec-d43d0db34f4b",
+        "nombre": "Tarifas firma digital",
+        "slug": "correo-tarifas_firma_digital_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Ajuste tarifario a ser aplicado a productos postales a partir del 1º de noviembre de cada año.\r\n\r\n",
+        "etiquetas": [
+          "Firma digital",
+          "Productos postales",
+          "Tarifas"
+        ],
+        "grupos": [
+          "Cultura",
+          "Transparencia"
+        ],
+        "creado": "2019-11-01T20:11:08.520553",
+        "modificado": "2025-11-27T18:28:10.704604",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "9065fec1-4af8-41b0-8f2b-578f0b961848",
+            "nombre": "Metadatos de tarifas firma digital ",
+            "url": "https://catalogodatos.gub.uy/dataset/05aa82a2-1f5a-4d11-a3ec-d43d0db34f4b/resource/9065fec1-4af8-41b0-8f2b-578f0b961848/download/metadatos_tarifas-firma-digital.json",
+            "formato": "JSON",
+            "tamaño": 3700,
+            "creado": "2022-02-17T16:44:25.359639"
+          },
+          {
+            "id": "e98ca43c-24c2-4423-9e56-d03275a9e60e",
+            "nombre": "Tarifas firma digital ",
+            "url": "https://catalogodatos.gub.uy/dataset/05aa82a2-1f5a-4d11-a3ec-d43d0db34f4b/resource/e98ca43c-24c2-4423-9e56-d03275a9e60e/download/tarifas-firma-digital.csv",
+            "formato": "CSV",
+            "tamaño": 23087,
+            "creado": "2022-02-17T16:44:27.664694"
+          },
+          {
+            "id": "cb56489c-7bff-4831-986e-04c27209f8d3",
+            "nombre": "Tarifas firma digital ",
+            "url": "https://catalogodatos.gub.uy/dataset/05aa82a2-1f5a-4d11-a3ec-d43d0db34f4b/resource/cb56489c-7bff-4831-986e-04c27209f8d3/download/tarifas-firma-digital.xlsx",
+            "formato": "XLSX",
+            "tamaño": 19126,
+            "creado": "2022-02-17T16:44:29.774471"
+          },
+          {
+            "id": "00bc6003-de99-4794-a1ff-9192aba7d83b",
+            "nombre": "Tarifas firma digital ",
+            "url": "https://catalogodatos.gub.uy/dataset/05aa82a2-1f5a-4d11-a3ec-d43d0db34f4b/resource/00bc6003-de99-4794-a1ff-9192aba7d83b/download/tarifas-firma-digital.xml",
+            "formato": "XML",
+            "tamaño": 57095,
+            "creado": "2022-02-17T16:44:31.746768"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-tarifas_firma_digital_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "ae61867be8b6e9b7f9e41b2b272842fe55bfb5fbc10f85866252efcf3da214ef"
+        }
+      },
+      {
+        "id": "95bc9698-d587-4e16-8f90-f3b508d7325e",
+        "nombre": "Tarifas filatelia",
+        "slug": "correo-tarifas_filatelia_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Ajuste tarifario a ser aplicado a productos postales a partir del 1º de noviembre cada año.",
+        "etiquetas": [
+          "Productos postales",
+          "Tarifas"
+        ],
+        "grupos": [
+          "Cultura",
+          "Transparencia"
+        ],
+        "creado": "2022-02-17T16:21:59.313195",
+        "modificado": "2025-11-27T18:25:27.020254",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "c73ea3a5-b8f3-4686-9f46-fea5db3eca44",
+            "nombre": "Metadatos de tarifas filatelia ",
+            "url": "https://catalogodatos.gub.uy/dataset/95bc9698-d587-4e16-8f90-f3b508d7325e/resource/c73ea3a5-b8f3-4686-9f46-fea5db3eca44/download/metadatos_tarifas-filatelia.json",
+            "formato": "JSON",
+            "tamaño": 3692,
+            "creado": "2022-02-17T16:22:00.765538"
+          },
+          {
+            "id": "2aaa9a1f-bca7-4e17-a9a4-74882b3ad7bd",
+            "nombre": "Tarifas filatelia ",
+            "url": "https://catalogodatos.gub.uy/dataset/95bc9698-d587-4e16-8f90-f3b508d7325e/resource/2aaa9a1f-bca7-4e17-a9a4-74882b3ad7bd/download/tarifas-filatelia.csv",
+            "formato": "CSV",
+            "tamaño": 23087,
+            "creado": "2022-02-17T16:22:02.160120"
+          },
+          {
+            "id": "b3716ff4-b0a1-43e9-9a1d-63545ca4108f",
+            "nombre": "Tarifas filatelia ",
+            "url": "https://catalogodatos.gub.uy/dataset/95bc9698-d587-4e16-8f90-f3b508d7325e/resource/b3716ff4-b0a1-43e9-9a1d-63545ca4108f/download/tarifas-filatelia.xlsx",
+            "formato": "XLSX",
+            "tamaño": 19126,
+            "creado": "2022-02-17T16:22:03.537994"
+          },
+          {
+            "id": "b5550631-0f41-43f7-b6b0-839b3fa01e80",
+            "nombre": "Tarifas filatelia ",
+            "url": "https://catalogodatos.gub.uy/dataset/95bc9698-d587-4e16-8f90-f3b508d7325e/resource/b5550631-0f41-43f7-b6b0-839b3fa01e80/download/tarifas-filatelia.xml",
+            "formato": "XML",
+            "tamaño": 57095,
+            "creado": "2022-02-17T16:22:04.930833"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-tarifas_filatelia_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "0dc2ca9650b1988ac6ea039d9457c322286f58bac1f40b89398f8951a028a12a"
+        }
+      },
+      {
+        "id": "272fcf95-01cb-4fb9-b35e-b83b052f61f7",
+        "nombre": "Tarifas internacionales",
+        "slug": "correo-tarifas_internacionales_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Ajuste tarifario a ser aplicado a productos postales a partir del 1º de noviembre de cada año.",
+        "etiquetas": [
+          "Productos postales",
+          "Tarifas"
+        ],
+        "grupos": [
+          "Cultura",
+          "Transparencia"
+        ],
+        "creado": "2019-11-01T19:57:45.931952",
+        "modificado": "2025-11-27T18:12:43.203890",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "7fa6e3c3-5093-4acf-829e-d7ed248f0ded",
+            "nombre": "Metadatos de tarifas internacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/272fcf95-01cb-4fb9-b35e-b83b052f61f7/resource/7fa6e3c3-5093-4acf-829e-d7ed248f0ded/download/metadatos_documentos-internacionales.json",
+            "formato": "JSON",
+            "tamaño": 5434,
+            "creado": "2021-11-16T13:21:31.713931"
+          },
+          {
+            "id": "0322b8ff-96ba-4d9d-bcc5-49084517610c",
+            "nombre": "Tarifas internacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/272fcf95-01cb-4fb9-b35e-b83b052f61f7/resource/0322b8ff-96ba-4d9d-bcc5-49084517610c/download/documentos-internacionales.csv",
+            "formato": "CSV",
+            "tamaño": 1809000,
+            "creado": "2021-11-16T13:21:35.922916"
+          },
+          {
+            "id": "b5e7dacf-88a8-4e56-878b-68a2f58c1544",
+            "nombre": "Tarifas internacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/272fcf95-01cb-4fb9-b35e-b83b052f61f7/resource/b5e7dacf-88a8-4e56-878b-68a2f58c1544/download/documentos-internacionales.xlsx",
+            "formato": "XLSX",
+            "tamaño": 473272,
+            "creado": "2021-11-16T13:21:38.714402"
+          },
+          {
+            "id": "4f96542b-ec58-4c08-af9b-4ddaa6f31447",
+            "nombre": "Tarifas internacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/272fcf95-01cb-4fb9-b35e-b83b052f61f7/resource/4f96542b-ec58-4c08-af9b-4ddaa6f31447/download/documentos-internacionales.xml",
+            "formato": "XML",
+            "tamaño": 4077203,
+            "creado": "2021-11-16T13:21:42.607995"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-tarifas_internacionales_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "ca31905b93b241b74c6ec52292ea93ed07cdeb67394d5722098ef83a536c5172"
+        }
+      },
+      {
+        "id": "e053262d-460e-42d3-acff-e2b049ae22bd",
+        "nombre": "Locales de la Red Nacional Postal y de Atención Ciudadana",
+        "slug": "correo-locales_atencionciudadana_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Se especifican los datos de contacto de los locales comerciales de la Red Nacional Postal y de atención ciudadana: (CAC; PAC; Centros de Cercanía y Centros Cívicos): departamento, localidad, dirección, teléfono, horario de atención, entre otros.",
+        "etiquetas": [
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2020-10-23T18:35:20.138251",
+        "modificado": "2025-10-21T20:29:11.983685",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "e90991a5-b4ae-44fa-8d3f-61e62f8bb52f",
+            "nombre": "Metadatos de información de contacto",
+            "url": "https://catalogodatos.gub.uy/dataset/e053262d-460e-42d3-acff-e2b049ae22bd/resource/e90991a5-b4ae-44fa-8d3f-61e62f8bb52f/download/metadatos_locales-comerciales-y-atencion-ciudadana-2022.json",
+            "formato": "JSON",
+            "tamaño": 4496,
+            "creado": "2022-09-23T14:13:52.160892"
+          },
+          {
+            "id": "c28e7774-b664-45dc-b5a8-8096e9506683",
+            "nombre": "Información de contacto",
+            "url": "https://catalogodatos.gub.uy/dataset/e053262d-460e-42d3-acff-e2b049ae22bd/resource/c28e7774-b664-45dc-b5a8-8096e9506683/download/locales-comerciales-y-atencion-ciudadana-2022.csv",
+            "formato": "CSV",
+            "tamaño": 151968,
+            "creado": "2022-09-23T14:13:55.935696"
+          },
+          {
+            "id": "faef0a90-afde-4e34-ad53-e7cf40488fbe",
+            "nombre": "Información de contacto",
+            "url": "https://catalogodatos.gub.uy/dataset/e053262d-460e-42d3-acff-e2b049ae22bd/resource/faef0a90-afde-4e34-ad53-e7cf40488fbe/download/locales-comerciales-y-atencion-ciudadana-2022.xlsx",
+            "formato": "XLSX",
+            "tamaño": 50810,
+            "creado": "2022-09-23T14:14:00.500673"
+          },
+          {
+            "id": "2180cb1a-dcce-4150-8e6e-61532819a6d3",
+            "nombre": "Información de contacto",
+            "url": "https://catalogodatos.gub.uy/dataset/e053262d-460e-42d3-acff-e2b049ae22bd/resource/2180cb1a-dcce-4150-8e6e-61532819a6d3/download/locales-comerciales-y-atencion-ciudadana-2022.xml",
+            "formato": "XML",
+            "tamaño": 250565,
+            "creado": "2022-09-23T14:14:17.993827"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-locales_atencionciudadana_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "74446634b9a53e62e304dc6a0af014d71fa111fb29572c83030e6240896381fb"
+        }
+      },
+      {
+        "id": "7afe6efa-a0ef-420b-94cf-acdcf5b0a622",
+        "nombre": "Licitaciones y compras",
+        "slug": "correo-licitaciones_compras_correo_2021",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Detalle de la información correspondiente a los llamados a licitaciones (públicas y abreviadas) realizadas por Correo Uruguayo. Los listados de las licitaciones se agrupan de la siguiente manera: “En proceso” (llamados pendientes de apertura o con apertura en distinto estado de situación), “Adjudicadas” o “Sin efecto”.",
+        "etiquetas": [
+          "Compras",
+          "Licitaciones",
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2020-02-04T14:11:53.404234",
+        "modificado": "2025-10-21T20:18:59.744417",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "053395b7-82c5-4630-8fc0-48d1f11813dd",
+            "nombre": "Metadatos de licitaciones y compras del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/7afe6efa-a0ef-420b-94cf-acdcf5b0a622/resource/053395b7-82c5-4630-8fc0-48d1f11813dd/download/metadatos_licitaciones_2023.json",
+            "formato": "JSON",
+            "tamaño": 6251,
+            "creado": "2023-05-25T19:44:33.592212"
+          },
+          {
+            "id": "ee99b90b-5df5-4993-96fb-f120147d0969",
+            "nombre": "Licitaciones y compras del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/7afe6efa-a0ef-420b-94cf-acdcf5b0a622/resource/ee99b90b-5df5-4993-96fb-f120147d0969/download/licitaciones_2023.csv",
+            "formato": "CSV",
+            "tamaño": 88199,
+            "creado": "2023-05-25T19:43:32.756061"
+          },
+          {
+            "id": "c0359de7-457e-4d2c-a7bf-7642294988fc",
+            "nombre": "Licitaciones y compras del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/7afe6efa-a0ef-420b-94cf-acdcf5b0a622/resource/c0359de7-457e-4d2c-a7bf-7642294988fc/download/licitaciones_2023.xlsx",
+            "formato": "XLSX",
+            "tamaño": 50376,
+            "creado": "2023-05-25T19:43:07.706171"
+          },
+          {
+            "id": "0a7fde89-b57f-4258-a5f1-a95e6e544702",
+            "nombre": "Licitaciones y compras del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/7afe6efa-a0ef-420b-94cf-acdcf5b0a622/resource/0a7fde89-b57f-4258-a5f1-a95e6e544702/download/licitaciones_2023.xml",
+            "formato": "XML",
+            "tamaño": 142597,
+            "creado": "2023-05-25T19:43:56.437275"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-licitaciones_compras_correo_2021",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "f9f691f44a567d5d9ac531669482ae4d4043e3f540f7024a8f3f1f578db2cd20"
+        }
+      },
+      {
+        "id": "6ec3ab22-7bd3-4baa-8611-175b9c6e9641",
+        "nombre": "Sobre Correo Uruguayo",
+        "slug": "correo-",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Correo Uruguayo es la empresa postal pública de Uruguay. Su objetivo es materializar el acceso universal para toda la sociedad uruguaya, facilitando la satisfacción de sus demandas de comunicación, servicios logísticos y financieros. A través de su Red Nacional Postal (RNP), la mayor red física del país, cubre los 19 departamentos y el 90 % de toda zona urbana de más de 500 habitantes.",
+        "etiquetas": [
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2020-12-16T19:35:52.804680",
+        "modificado": "2025-10-03T19:55:15.321240",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "8bcc96d9-0329-4e34-ac0c-2554f948275c",
+            "nombre": "Información sobre el Organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/6ec3ab22-7bd3-4baa-8611-175b9c6e9641/resource/8bcc96d9-0329-4e34-ac0c-2554f948275c/download/sobre-nosotros.csv",
+            "formato": "CSV",
+            "tamaño": 2802,
+            "creado": "2022-09-23T13:56:14.659471"
+          },
+          {
+            "id": "3aabae59-8209-4b69-9828-a7ce7223895e",
+            "nombre": "Información sobre el Organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/6ec3ab22-7bd3-4baa-8611-175b9c6e9641/resource/3aabae59-8209-4b69-9828-a7ce7223895e/download/sobre-nosotros.xlsx",
+            "formato": "XLSX",
+            "tamaño": 12752,
+            "creado": "2022-09-23T13:56:18.947732"
+          },
+          {
+            "id": "467685f5-130f-4e2c-8d25-a2483921a005",
+            "nombre": "Información sobre el Organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/6ec3ab22-7bd3-4baa-8611-175b9c6e9641/resource/467685f5-130f-4e2c-8d25-a2483921a005/download/sobre-nosotros.xml",
+            "formato": "XML",
+            "tamaño": 4970,
+            "creado": "2022-09-23T13:56:22.276942"
+          },
+          {
+            "id": "d3b4210d-dddb-4dfa-83f3-bc27125446e3",
+            "nombre": "Metadatos de información sobre el organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/6ec3ab22-7bd3-4baa-8611-175b9c6e9641/resource/d3b4210d-dddb-4dfa-83f3-bc27125446e3/download/metadatos_sobre-nosotros.json",
+            "formato": "JSON",
+            "tamaño": 3399,
+            "creado": "2022-09-23T13:56:12.001739"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "2b0d069939cf5a00503f4d7d6ab247071e79f3c87800a912c6d06745980f67d8"
+        }
+      },
+      {
+        "id": "a75689f3-fd90-442b-b515-a16f3e4019d8",
+        "nombre": "Destinos internacionales habilitados por producto",
+        "slug": "correo-destinoshabilitadosporproducto-correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Correo Uruguayo informa los destinos internacionales habilitados para envío de cartas simples, certificadas, encomiendas y EMS.",
+        "etiquetas": [
+          "Cartas",
+          "Correo Uruguayo",
+          "Destino de envíos",
+          "Destinos internacionales",
+          "Encomiendas",
+          "Envíos certificados",
+          "Infraestructura"
+        ],
+        "grupos": [
+          "Infraestructura"
+        ],
+        "creado": "2022-06-01T14:37:38.674286",
+        "modificado": "2025-09-29T17:53:00.928404",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "c04a4f8f-5609-425b-b93a-c40c9e2d8fc4",
+            "nombre": "Metadatos de destinos internacionales habilitados por producto",
+            "url": "https://catalogodatos.gub.uy/dataset/a75689f3-fd90-442b-b515-a16f3e4019d8/resource/c04a4f8f-5609-425b-b93a-c40c9e2d8fc4/download/metadatos_destinos-habilitados-por-producto.json",
+            "formato": "JSON",
+            "tamaño": 2821,
+            "creado": "2022-06-20T16:16:14.234540"
+          },
+          {
+            "id": "448d3f3e-91ea-41a4-b25e-9db5c7d93e3a",
+            "nombre": "Destinos internacionales habilitados por producto",
+            "url": "https://catalogodatos.gub.uy/dataset/a75689f3-fd90-442b-b515-a16f3e4019d8/resource/448d3f3e-91ea-41a4-b25e-9db5c7d93e3a/download/destinos-habilitados-por-producto.csv",
+            "formato": "CSV",
+            "tamaño": 109328,
+            "creado": "2022-06-20T16:16:15.959086"
+          },
+          {
+            "id": "6b1186c9-9f3d-444a-a253-669b97063ff0",
+            "nombre": "Destinos internacionales habilitados por producto",
+            "url": "https://catalogodatos.gub.uy/dataset/a75689f3-fd90-442b-b515-a16f3e4019d8/resource/6b1186c9-9f3d-444a-a253-669b97063ff0/download/destinos-habilitados-por-producto.xlsx",
+            "formato": "XLSX",
+            "tamaño": 111671,
+            "creado": "2022-06-20T16:16:20.212851"
+          },
+          {
+            "id": "454fc9ed-3f75-4bd3-a59d-f141d4ee2c36",
+            "nombre": "Destinos internacionales habilitados por producto",
+            "url": "https://catalogodatos.gub.uy/dataset/a75689f3-fd90-442b-b515-a16f3e4019d8/resource/454fc9ed-3f75-4bd3-a59d-f141d4ee2c36/download/destinos-habilitados-por-producto.xml",
+            "formato": "XML",
+            "tamaño": 958036,
+            "creado": "2022-06-20T16:16:22.291615"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-destinoshabilitadosporproducto-correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "c508baae7f0acadf1e3831bc5983998a1eb9741f9efad559e7b29d8a973c052a"
+        }
+      },
+      {
+        "id": "704acce9-cdb5-494b-a150-b360cb5b047e",
+        "nombre": "Organigrama",
+        "slug": "correo-organigrama_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Estructura orgánica del organismo con información adicional de las distintas unidades que lo conforman y sus respectivos jerarcas.",
+        "etiquetas": [
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-03-13T13:57:27.801463",
+        "modificado": "2025-09-12T15:32:11.622215",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "faecae18-ce9a-479d-9b39-c11971232118",
+            "nombre": "Metadatos de organigrama del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/704acce9-cdb5-494b-a150-b360cb5b047e/resource/faecae18-ce9a-479d-9b39-c11971232118/download/metadatos_organigrama.json",
+            "formato": "JSON",
+            "tamaño": 3955,
+            "creado": "2022-09-21T15:12:52.601824"
+          },
+          {
+            "id": "63d69d36-9bf9-4e6a-a632-75f31e7ac46e",
+            "nombre": "Organigrama del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/704acce9-cdb5-494b-a150-b360cb5b047e/resource/63d69d36-9bf9-4e6a-a632-75f31e7ac46e/download/organigrama.csv",
+            "formato": "CSV",
+            "tamaño": 33749,
+            "creado": "2022-09-21T15:13:02.072155"
+          },
+          {
+            "id": "dead6cb3-632a-4db9-a102-64fb57318220",
+            "nombre": "Organigrama del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/704acce9-cdb5-494b-a150-b360cb5b047e/resource/dead6cb3-632a-4db9-a102-64fb57318220/download/organigrama.xlsx",
+            "formato": "XLSX",
+            "tamaño": 29342,
+            "creado": "2022-09-21T15:13:14.862828"
+          },
+          {
+            "id": "45e4ed14-88c0-4b04-80ed-8808ec05150b",
+            "nombre": "Organigrama del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/704acce9-cdb5-494b-a150-b360cb5b047e/resource/45e4ed14-88c0-4b04-80ed-8808ec05150b/download/organigrama.xml",
+            "formato": "XML",
+            "tamaño": 69587,
+            "creado": "2022-09-21T15:13:19.346266"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-organigrama_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "7fa2779ae1268672ea0c9765a231b893ef9c2cc0ea6d587c0ac62907d8a4a2e1"
+        }
+      },
+      {
+        "id": "994f6300-7ff9-4193-ae2e-aaa1cdef0c81",
+        "nombre": "Autoridades",
+        "slug": "correo-autoridades_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Funcionarios con cargos de jefatura de departamento de Montevideo e interior, Unidades, Coordinadores Regionales, Gerentes de División, Gerentes de Área y Directorio, incluyendo: nombre, domicilio postal, electrónico y números telefónicos oficiales.",
+        "etiquetas": [
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-03-12T15:34:40.308231",
+        "modificado": "2025-09-12T15:31:18.622400",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "565d7580-2d21-4495-82f5-54c2c7ad3561",
+            "nombre": "Metadatos de autoridades del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/994f6300-7ff9-4193-ae2e-aaa1cdef0c81/resource/565d7580-2d21-4495-82f5-54c2c7ad3561/download/metadatos_autoridades.json",
+            "formato": "JSON",
+            "tamaño": 3955,
+            "creado": "2022-09-21T14:20:43.056844"
+          },
+          {
+            "id": "66d5229b-3e36-469a-aa15-f627e349f7eb",
+            "nombre": "Autoridades del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/994f6300-7ff9-4193-ae2e-aaa1cdef0c81/resource/66d5229b-3e36-469a-aa15-f627e349f7eb/download/autoridades.csv",
+            "formato": "CSV",
+            "tamaño": 33749,
+            "creado": "2022-09-21T14:20:46.435403"
+          },
+          {
+            "id": "41a0d171-1efb-4776-9319-bcadad4a21e8",
+            "nombre": "Autoridades del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/994f6300-7ff9-4193-ae2e-aaa1cdef0c81/resource/41a0d171-1efb-4776-9319-bcadad4a21e8/download/autoridades.xlsx",
+            "formato": "XLSX",
+            "tamaño": 29342,
+            "creado": "2022-09-21T14:20:51.973459"
+          },
+          {
+            "id": "fc91b595-4d74-4e10-b2a8-3541d89f91d9",
+            "nombre": "Autoridades del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/994f6300-7ff9-4193-ae2e-aaa1cdef0c81/resource/fc91b595-4d74-4e10-b2a8-3541d89f91d9/download/autoridades.xml",
+            "formato": "XML",
+            "tamaño": 69587,
+            "creado": "2022-09-21T14:21:02.109646"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-autoridades_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "4a26af7f744b3596d5ef6cce14bd2e939751a25d74bf19c12a29329a2a9cb129"
+        }
+      },
+      {
+        "id": "a39bbf82-b73e-4b8c-822e-563ba5863502",
+        "nombre": "Información Reservada",
+        "slug": "correo-informacionreservada_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Detalle de la información clasificada como reservada por Correo Uruguayo con el correspondiente fundamento legal. \r\nLa información pública es toda la que se genera o está en posesión de cualquier organismo público, sea o no estatal, salvo las excepciones establecidas por la ley.\r\n¿Qué excepciones existen respecto a la información pública? \r\nLas definidas como secretas por la ley y las que el organismo defina con carácter reservado y confidencial (Arts. 8, 9 y 10 de la ley 18.381).",
+        "etiquetas": [
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-03-25T19:53:54.418179",
+        "modificado": "2025-07-10T22:15:16.592240",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "7c6ff264-986a-4567-92cd-4ac233ec786e",
+            "nombre": "Metadatos de información reservada",
+            "url": "https://catalogodatos.gub.uy/dataset/a39bbf82-b73e-4b8c-822e-563ba5863502/resource/7c6ff264-986a-4567-92cd-4ac233ec786e/download/metadatos_informacion-reservada.json",
+            "formato": "JSON",
+            "tamaño": 3218,
+            "creado": "2021-10-25T15:36:37.213023"
+          },
+          {
+            "id": "69bba521-d98e-4ccc-96e7-92b2e0eb67c7",
+            "nombre": "Información reservada",
+            "url": "https://catalogodatos.gub.uy/dataset/a39bbf82-b73e-4b8c-822e-563ba5863502/resource/69bba521-d98e-4ccc-96e7-92b2e0eb67c7/download/informacion-reservada.csv",
+            "formato": "CSV",
+            "tamaño": 6837,
+            "creado": "2021-10-25T15:36:43.553920"
+          },
+          {
+            "id": "669a3c76-d14d-4266-b4ab-25addc70b893",
+            "nombre": "Información reservada",
+            "url": "https://catalogodatos.gub.uy/dataset/a39bbf82-b73e-4b8c-822e-563ba5863502/resource/669a3c76-d14d-4266-b4ab-25addc70b893/download/informacion-reservada.xlsx",
+            "formato": "XLSX",
+            "tamaño": 67792,
+            "creado": "2021-10-25T15:36:50.464566"
+          },
+          {
+            "id": "f6f5521f-9116-443b-80f2-c971a99edce1",
+            "nombre": "Información reservada",
+            "url": "https://catalogodatos.gub.uy/dataset/a39bbf82-b73e-4b8c-822e-563ba5863502/resource/f6f5521f-9116-443b-80f2-c971a99edce1/download/informacion-reservada.xml",
+            "formato": "XML",
+            "tamaño": 12899,
+            "creado": "2021-10-25T15:36:56.365445"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-informacionreservada_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "c1cf7f99313b07ba76894d59abff09a091916d83aebe2f5e7fa6b3a4c88a8c45"
+        }
+      },
+      {
+        "id": "f60f540c-2460-4a49-a06c-858e7b19ae16",
+        "nombre": "Lavado de Activos y Financiamiento del Terrorismo - Personas Expuestas Políticamente (PEP)",
+        "slug": "correo-pep_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto presenta la información sobre el listado del Personal de superior jerarquía de la ANC enmarcado en el concepto de Personas Expuestas Poíticamente (Lista PEP).\r\nEsta información es parte de la Lista PEP que difunde la Secretaría Nacional para la Lucha contra el Lavado de Activos y Financiamiento del Terrorismo (SENACLAFT).",
+        "etiquetas": [
+          "Lista PEP",
+          "Personal expuesto políticamente",
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-10-09T19:56:47.999472",
+        "modificado": "2025-06-23T16:38:12.658342",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "b4e85ec8-26d8-4139-ad35-30f0e5ef2af7",
+            "nombre": "Listado de Personas Expuestas Políticamente",
+            "url": "https://catalogodatos.gub.uy/dataset/f60f540c-2460-4a49-a06c-858e7b19ae16/resource/b4e85ec8-26d8-4139-ad35-30f0e5ef2af7/download/pep.csv",
+            "formato": "CSV",
+            "tamaño": 7728,
+            "creado": "2022-09-20T17:03:57.896550"
+          },
+          {
+            "id": "2ae7a2ad-1f25-4d01-809e-f686a937e210",
+            "nombre": "Listado de Personas Expuestas Políticamente",
+            "url": "https://catalogodatos.gub.uy/dataset/f60f540c-2460-4a49-a06c-858e7b19ae16/resource/2ae7a2ad-1f25-4d01-809e-f686a937e210/download/pep.xlsx",
+            "formato": "XLSX",
+            "tamaño": 14762,
+            "creado": "2022-09-20T17:04:03.144950"
+          },
+          {
+            "id": "2fb3e40d-f9f7-4b13-96d4-d6b04dfc9306",
+            "nombre": "Listado de Personas Expuestas Políticamente",
+            "url": "https://catalogodatos.gub.uy/dataset/f60f540c-2460-4a49-a06c-858e7b19ae16/resource/2fb3e40d-f9f7-4b13-96d4-d6b04dfc9306/download/pep.xml",
+            "formato": "XML",
+            "tamaño": 15279,
+            "creado": "2022-09-20T17:04:06.207469"
+          },
+          {
+            "id": "9775bc7d-1e3a-4e52-a4b0-588b5b4d1145",
+            "nombre": "Metadatos de listado de personas expuestas políticamente",
+            "url": "https://catalogodatos.gub.uy/dataset/f60f540c-2460-4a49-a06c-858e7b19ae16/resource/9775bc7d-1e3a-4e52-a4b0-588b5b4d1145/download/metadatos_pep.json",
+            "formato": "JSON",
+            "tamaño": 3895,
+            "creado": "2022-09-20T17:03:54.794055"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-pep_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "9eccdfe1366cae3a22a30b2f82903132509d1e1e5500c60e376ac49ff79a2c3c"
+        }
+      },
+      {
+        "id": "8fa00a7d-d1c4-4ccd-a0c8-55618f71f871",
+        "nombre": "Nómina, remuneración y otros sistemas de compensación",
+        "slug": "correo-nomina_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto presenta la información del Correo Uruguayo sobre los temas de la nómina, remuneración y sistemas de compensación de sus funcionarios.\r\n\r\nAsociando el listado de “Nómina de funcionarios” (que contiene el nombre completo de todos los funcionarios de Correo Uruguayo, con el escalafón y grado asignado), con los listados de: “Escala de sueldos básicos, extensiones horarias” y “Grupos ocupaciones y compensaciones”; se llega a obtener la información del sueldo básico (remuneración mensual nominal) de cada funcionario, incluyendo todas las prestaciones en razón de los diferentes sistemas de compensación que se aplican.",
+        "etiquetas": [
+          "Nómina",
+          "Remuneraciones",
+          "Remuneración",
+          "Sueldos",
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2020-02-18T16:29:21.130102",
+        "modificado": "2025-06-02T20:01:55.671445",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "408880ae-f3e8-4f19-9ae9-e196ec9d56a3",
+            "nombre": "Metadatos de nómina de funcionarios",
+            "url": "https://catalogodatos.gub.uy/dataset/8fa00a7d-d1c4-4ccd-a0c8-55618f71f871/resource/408880ae-f3e8-4f19-9ae9-e196ec9d56a3/download/metadatos_nomina-de-funcionarios-marzo-2022.json",
+            "formato": "JSON",
+            "tamaño": 4817,
+            "creado": "2022-04-27T20:42:32.820990"
+          },
+          {
+            "id": "c1e1cd91-6e5b-4a94-929d-9ab8a325bbe8",
+            "nombre": "Nómina de funcionarios",
+            "url": "https://catalogodatos.gub.uy/dataset/8fa00a7d-d1c4-4ccd-a0c8-55618f71f871/resource/c1e1cd91-6e5b-4a94-929d-9ab8a325bbe8/download/nomina-de-funcionarios-marzo-2022.csv",
+            "formato": "CSV",
+            "tamaño": 1997879,
+            "creado": "2022-04-27T20:42:35.906250"
+          },
+          {
+            "id": "c05dc249-2fb1-4666-8bc6-b73ac22057a5",
+            "nombre": "Nómina de funcionarios",
+            "url": "https://catalogodatos.gub.uy/dataset/8fa00a7d-d1c4-4ccd-a0c8-55618f71f871/resource/c05dc249-2fb1-4666-8bc6-b73ac22057a5/download/nomina-de-funcionarios-marzo-2022.xlsx",
+            "formato": "XLSX",
+            "tamaño": 602313,
+            "creado": "2022-04-27T20:42:38.186616"
+          },
+          {
+            "id": "b79c3971-9e94-4cb3-9525-4ef89ba2b870",
+            "nombre": "Nómina de funcionarios",
+            "url": "https://catalogodatos.gub.uy/dataset/8fa00a7d-d1c4-4ccd-a0c8-55618f71f871/resource/b79c3971-9e94-4cb3-9525-4ef89ba2b870/download/nomina-de-funcionarios-marzo-2022.xml",
+            "formato": "XML",
+            "tamaño": 5180266,
+            "creado": "2022-04-27T20:42:40.503132"
+          },
+          {
+            "id": "abe8ac65-437d-434a-a301-ee05a79b345a",
+            "nombre": "Metadatos de escala de sueldos",
+            "url": "https://catalogodatos.gub.uy/dataset/8fa00a7d-d1c4-4ccd-a0c8-55618f71f871/resource/abe8ac65-437d-434a-a301-ee05a79b345a/download/metadatos_escala-de-sueldos-basicos-extensiones-horarias2022.json",
+            "formato": "JSON",
+            "tamaño": 3757,
+            "creado": "2022-05-03T13:46:59.268083"
+          },
+          {
+            "id": "175a7fd3-f69d-4b4b-978e-eb62ac8a48e7",
+            "nombre": "Escala de sueldos",
+            "url": "https://catalogodatos.gub.uy/dataset/8fa00a7d-d1c4-4ccd-a0c8-55618f71f871/resource/175a7fd3-f69d-4b4b-978e-eb62ac8a48e7/download/escala-de-sueldos-basicos-extensiones-horarias2022.csv",
+            "formato": "CSV",
+            "tamaño": 54162,
+            "creado": "2022-05-03T13:47:01.506917"
+          },
+          {
+            "id": "a25656d7-0a3f-4383-a9de-a6b7bd78e9fe",
+            "nombre": "Escala de sueldos",
+            "url": "https://catalogodatos.gub.uy/dataset/8fa00a7d-d1c4-4ccd-a0c8-55618f71f871/resource/a25656d7-0a3f-4383-a9de-a6b7bd78e9fe/download/escala-de-sueldos-basicos-extensiones-horarias2022.xlsx",
+            "formato": "XLSX",
+            "tamaño": 31094,
+            "creado": "2022-05-03T13:47:04.194682"
+          },
+          {
+            "id": "42efe021-021f-480c-b200-29632b960572",
+            "nombre": "Escala de sueldos",
+            "url": "https://catalogodatos.gub.uy/dataset/8fa00a7d-d1c4-4ccd-a0c8-55618f71f871/resource/42efe021-021f-480c-b200-29632b960572/download/escala-de-sueldos-basicos-extensiones-horarias2022.xml",
+            "formato": "XML",
+            "tamaño": 157468,
+            "creado": "2022-05-03T13:47:06.414194"
+          },
+          {
+            "id": "7c6294c5-425b-4b83-8e9d-9ac5afcaaeff",
+            "nombre": "Metadatos de grupos ocupacionales y compensaciones",
+            "url": "https://catalogodatos.gub.uy/dataset/8fa00a7d-d1c4-4ccd-a0c8-55618f71f871/resource/7c6294c5-425b-4b83-8e9d-9ac5afcaaeff/download/metadatos_grupos-ocupacionales-y-compensaciones-enero-2022.json",
+            "formato": "JSON",
+            "tamaño": 3572,
+            "creado": "2022-05-04T18:25:01.517829"
+          },
+          {
+            "id": "b0f7688e-6b72-4239-a71d-eafe4c8cd69c",
+            "nombre": "Grupos ocupacionales y compensaciones",
+            "url": "https://catalogodatos.gub.uy/dataset/8fa00a7d-d1c4-4ccd-a0c8-55618f71f871/resource/b0f7688e-6b72-4239-a71d-eafe4c8cd69c/download/grupos-ocupacionales-y-compensaciones-enero-2022.csv",
+            "formato": "CSV",
+            "tamaño": 103865,
+            "creado": "2022-05-04T18:25:03.820120"
+          },
+          {
+            "id": "ba240f15-a0dd-4b25-a6d2-2f1f6717792f",
+            "nombre": "Grupos ocupacionales y compensaciones",
+            "url": "https://catalogodatos.gub.uy/dataset/8fa00a7d-d1c4-4ccd-a0c8-55618f71f871/resource/ba240f15-a0dd-4b25-a6d2-2f1f6717792f/download/grupos-ocupacionales-y-compensaciones-enero-2022.xlsx",
+            "formato": "XLSX",
+            "tamaño": 44754,
+            "creado": "2022-05-04T18:25:06.484390"
+          },
+          {
+            "id": "adbdc660-b097-4828-ab0e-8ae1fb7ce868",
+            "nombre": "Grupos ocupacionales y compensaciones",
+            "url": "https://catalogodatos.gub.uy/dataset/8fa00a7d-d1c4-4ccd-a0c8-55618f71f871/resource/adbdc660-b097-4828-ab0e-8ae1fb7ce868/download/grupos-ocupacionales-y-compensaciones-enero-2022.xml",
+            "formato": "XML",
+            "tamaño": 282346,
+            "creado": "2022-05-04T18:25:08.790087"
+          },
+          {
+            "id": "b7b74d35-9ca7-43ec-a4c2-9d0c396e62b0",
+            "nombre": "Metadatos de cantidad de funcionarios por categoría de remuneración ",
+            "url": "https://catalogodatos.gub.uy/dataset/8fa00a7d-d1c4-4ccd-a0c8-55618f71f871/resource/b7b74d35-9ca7-43ec-a4c2-9d0c396e62b0/download/metadatos_cantidad-de-funcionarios-por-categoria-de-remuneracion-.json",
+            "formato": "JSON",
+            "tamaño": 3349,
+            "creado": "2023-09-25T18:14:43.629072"
+          },
+          {
+            "id": "16f17e32-32b4-42e0-9a59-df39f3b52fd1",
+            "nombre": "Cantidad de funcionarios por categoría de remuneración ",
+            "url": "https://catalogodatos.gub.uy/dataset/8fa00a7d-d1c4-4ccd-a0c8-55618f71f871/resource/16f17e32-32b4-42e0-9a59-df39f3b52fd1/download/cantidad-de-funcionarios-por-categoria-de-remuneracion-.csv",
+            "formato": "CSV",
+            "tamaño": 16548,
+            "creado": "2023-09-25T18:14:41.401827"
+          },
+          {
+            "id": "f123cba8-85f4-4f36-9c4e-b10fd58404b2",
+            "nombre": "Cantidad de funcionarios por categoría de remuneración ",
+            "url": "https://catalogodatos.gub.uy/dataset/8fa00a7d-d1c4-4ccd-a0c8-55618f71f871/resource/f123cba8-85f4-4f36-9c4e-b10fd58404b2/download/cantidad-de-funcionarios-por-categoria-de-remuneracion-.xlsx",
+            "formato": "XLSX",
+            "tamaño": 19704,
+            "creado": "2023-09-25T18:14:40.381486"
+          },
+          {
+            "id": "d5744a22-3618-40ed-a68d-1e6af39f8ed7",
+            "nombre": "Cantidad de funcionarios por categoría de remuneración ",
+            "url": "https://catalogodatos.gub.uy/dataset/8fa00a7d-d1c4-4ccd-a0c8-55618f71f871/resource/d5744a22-3618-40ed-a68d-1e6af39f8ed7/download/cantidad-de-funcionarios-por-categoria-de-remuneracion-.xml",
+            "formato": "XML",
+            "tamaño": 47629,
+            "creado": "2023-09-25T18:14:42.777388"
+          },
+          {
+            "id": "8b6afe13-78ee-4a9d-aa67-838fd63f7e21",
+            "nombre": "Otros sistemas de compensación",
+            "url": "https://catalogodatos.gub.uy/dataset/8fa00a7d-d1c4-4ccd-a0c8-55618f71f871/resource/8b6afe13-78ee-4a9d-aa67-838fd63f7e21/download/otros-sistemas-de-compensacion.pdf",
+            "formato": "PDF",
+            "tamaño": 52199,
+            "creado": "2025-05-21T19:28:00.921114"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-nomina_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "347742169e66da8470c729ac349329c5f7aae01b7136362418463d4bf72d5f20"
+        }
+      },
+      {
+        "id": "9b8da10f-4600-4796-acde-e3ea8939e371",
+        "nombre": "Plan filatélico anual",
+        "slug": "correo-planfilatelico-correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Los planes filatélicos anuales detallan las emisiones postales que se realizarán a lo largo del año. Cada plan es aprobado por Resolución de Directorio, sin perjuicio de que se encuentran en análisis otras solicitudes recibidas y que el Directorio de la Administración Nacional de Correos (A.N.C.) se reserva su complementación ante situaciones o circunstancias que ameriten la puesta en circulación de valores postales no contemplados en el referido plan general.",
+        "etiquetas": [
+          "Cultura",
+          "Plan filatélico",
+          "Sellos postales"
+        ],
+        "grupos": [
+          "Cultura"
+        ],
+        "creado": "2022-06-15T18:49:43.915021",
+        "modificado": "2025-04-08T21:26:09.723140",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "f8f7905d-b77a-44d3-8eb0-3383109b1f47",
+            "nombre": "Metadatos de plan filatélico anual",
+            "url": "https://catalogodatos.gub.uy/dataset/9b8da10f-4600-4796-acde-e3ea8939e371/resource/f8f7905d-b77a-44d3-8eb0-3383109b1f47/download/metadatos_plan-filatelico.json",
+            "formato": "JSON",
+            "tamaño": 1895,
+            "creado": "2022-06-15T18:49:45.351078"
+          },
+          {
+            "id": "8bf3ce98-5f6b-4600-b36b-497d3f657c39",
+            "nombre": "Plan filatélico anual",
+            "url": "https://catalogodatos.gub.uy/dataset/9b8da10f-4600-4796-acde-e3ea8939e371/resource/8bf3ce98-5f6b-4600-b36b-497d3f657c39/download/plan-filatelico.csv",
+            "formato": "CSV",
+            "tamaño": 16641,
+            "creado": "2022-06-15T18:49:47.278147"
+          },
+          {
+            "id": "3b941b8e-57be-4424-8e6c-0118e5c8e060",
+            "nombre": "Plan filatélico anual",
+            "url": "https://catalogodatos.gub.uy/dataset/9b8da10f-4600-4796-acde-e3ea8939e371/resource/3b941b8e-57be-4424-8e6c-0118e5c8e060/download/plan-filatelico.xlsx",
+            "formato": "XLSX",
+            "tamaño": 18591,
+            "creado": "2022-06-15T18:49:49.122226"
+          },
+          {
+            "id": "4f3df82b-d281-431c-aa91-6e741692f082",
+            "nombre": "Plan filatélico anual",
+            "url": "https://catalogodatos.gub.uy/dataset/9b8da10f-4600-4796-acde-e3ea8939e371/resource/4f3df82b-d281-431c-aa91-6e741692f082/download/plan-filatelico.xml",
+            "formato": "XML",
+            "tamaño": 26893,
+            "creado": "2022-06-15T18:49:50.767966"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-planfilatelico-correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "922bd8414bbda278cf2c441d1c5a34920a0f155bcfd271f05adbd5f56537ab47"
+        }
+      },
+      {
+        "id": "8c2de262-3d77-499f-9f42-43cfba468526",
+        "nombre": "Capacitaciones",
+        "slug": "correo-capacitaciones_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Listado de programas de capacitación ofrecidos donde se detallan: nombre curso, tipo de capacitación, descripción, cantidad de funcionarios, cantidad de aprobados, cantidad de reprobados, cantidad de abandonos.",
+        "etiquetas": [
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2022-02-11T18:11:46.189630",
+        "modificado": "2025-02-11T16:58:53.599906",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "d22e32c7-80ce-41ae-9074-a63c13a65b31",
+            "nombre": "Metadatos de capacitaciones ",
+            "url": "https://catalogodatos.gub.uy/dataset/8c2de262-3d77-499f-9f42-43cfba468526/resource/d22e32c7-80ce-41ae-9074-a63c13a65b31/download/metadatos_capacitaciones-2022.json",
+            "formato": "JSON",
+            "tamaño": 4374,
+            "creado": "2022-09-20T16:37:12.913543"
+          },
+          {
+            "id": "17d143ab-3a9c-43d7-b2a7-316435b95a4c",
+            "nombre": "Capacitaciones ",
+            "url": "https://catalogodatos.gub.uy/dataset/8c2de262-3d77-499f-9f42-43cfba468526/resource/17d143ab-3a9c-43d7-b2a7-316435b95a4c/download/capacitaciones-2022.csv",
+            "formato": "CSV",
+            "tamaño": 43620,
+            "creado": "2022-09-20T16:37:19.021175"
+          },
+          {
+            "id": "cab7fe45-befa-4def-920e-332d7339524f",
+            "nombre": "Capacitaciones ",
+            "url": "https://catalogodatos.gub.uy/dataset/8c2de262-3d77-499f-9f42-43cfba468526/resource/cab7fe45-befa-4def-920e-332d7339524f/download/capacitaciones-2022.xlsx",
+            "formato": "XLSX",
+            "tamaño": 31817,
+            "creado": "2022-09-20T16:37:22.498739"
+          },
+          {
+            "id": "5f3f67f8-aefe-4a70-9a6b-631b5aebe2fd",
+            "nombre": "Capacitaciones ",
+            "url": "https://catalogodatos.gub.uy/dataset/8c2de262-3d77-499f-9f42-43cfba468526/resource/5f3f67f8-aefe-4a70-9a6b-631b5aebe2fd/download/capacitaciones-2022.xml",
+            "formato": "XML",
+            "tamaño": 117840,
+            "creado": "2022-09-20T16:37:25.680976"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-capacitaciones_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "61cf55d3d4d7476742d43876b2212e02db124a915868fc59703c86a5f998c848"
+        }
+      },
+      {
+        "id": "f92829fa-4221-4960-ad96-15657544153a",
+        "nombre": "Información Estadística",
+        "slug": "correo-informacionestadistica_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Información estadística específica de acuerdo a los cometidos o áreas de actividad del organismo.-",
+        "etiquetas": [
+          "Estadísticas",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2022-07-11T16:30:50.089361",
+        "modificado": "2025-02-05T17:42:23.555218",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "750efd70-6ad9-459e-b8c0-360f41ca144d",
+            "nombre": "Metadatos de información estadística del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/f92829fa-4221-4960-ad96-15657544153a/resource/750efd70-6ad9-459e-b8c0-360f41ca144d/download/metadatos_informacion-estadistica.json",
+            "formato": "JSON",
+            "tamaño": 3175,
+            "creado": "2022-09-20T20:35:00.357788"
+          },
+          {
+            "id": "45033ef9-0a0a-467c-850a-54cc6da26944",
+            "nombre": "Información estadística del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/f92829fa-4221-4960-ad96-15657544153a/resource/45033ef9-0a0a-467c-850a-54cc6da26944/download/informacion-estadistica.csv",
+            "formato": "CSV",
+            "tamaño": 3997,
+            "creado": "2022-09-20T20:35:02.205610"
+          },
+          {
+            "id": "c13ce23a-48e8-4ce5-a4b6-29bd0de668dc",
+            "nombre": "Información estadística del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/f92829fa-4221-4960-ad96-15657544153a/resource/c13ce23a-48e8-4ce5-a4b6-29bd0de668dc/download/informacion-estadistica.xlsx",
+            "formato": "XLSX",
+            "tamaño": 13492,
+            "creado": "2022-09-20T20:35:04.363042"
+          },
+          {
+            "id": "a598c7b0-0389-4820-a14a-dffc1d070fa9",
+            "nombre": "Información estadística del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/f92829fa-4221-4960-ad96-15657544153a/resource/a598c7b0-0389-4820-a14a-dffc1d070fa9/download/informacion-estadistica.xml",
+            "formato": "XML",
+            "tamaño": 7706,
+            "creado": "2022-09-20T20:35:06.194893"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-informacionestadistica_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "2affd3a32d94bcf180bbf1fba36bfa489bdc2bfcdfffb418c281efa2fa565de5"
+        }
+      },
+      {
+        "id": "fb4c27be-8551-4884-bb60-5c6f54337813",
+        "nombre": "Destinos y tiempos de entrega para Express Internacional",
+        "slug": "correo-expressinternacional-correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Detalle de los destinos habilitados y sus tiempos de entrega para Express Internacional, tomados desde Uruguay hasta la entrega en destino.\r\nCorreo Uruguayo informa los destinos de Express Internacional habilitados para la admisión de envíos.\r\nLos tiempos de entrega en destino, pueden verse afectados debido a situación sanitaria mundial de Covid 19.",
+        "etiquetas": [
+          "Infraestructura"
+        ],
+        "grupos": [
+          "Infraestructura"
+        ],
+        "creado": "2022-06-06T18:14:18.850372",
+        "modificado": "2024-10-16T16:24:06.731085",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "b03986a9-5397-457d-8e66-7d4c52b99af3",
+            "nombre": "Metadatos de destinos y tiempos de entrega para express internacional",
+            "url": "https://catalogodatos.gub.uy/dataset/fb4c27be-8551-4884-bb60-5c6f54337813/resource/b03986a9-5397-457d-8e66-7d4c52b99af3/download/metadatos_express-internacional.json",
+            "formato": "JSON",
+            "tamaño": 1760,
+            "creado": "2022-06-06T18:14:20.245692"
+          },
+          {
+            "id": "1950c9a1-b266-4006-b954-2a2d352c4a1a",
+            "nombre": "Destinos y tiempos de entrega para Express Internacional",
+            "url": "https://catalogodatos.gub.uy/dataset/fb4c27be-8551-4884-bb60-5c6f54337813/resource/1950c9a1-b266-4006-b954-2a2d352c4a1a/download/express-internacional.csv",
+            "formato": "CSV",
+            "tamaño": 18248,
+            "creado": "2022-06-06T18:14:22.106570"
+          },
+          {
+            "id": "7bc1316e-ad9b-4b0e-89fe-1caa5bc104e1",
+            "nombre": "Destinos y tiempos de entrega para Express Internacional",
+            "url": "https://catalogodatos.gub.uy/dataset/fb4c27be-8551-4884-bb60-5c6f54337813/resource/7bc1316e-ad9b-4b0e-89fe-1caa5bc104e1/download/express-internacional.xlsx",
+            "formato": "XLSX",
+            "tamaño": 23463,
+            "creado": "2022-06-06T18:14:23.765872"
+          },
+          {
+            "id": "ec11d176-8412-4d6e-a6b2-bbedaafa53ab",
+            "nombre": "Destinos y tiempos de entrega para Express Internacional",
+            "url": "https://catalogodatos.gub.uy/dataset/fb4c27be-8551-4884-bb60-5c6f54337813/resource/ec11d176-8412-4d6e-a6b2-bbedaafa53ab/download/express-internacional.xml",
+            "formato": "XML",
+            "tamaño": 167564,
+            "creado": "2022-06-06T18:14:25.397811"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-expressinternacional-correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "e372c298a4a52d9c2df95254196a43ad939760e2942c329cbd4ff50dcc2b5671"
+        }
+      },
+      {
+        "id": "ea1ca7ab-7afe-4bcd-8b22-7b1f6b59e9b3",
+        "nombre": "Vínculos funcionales",
+        "slug": "correo-vinculos_funcionales_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Información sobre los funcionarios que cumplen funciones en el organismo que pertenecen al mismo y de aquellos que no pertenecen.",
+        "etiquetas": [
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-03-21T17:30:49.080830",
+        "modificado": "2024-09-24T14:22:04.067604",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "44b0dd39-6fa2-4ca6-9fac-fbc25b764e6e",
+            "nombre": "Metadatos de vínculos funcionales",
+            "url": "https://catalogodatos.gub.uy/dataset/ea1ca7ab-7afe-4bcd-8b22-7b1f6b59e9b3/resource/44b0dd39-6fa2-4ca6-9fac-fbc25b764e6e/download/metadatos_funcionarios-por-area-comisiones-2019-2022.json",
+            "formato": "JSON",
+            "tamaño": 3917,
+            "creado": "2022-05-05T20:18:06.404469"
+          },
+          {
+            "id": "fc2cc795-e23b-4308-9b01-8687c178a2c1",
+            "nombre": "Vínculos funcionales",
+            "url": "https://catalogodatos.gub.uy/dataset/ea1ca7ab-7afe-4bcd-8b22-7b1f6b59e9b3/resource/fc2cc795-e23b-4308-9b01-8687c178a2c1/download/funcionarios-por-area-comisiones-2019-2022.csv",
+            "formato": "CSV",
+            "tamaño": 330135,
+            "creado": "2022-05-05T20:18:08.961049"
+          },
+          {
+            "id": "042d60fe-37c1-4f2d-b444-c853d24fe404",
+            "nombre": "Vínculos funcionales",
+            "url": "https://catalogodatos.gub.uy/dataset/ea1ca7ab-7afe-4bcd-8b22-7b1f6b59e9b3/resource/042d60fe-37c1-4f2d-b444-c853d24fe404/download/funcionarios-por-area-comisiones-2019-2022.xlsx",
+            "formato": "XLSX",
+            "tamaño": 116971,
+            "creado": "2022-05-05T20:18:11.490646"
+          },
+          {
+            "id": "497c59c8-59af-49c9-b154-2816e65442d0",
+            "nombre": "Vínculos funcionales",
+            "url": "https://catalogodatos.gub.uy/dataset/ea1ca7ab-7afe-4bcd-8b22-7b1f6b59e9b3/resource/497c59c8-59af-49c9-b154-2816e65442d0/download/funcionarios-por-area-comisiones-2019-2022.xml",
+            "formato": "XML",
+            "tamaño": 774066,
+            "creado": "2022-05-05T20:18:13.412549"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-vinculos_funcionales_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "e79a5fd0f77af78a3e3d90857c81626c57191ec7272ea518b47cfdb0d9a96517"
+        }
+      },
+      {
+        "id": "e7d97a26-5af2-4388-9ae3-587122cbe6aa",
+        "nombre": "Sellos postales",
+        "slug": "correo-sellospostales-correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Detalle de las emisiones postales discriminadas por tema y año.\r\nLa filatelia es la afición por coleccionar y clasificar sellos, sobres y otros documentos postales, así como estudiar la historia postal. \r\nEn los sellos es representada la historia de un país o de una región, a través de imágenes de sus héroes nacionales, artistas, músicos, deportistas y científicos.",
+        "etiquetas": [
+          "Cultura",
+          "Sellos postales"
+        ],
+        "grupos": [
+          "Cultura"
+        ],
+        "creado": "2022-07-05T20:54:37.414738",
+        "modificado": "2024-09-03T16:20:12.791625",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "dbb9d079-689b-4964-a443-3b5db5c34e8e",
+            "nombre": "Metadatos de sellos postales",
+            "url": "https://catalogodatos.gub.uy/dataset/e7d97a26-5af2-4388-9ae3-587122cbe6aa/resource/dbb9d079-689b-4964-a443-3b5db5c34e8e/download/metadatos_sellos.json",
+            "formato": "JSON",
+            "tamaño": 4845,
+            "creado": "2022-09-23T15:40:09.112874"
+          },
+          {
+            "id": "f5bd4c64-5c98-4348-9fb3-eb7f6395a6bb",
+            "nombre": "Sellos postales",
+            "url": "https://catalogodatos.gub.uy/dataset/e7d97a26-5af2-4388-9ae3-587122cbe6aa/resource/f5bd4c64-5c98-4348-9fb3-eb7f6395a6bb/download/sellos.csv",
+            "formato": "CSV",
+            "tamaño": 453429,
+            "creado": "2022-09-23T15:40:10.958177"
+          },
+          {
+            "id": "afccbaee-987b-4eeb-9f75-87df9af44014",
+            "nombre": "Sellos postales",
+            "url": "https://catalogodatos.gub.uy/dataset/e7d97a26-5af2-4388-9ae3-587122cbe6aa/resource/afccbaee-987b-4eeb-9f75-87df9af44014/download/sellos.xlsx",
+            "formato": "XLSX",
+            "tamaño": 167433,
+            "creado": "2022-09-23T15:40:13.476711"
+          },
+          {
+            "id": "a053d740-0e7b-478c-8c5c-30ce54694ec5",
+            "nombre": "Sellos postales",
+            "url": "https://catalogodatos.gub.uy/dataset/e7d97a26-5af2-4388-9ae3-587122cbe6aa/resource/a053d740-0e7b-478c-8c5c-30ce54694ec5/download/sellos.xml",
+            "formato": "XML",
+            "tamaño": 515999,
+            "creado": "2022-09-23T15:40:15.558318"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-sellospostales-correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "eebc676c2fbadd0c346af79bed7a355b3fc0a846b73b3a61d671652ef239778a"
+        }
+      },
+      {
+        "id": "8a5b4713-1160-4f93-a7c3-2d206d05e15a",
+        "nombre": "Comisiones en el exterior",
+        "slug": "correo-comisionesservicioexterior-correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Comisiones de servicio en el exterior donde se detalla: fecha, viáticos, propósito del viaje y listado de integrantes.",
+        "etiquetas": [
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2022-09-20T20:08:13.819895",
+        "modificado": "2024-09-03T14:30:08.071978",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "4e85031a-e364-4372-8541-d2f29e3233b9",
+            "nombre": "Metadatos de comisiones de servicio en el exterior",
+            "url": "https://catalogodatos.gub.uy/dataset/8a5b4713-1160-4f93-a7c3-2d206d05e15a/resource/4e85031a-e364-4372-8541-d2f29e3233b9/download/metadatos_comisiones-de-servicio-en-el-exterior.json",
+            "formato": "JSON",
+            "tamaño": 4028,
+            "creado": "2022-09-20T20:08:15.280243"
+          },
+          {
+            "id": "d85b7383-de0c-4624-a1e1-50734d4e7821",
+            "nombre": "Comisiones de servicio en el exterior",
+            "url": "https://catalogodatos.gub.uy/dataset/8a5b4713-1160-4f93-a7c3-2d206d05e15a/resource/d85b7383-de0c-4624-a1e1-50734d4e7821/download/comisiones-de-servicio-en-el-exterior.csv",
+            "formato": "CSV",
+            "tamaño": 27146,
+            "creado": "2022-09-20T20:08:18.301903"
+          },
+          {
+            "id": "17090bef-b312-420c-b81a-e78124652777",
+            "nombre": "Comisiones de servicio en el exterior",
+            "url": "https://catalogodatos.gub.uy/dataset/8a5b4713-1160-4f93-a7c3-2d206d05e15a/resource/17090bef-b312-420c-b81a-e78124652777/download/comisiones-de-servicio-en-el-exterior.xlsx",
+            "formato": "XLSX",
+            "tamaño": 27193,
+            "creado": "2022-09-20T20:08:21.046942"
+          },
+          {
+            "id": "251b17b7-e54b-4514-99ac-22ce259580ad",
+            "nombre": "Comisiones de servicio en el exterior",
+            "url": "https://catalogodatos.gub.uy/dataset/8a5b4713-1160-4f93-a7c3-2d206d05e15a/resource/251b17b7-e54b-4514-99ac-22ce259580ad/download/comisiones-de-servicio-en-el-exterior.xml",
+            "formato": "XML",
+            "tamaño": 55878,
+            "creado": "2022-09-20T20:08:23.383887"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-comisionesservicioexterior-correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "8905676e932e9632136979bafb0bbdcf9ad69acf0e6c1397335d8bf6706d50c8"
+        }
+      },
+      {
+        "id": "0bef67f5-d6d7-424b-9a03-40d5bdec0622",
+        "nombre": "Viáticos internacionales",
+        "slug": "correo-viaticosinternacionales-correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Viáticos abonados a funcionarios de Correo Uruguayo para misiones de servicio en el exterior.",
+        "etiquetas": [
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2022-09-20T20:18:14.305623",
+        "modificado": "2024-09-03T14:29:00.595976",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "f6d4fe61-3f2f-46a8-932c-96ca1684966f",
+            "nombre": "Metadatos de viáticos internacionales ",
+            "url": "https://catalogodatos.gub.uy/dataset/0bef67f5-d6d7-424b-9a03-40d5bdec0622/resource/f6d4fe61-3f2f-46a8-932c-96ca1684966f/download/metadatos_viaticosinternacionales.json",
+            "formato": "JSON",
+            "tamaño": 3660,
+            "creado": "2022-09-20T20:18:15.357911"
+          },
+          {
+            "id": "43963fdb-1137-4436-babd-265f1a5f74c9",
+            "nombre": "Viáticos internacionales ",
+            "url": "https://catalogodatos.gub.uy/dataset/0bef67f5-d6d7-424b-9a03-40d5bdec0622/resource/43963fdb-1137-4436-babd-265f1a5f74c9/download/viaticosinternacionales.csv",
+            "formato": "CSV",
+            "tamaño": 20373,
+            "creado": "2022-09-20T20:18:16.999703"
+          },
+          {
+            "id": "926322a4-60f6-4b68-816b-92c9823ba98a",
+            "nombre": "Viáticos internacionales ",
+            "url": "https://catalogodatos.gub.uy/dataset/0bef67f5-d6d7-424b-9a03-40d5bdec0622/resource/926322a4-60f6-4b68-816b-92c9823ba98a/download/viaticosinternacionales.xlsx",
+            "formato": "XLSX",
+            "tamaño": 27516,
+            "creado": "2022-09-20T20:18:19.301321"
+          },
+          {
+            "id": "585a4cda-d76f-4bf1-bce1-898690e047ef",
+            "nombre": "Viáticos internacionales ",
+            "url": "https://catalogodatos.gub.uy/dataset/0bef67f5-d6d7-424b-9a03-40d5bdec0622/resource/585a4cda-d76f-4bf1-bce1-898690e047ef/download/viaticosinternacionales.xml",
+            "formato": "XML",
+            "tamaño": 45542,
+            "creado": "2022-09-20T20:18:21.309208"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-viaticosinternacionales-correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "923b289a34c1e162cbed7cb1173e5b2172e3e1ef98fdaab5d04e21adfae1a98c"
+        }
+      },
+      {
+        "id": "bad52a19-7855-496f-ac92-c0fd3c047c21",
+        "nombre": "Producto filatélico - Mi Sello",
+        "slug": "correo-productomisello-correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Detalle de las emisiones postales del producto filatélico Mi Sello.\r\nEste producto tiene como finalidad la comunicación y el desarrollo sociocultural dentro y fuera de fronteras.\r\nMi Sello es una nueva herramienta de comunicación para empresas y personas, una forma original de personalizar la correspondencia y de comunicar ocasiones y eventos especiales, de implementación sencilla, pero con el impacto de la originalidad.",
+        "etiquetas": [
+          "Cultura",
+          "Sellos postales"
+        ],
+        "grupos": [
+          "Cultura"
+        ],
+        "creado": "2022-09-16T15:25:21.238446",
+        "modificado": "2024-08-09T19:14:59.022846",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "490d7406-2bb0-4605-b022-367656c8a60a",
+            "nombre": "Metadatos de producto mi sello",
+            "url": "https://catalogodatos.gub.uy/dataset/bad52a19-7855-496f-ac92-c0fd3c047c21/resource/490d7406-2bb0-4605-b022-367656c8a60a/download/metadatos_mi-sello.json",
+            "formato": "JSON",
+            "tamaño": 2372,
+            "creado": "2022-09-16T15:25:22.642922"
+          },
+          {
+            "id": "399fb645-17ba-4773-9ff0-6c5d4c32fffe",
+            "nombre": "Producto Mi Sello",
+            "url": "https://catalogodatos.gub.uy/dataset/bad52a19-7855-496f-ac92-c0fd3c047c21/resource/399fb645-17ba-4773-9ff0-6c5d4c32fffe/download/mi-sello.csv",
+            "formato": "CSV",
+            "tamaño": 38377,
+            "creado": "2022-09-16T15:25:24.739446"
+          },
+          {
+            "id": "9333876e-ac75-4d12-9ee1-c799327810a6",
+            "nombre": "Producto Mi Sello",
+            "url": "https://catalogodatos.gub.uy/dataset/bad52a19-7855-496f-ac92-c0fd3c047c21/resource/9333876e-ac75-4d12-9ee1-c799327810a6/download/mi-sello.xlsx",
+            "formato": "XLSX",
+            "tamaño": 23579,
+            "creado": "2022-09-16T15:25:28.034234"
+          },
+          {
+            "id": "cf67452b-5e51-4c33-b6e4-c21231c60247",
+            "nombre": "Producto Mi Sello",
+            "url": "https://catalogodatos.gub.uy/dataset/bad52a19-7855-496f-ac92-c0fd3c047c21/resource/cf67452b-5e51-4c33-b6e4-c21231c60247/download/mi-sello.xml",
+            "formato": "XML",
+            "tamaño": 57523,
+            "creado": "2022-09-16T15:25:30.430191"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-productomisello-correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "4fd68129fba3a0fec8dee4185a0ec58b43c561e1b1619a9c9020814e0d360c31"
+        }
+      },
+      {
+        "id": "e9ff378c-71eb-4caf-a4e7-0b87c03c6d30",
+        "nombre": "Llamados y concursos",
+        "slug": "correo-llamados_concursos_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Información sobre concursos de ingreso: convocatorias y resultados.",
+        "etiquetas": [
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-03-22T18:35:05.466669",
+        "modificado": "2024-03-08T17:05:07.043220",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "33902d5c-2463-4b4c-ad61-27bb331490af",
+            "nombre": "Metadatos de llamados y concursos",
+            "url": "https://catalogodatos.gub.uy/dataset/e9ff378c-71eb-4caf-a4e7-0b87c03c6d30/resource/33902d5c-2463-4b4c-ad61-27bb331490af/download/metadatos_convocatorias.json",
+            "formato": "JSON",
+            "tamaño": 6333,
+            "creado": "2022-09-16T18:29:40.857592"
+          },
+          {
+            "id": "1d91f3b7-6d7e-4141-bf63-4e40e044e5bd",
+            "nombre": "Llamados y concursos",
+            "url": "https://catalogodatos.gub.uy/dataset/e9ff378c-71eb-4caf-a4e7-0b87c03c6d30/resource/1d91f3b7-6d7e-4141-bf63-4e40e044e5bd/download/convocatorias.csv",
+            "formato": "CSV",
+            "tamaño": 42653,
+            "creado": "2022-09-16T18:29:44.427150"
+          },
+          {
+            "id": "efc886b8-ebc6-4fd4-9a21-51d67a1e3ae9",
+            "nombre": "Llamados y concursos",
+            "url": "https://catalogodatos.gub.uy/dataset/e9ff378c-71eb-4caf-a4e7-0b87c03c6d30/resource/efc886b8-ebc6-4fd4-9a21-51d67a1e3ae9/download/convocatorias.xlsx",
+            "formato": "XLSX",
+            "tamaño": 20068,
+            "creado": "2022-09-16T18:29:47.790185"
+          },
+          {
+            "id": "2a0cf4df-f3a2-4ba9-b128-0af21acd5821",
+            "nombre": "Llamados y concursos",
+            "url": "https://catalogodatos.gub.uy/dataset/e9ff378c-71eb-4caf-a4e7-0b87c03c6d30/resource/2a0cf4df-f3a2-4ba9-b128-0af21acd5821/download/convocatorias.xml",
+            "formato": "XML",
+            "tamaño": 78259,
+            "creado": "2022-09-16T18:29:50.684194"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-llamados_concursos_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "c3091f987e6eb92c19bd1149d03117b36278a738cf6e60fbae131067800d053d"
+        }
+      },
+      {
+        "id": "70419ad7-b486-4725-9603-a947bc31e4c4",
+        "nombre": "Trámites, Productos y Servicios de Correo Uruguayo.",
+        "slug": "correo-tramites_productosservicios_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Detalle de los trámites, productos y servicios de Correo Uruguayo, especificándose los siguientes datos: nombre del trámite, descripción, lugar para realizarlo, costo, etc.",
+        "etiquetas": [
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-03-20T19:35:29.342385",
+        "modificado": "2023-09-28T14:11:31.233839",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "08a19707-81b5-46c5-bac9-abe7015fac62",
+            "nombre": "Metadatos de trámites, productos y servicios",
+            "url": "https://catalogodatos.gub.uy/dataset/70419ad7-b486-4725-9603-a947bc31e4c4/resource/08a19707-81b5-46c5-bac9-abe7015fac62/download/metadatos_servicios-y-tramites.json",
+            "formato": "JSON",
+            "tamaño": 3205,
+            "creado": "2022-09-23T14:26:12.600886"
+          },
+          {
+            "id": "c04b9b40-4f20-4249-8139-d03c551558c4",
+            "nombre": "Trámites, productos y servicios",
+            "url": "https://catalogodatos.gub.uy/dataset/70419ad7-b486-4725-9603-a947bc31e4c4/resource/c04b9b40-4f20-4249-8139-d03c551558c4/download/servicios-y-tramites.csv",
+            "formato": "CSV",
+            "tamaño": 30880,
+            "creado": "2022-09-23T14:26:15.490851"
+          },
+          {
+            "id": "18a774d1-2fa7-4f14-899b-40bb69053be0",
+            "nombre": "Trámites, productos y servicios",
+            "url": "https://catalogodatos.gub.uy/dataset/70419ad7-b486-4725-9603-a947bc31e4c4/resource/18a774d1-2fa7-4f14-899b-40bb69053be0/download/servicios-y-tramites.xlsx",
+            "formato": "XLSX",
+            "tamaño": 24029,
+            "creado": "2022-09-23T14:26:17.864437"
+          },
+          {
+            "id": "f0c8a77a-de93-41fd-9623-72efadd57c62",
+            "nombre": "Trámites, productos y servicios",
+            "url": "https://catalogodatos.gub.uy/dataset/70419ad7-b486-4725-9603-a947bc31e4c4/resource/f0c8a77a-de93-41fd-9623-72efadd57c62/download/servicios-y-tramites.xml",
+            "formato": "XML",
+            "tamaño": 48112,
+            "creado": "2022-09-23T14:26:20.317393"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-tramites_productosservicios_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "6844d00a9afe16132f8946a392ca21a05a1f1c15fdfe95c900dffeaee2e9a5bd"
+        }
+      },
+      {
+        "id": "101f37c0-87f6-459f-8864-7c01bd8f7fa4",
+        "nombre": "Proyectos",
+        "slug": "correo-proyectos_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Listado de proyectos con Entes Autónomos y Servicios Descentralizados, listado de proyectos con Sectores Sociales y otras personas jurídicas, listado de proyecto Interinstitucional Desarrollado, listado de proyectos con Ministerios y otros organismos públicos.",
+        "etiquetas": [
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-03-21T18:11:20.872420",
+        "modificado": "2023-09-28T12:24:52.896196",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "b925993b-86fd-4e56-ad65-a4fd30b80543",
+            "nombre": "Metadatos de proyectos del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/101f37c0-87f6-459f-8864-7c01bd8f7fa4/resource/b925993b-86fd-4e56-ad65-a4fd30b80543/download/metadatos_proyectos.json",
+            "formato": "JSON",
+            "tamaño": 3020,
+            "creado": "2021-03-15T13:57:35.829583"
+          },
+          {
+            "id": "98ced493-d784-4d46-8002-71c280af174d",
+            "nombre": "Proyectos del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/101f37c0-87f6-459f-8864-7c01bd8f7fa4/resource/98ced493-d784-4d46-8002-71c280af174d/download/proyectos.csv",
+            "formato": "CSV",
+            "tamaño": 12996,
+            "creado": "2021-03-15T13:57:57.304239"
+          },
+          {
+            "id": "f4c94dd6-a4f4-4e55-a9f0-97d9bd1578f2",
+            "nombre": "Proyectos del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/101f37c0-87f6-459f-8864-7c01bd8f7fa4/resource/f4c94dd6-a4f4-4e55-a9f0-97d9bd1578f2/download/proyectos.xlsx",
+            "formato": "XLSX",
+            "tamaño": 15795,
+            "creado": "2021-03-15T13:58:01.980991"
+          },
+          {
+            "id": "53a3210a-d610-490a-910a-926152c252b8",
+            "nombre": "Proyectos del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/101f37c0-87f6-459f-8864-7c01bd8f7fa4/resource/53a3210a-d610-490a-910a-926152c252b8/download/proyectos.xml",
+            "formato": "XML",
+            "tamaño": 17979,
+            "creado": "2021-03-15T13:58:05.969501"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-proyectos_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "744e5fb0ab5c7698f257c1df179601cc6f7bcb59d33fcd2fce40cc72d824111a"
+        }
+      },
+      {
+        "id": "9d3a0f3c-6be4-4844-8904-d2d2a48a8836",
+        "nombre": "Auditorías",
+        "slug": "correo-auditorias_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Listado de auditorías realizadas por el Tribunal de Cuentas, así como por auditor externo correspondiente a los años 2019 y 2020 respectivamente.\r\nDurante los años 2013 a 2018, las auditorías externas fueron clasificadas como información reservada por Resolución de Directorio 198/2013 del 11 de julio de 2013.\r\n",
+        "etiquetas": [
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-05-14T16:07:00.986523",
+        "modificado": "2023-09-25T18:41:49.977429",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "efc4d347-0170-4658-b798-88a1704a5fbe",
+            "nombre": "Metadatos de auditorías",
+            "url": "https://catalogodatos.gub.uy/dataset/9d3a0f3c-6be4-4844-8904-d2d2a48a8836/resource/efc4d347-0170-4658-b798-88a1704a5fbe/download/metadatos_auditorias.json",
+            "formato": "JSON",
+            "tamaño": 2730,
+            "creado": "2021-04-20T17:53:40.470146"
+          },
+          {
+            "id": "26f679c0-ba2a-45d5-811f-e380abfc2085",
+            "nombre": "Auditorías",
+            "url": "https://catalogodatos.gub.uy/dataset/9d3a0f3c-6be4-4844-8904-d2d2a48a8836/resource/26f679c0-ba2a-45d5-811f-e380abfc2085/download/auditorias.csv",
+            "formato": "CSV",
+            "tamaño": 4180,
+            "creado": "2021-04-20T17:53:45.075009"
+          },
+          {
+            "id": "4f6b1af9-0bbe-4ac7-b08c-0a6a7da6341b",
+            "nombre": "Auditorías",
+            "url": "https://catalogodatos.gub.uy/dataset/9d3a0f3c-6be4-4844-8904-d2d2a48a8836/resource/4f6b1af9-0bbe-4ac7-b08c-0a6a7da6341b/download/auditorias.xlsx",
+            "formato": "XLSX",
+            "tamaño": 13809,
+            "creado": "2021-04-20T17:53:48.706065"
+          },
+          {
+            "id": "3369f9d5-45be-40d4-befd-6fd2f7bd50f1",
+            "nombre": "Auditorías",
+            "url": "https://catalogodatos.gub.uy/dataset/9d3a0f3c-6be4-4844-8904-d2d2a48a8836/resource/3369f9d5-45be-40d4-befd-6fd2f7bd50f1/download/auditorias.xml",
+            "formato": "XML",
+            "tamaño": 8183,
+            "creado": "2021-04-20T17:53:51.920548"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-auditorias_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "a8dfaac6b98c516c16b2711ba68c4d0a6b66b8240ae89a184620d9f36d916ebc"
+        }
+      },
+      {
+        "id": "7eb3681f-3e58-475d-9cd4-4527dc6ab234",
+        "nombre": "Código Postal",
+        "slug": "correo-codigo-postal",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "El código postal es un identificador numérico o alfanumérico compuesto de una serie de letras y/o cifras e identifica un punto de entrega o un conjunto de puntos de entrega. Tiene por objetivo facilitar la clasificación y encaminamiento de la correspondencia postal. En nuestro país, el código postal (CP) es un número de 5 dígitos donde cada uno tiene un significado que orientan a los operadores postales, en las distintas etapas del proceso, a identificar fácilmente al centro de distribución o cartería al que deben encaminar la correspondencia. \r\n\r\nlink a direcciones del Uruguay:http://catalogodatos.gub.uy/dataset/ide-direcciones-geograficas-del-uruguay",
+        "etiquetas": [
+          "Correo",
+          "Correo Uruguayo",
+          "Código Postal"
+        ],
+        "grupos": [
+          "Infraestructura"
+        ],
+        "creado": "2014-08-21T11:07:36.825975",
+        "modificado": "2023-08-16T13:37:24.647027",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "a8bd1947-d096-4d3a-9a29-e9319aef5acf",
+            "nombre": "Código Postal - Descripción",
+            "url": "https://catalogodatos.gub.uy/dataset/7eb3681f-3e58-475d-9cd4-4527dc6ab234/resource/a8bd1947-d096-4d3a-9a29-e9319aef5acf/download/elcodigopostaluruguayov220140801.pdf",
+            "formato": "PDF",
+            "tamaño": null,
+            "creado": "2014-08-21T08:08:32.837846"
+          },
+          {
+            "id": "4682cccd-37da-4664-9b7c-69fc8f322784",
+            "nombre": "Códigos Postales Mayo 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/7eb3681f-3e58-475d-9cd4-4527dc6ab234/resource/4682cccd-37da-4664-9b7c-69fc8f322784/download/codigospostales.zip",
+            "formato": "SHP",
+            "tamaño": null,
+            "creado": "2017-02-20T10:48:56.047777"
+          },
+          {
+            "id": "b06c50a3-2adb-4935-ad0e-52df52f660b4",
+            "nombre": "Códigos Postales Mayo 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/7eb3681f-3e58-475d-9cd4-4527dc6ab234/resource/b06c50a3-2adb-4935-ad0e-52df52f660b4/download/codigospostales.kml",
+            "formato": "KML",
+            "tamaño": null,
+            "creado": "2017-02-20T10:50:07.432954"
+          },
+          {
+            "id": "271e6277-6b0f-44f6-962d-21b8ba88e9e4",
+            "nombre": "Codigos Postales Agosto 2023",
+            "url": "https://catalogodatos.gub.uy/dataset/7eb3681f-3e58-475d-9cd4-4527dc6ab234/resource/271e6277-6b0f-44f6-962d-21b8ba88e9e4/download/codigos_postales.kml",
+            "formato": "KML",
+            "tamaño": 9059649,
+            "creado": "2023-08-16T13:25:45.543049"
+          },
+          {
+            "id": "8f701b15-5299-4176-b94e-260f69086494",
+            "nombre": "Codigos Postales Agosto 2023",
+            "url": "https://catalogodatos.gub.uy/dataset/7eb3681f-3e58-475d-9cd4-4527dc6ab234/resource/8f701b15-5299-4176-b94e-260f69086494/download/codigospostales.zip",
+            "formato": "SHP",
+            "tamaño": 2993340,
+            "creado": "2023-08-16T13:28:51.213161"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-codigo-postal",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "4c05814fffcca147c33bc5396fa669371b566f29bf5b627b6058c4de958b4088"
+        }
+      },
+      {
+        "id": "57921f45-502d-401a-abcd-6c767a3d386e",
+        "nombre": "Presupuesto",
+        "slug": "correo-presupuesto_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Gastos asignados en el Presupuesto.-",
+        "etiquetas": [
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-08-28T18:27:36.038631",
+        "modificado": "2023-07-24T18:53:53.362580",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "8a0d4ea4-3024-4cd3-b3b5-bec07bfeaf5a",
+            "nombre": "Metadatos de presupuesto del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/57921f45-502d-401a-abcd-6c767a3d386e/resource/8a0d4ea4-3024-4cd3-b3b5-bec07bfeaf5a/download/metadatos_presupuesto2017-2018-2019.json",
+            "formato": "JSON",
+            "tamaño": 5303,
+            "creado": "2021-07-22T13:34:57.528501"
+          },
+          {
+            "id": "f6d674dc-21b0-4dc6-bf0f-bf46eaee6bdb",
+            "nombre": "Presupuesto del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/57921f45-502d-401a-abcd-6c767a3d386e/resource/f6d674dc-21b0-4dc6-bf0f-bf46eaee6bdb/download/presupuesto2017-2018-2019.csv",
+            "formato": "CSV",
+            "tamaño": 88322,
+            "creado": "2021-07-22T13:35:09.079469"
+          },
+          {
+            "id": "ad83fd19-5003-438a-9499-9e0dd934252b",
+            "nombre": "Presupuesto del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/57921f45-502d-401a-abcd-6c767a3d386e/resource/ad83fd19-5003-438a-9499-9e0dd934252b/download/presupuesto2017-2018-2019.xlsx",
+            "formato": "XLSX",
+            "tamaño": 54129,
+            "creado": "2021-07-22T13:35:16.267911"
+          },
+          {
+            "id": "7706b1af-0835-446a-842e-c1f599e941a9",
+            "nombre": "Presupuesto del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/57921f45-502d-401a-abcd-6c767a3d386e/resource/7706b1af-0835-446a-842e-c1f599e941a9/download/presupuesto2017-2018-2019.xml",
+            "formato": "XML",
+            "tamaño": 285123,
+            "creado": "2021-07-22T13:35:20.853393"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-presupuesto_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "05edbe310e09369ad3939cad9e423d3579af6de7bc640eabd59e8d309a8c683d"
+        }
+      },
+      {
+        "id": "ab5eb5cd-8de1-42c4-ad15-175302bc4067",
+        "nombre": "Presupuesto y financiamiento externo",
+        "slug": "correo-presupuesto_organismos_internacionales_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Financiamiento Organismos Nacionales e Internacionales.-",
+        "etiquetas": [
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-05-14T17:23:04.625169",
+        "modificado": "2023-07-10T18:44:13.820678",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "589497a7-5ad5-440a-861c-7e07063d435a",
+            "nombre": "Metadatos de presupuesto asignado por organismos internacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/ab5eb5cd-8de1-42c4-ad15-175302bc4067/resource/589497a7-5ad5-440a-861c-7e07063d435a/download/metadatos_presupuesto-financiamiento-externo2017-2018-2019.json",
+            "formato": "JSON",
+            "tamaño": 4108,
+            "creado": "2021-07-19T18:58:38.632692"
+          },
+          {
+            "id": "afcca6d3-bed3-45d0-9529-d1d8723545b0",
+            "nombre": "Presupuesto asignado por organismos internacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/ab5eb5cd-8de1-42c4-ad15-175302bc4067/resource/afcca6d3-bed3-45d0-9529-d1d8723545b0/download/presupuesto-financiamiento-externo2017-2018-2019.csv",
+            "formato": "CSV",
+            "tamaño": 6067,
+            "creado": "2021-07-19T18:58:57.595932"
+          },
+          {
+            "id": "e75e60b7-19b8-4cb1-b6e9-102d5c3086ab",
+            "nombre": "Presupuesto asignado por organismos internacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/ab5eb5cd-8de1-42c4-ad15-175302bc4067/resource/e75e60b7-19b8-4cb1-b6e9-102d5c3086ab/download/presupuesto-financiamiento-externo2017-2018-2019.xlsx",
+            "formato": "XLSX",
+            "tamaño": 11106,
+            "creado": "2021-07-19T18:59:35.587155"
+          },
+          {
+            "id": "26b9c6ee-d6ed-49d1-8f34-def7c2807923",
+            "nombre": "Presupuesto asignado por organismos internacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/ab5eb5cd-8de1-42c4-ad15-175302bc4067/resource/26b9c6ee-d6ed-49d1-8f34-def7c2807923/download/presupuesto-financiamiento-externo2017-2018-2019.xml",
+            "formato": "XML",
+            "tamaño": 18567,
+            "creado": "2021-07-19T19:00:07.362433"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-presupuesto_organismos_internacionales_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "d0bf2f501be3aaa1a36759774538640366dfc04c446f57608c6683142e029b59"
+        }
+      },
+      {
+        "id": "ea5dcac2-a13f-4f4d-af9b-5317cf9c1db2",
+        "nombre": "Glosario de términos",
+        "slug": "correo-glosariodeterminos-correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Conjunto de definiciones de los términos utilizados por Correo Uruguayo.",
+        "etiquetas": [
+          "Glosario",
+          "Participación e interacción"
+        ],
+        "grupos": [
+          "Cultura",
+          "Transparencia"
+        ],
+        "creado": "2022-06-06T16:01:39.919643",
+        "modificado": "2023-05-24T15:12:28.060402",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "45ab49e6-1646-48e1-812d-d1b744f5c0af",
+            "nombre": "Metadatos de Glosario de términos",
+            "url": "https://catalogodatos.gub.uy/dataset/ea5dcac2-a13f-4f4d-af9b-5317cf9c1db2/resource/45ab49e6-1646-48e1-812d-d1b744f5c0af/download/metadatos_correo-glosariodeterminos-correo.json",
+            "formato": "JSON",
+            "tamaño": 1264,
+            "creado": "2022-06-06T16:05:01.746992"
+          },
+          {
+            "id": "3022d504-42b6-4f56-9fda-39b402c92aed",
+            "nombre": "Glosario de términos",
+            "url": "https://catalogodatos.gub.uy/dataset/ea5dcac2-a13f-4f4d-af9b-5317cf9c1db2/resource/3022d504-42b6-4f56-9fda-39b402c92aed/download/glosario-de-trminos.csv",
+            "formato": "CSV",
+            "tamaño": 36038,
+            "creado": "2022-06-06T16:05:04.192513"
+          },
+          {
+            "id": "5719475c-5555-4f1f-b542-58f84a32b856",
+            "nombre": "Glosario de términos",
+            "url": "https://catalogodatos.gub.uy/dataset/ea5dcac2-a13f-4f4d-af9b-5317cf9c1db2/resource/5719475c-5555-4f1f-b542-58f84a32b856/download/glosario-de-terminos.xlsx",
+            "formato": "XLS",
+            "tamaño": 23846,
+            "creado": "2022-06-06T16:05:07.047628"
+          },
+          {
+            "id": "24d1832d-1b3b-4755-b55e-12fd08473c7c",
+            "nombre": "Glosario de términos",
+            "url": "https://catalogodatos.gub.uy/dataset/ea5dcac2-a13f-4f4d-af9b-5317cf9c1db2/resource/24d1832d-1b3b-4755-b55e-12fd08473c7c/download/glosario-de-trminos.xml",
+            "formato": "XML",
+            "tamaño": 47032,
+            "creado": "2022-06-06T16:05:09.525145"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-glosariodeterminos-correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "1db314a0a3c6bca17f8e856cb8cec4dbfb0409409e69d29066ba6bce5267d086"
+        }
+      },
+      {
+        "id": "e59d2757-86f8-4f38-89a8-95e517b74505",
+        "nombre": "Productos filatélicos",
+        "slug": "correo-productosfilatelicos_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Detalle de los productos filatélicos de Correo Uruguayo: \r\nSello postal, Matasellos Especial, Matasellos primer día de emisión, Aerograma, Carnet filatélico, Carpetín, Hoja Filatélica, Láminas bonificadas, Mi sello, Sobre del primer día, Tarjeta Máxima, Tarjeta Postal.",
+        "etiquetas": [
+          "Filatélica",
+          "Productos filatélicos",
+          "Sellos postales"
+        ],
+        "grupos": [
+          "Cultura",
+          "Transparencia"
+        ],
+        "creado": "2020-12-15T13:45:52.794340",
+        "modificado": "2023-05-24T15:12:02.080791",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "d0938c99-f9f3-4a1d-bc8d-ae450215f17f",
+            "nombre": "Metadatos de productos filatélicos",
+            "url": "https://catalogodatos.gub.uy/dataset/e59d2757-86f8-4f38-89a8-95e517b74505/resource/d0938c99-f9f3-4a1d-bc8d-ae450215f17f/download/metadatos_correo-productosfilatelicos_correo.json",
+            "formato": "JSON",
+            "tamaño": 2777,
+            "creado": "2020-12-15T13:45:54.888972"
+          },
+          {
+            "id": "945ccfb0-e6ed-4303-8109-e677bc07071b",
+            "nombre": "Productos Filatélicos",
+            "url": "https://catalogodatos.gub.uy/dataset/e59d2757-86f8-4f38-89a8-95e517b74505/resource/945ccfb0-e6ed-4303-8109-e677bc07071b/download/productos-filatlicos.csv",
+            "formato": "CSV",
+            "tamaño": 4019,
+            "creado": "2020-12-15T13:45:57.143192"
+          },
+          {
+            "id": "640207ba-741a-4708-b932-39dbfb84c475",
+            "nombre": "Productos Filatélicos",
+            "url": "https://catalogodatos.gub.uy/dataset/e59d2757-86f8-4f38-89a8-95e517b74505/resource/640207ba-741a-4708-b932-39dbfb84c475/download/productos-filatelicos.xlsx",
+            "formato": "XLS",
+            "tamaño": 10466,
+            "creado": "2020-12-15T13:46:00.886040"
+          },
+          {
+            "id": "dce8a776-ad23-48de-8e89-5ad854bb1ae2",
+            "nombre": "Productos Filatélicos",
+            "url": "https://catalogodatos.gub.uy/dataset/e59d2757-86f8-4f38-89a8-95e517b74505/resource/dce8a776-ad23-48de-8e89-5ad854bb1ae2/download/productos-filatlicos.xml",
+            "formato": "XML",
+            "tamaño": 6736,
+            "creado": "2020-12-15T13:46:03.841627"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-productosfilatelicos_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "670d365a846ef1e02a564c7af54d1d184cc7d22d07d9513560b972ab0ba8e786"
+        }
+      },
+      {
+        "id": "5309cf4c-03b1-44a0-bd8c-6bc6d082ea9b",
+        "nombre": "Marco jurídico",
+        "slug": "correo-marco_juridico_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Leyes y decretos que son aplicables al funcionamiento de Correo Uruguayo.",
+        "etiquetas": [
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-03-13T14:08:08.187266",
+        "modificado": "2021-11-18T16:37:49.700655",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "13cdc23d-c378-4cd7-b608-a6e404b3a4dd",
+            "nombre": "Metadatos del marco jurídico del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/5309cf4c-03b1-44a0-bd8c-6bc6d082ea9b/resource/13cdc23d-c378-4cd7-b608-a6e404b3a4dd/download/metadatos_correo-marco_juridico_correo.json",
+            "formato": "JSON",
+            "tamaño": 3570,
+            "creado": "2021-11-18T16:36:30.473656"
+          },
+          {
+            "id": "867832c1-3beb-4633-baa9-8c1e8d24d765",
+            "nombre": "Marco jurídico del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/5309cf4c-03b1-44a0-bd8c-6bc6d082ea9b/resource/867832c1-3beb-4633-baa9-8c1e8d24d765/download/marco-jurdico-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 7038,
+            "creado": "2021-11-18T16:36:34.663203"
+          },
+          {
+            "id": "4326c8d9-7d03-4d5d-ad28-cc9658ca0858",
+            "nombre": "Marco jurídico del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/5309cf4c-03b1-44a0-bd8c-6bc6d082ea9b/resource/4326c8d9-7d03-4d5d-ad28-cc9658ca0858/download/marco-juridico-lesgislacion-nacional-e-internacional.xlsx",
+            "formato": "XLS",
+            "tamaño": 12712,
+            "creado": "2021-11-18T16:36:37.304722"
+          },
+          {
+            "id": "72257cb0-2e8f-4ab4-bd55-d84ff000ab82",
+            "nombre": "Marco jurídico del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/5309cf4c-03b1-44a0-bd8c-6bc6d082ea9b/resource/72257cb0-2e8f-4ab4-bd55-d84ff000ab82/download/marco-jurdico-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 12069,
+            "creado": "2021-11-18T16:36:39.841911"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-marco_juridico_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "aa23229e9fabdce2b17d8596293d71bad0585e3b259cdc85721f475806e0566c"
+        }
+      },
+      {
+        "id": "f4cc0dd3-7ab5-4242-8a89-02507438cb5f",
+        "nombre": "Comunicación y participación",
+        "slug": "correo-comunicacion_participacion_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Datos de contacto de Correo Uruguayo, detallando los canales y mecanismos de comunicación y participación ciudadana",
+        "etiquetas": [
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-03-20T15:24:46.710466",
+        "modificado": "2021-10-28T15:25:03.229422",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "21c53164-b647-4dc7-bd74-ee2dbbb47f6a",
+            "nombre": "Metadatos de contacto del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/f4cc0dd3-7ab5-4242-8a89-02507438cb5f/resource/21c53164-b647-4dc7-bd74-ee2dbbb47f6a/download/metadatos_correo-comunicacion_participacion_correo.json",
+            "formato": "JSON",
+            "tamaño": 3507,
+            "creado": "2021-10-28T15:21:45.185111"
+          },
+          {
+            "id": "5a02bad3-94da-4359-a1a4-cf376e93ced1",
+            "nombre": "Contacto del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/f4cc0dd3-7ab5-4242-8a89-02507438cb5f/resource/5a02bad3-94da-4359-a1a4-cf376e93ced1/download/contacto-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 4299,
+            "creado": "2021-10-28T15:22:20.132578"
+          },
+          {
+            "id": "f739eade-8bc8-4c76-8844-c5e3a75140ff",
+            "nombre": "Contacto del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/f4cc0dd3-7ab5-4242-8a89-02507438cb5f/resource/f739eade-8bc8-4c76-8844-c5e3a75140ff/download/comunicacion-y-participacion.xlsx",
+            "formato": "XLS",
+            "tamaño": 11220,
+            "creado": "2021-10-28T15:22:26.084670"
+          },
+          {
+            "id": "e7ee41d1-c3df-43ab-9dbc-e4517bfac0c2",
+            "nombre": "Contacto del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/f4cc0dd3-7ab5-4242-8a89-02507438cb5f/resource/e7ee41d1-c3df-43ab-9dbc-e4517bfac0c2/download/contacto-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 8479,
+            "creado": "2021-10-28T15:22:31.771971"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-comunicacion_participacion_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "fef6fa80dee3716ec34e560954cfb7758e0f0922e7c1d96d6b99ced38938c0fe"
+        }
+      },
+      {
+        "id": "8a394009-938f-4cf7-99ea-a2d285938fc2",
+        "nombre": "Plan estratégico 2020-2025",
+        "slug": "correo-planestrategico_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Plan Estratégico de la Administración Nacional de Correos con las principales líneas de acción definidas para el período 2020-2025.",
+        "etiquetas": [
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2020-12-02T15:39:50.021991",
+        "modificado": "2021-10-06T17:01:49.798832",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "ade92223-2f1a-4255-a17a-7c6414c5232f",
+            "nombre": "Metadatos del Plan Estratégico",
+            "url": "https://catalogodatos.gub.uy/dataset/8a394009-938f-4cf7-99ea-a2d285938fc2/resource/ade92223-2f1a-4255-a17a-7c6414c5232f/download/metadatos_correo-planestrategico_correo.json",
+            "formato": "JSON",
+            "tamaño": 3282,
+            "creado": "2020-12-02T15:39:54.164542"
+          },
+          {
+            "id": "0b2f6213-5f6e-4cb9-ab7d-cda2402c2ae8",
+            "nombre": "Plan Estratégico",
+            "url": "https://catalogodatos.gub.uy/dataset/8a394009-938f-4cf7-99ea-a2d285938fc2/resource/0b2f6213-5f6e-4cb9-ab7d-cda2402c2ae8/download/plan-estratgico.csv",
+            "formato": "CSV",
+            "tamaño": 2760,
+            "creado": "2020-12-02T15:39:56.113266"
+          },
+          {
+            "id": "4fd4c834-9534-41fb-a226-185380d95581",
+            "nombre": "Plan Estratégico",
+            "url": "https://catalogodatos.gub.uy/dataset/8a394009-938f-4cf7-99ea-a2d285938fc2/resource/4fd4c834-9534-41fb-a226-185380d95581/download/plan-estrategico.xlsx",
+            "formato": "XLS",
+            "tamaño": 16516,
+            "creado": "2020-12-02T15:39:58.337803"
+          },
+          {
+            "id": "589a6146-5dc3-4dae-85c3-20ada0c4ccc0",
+            "nombre": "Plan Estratégico",
+            "url": "https://catalogodatos.gub.uy/dataset/8a394009-938f-4cf7-99ea-a2d285938fc2/resource/589a6146-5dc3-4dae-85c3-20ada0c4ccc0/download/plan-estratgico.xml",
+            "formato": "XML",
+            "tamaño": 4139,
+            "creado": "2020-12-02T15:40:00.875582"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-planestrategico_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "12ca2eb13f40bb847ee8461ea739cdbe380aabc9ae3ad72f959fac46f6df133d"
+        }
+      },
+      {
+        "id": "e33ac95e-0159-44a4-bbe6-36d034e5410b",
+        "nombre": "Creación y evolución histórica",
+        "slug": "correo-creacion_evolucionhistorica_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Detalle de la creación y evolución histórica de Correo Uruguayo, así como una reseña de los principales cambios que han tenido lugar dentro del organismo",
+        "etiquetas": [
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-03-13T12:50:19.870046",
+        "modificado": "2021-05-10T14:06:33.379865",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "6b237d8f-7109-4a57-a912-3b2e3a945ef6",
+            "nombre": "Metadatos de la creación y evolución histórica del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33ac95e-0159-44a4-bbe6-36d034e5410b/resource/6b237d8f-7109-4a57-a912-3b2e3a945ef6/download/metadatos_creacion_evolucionhistorica_correo_2019.json",
+            "formato": "JSON",
+            "tamaño": 2879,
+            "creado": "2019-03-13T12:50:22.242040"
+          },
+          {
+            "id": "3261e4de-fce2-471d-9feb-829efe876768",
+            "nombre": "Creación y evolución histórica del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33ac95e-0159-44a4-bbe6-36d034e5410b/resource/3261e4de-fce2-471d-9feb-829efe876768/download/datos-de-la-creacin-y-evolucin-histrica-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 9038,
+            "creado": "2019-03-13T12:50:23.003537"
+          },
+          {
+            "id": "f918586e-9971-457e-92a0-9bf57d8f36cb",
+            "nombre": "Creación y evolución histórica del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33ac95e-0159-44a4-bbe6-36d034e5410b/resource/f918586e-9971-457e-92a0-9bf57d8f36cb/download/creacion-y-evolucion-historica.xlsx",
+            "formato": "XLS",
+            "tamaño": 13353,
+            "creado": "2019-03-13T12:50:23.841254"
+          },
+          {
+            "id": "7d0a8978-f4f5-449c-88db-8163acb7c4cd",
+            "nombre": "Creación y evolución histórica del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33ac95e-0159-44a4-bbe6-36d034e5410b/resource/7d0a8978-f4f5-449c-88db-8163acb7c4cd/download/datos-de-la-creacin-y-evolucin-histrica-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 14120,
+            "creado": "2019-03-13T12:50:24.659602"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.925Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-creacion_evolucionhistorica_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "c6e28b8931bdafaa0ca5c6d844127a6c2020da2ee428a3dbab0a1b6ea97b604c"
+        }
+      },
+      {
+        "id": "be22579a-4b1b-42e5-8d09-df2f779ee49e",
+        "nombre": "Lavado de Activos y Financiamiento del Terrorismo - Oficial de cumplimiento de la ANC",
+        "slug": "correo-oficial_cumplimiento_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Competencia: es el “…responsable de la implantación, el seguimiento y el control del adecuado funcionamiento del sistema, debiendo promover la permanente actualización de las políticas y procedimientos aplicados por la institución. Además será el funcionario que servirá de enlace con los organismos competentes” (R. de D. 2011/196).",
+        "etiquetas": [
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-10-09T19:38:35.899444",
+        "modificado": "2020-07-24T17:52:07.756921",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "db167ff3-f95c-4466-9a36-1770cf2ebb3f",
+            "nombre": "Metadatos de los datos de oficial de cumplimiento",
+            "url": "https://catalogodatos.gub.uy/dataset/be22579a-4b1b-42e5-8d09-df2f779ee49e/resource/db167ff3-f95c-4466-9a36-1770cf2ebb3f/download/metadatos_correo-oficial_cumplimiento_correo.json",
+            "formato": "JSON",
+            "tamaño": 3108,
+            "creado": "2020-07-24T17:50:44.421664"
+          },
+          {
+            "id": "09d6a6d7-dd25-4180-96ad-ad90034eb3d0",
+            "nombre": "Oficial de cumplimiento",
+            "url": "https://catalogodatos.gub.uy/dataset/be22579a-4b1b-42e5-8d09-df2f779ee49e/resource/09d6a6d7-dd25-4180-96ad-ad90034eb3d0/download/oficial-de-cumplimiento.csv",
+            "formato": "CSV",
+            "tamaño": 476,
+            "creado": "2020-07-24T17:50:48.144765"
+          },
+          {
+            "id": "eff2e2eb-8cd1-40e3-acfd-2ec098c6ae29",
+            "nombre": "Oficial de cumplimiento",
+            "url": "https://catalogodatos.gub.uy/dataset/be22579a-4b1b-42e5-8d09-df2f779ee49e/resource/eff2e2eb-8cd1-40e3-acfd-2ec098c6ae29/download/responsable-oficial-de-cumplimiento.xlsx",
+            "formato": "XLS",
+            "tamaño": 9101,
+            "creado": "2020-07-24T17:50:51.081933"
+          },
+          {
+            "id": "af6c0074-7d26-4e70-8499-227d6dcb6eed",
+            "nombre": "Oficial de cumplimiento",
+            "url": "https://catalogodatos.gub.uy/dataset/be22579a-4b1b-42e5-8d09-df2f779ee49e/resource/af6c0074-7d26-4e70-8499-227d6dcb6eed/download/oficial-de-cumplimiento.xml",
+            "formato": "XML",
+            "tamaño": 700,
+            "creado": "2020-07-24T17:50:53.572403"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.926Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-oficial_cumplimiento_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "a679d4b94826c5c7ae1c080d2a1169261e9223d8d1d16a0d54828c4586404e79"
+        }
+      },
+      {
+        "id": "2b9a61d2-c5a4-43d6-a4be-69f026dc1025",
+        "nombre": "Lavado de Activos y Financiamiento del Terrorismo - Marco Normativo",
+        "slug": "correo-la_fa_marconormativo_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Concepto de Lavado de Activos y Financiamiento del Terrorismo (LA/FT)\r\nEl Lavado de Activos puede definirse como un proceso de ocultamiento de la existencia de la fuente ilegal o la aplicación de ingresos obtenidos provenientes de actividades criminales y el subsiguiente ocultamiento de la fuente de esos ingresos para hacerlos aparecer como legítimos.\r\n \r\nFinanciación del Terrorismo se tipifica cuando el que directa o indirectamente: promueva, organice, apoye, mantenga, financie, sostenga económicamente a grupos armados fuera de la ley o a sus integrantes o a grupos terroristas nacionales o extranjeros, relacionados con actividades terroristas.",
+        "etiquetas": [
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-10-09T20:28:36.561935",
+        "modificado": "2020-07-24T17:49:35.082007",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "7196a7f3-b2ed-4229-839b-a586423b23c9",
+            "nombre": "Metadatos de los datos del marco normativo del LA-FT",
+            "url": "https://catalogodatos.gub.uy/dataset/2b9a61d2-c5a4-43d6-a4be-69f026dc1025/resource/7196a7f3-b2ed-4229-839b-a586423b23c9/download/metadatos_correo-la_fa_marconormativo_correo.json",
+            "formato": "JSON",
+            "tamaño": 3141,
+            "creado": "2020-07-24T17:48:04.634969"
+          },
+          {
+            "id": "99f1b29c-256b-453a-9256-de907f442762",
+            "nombre": "Datos del marco normativo del LA-FT",
+            "url": "https://catalogodatos.gub.uy/dataset/2b9a61d2-c5a4-43d6-a4be-69f026dc1025/resource/99f1b29c-256b-453a-9256-de907f442762/download/datos-del-marco-normativo-del-la-ft.csv",
+            "formato": "CSV",
+            "tamaño": 3345,
+            "creado": "2020-07-24T17:48:08.068076"
+          },
+          {
+            "id": "a0c17695-09dd-4f0f-bc08-531ba2aee702",
+            "nombre": "Datos del marco normativo del LA-FT",
+            "url": "https://catalogodatos.gub.uy/dataset/2b9a61d2-c5a4-43d6-a4be-69f026dc1025/resource/a0c17695-09dd-4f0f-bc08-531ba2aee702/download/normativa-lavado-de-dinero.xlsx",
+            "formato": "XLS",
+            "tamaño": 12010,
+            "creado": "2020-07-24T17:48:11.823632"
+          },
+          {
+            "id": "ca066707-8aad-4190-a10d-85b2a8ca74eb",
+            "nombre": "Datos del marco normativo del LA-FT",
+            "url": "https://catalogodatos.gub.uy/dataset/2b9a61d2-c5a4-43d6-a4be-69f026dc1025/resource/ca066707-8aad-4190-a10d-85b2a8ca74eb/download/datos-del-marco-normativo-del-la-ft.xml",
+            "formato": "XML",
+            "tamaño": 5930,
+            "creado": "2020-07-24T17:48:15.636284"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.926Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-la_fa_marconormativo_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "fec475560c6e2ea7f4bb12e5c035b3ff284948287bb225cdc166a6279d6c6ad8"
+        }
+      },
+      {
+        "id": "5f3fd2bf-a6fd-4714-a065-326b36bebba4",
+        "nombre": "Perfil de los puestos",
+        "slug": "correo-perfil_puestos_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Descripción de funciones. Listado de funciones, cometidos y responsabilidad de cada área (dirección; unidad; etc.) del organismo.",
+        "etiquetas": [
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-03-21T17:42:00.676867",
+        "modificado": "2020-05-13T13:36:14.494204",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "bf7f955a-7d08-4794-b23a-ab4113a572b0",
+            "nombre": "Metadatos del perfil de los puestos",
+            "url": "https://catalogodatos.gub.uy/dataset/5f3fd2bf-a6fd-4714-a065-326b36bebba4/resource/bf7f955a-7d08-4794-b23a-ab4113a572b0/download/metadatos_perfil_puestos_correo.json",
+            "formato": "JSON",
+            "tamaño": 3321,
+            "creado": "2019-03-21T17:42:03.159494"
+          },
+          {
+            "id": "402add38-de2e-403d-aacd-d1633c3772b8",
+            "nombre": "Perfil de los puestos",
+            "url": "https://catalogodatos.gub.uy/dataset/5f3fd2bf-a6fd-4714-a065-326b36bebba4/resource/402add38-de2e-403d-aacd-d1633c3772b8/download/datos-de-los-perfiles-de-los-puestos.csv",
+            "formato": "CSV",
+            "tamaño": 20993,
+            "creado": "2019-03-21T17:42:03.905027"
+          },
+          {
+            "id": "9d753439-5a05-433b-b5e8-1ddd0e8ac7c9",
+            "nombre": "Perfil de los puestos",
+            "url": "https://catalogodatos.gub.uy/dataset/5f3fd2bf-a6fd-4714-a065-326b36bebba4/resource/9d753439-5a05-433b-b5e8-1ddd0e8ac7c9/download/perfil-puestos.xlsx",
+            "formato": "XLS",
+            "tamaño": 12573,
+            "creado": "2019-03-21T17:42:04.859279"
+          },
+          {
+            "id": "004e1a83-910a-4eaa-beed-a79997a64773",
+            "nombre": "Perfil de los puestos",
+            "url": "https://catalogodatos.gub.uy/dataset/5f3fd2bf-a6fd-4714-a065-326b36bebba4/resource/004e1a83-910a-4eaa-beed-a79997a64773/download/datos-de-los-perfiles-de-los-puestos.xml",
+            "formato": "XML",
+            "tamaño": 23155,
+            "creado": "2019-03-21T17:42:05.713488"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.926Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-perfil_puestos_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "8d4c3a6cf862aff648a6d33ba0f58ef078b01db4f80f4d1bbd2710ef3e892616"
+        }
+      },
+      {
+        "id": "0d2a7b3d-74da-433a-a1b9-165a4dc65c29",
+        "nombre": "Responsable y procedimiento reglamentario Ley de Acceso a la Información Pública",
+        "slug": "correo-responsable_procedimiento_correo",
+        "organismo": {
+          "id": "correo",
+          "nombre": "Correo Uruguayo",
+          "tipo": "organization"
+        },
+        "descripcion": "Designación de funcionaria responsable al amparo de la Ley Nº 18.381. Elaboración de procedimientos y reglamentos internos aprobados por el Directorio de Correo Uruguayo para favorecer la cultura de la transparencia.",
+        "etiquetas": [
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-03-20T18:36:55.612882",
+        "modificado": "2020-05-12T20:49:28.342073",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "39d6f5c7-174e-4ff5-b1b1-d50c3ca68271",
+            "nombre": "Metadatos del responsable y procedimiento reglamentario",
+            "url": "https://catalogodatos.gub.uy/dataset/0d2a7b3d-74da-433a-a1b9-165a4dc65c29/resource/39d6f5c7-174e-4ff5-b1b1-d50c3ca68271/download/metadatos_responsable_procedimiento_correo.json",
+            "formato": "JSON",
+            "tamaño": 4550,
+            "creado": "2019-03-20T18:36:58.155479"
+          },
+          {
+            "id": "38bccd89-7331-428e-af62-50de80291870",
+            "nombre": "Responsable y procedimiento reglamentario",
+            "url": "https://catalogodatos.gub.uy/dataset/0d2a7b3d-74da-433a-a1b9-165a4dc65c29/resource/38bccd89-7331-428e-af62-50de80291870/download/datos-del-responsable-y-procedimiento-reglamentario.csv",
+            "formato": "CSV",
+            "tamaño": 4975,
+            "creado": "2019-03-20T18:36:58.871510"
+          },
+          {
+            "id": "53981daa-af39-427a-9e3d-b4855a6dd750",
+            "nombre": "Responsable y procedimiento reglamentario",
+            "url": "https://catalogodatos.gub.uy/dataset/0d2a7b3d-74da-433a-a1b9-165a4dc65c29/resource/53981daa-af39-427a-9e3d-b4855a6dd750/download/responsables-y-procedimiento-reglamentario.xlsx",
+            "formato": "XLS",
+            "tamaño": 10944,
+            "creado": "2019-03-20T18:36:59.739115"
+          },
+          {
+            "id": "3d7dfbe0-1343-4fd3-ae11-a90b70d1e6d4",
+            "nombre": "Responsable y procedimiento reglamentario",
+            "url": "https://catalogodatos.gub.uy/dataset/0d2a7b3d-74da-433a-a1b9-165a4dc65c29/resource/3d7dfbe0-1343-4fd3-ae11-a90b70d1e6d4/download/datos-del-responsable-y-procedimiento-reglamentario.xml",
+            "formato": "XML",
+            "tamaño": 8705,
+            "creado": "2019-03-20T18:37:00.657098"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:20.926Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/correo-responsable_procedimiento_correo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "43a7419d20f1eb84836cd71953b84db82869305e7f859f096eb970e1afba09cb"
+        }
+      }
+    ]
+  },
+  "hash": "176d263fe82af2e17e443633e21b65bc0be900160baaa62ba359e60db929f1c8",
+  "firma": "ddd32da9a76c3cf2710f338ec88e3fb023149463cf4c48e7cc349a28356097e4"
+}

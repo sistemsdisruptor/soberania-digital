@@ -1,0 +1,132 @@
+{
+  "id": "083c5ce6208725db0f7c9c3a42a4fa26",
+  "timestamp": "2026-03-06T23:09:03.203Z",
+  "datos": {
+    "organismo": "anep",
+    "total": 2,
+    "datasets": [
+      {
+        "id": "591434ae-c526-48ff-9202-900d032d214c",
+        "nombre": "Oferta educativa de la ANEP",
+        "slug": "anep-http-sig-anep-edu-uy-siganep-formatos",
+        "organismo": {
+          "id": "anep",
+          "nombre": "ANEP",
+          "tipo": "organization"
+        },
+        "descripcion": "Oferta educativa del la Administración Nacional de Educación Pública",
+        "etiquetas": [
+          "CFE",
+          "DGEIP",
+          "DGES",
+          "DGETP",
+          "Educación Incial y Primaria",
+          "Educación Secundaria",
+          "Educación Técnico Profesional",
+          "Formación en Eduación",
+          "Oferta educativa"
+        ],
+        "grupos": [
+          "Desarrollo Social"
+        ],
+        "creado": "2018-11-13T20:13:20.319015",
+        "modificado": "2022-06-13T14:55:46.030540",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "d98bfe2f-1850-469e-b2a4-7c12c064e2f0",
+            "nombre": "DGEIP",
+            "url": "https://sig.anep.edu.uy/SIGANEP/FORMATOS/CEIP.xlsx",
+            "formato": "XLSX",
+            "tamaño": null,
+            "creado": "2018-11-13T20:16:21.217526"
+          },
+          {
+            "id": "72248932-8432-4b6e-90d4-b0c3455a0c23",
+            "nombre": "DGES",
+            "url": "https://sig.anep.edu.uy/SIGANEP/FORMATOS/CES.xlsx",
+            "formato": "XLSX",
+            "tamaño": null,
+            "creado": "2018-11-13T20:19:39.097182"
+          },
+          {
+            "id": "22702f20-6d64-436c-a8f0-1596539aab63",
+            "nombre": "DGETP",
+            "url": "https://sig.anep.edu.uy/SIGANEP/FORMATOS/CETP.xlsx",
+            "formato": "XLSX",
+            "tamaño": null,
+            "creado": "2018-11-13T20:32:17.145948"
+          },
+          {
+            "id": "20277d11-aae6-41dc-8a0a-f767f4ff1db2",
+            "nombre": "CFE.xlsx",
+            "url": "https://sig.anep.edu.uy/SIGANEP/FORMATOS/CFE.xlsx",
+            "formato": "XLSX",
+            "tamaño": null,
+            "creado": "2018-11-13T20:33:42.836374"
+          },
+          {
+            "id": "566e7734-dd69-4b41-b735-4f8930b54fa6",
+            "nombre": "7_8_9.xlsx",
+            "url": "http://sig.anep.edu.uy/SIGANEP/FORMATOS/7_8_9.xlsx",
+            "formato": "XLSX",
+            "tamaño": null,
+            "creado": "2018-11-13T21:08:41.427310"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:03.203Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/anep-http-sig-anep-edu-uy-siganep-formatos",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "9d2b8796728feec1f6a11282b480b3b53991331294c9528f110eb933eceaf33b"
+        }
+      },
+      {
+        "id": "e40ad2f3-8b83-46f1-802d-b5bd2e415eeb",
+        "nombre": "Centros Anep",
+        "slug": "anep-centros-anep",
+        "organismo": {
+          "id": "anep",
+          "nombre": "ANEP",
+          "tipo": "organization"
+        },
+        "descripcion": "Centros Anep es una capa que contiene los centros educativos del país, sin incluir los anexos. Está compuesta por los cuatro subsistemas que conforman la Administración: Educación Inicial y Primaria, Educación Secundaria, Educación Técnico Profesional y Formación en Educación. La capa es actualizada en marzo de cada año cuando se reporta la oferta educativa de cada subsistema.",
+        "etiquetas": [
+          "Centros educativos",
+          "Educación",
+          "Educación Pública"
+        ],
+        "grupos": [
+          "Educación"
+        ],
+        "creado": "2018-10-31T20:25:27.977695",
+        "modificado": "2022-05-05T20:09:31.085761",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "ecd9765f-e255-4f4c-ada1-6fd64f19fd26",
+            "nombre": "CENTROS_ANEP.rar",
+            "url": "http://sig.anep.edu.uy/SIGANEP/FORMATOS/CENTROS_ANEP.rar",
+            "formato": "Shape",
+            "tamaño": null,
+            "creado": "2018-10-31T20:31:03.856268"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:03.203Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/anep-centros-anep",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "0a1657bc622064a5a3303c814640d13a630caa60328d453b6334577a437a4ad6"
+        }
+      }
+    ]
+  },
+  "hash": "532a6a74079a525dc5dec4d6dc029af82b42789d4c4bd5c59f9d33c32abea91b",
+  "firma": "7a98487b4623b694bfc7a5873e6065810f545c303659fa3b5ae4cc915ee26fa4"
+}

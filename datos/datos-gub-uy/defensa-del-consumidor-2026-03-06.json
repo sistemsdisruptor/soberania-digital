@@ -1,0 +1,524 @@
+{
+  "id": "96ae70c9458765a451ebdff9c0f34420",
+  "timestamp": "2026-03-06T23:09:29.404Z",
+  "datos": {
+    "organismo": "defensa-del-consumidor",
+    "total": 5,
+    "datasets": [
+      {
+        "id": "35d8f45e-2aa7-48b5-98dd-f973b05cf8ba",
+        "nombre": "Sistema de Información de Precios al Consumidor - 2025",
+        "slug": "defensa-del-consumidor-sistema-de-informacion-de-precios-al-consumidor-2025",
+        "organismo": {
+          "id": "defensa-del-consumidor",
+          "nombre": "Defensa del Consumidor",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto presenta la información sobre los precios diarios de un grupo de productos enviados al Sistema de Información de Precios al Consumidor por los establecimientos de todo el País para el año 2025. También se presentan el listado de Establecimientos y el listado de Productos analizados.",
+        "etiquetas": [
+          "Consumo",
+          "Establecimientos",
+          "Precios",
+          "Precios al consumidor",
+          "Precios minoristas",
+          "PreciosUy",
+          "Productos",
+          "Productos de supermercados"
+        ],
+        "grupos": [
+          "Alimentación",
+          "Economía",
+          "Estadísticas"
+        ],
+        "creado": "2025-08-27T14:20:26.319834",
+        "modificado": "2026-02-13T13:21:12.731200",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "36c62bab-b7e4-4c9e-ad9b-4c1182090a22",
+            "nombre": "Precios",
+            "url": "https://catalogodatos.gub.uy/dataset/35d8f45e-2aa7-48b5-98dd-f973b05cf8ba/resource/36c62bab-b7e4-4c9e-ad9b-4c1182090a22/download/precios_2025.csv",
+            "formato": "CSV",
+            "tamaño": 2024669561,
+            "creado": "2025-08-27T14:37:46.332379"
+          },
+          {
+            "id": "4dbc5f3a-614e-4f31-aeac-cc1ee389589b",
+            "nombre": "Metadatos de precios",
+            "url": "https://catalogodatos.gub.uy/dataset/35d8f45e-2aa7-48b5-98dd-f973b05cf8ba/resource/4dbc5f3a-614e-4f31-aeac-cc1ee389589b/download/metadatos_precios.csv",
+            "formato": "CSV",
+            "tamaño": 1189,
+            "creado": "2025-08-28T12:39:19.577172"
+          },
+          {
+            "id": "ed042b97-12ce-46ff-a169-b2594337a6e4",
+            "nombre": "Productos",
+            "url": "https://catalogodatos.gub.uy/dataset/35d8f45e-2aa7-48b5-98dd-f973b05cf8ba/resource/ed042b97-12ce-46ff-a169-b2594337a6e4/download/productos.csv",
+            "formato": "CSV",
+            "tamaño": 29877,
+            "creado": "2025-08-27T14:23:17.696186"
+          },
+          {
+            "id": "5fbdd7e8-97fa-44db-b978-4381670c8933",
+            "nombre": "Establecimientos",
+            "url": "https://catalogodatos.gub.uy/dataset/35d8f45e-2aa7-48b5-98dd-f973b05cf8ba/resource/5fbdd7e8-97fa-44db-b978-4381670c8933/download/establecimiento.csv",
+            "formato": "CSV",
+            "tamaño": 119529,
+            "creado": "2025-08-27T14:23:58.474006"
+          },
+          {
+            "id": "8ef6a15b-a9ce-4deb-9eae-bcf797752b7a",
+            "nombre": "Nota metodológica",
+            "url": "https://catalogodatos.gub.uy/dataset/35d8f45e-2aa7-48b5-98dd-f973b05cf8ba/resource/8ef6a15b-a9ce-4deb-9eae-bcf797752b7a/download/documentacion-bases-de-datos.odt",
+            "formato": "ODT",
+            "tamaño": 74015,
+            "creado": "2025-08-28T12:41:10.230820"
+          },
+          {
+            "id": "25c81cc0-0d51-4161-a393-bd1ed3120dc8",
+            "nombre": "Metadatos Establecimientos",
+            "url": "https://catalogodatos.gub.uy/dataset/35d8f45e-2aa7-48b5-98dd-f973b05cf8ba/resource/25c81cc0-0d51-4161-a393-bd1ed3120dc8/download/metadatos-establecimientos.csv",
+            "formato": "CSV",
+            "tamaño": 1201,
+            "creado": "2025-09-16T14:18:04.015644"
+          },
+          {
+            "id": "42d57eac-7277-4d8a-b334-fd0af5f9aa4a",
+            "nombre": "Metadatos Productos",
+            "url": "https://catalogodatos.gub.uy/dataset/35d8f45e-2aa7-48b5-98dd-f973b05cf8ba/resource/42d57eac-7277-4d8a-b334-fd0af5f9aa4a/download/metadatos-productos.csv",
+            "formato": "CSV",
+            "tamaño": 550,
+            "creado": "2025-09-16T14:19:56.390702"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:29.404Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/defensa-del-consumidor-sistema-de-informacion-de-precios-al-consumidor-2025",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "1537c3a8b9a16d8c752bf659c90eb3fd9d770b8f1120c295f13081d7bc77cbc2"
+        }
+      },
+      {
+        "id": "92b19a76-31d0-4b60-b8ae-8fe3d672d1d1",
+        "nombre": "Histórico del sistema de información de precios al consumidor 2007-2022",
+        "slug": "declaraciones-al-sistema-de-informacion-de-precios-al-consumidor-2019",
+        "organismo": {
+          "id": "defensa-del-consumidor",
+          "nombre": "Defensa del Consumidor",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto presenta la serie histórica de los datos que contiene los precios enviados por los establecimientos registrados en el SIPC desde año 2007 hasta el año 2022. A partir del año 2023 los datos se comienzan a publicar en un conjunto por año con datos trimestrales.",
+        "etiquetas": [
+          "Consumo familiar",
+          "Precios",
+          "Precios minoristas",
+          "PreciosUy",
+          "Productos de supermercados"
+        ],
+        "grupos": [
+          "Alimentación",
+          "Economía",
+          "Estadísticas"
+        ],
+        "creado": "2022-11-18T19:16:57.751773",
+        "modificado": "2025-11-26T13:27:57.451313",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "70e5fcb2-6c09-44d4-ad8f-d0352db2d3b7",
+            "nombre": "Nota metodológica",
+            "url": "https://catalogodatos.gub.uy/dataset/92b19a76-31d0-4b60-b8ae-8fe3d672d1d1/resource/70e5fcb2-6c09-44d4-ad8f-d0352db2d3b7/download/documentacion-bases-de-datos.odt",
+            "formato": "ODT",
+            "tamaño": 74039,
+            "creado": "2022-11-23T14:14:20.153265"
+          },
+          {
+            "id": "ca639dca-6605-46b6-a330-60defc57d1fa",
+            "nombre": "Establecimientos",
+            "url": "https://catalogodatos.gub.uy/dataset/92b19a76-31d0-4b60-b8ae-8fe3d672d1d1/resource/ca639dca-6605-46b6-a330-60defc57d1fa/download/establecimiento.csv",
+            "formato": "CSV",
+            "tamaño": 107606,
+            "creado": "2022-11-22T14:18:25.228046"
+          },
+          {
+            "id": "55b7d0b3-9dda-44bd-9c81-d6550e8bf463",
+            "nombre": "Productos",
+            "url": "https://catalogodatos.gub.uy/dataset/92b19a76-31d0-4b60-b8ae-8fe3d672d1d1/resource/55b7d0b3-9dda-44bd-9c81-d6550e8bf463/download/productos.csv",
+            "formato": "CSV",
+            "tamaño": 29071,
+            "creado": "2022-11-22T14:19:55.907504"
+          },
+          {
+            "id": "0dd77d6e-9c7d-4fdf-bc46-2f86a90d635e",
+            "nombre": "Precios 2022",
+            "url": "https://catalogodatos.gub.uy/dataset/92b19a76-31d0-4b60-b8ae-8fe3d672d1d1/resource/0dd77d6e-9c7d-4fdf-bc46-2f86a90d635e/download/precios_2022.csv",
+            "formato": "CSV",
+            "tamaño": 1596244928,
+            "creado": "2022-11-23T13:52:09.440956"
+          },
+          {
+            "id": "0598e527-29d7-4a69-8e0d-86078d9aea0b",
+            "nombre": "Precios 2021",
+            "url": "https://catalogodatos.gub.uy/dataset/92b19a76-31d0-4b60-b8ae-8fe3d672d1d1/resource/0598e527-29d7-4a69-8e0d-86078d9aea0b/download/precios_2021.csv",
+            "formato": "CSV",
+            "tamaño": 1500391902,
+            "creado": "2022-11-22T13:06:17.325120"
+          },
+          {
+            "id": "42995bf6-da53-4236-87b0-53d0e0d77911",
+            "nombre": "Precios 2020",
+            "url": "https://catalogodatos.gub.uy/dataset/92b19a76-31d0-4b60-b8ae-8fe3d672d1d1/resource/42995bf6-da53-4236-87b0-53d0e0d77911/download/precios_2020.csv",
+            "formato": "CSV",
+            "tamaño": 1403014639,
+            "creado": "2022-11-22T12:51:06.422466"
+          },
+          {
+            "id": "cc74984b-e57c-4f0a-90d3-bd64292b8743",
+            "nombre": "Precios 2019 ",
+            "url": "https://catalogodatos.gub.uy/dataset/92b19a76-31d0-4b60-b8ae-8fe3d672d1d1/resource/cc74984b-e57c-4f0a-90d3-bd64292b8743/download/precios_2019.csv",
+            "formato": "CSV",
+            "tamaño": 1285603401,
+            "creado": "2022-11-18T19:32:23.877292"
+          },
+          {
+            "id": "e9ec9d26-b25c-4716-9019-02b16b82e1d5",
+            "nombre": "Precios 2018",
+            "url": "https://catalogodatos.gub.uy/dataset/92b19a76-31d0-4b60-b8ae-8fe3d672d1d1/resource/e9ec9d26-b25c-4716-9019-02b16b82e1d5/download/precios_2018.csv",
+            "formato": "CSV",
+            "tamaño": 1367735059,
+            "creado": "2022-11-22T13:52:56.215095"
+          },
+          {
+            "id": "b18eccb9-21a3-405b-a43d-0796f80a7bf2",
+            "nombre": "Precios 2017",
+            "url": "https://catalogodatos.gub.uy/dataset/92b19a76-31d0-4b60-b8ae-8fe3d672d1d1/resource/b18eccb9-21a3-405b-a43d-0796f80a7bf2/download/precios_2017.csv",
+            "formato": "CSV",
+            "tamaño": 445429472,
+            "creado": "2022-11-22T14:16:14.781179"
+          },
+          {
+            "id": "c77704af-fd9a-42b2-9a65-c62c2161100b",
+            "nombre": "Precios 2016",
+            "url": "https://catalogodatos.gub.uy/dataset/92b19a76-31d0-4b60-b8ae-8fe3d672d1d1/resource/c77704af-fd9a-42b2-9a65-c62c2161100b/download/precios_2016.csv",
+            "formato": "CSV",
+            "tamaño": 323264602,
+            "creado": "2022-11-23T13:39:54.338198"
+          },
+          {
+            "id": "518a13cd-efe8-45c8-843d-66a91d57d7e6",
+            "nombre": "Precios 2015",
+            "url": "https://catalogodatos.gub.uy/dataset/92b19a76-31d0-4b60-b8ae-8fe3d672d1d1/resource/518a13cd-efe8-45c8-843d-66a91d57d7e6/download/precios_2015.csv",
+            "formato": "CSV",
+            "tamaño": 295463862,
+            "creado": "2025-11-26T12:54:37.550751"
+          },
+          {
+            "id": "f20063a8-6456-4bd2-bb2f-a7456d4b287b",
+            "nombre": "Precio 2014",
+            "url": "https://catalogodatos.gub.uy/dataset/92b19a76-31d0-4b60-b8ae-8fe3d672d1d1/resource/f20063a8-6456-4bd2-bb2f-a7456d4b287b/download/precios_2014.csv",
+            "formato": "CSV",
+            "tamaño": 311538647,
+            "creado": "2025-11-26T12:57:34.207939"
+          },
+          {
+            "id": "1841433a-176a-40ed-97b6-108ff17eae4b",
+            "nombre": "Precios 2013",
+            "url": "https://catalogodatos.gub.uy/dataset/92b19a76-31d0-4b60-b8ae-8fe3d672d1d1/resource/1841433a-176a-40ed-97b6-108ff17eae4b/download/precios_2013.csv",
+            "formato": "CSV",
+            "tamaño": 320971229,
+            "creado": "2025-11-26T13:00:42.225516"
+          },
+          {
+            "id": "feb15a7e-917f-49d1-8439-c48772cccded",
+            "nombre": "Precios 2012",
+            "url": "https://catalogodatos.gub.uy/dataset/92b19a76-31d0-4b60-b8ae-8fe3d672d1d1/resource/feb15a7e-917f-49d1-8439-c48772cccded/download/precios_2012.csv",
+            "formato": "CSV",
+            "tamaño": 323860016,
+            "creado": "2025-11-26T13:12:12.453356"
+          },
+          {
+            "id": "3a78427e-e8ab-4d81-887a-ef87e5cae817",
+            "nombre": "Precios 2011",
+            "url": "https://catalogodatos.gub.uy/dataset/92b19a76-31d0-4b60-b8ae-8fe3d672d1d1/resource/3a78427e-e8ab-4d81-887a-ef87e5cae817/download/precios_2011.csv",
+            "formato": "CSV",
+            "tamaño": 326551385,
+            "creado": "2025-11-26T13:16:05.249177"
+          },
+          {
+            "id": "51dd2882-9184-40c0-b9b0-262ce9be8ed7",
+            "nombre": "Precios 2010",
+            "url": "https://catalogodatos.gub.uy/dataset/92b19a76-31d0-4b60-b8ae-8fe3d672d1d1/resource/51dd2882-9184-40c0-b9b0-262ce9be8ed7/download/precios_2010.csv",
+            "formato": "CSV",
+            "tamaño": 222818049,
+            "creado": "2025-11-26T13:19:51.052896"
+          },
+          {
+            "id": "a16c3670-1aaa-4026-988b-452e04b69afa",
+            "nombre": "Precios 2009",
+            "url": "https://catalogodatos.gub.uy/dataset/92b19a76-31d0-4b60-b8ae-8fe3d672d1d1/resource/a16c3670-1aaa-4026-988b-452e04b69afa/download/precios_2009.csv",
+            "formato": "CSV",
+            "tamaño": 195885997,
+            "creado": "2025-11-26T13:22:13.055329"
+          },
+          {
+            "id": "2fb29ee8-9b04-4178-a541-ce4b714abf42",
+            "nombre": "Precios 2008",
+            "url": "https://catalogodatos.gub.uy/dataset/92b19a76-31d0-4b60-b8ae-8fe3d672d1d1/resource/2fb29ee8-9b04-4178-a541-ce4b714abf42/download/precios_2008.csv",
+            "formato": "CSV",
+            "tamaño": 167074684,
+            "creado": "2025-11-26T13:24:09.217138"
+          },
+          {
+            "id": "454cb7cf-be83-4916-9a1b-613d611ad7a8",
+            "nombre": "Precios 2007",
+            "url": "https://catalogodatos.gub.uy/dataset/92b19a76-31d0-4b60-b8ae-8fe3d672d1d1/resource/454cb7cf-be83-4916-9a1b-613d611ad7a8/download/precios_2007.csv",
+            "formato": "CSV",
+            "tamaño": 103231300,
+            "creado": "2025-11-26T13:25:29.048927"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:29.404Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/declaraciones-al-sistema-de-informacion-de-precios-al-consumidor-2019",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "c8854146a5554c953e4ddc4b98c700222aa5bced12c5a8c5421704317116be06"
+        }
+      },
+      {
+        "id": "0c9edcfa-e10e-4068-b967-f1730107bddb",
+        "nombre": "Sistema de Información de Precios al Consumidor - 2024",
+        "slug": "defensa-del-consumidor-sistema-de-informacion-de-precios-al-consumidor-2024",
+        "organismo": {
+          "id": "defensa-del-consumidor",
+          "nombre": "Defensa del Consumidor",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto presenta la información sobre los precios diarios de un grupo de productos enviados al Sistema de Información de Precios al Consumidor por los establecimientos de todo el País para el año 2024. También se presentan el listado de Establecimientos y el listado de Productos analizados.",
+        "etiquetas": [
+          "Establecimientos",
+          "Precios al consumidor",
+          "Precios minoristas",
+          "Productos",
+          "Productos de supermercados",
+          "consumo",
+          "precios"
+        ],
+        "grupos": [
+          "Alimentación",
+          "Economía",
+          "Estadísticas"
+        ],
+        "creado": "2024-04-17T17:28:19.006981",
+        "modificado": "2025-09-16T14:14:00.813949",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "1c0a34a8-22d0-49bc-bdd4-719789d1afe6",
+            "nombre": "Productos",
+            "url": "https://catalogodatos.gub.uy/dataset/0c9edcfa-e10e-4068-b967-f1730107bddb/resource/1c0a34a8-22d0-49bc-bdd4-719789d1afe6/download/productos.csv",
+            "formato": "CSV",
+            "tamaño": 29064,
+            "creado": "2024-04-17T17:40:03.876880"
+          },
+          {
+            "id": "7a007bdf-4c75-44a9-8a8f-f8f75e65648e",
+            "nombre": "Establecimientos",
+            "url": "https://catalogodatos.gub.uy/dataset/0c9edcfa-e10e-4068-b967-f1730107bddb/resource/7a007bdf-4c75-44a9-8a8f-f8f75e65648e/download/establecimiento.csv",
+            "formato": "CSV",
+            "tamaño": 116220,
+            "creado": "2024-04-17T17:47:10.365590"
+          },
+          {
+            "id": "b52d3c02-c4a0-439b-82a9-dbf7a6c2988f",
+            "nombre": "Precios",
+            "url": "https://catalogodatos.gub.uy/dataset/0c9edcfa-e10e-4068-b967-f1730107bddb/resource/b52d3c02-c4a0-439b-82a9-dbf7a6c2988f/download/precios_2024.csv",
+            "formato": "CSV",
+            "tamaño": 1715538504,
+            "creado": "2024-04-17T17:33:14.104005"
+          },
+          {
+            "id": "73aee791-1f0d-4b76-8d1d-274a2dc305e4",
+            "nombre": "Metadatos de Precios",
+            "url": "https://catalogodatos.gub.uy/dataset/0c9edcfa-e10e-4068-b967-f1730107bddb/resource/73aee791-1f0d-4b76-8d1d-274a2dc305e4/download/metadatos_precios.csv",
+            "formato": "CSV",
+            "tamaño": 1189,
+            "creado": "2024-04-17T17:48:42.100467"
+          },
+          {
+            "id": "5e01ae39-d4ec-486d-bae9-55e7814f4f40",
+            "nombre": "Nota metodológica ",
+            "url": "https://catalogodatos.gub.uy/dataset/0c9edcfa-e10e-4068-b967-f1730107bddb/resource/5e01ae39-d4ec-486d-bae9-55e7814f4f40/download/documentacion_bases_datos.odt",
+            "formato": "ODT",
+            "tamaño": 74026,
+            "creado": "2024-04-17T17:49:37.990480"
+          },
+          {
+            "id": "47ed6b8f-6190-42c8-976d-5efd3f8016fe",
+            "nombre": "Metadatos Establecimientos",
+            "url": "https://catalogodatos.gub.uy/dataset/0c9edcfa-e10e-4068-b967-f1730107bddb/resource/47ed6b8f-6190-42c8-976d-5efd3f8016fe/download/metadatos-establecimientos.csv",
+            "formato": "CSV",
+            "tamaño": 1201,
+            "creado": "2025-09-16T14:09:04.275294"
+          },
+          {
+            "id": "cd34bd30-f599-4074-ac0b-5411dcb4a335",
+            "nombre": "Metadatos Productos",
+            "url": "https://catalogodatos.gub.uy/dataset/0c9edcfa-e10e-4068-b967-f1730107bddb/resource/cd34bd30-f599-4074-ac0b-5411dcb4a335/download/metadatos-productos.csv",
+            "formato": "CSV",
+            "tamaño": 550,
+            "creado": "2025-09-16T14:11:08.482007"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:29.404Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/defensa-del-consumidor-sistema-de-informacion-de-precios-al-consumidor-2024",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "e03b7adfd560c6f1fcd1360bc858645b7243f5e081d8c5831f50e1481ca269d3"
+        }
+      },
+      {
+        "id": "85e54885-c53d-45b5-893c-02471cb0f44d",
+        "nombre": "Sanciones a empresas",
+        "slug": "defensa-del-consumidor-sanciones-a-empresas",
+        "organismo": {
+          "id": "defensa-del-consumidor",
+          "nombre": "Defensa del Consumidor",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto presenta la información sobre las sanciones a empresas (multas, apercibimientos e instrucciones) correspondientes a infracciones de la normativa de protección al consumidor, aplicados a empresas por la Unidad Defensa del Consumidor (UDECO).\r\n\r\nLa información presentada es desde e año 2017 en adelante.",
+        "etiquetas": [
+          "Competencia",
+          "Defensa del Consumidor",
+          "Economia",
+          "Infracciones",
+          "Mutas",
+          "Protección al consumidor"
+        ],
+        "grupos": [
+          "Economía",
+          "Transparencia"
+        ],
+        "creado": "2025-05-22T13:20:41.351910",
+        "modificado": "2025-05-29T14:41:31.281123",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "fcdb2d2b-eecb-44c1-a079-92b79c2fefcb",
+            "nombre": "Sanciones aplicadas a empresas",
+            "url": "https://catalogodatos.gub.uy/dataset/85e54885-c53d-45b5-893c-02471cb0f44d/resource/fcdb2d2b-eecb-44c1-a079-92b79c2fefcb/download/datos_sanciones_2017_2024.csv",
+            "formato": "CSV",
+            "tamaño": 182943,
+            "creado": "2025-05-22T13:46:02.441160"
+          },
+          {
+            "id": "f365f5fa-d49e-4f22-a27b-55deb0a6898a",
+            "nombre": "Metadatos de sanciones aplicadas a empresas",
+            "url": "https://catalogodatos.gub.uy/dataset/85e54885-c53d-45b5-893c-02471cb0f44d/resource/f365f5fa-d49e-4f22-a27b-55deb0a6898a/download/metadatos_sanciones_aplicadas_a_empresas.txt",
+            "formato": "TXT",
+            "tamaño": 2141,
+            "creado": "2025-05-22T13:47:34.415618"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:29.404Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/defensa-del-consumidor-sanciones-a-empresas",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "d15ca23147e36d1b1d7e24f11157d600fc388cd0778dda7b5e2ba345f59a0334"
+        }
+      },
+      {
+        "id": "46e30f24-c2a1-451d-9258-39e2960215ca",
+        "nombre": "Sistema de Información de Precios al Consumidor - 2023",
+        "slug": "defensa-del-consumidor-sistema-de-informacion-de-precios-al-consumidor-2023",
+        "organismo": {
+          "id": "defensa-del-consumidor",
+          "nombre": "Defensa del Consumidor",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto presenta la información sobre los precios diarios de un grupo de productos enviados al Sistema de Información de Precios al Consumidor por los establecimientos de todo el País para el año 2023.  También se presentan el listado de Establecimientos y el listado de Productos analizados.",
+        "etiquetas": [
+          "Consumo",
+          "Establecimientos",
+          "Precios",
+          "Precios al consumidor",
+          "Precios minoristas",
+          "Productos",
+          "Productos de supermercados"
+        ],
+        "grupos": [
+          "Alimentación",
+          "Economía",
+          "Estadísticas"
+        ],
+        "creado": "2023-10-20T17:55:23.846404",
+        "modificado": "2024-04-17T17:13:56.164775",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "c97f04a9-f19c-4277-b4a9-32791c039124",
+            "nombre": "Productos",
+            "url": "https://catalogodatos.gub.uy/dataset/46e30f24-c2a1-451d-9258-39e2960215ca/resource/c97f04a9-f19c-4277-b4a9-32791c039124/download/productos.csv",
+            "formato": "CSV",
+            "tamaño": 29071,
+            "creado": "2023-10-20T18:23:34.546909"
+          },
+          {
+            "id": "35e0e3e3-a4df-45c9-8e1c-334b0c118ca3",
+            "nombre": "Establecimientos",
+            "url": "https://catalogodatos.gub.uy/dataset/46e30f24-c2a1-451d-9258-39e2960215ca/resource/35e0e3e3-a4df-45c9-8e1c-334b0c118ca3/download/establecimiento.csv",
+            "formato": "CSV",
+            "tamaño": 110091,
+            "creado": "2023-10-20T18:22:46.348890"
+          },
+          {
+            "id": "48ec1ad7-4713-42fb-bf1d-902942dcdc09",
+            "nombre": "Precios 2023",
+            "url": "https://catalogodatos.gub.uy/dataset/46e30f24-c2a1-451d-9258-39e2960215ca/resource/48ec1ad7-4713-42fb-bf1d-902942dcdc09/download/precios_2023.csv",
+            "formato": "CSV",
+            "tamaño": 1658520404,
+            "creado": "2023-10-20T18:05:22.836156"
+          },
+          {
+            "id": "bf7f793b-5f03-4d7b-b155-fa8af49280b3",
+            "nombre": "Metadatos de Precios",
+            "url": "https://catalogodatos.gub.uy/dataset/46e30f24-c2a1-451d-9258-39e2960215ca/resource/bf7f793b-5f03-4d7b-b155-fa8af49280b3/download/metadatos_precios.csv",
+            "formato": "CSV",
+            "tamaño": 1612,
+            "creado": "2023-11-28T14:51:35.548515"
+          },
+          {
+            "id": "b5583cac-ace2-4915-9e65-1172fd175618",
+            "nombre": "Nota metodológica",
+            "url": "https://catalogodatos.gub.uy/dataset/46e30f24-c2a1-451d-9258-39e2960215ca/resource/b5583cac-ace2-4915-9e65-1172fd175618/download/documentacion-bases-de-datos.odt",
+            "formato": "ODT",
+            "tamaño": 74039,
+            "creado": "2023-11-16T17:31:34.377646"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:29.404Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/defensa-del-consumidor-sistema-de-informacion-de-precios-al-consumidor-2023",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "7c760bf0c3c6f637f768a3527cb985b96f63fdfa813e47a3d90088f05a289e16"
+        }
+      }
+    ]
+  },
+  "hash": "fd32c266342b71105082eb3599c0699eb1f62f504bd1bdaa42a86618d7768880",
+  "firma": "6e464f7a68ef6a8610f488cbd4995ba7f3a949c23ceeb2124c1b1e74493d5a8c"
+}

@@ -1,0 +1,1481 @@
+{
+  "id": "42ec920ed74f39fdb1bd2006431762eb",
+  "timestamp": "2026-03-06T23:09:10.223Z",
+  "datos": {
+    "organismo": "banco-central-del-uruguay",
+    "total": 21,
+    "datasets": [
+      {
+        "id": "219bf63c-29e1-4e1a-b4ab-85eb4508990e",
+        "nombre": "Resoluciones de Directorio",
+        "slug": "banco-central-del-uruguay-resoluciones",
+        "organismo": {
+          "id": "banco-central-del-uruguay",
+          "nombre": "Banco Central del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Datos de resoluciones y otros dictámenes que emanen de la máxima jerarquía del Organismo (jerarca, sesiones de comisión, de directorio, de plenario, de asamblea, etc.)",
+        "etiquetas": [
+          "Banco Central",
+          "Banco Central del Uruguay",
+          "Resoluciones",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2020-10-05T18:04:31.353790",
+        "modificado": "2026-03-03T13:48:28.017677",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "df944828-f8a8-44b6-b947-1951cc2a17fd",
+            "nombre": "Metadatos de resoluciones",
+            "url": "https://catalogodatos.gub.uy/dataset/219bf63c-29e1-4e1a-b4ab-85eb4508990e/resource/df944828-f8a8-44b6-b947-1951cc2a17fd/download/metadatos_resoluciones.json",
+            "formato": "JSON",
+            "tamaño": 2972,
+            "creado": "2022-09-22T16:03:44.241366"
+          },
+          {
+            "id": "74c06e9d-a1e2-4104-bb4c-09e89cc9096d",
+            "nombre": "Resoluciones",
+            "url": "https://catalogodatos.gub.uy/dataset/219bf63c-29e1-4e1a-b4ab-85eb4508990e/resource/74c06e9d-a1e2-4104-bb4c-09e89cc9096d/download/resoluciones.csv",
+            "formato": "CSV",
+            "tamaño": 948519,
+            "creado": "2022-09-22T16:03:47.564267"
+          },
+          {
+            "id": "fc9cc1c6-125f-48c5-a752-bab940b5d464",
+            "nombre": "Resoluciones",
+            "url": "https://catalogodatos.gub.uy/dataset/219bf63c-29e1-4e1a-b4ab-85eb4508990e/resource/fc9cc1c6-125f-48c5-a752-bab940b5d464/download/resoluciones.xlsx",
+            "formato": "XLSX",
+            "tamaño": 370539,
+            "creado": "2022-09-22T16:03:52.297395"
+          },
+          {
+            "id": "8a3aefe6-5d0a-446b-8a63-4a069cc0f5d0",
+            "nombre": "Resoluciones",
+            "url": "https://catalogodatos.gub.uy/dataset/219bf63c-29e1-4e1a-b4ab-85eb4508990e/resource/8a3aefe6-5d0a-446b-8a63-4a069cc0f5d0/download/resoluciones.xml",
+            "formato": "XML",
+            "tamaño": 1921460,
+            "creado": "2022-09-22T16:03:56.807970"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:10.220Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-central-del-uruguay-resoluciones",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "fbf82886481922b6e8b6808f7ebc0cae8ebc71f9c0549b9050ec36403dd29424"
+        }
+      },
+      {
+        "id": "6dd983f9-6973-4cf9-aac0-476d3fb6f330",
+        "nombre": "Diario de sesiones",
+        "slug": "banco-central-del-uruguay-diario_sesiones",
+        "organismo": {
+          "id": "banco-central-del-uruguay",
+          "nombre": "Banco Central del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Información sobre lo acontecido en las distintas sesiones.",
+        "etiquetas": [
+          "BCU",
+          "Banco Central del Uruguay",
+          "Diario",
+          "Diario de sesiones",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2020-10-05T19:59:21.002271",
+        "modificado": "2026-03-03T13:47:17.447804",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "1538d01c-6127-4c83-9f99-4442c11ff9f6",
+            "nombre": "Metadatos de diario de sesiones",
+            "url": "https://catalogodatos.gub.uy/dataset/6dd983f9-6973-4cf9-aac0-476d3fb6f330/resource/1538d01c-6127-4c83-9f99-4442c11ff9f6/download/metadatos_diario-sesiones.json",
+            "formato": "JSON",
+            "tamaño": 3239,
+            "creado": "2022-07-29T13:33:14.445981"
+          },
+          {
+            "id": "68f769bd-bee0-44a8-b09c-2513cd6e0ffa",
+            "nombre": "Diario de sesiones",
+            "url": "https://catalogodatos.gub.uy/dataset/6dd983f9-6973-4cf9-aac0-476d3fb6f330/resource/68f769bd-bee0-44a8-b09c-2513cd6e0ffa/download/diario-sesiones.csv",
+            "formato": "CSV",
+            "tamaño": 105759,
+            "creado": "2022-07-29T13:33:17.134161"
+          },
+          {
+            "id": "e3402839-0d73-4415-b11c-55b406198e42",
+            "nombre": "Diario de sesiones",
+            "url": "https://catalogodatos.gub.uy/dataset/6dd983f9-6973-4cf9-aac0-476d3fb6f330/resource/e3402839-0d73-4415-b11c-55b406198e42/download/diario-sesiones.xlsx",
+            "formato": "XLSX",
+            "tamaño": 54364,
+            "creado": "2022-07-29T13:33:20.226948"
+          },
+          {
+            "id": "a9e35151-22c5-4630-a831-c1acc21387a5",
+            "nombre": "Diario de sesiones",
+            "url": "https://catalogodatos.gub.uy/dataset/6dd983f9-6973-4cf9-aac0-476d3fb6f330/resource/a9e35151-22c5-4630-a831-c1acc21387a5/download/diario-sesiones.xml",
+            "formato": "XML",
+            "tamaño": 243947,
+            "creado": "2022-07-29T13:33:23.354368"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:10.220Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-central-del-uruguay-diario_sesiones",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "ba4639399a7df09e79f1b6dd3874caae9e289320512a185a6f43f48f6dbdc923"
+        }
+      },
+      {
+        "id": "ecd6edcc-ec34-4e18-9d99-b02763570259",
+        "nombre": "Calendario de reuniones del Banco Central del Uruguay",
+        "slug": "banco-central-del-uruguay-calendario_reuniones",
+        "organismo": {
+          "id": "banco-central-del-uruguay",
+          "nombre": "Banco Central del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Calendario de reuniones del Banco Central del Uruguay",
+        "etiquetas": [
+          "BCU",
+          "Banco Central del Uruguay",
+          "Calendario",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-11-22T13:00:19.977210",
+        "modificado": "2026-03-03T13:46:36.253273",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "34eebe8e-a96d-4273-b499-9d0e03e02f3e",
+            "nombre": "Metadatos de calendario de reuniones",
+            "url": "https://catalogodatos.gub.uy/dataset/ecd6edcc-ec34-4e18-9d99-b02763570259/resource/34eebe8e-a96d-4273-b499-9d0e03e02f3e/download/metadatos_calendario_reuniones.json",
+            "formato": "JSON",
+            "tamaño": 3609,
+            "creado": "2022-07-29T13:32:27.450376"
+          },
+          {
+            "id": "cc318596-395f-45d2-bfa5-e0ef6a58af1b",
+            "nombre": "Calendario de reuniones",
+            "url": "https://catalogodatos.gub.uy/dataset/ecd6edcc-ec34-4e18-9d99-b02763570259/resource/cc318596-395f-45d2-bfa5-e0ef6a58af1b/download/calendario_reuniones.csv",
+            "formato": "CSV",
+            "tamaño": 135082,
+            "creado": "2022-07-29T13:32:33.106943"
+          },
+          {
+            "id": "c6bb2a32-937b-4a4e-9c12-1031553e38a3",
+            "nombre": "Calendario de reuniones",
+            "url": "https://catalogodatos.gub.uy/dataset/ecd6edcc-ec34-4e18-9d99-b02763570259/resource/c6bb2a32-937b-4a4e-9c12-1031553e38a3/download/calendario_reuniones.xlsx",
+            "formato": "XLSX",
+            "tamaño": 59781,
+            "creado": "2022-07-29T13:32:37.853600"
+          },
+          {
+            "id": "7bee4c9f-f0e5-4aa6-a8d6-8bc0ed3b1302",
+            "nombre": "Calendario de reuniones",
+            "url": "https://catalogodatos.gub.uy/dataset/ecd6edcc-ec34-4e18-9d99-b02763570259/resource/7bee4c9f-f0e5-4aa6-a8d6-8bc0ed3b1302/download/calendario_reuniones.xml",
+            "formato": "XML",
+            "tamaño": 304313,
+            "creado": "2022-07-29T13:32:42.567078"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:10.220Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-central-del-uruguay-calendario_reuniones",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "49bef7144bbe9baf61dc0b5b116b328aa8a41a0bd431e7703efd4ae469577399"
+        }
+      },
+      {
+        "id": "e4760f9d-4a7a-4483-94cf-5a284e3ca2d0",
+        "nombre": "Capacitaciones",
+        "slug": "banco-central-del-uruguay-capacitaciones",
+        "organismo": {
+          "id": "banco-central-del-uruguay",
+          "nombre": "Banco Central del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "EL siguiente conjunto de datos presenta el Informe de las capacitaciones gestionadas por BCU desde el año 2018 a la fecha actual.",
+        "etiquetas": [
+          "Capacitaciones",
+          "Capacitación",
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-12-26T15:44:53.033466",
+        "modificado": "2026-02-26T14:38:27.570355",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "e8ad6830-6846-44e8-82d3-d891c0aedb6d",
+            "nombre": "Metadatos de capacitaciones realizadas",
+            "url": "https://catalogodatos.gub.uy/dataset/e4760f9d-4a7a-4483-94cf-5a284e3ca2d0/resource/e8ad6830-6846-44e8-82d3-d891c0aedb6d/download/metadatos_datos-capacitacionbcu_2024.json",
+            "formato": "JSON",
+            "tamaño": 4773,
+            "creado": "2019-12-26T15:44:54.453676"
+          },
+          {
+            "id": "8a34729a-bd40-4216-997c-03cb6632bb11",
+            "nombre": "Capacitaciones realizadas",
+            "url": "https://catalogodatos.gub.uy/dataset/e4760f9d-4a7a-4483-94cf-5a284e3ca2d0/resource/8a34729a-bd40-4216-997c-03cb6632bb11/download/datos-capacitacionbcu_2024.csv",
+            "formato": "CSV",
+            "tamaño": 33395,
+            "creado": "2019-12-26T15:44:56.197277"
+          },
+          {
+            "id": "7dfcaaf9-a006-4d21-814c-727240d13bd3",
+            "nombre": "Capacitaciones realizadas",
+            "url": "https://catalogodatos.gub.uy/dataset/e4760f9d-4a7a-4483-94cf-5a284e3ca2d0/resource/7dfcaaf9-a006-4d21-814c-727240d13bd3/download/datos-capacitacionbcu_2024.xlsx",
+            "formato": "XLSX",
+            "tamaño": 30179,
+            "creado": "2019-12-26T15:44:59.312883"
+          },
+          {
+            "id": "f027533a-a920-456e-8aca-6cd9968b8b35",
+            "nombre": "Capacitaciones realizadas",
+            "url": "https://catalogodatos.gub.uy/dataset/e4760f9d-4a7a-4483-94cf-5a284e3ca2d0/resource/f027533a-a920-456e-8aca-6cd9968b8b35/download/datos-capacitacionbcu_2024.xml",
+            "formato": "XML",
+            "tamaño": 113014,
+            "creado": "2019-12-26T15:45:00.410758"
+          },
+          {
+            "id": "2f4fb308-0e28-48a9-bcb7-bd2699428ba2",
+            "nombre": "Capacitaciones realizadas",
+            "url": "https://catalogodatos.gub.uy/dataset/e4760f9d-4a7a-4483-94cf-5a284e3ca2d0/resource/2f4fb308-0e28-48a9-bcb7-bd2699428ba2/download/datos-capacitacionbcu_2024.xlsx",
+            "formato": "XLSX",
+            "tamaño": 30886,
+            "creado": "2025-03-21T20:09:37.939329"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:10.220Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-central-del-uruguay-capacitaciones",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "1ea1343f6806cceca128bd3ee0b794366317df8a5883220bc8b1d1260ec03425"
+        }
+      },
+      {
+        "id": "e97331e3-8a41-4b04-b191-2953b826a452",
+        "nombre": "Listado de trámites y servicios en el Banco Central del Uruguay",
+        "slug": "banco-central-del-uruguay-informacion_de_servicios_y_tramites",
+        "organismo": {
+          "id": "banco-central-del-uruguay",
+          "nombre": "Banco Central del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Este conjunto presenta toda la información relevante sobre los tramites y servicios del Banco Central del Uruguay",
+        "etiquetas": [
+          "BCU",
+          "Banco Central",
+          "Secretaría General",
+          "Servicios",
+          "Transparencia activa",
+          "Trámites"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-11-04T17:00:45.901684",
+        "modificado": "2026-01-27T14:37:57.562317",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "df0a032e-93d8-452d-86e0-201a813ded1b",
+            "nombre": "Información de servicios y trámites del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/e97331e3-8a41-4b04-b191-2953b826a452/resource/df0a032e-93d8-452d-86e0-201a813ded1b/download/servicios_tramites.csv",
+            "formato": "CSV",
+            "tamaño": 23347,
+            "creado": "2019-11-04T17:00:51.716796"
+          },
+          {
+            "id": "08073a1f-0e70-4aa9-bedb-2367471cb6e4",
+            "nombre": "Información de servicios y trámites del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/e97331e3-8a41-4b04-b191-2953b826a452/resource/08073a1f-0e70-4aa9-bedb-2367471cb6e4/download/servicios_tramites.xlsx",
+            "formato": "XLSX",
+            "tamaño": 24856,
+            "creado": "2019-11-04T17:00:53.360042"
+          },
+          {
+            "id": "fee862ef-0db4-4a7c-94d4-42c182891b58",
+            "nombre": "Información de servicios y trámites del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/e97331e3-8a41-4b04-b191-2953b826a452/resource/fee862ef-0db4-4a7c-94d4-42c182891b58/download/servicios_tramites.xml",
+            "formato": "XML",
+            "tamaño": 34811,
+            "creado": "2019-11-04T17:00:54.644775"
+          },
+          {
+            "id": "f6915d30-41d1-4cc3-b178-205915f2254e",
+            "nombre": "Metadatos de información de servicios y trámites del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/e97331e3-8a41-4b04-b191-2953b826a452/resource/f6915d30-41d1-4cc3-b178-205915f2254e/download/metadatos_servicios_tramites.json",
+            "formato": "JSON",
+            "tamaño": 3162,
+            "creado": "2019-11-04T17:00:50.182930"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:10.220Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-central-del-uruguay-informacion_de_servicios_y_tramites",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "ce9a561e29efe7bfcd80ce64fad8021c66080153afedf0da820fcdd976a8884a"
+        }
+      },
+      {
+        "id": "7f5ee10f-e4de-439a-9b94-3edde499e417",
+        "nombre": "Llamados publicados para adquisición y contratación de bienes y servicios",
+        "slug": "bcu_llamados-publicados-comprasycontrataciones",
+        "organismo": {
+          "id": "banco-central-del-uruguay",
+          "nombre": "Banco Central del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Corresponde a los llamados publicados para realizar la adquisición y contratación de bienes y servicios, separados por año de publicación.\r\n\r\nEl conjunto de llamados publicados ha sido extraído desde el servicio web de ACCE",
+        "etiquetas": [
+          "adquisiciones",
+          "compras",
+          "contrataciones",
+          "licitaciones",
+          "suministros"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-10-18T15:47:34.430233",
+        "modificado": "2026-01-16T18:48:26.675694",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "9da8d415-e1ed-4345-b9af-5e2d969834ac",
+            "nombre": "Llamados publicados  - Año 2019",
+            "url": "https://www.comprasestatales.gub.uy/consultas/rss/tipo-pub/ALL/inciso/50/ue/1/tipo-doc/R/tipo-fecha/PUB/rango-fecha/2019-01-01_2019-12-31/filtro-cat/CAT/orden/ORD_MOD/tipo-orden/DESC",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2019-10-18T16:32:23.826683"
+          },
+          {
+            "id": "54b248bc-9db4-440d-95e1-c1a98e43b461",
+            "nombre": "Llamados publicados - Año 2020",
+            "url": "https://www.comprasestatales.gub.uy/consultas/rss/tipo-pub/ALL/inciso/50/ue/1/tipo-doc/R/tipo-fecha/PUB/rango-fecha/2020-01-01_2020-12-31/filtro-cat/CAT/orden/ORD_MOD/tipo-orden/DESC",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2020-01-02T16:00:58.560238"
+          },
+          {
+            "id": "2a63251e-1d56-4432-98fa-ce41c00394df",
+            "nombre": "Llamados publicados - Año 2021",
+            "url": "https://www.comprasestatales.gub.uy/consultas/rss/tipo-pub/ALL/inciso/50/ue/1/tipo-doc/R/tipo-fecha/PUB/rango-fecha/2021-01-01_2021-12-31/filtro-cat/CAT/orden/ORD_MOD/tipo-orden/DESC",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2021-02-24T18:19:26.588494"
+          },
+          {
+            "id": "912ef1a6-9067-4072-8619-6576304cc772",
+            "nombre": "Llamados publicados - Año 2022",
+            "url": "https://www.comprasestatales.gub.uy/consultas/rss/tipo-pub/ALL/inciso/50/ue/1/tipo-doc/R/tipo-fecha/PUB/rango-fecha/2022-01-01_2022-12-31/filtro-cat/CAT/orden/ORD_MOD/tipo-orden/DESC",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2022-01-12T16:16:56.549058"
+          },
+          {
+            "id": "e7ef50a0-f3e9-4c7d-8149-b283417b9ed3",
+            "nombre": "Llamados publicados - Año 2023",
+            "url": "https://www.comprasestatales.gub.uy/consultas/rss/tipo-pub/ALL/inciso/50/ue/1/tipo-doc/R/tipo-fecha/PUB/rango-fecha/2023-01-01_2023-12-31/filtro-cat/CAT/orden/ORD_MOD/tipo-orden/DESC",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2023-03-20T17:44:39.045973"
+          },
+          {
+            "id": "1b9c7a35-dc4c-497b-9dd9-c365e8e64a0b",
+            "nombre": "Llamados publicados - Año 2024",
+            "url": "https://www.comprasestatales.gub.uy/consultas/rss/tipo-pub/ALL/inciso/50/ue/1/tipo-doc/R/tipo-fecha/PUB/rango-fecha/2024-01-01_2024-12-31/filtro-cat/CAT/orden/ORD_MOD/tipo-orden/DESC",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2025-01-13T16:50:17.896599"
+          },
+          {
+            "id": "65449eea-a57a-4aae-92b0-25ba6fafe972",
+            "nombre": "Llamados publicados - Año 2025",
+            "url": "https://www.comprasestatales.gub.uy/consultas/rss/tipo-pub/ALL/inciso/50/ue/1/tipo-doc/R/tipo-fecha/PUB/rango-fecha/2025-01-01_2025-12-31/filtro-cat/CAT/orden/ORD_MOD/tipo-orden/DESC",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2025-01-13T16:51:02.021166"
+          },
+          {
+            "id": "d11b5622-bfbf-4380-8450-b5e3992de9d4",
+            "nombre": "Llamados publicados - Año 2026",
+            "url": "https://www.comprasestatales.gub.uy/consultas/rss/tipo-pub/ALL/inciso/50/ue/1/tipo-doc/R/tipo-fecha/PUB/rango-fecha/2026-01-01_2026-12-31/filtro-cat/CAT/orden/ORD_MOD/tipo-orden/DESC",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2026-01-16T18:46:02.784850"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:10.220Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/bcu_llamados-publicados-comprasycontrataciones",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "b5d067a2028ac620d6ed6ebbe5c45053cfb5fd8e5cf0204da39372dfce63775c"
+        }
+      },
+      {
+        "id": "18a1f972-173f-42a6-bdcd-eb1a919f075c",
+        "nombre": "Creación y evolución del Banco Central del Uruguay",
+        "slug": "banco-central-del-uruguay-creacion_y_evolucion",
+        "organismo": {
+          "id": "banco-central-del-uruguay",
+          "nombre": "Banco Central del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Normativa vinculada con la actividad del Banco Central del Uruguay",
+        "etiquetas": [
+          "BCU",
+          "Banco Central",
+          "Banco Central del Uruguay",
+          "Evolución",
+          "Secretaría General",
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-11-04T12:16:31.255911",
+        "modificado": "2026-01-09T11:59:08.124385",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "e3e81295-1309-46fb-a30f-b322a99270e2",
+            "nombre": "Datos de la evolución del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/18a1f972-173f-42a6-bdcd-eb1a919f075c/resource/e3e81295-1309-46fb-a30f-b322a99270e2/download/creacion-y-evolucion-del-banco-central-del-uruguay.xlsx",
+            "formato": "XLSX",
+            "tamaño": 20741,
+            "creado": "2026-01-08T17:39:22.099857"
+          },
+          {
+            "id": "fd3b4ffd-f221-4b21-bd38-af186ef58006",
+            "nombre": "Datos de la evolución del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/18a1f972-173f-42a6-bdcd-eb1a919f075c/resource/fd3b4ffd-f221-4b21-bd38-af186ef58006/download/creacion-y-evolucion-del-banco-central-del-uruguay.csv",
+            "formato": "CSV",
+            "tamaño": 8444,
+            "creado": "2026-01-08T17:39:23.181209"
+          },
+          {
+            "id": "b2f3f8ea-9f85-43e1-8aa1-0c422479fc52",
+            "nombre": "Datos de la evolución del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/18a1f972-173f-42a6-bdcd-eb1a919f075c/resource/b2f3f8ea-9f85-43e1-8aa1-0c422479fc52/download/creacion-y-evolucion-del-banco-central-del-uruguay.xml",
+            "formato": "XML",
+            "tamaño": 20767,
+            "creado": "2026-01-08T17:39:23.952060"
+          },
+          {
+            "id": "26ecd9d9-12e4-4b6c-98bc-7a45187083d9",
+            "nombre": "Metadatos de datos de la evolución del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/18a1f972-173f-42a6-bdcd-eb1a919f075c/resource/26ecd9d9-12e4-4b6c-98bc-7a45187083d9/download/metadatos_creacion-y-evolucion-del-banco-central-del-uruguay.json",
+            "formato": "JSON",
+            "tamaño": 3324,
+            "creado": "2026-01-08T17:39:24.712422"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:10.220Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-central-del-uruguay-creacion_y_evolucion",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "fbe5fb110675f8ddce053c8c8f35956a07315166109c9f2cc510fc4301dd2f5a"
+        }
+      },
+      {
+        "id": "b40485f4-e92f-4ee5-8465-d3fd76128fae",
+        "nombre": "Comisiones de servicios en el exterior",
+        "slug": "banco-central-del-uruguay-comisiones_exterior",
+        "organismo": {
+          "id": "banco-central-del-uruguay",
+          "nombre": "Banco Central del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "El conjunto cuenta con el listado de comisiones de servicio en el exterior de los funcionarios, viáticos percibidos, razón del viaje, incluyendo a todas las personas que integren la delegación sin excepción alguna. La fecha que se informa corresponde a la fecha de la inclusión de la comisión de servicios en el listado. En el año 2022, dada la situación sanitaria, se actualizarán los recursos cuando comiencen las comisiones de servicio al exterior.",
+        "etiquetas": [
+          "Banco Central del Uruguay",
+          "Comisiones",
+          "Comisiones en el exterior",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2020-04-20T16:15:44.717700",
+        "modificado": "2026-01-08T20:56:16.571550",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "6de6616d-c0e8-4ec2-9238-ee398d1082b4",
+            "nombre": "Comisiones en el Exterior",
+            "url": "https://catalogodatos.gub.uy/dataset/b40485f4-e92f-4ee5-8465-d3fd76128fae/resource/6de6616d-c0e8-4ec2-9238-ee398d1082b4/download/comisiones_exterior-historico.xlsx",
+            "formato": "XLSX",
+            "tamaño": 337664,
+            "creado": "2023-02-01T19:04:20.428125"
+          },
+          {
+            "id": "2a2bd7d4-40b9-4503-ae87-9d769bacfae7",
+            "nombre": "Comisiones en el Exterior",
+            "url": "https://catalogodatos.gub.uy/dataset/b40485f4-e92f-4ee5-8465-d3fd76128fae/resource/2a2bd7d4-40b9-4503-ae87-9d769bacfae7/download/comisiones_exterior-historico.csv",
+            "formato": "CSV",
+            "tamaño": 197570,
+            "creado": "2023-02-01T19:05:18.909547"
+          },
+          {
+            "id": "2eded52c-8c43-43f5-9cc3-0ffc934e0aa1",
+            "nombre": "Comisiones en el Exterior",
+            "url": "https://catalogodatos.gub.uy/dataset/b40485f4-e92f-4ee5-8465-d3fd76128fae/resource/2eded52c-8c43-43f5-9cc3-0ffc934e0aa1/download/comisiones_exterior-historico.xml",
+            "formato": "XML",
+            "tamaño": 478916,
+            "creado": "2023-02-01T19:07:08.709454"
+          },
+          {
+            "id": "454c2af1-6dd1-4f06-a38b-d44a08ac7d31",
+            "nombre": "Metadatos de comisiones en el exterior",
+            "url": "https://catalogodatos.gub.uy/dataset/b40485f4-e92f-4ee5-8465-d3fd76128fae/resource/454c2af1-6dd1-4f06-a38b-d44a08ac7d31/download/metadatos_comisiones_exterior-historico.json",
+            "formato": "JSON",
+            "tamaño": 3118,
+            "creado": "2023-02-01T19:08:00.728017"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:10.220Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-central-del-uruguay-comisiones_exterior",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "c21d28c6308ca6c7c6b44269f3a181abc04a073136e2d5ddbaf179820f9ed7d2"
+        }
+      },
+      {
+        "id": "782f8962-5018-4df3-a6ca-9fcaf304b9bd",
+        "nombre": "Organigrama",
+        "slug": "banco-central-del-uruguay-organigrama",
+        "organismo": {
+          "id": "banco-central-del-uruguay",
+          "nombre": "Banco Central del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Estructura orgánica del organismo con información adicional de las distintas unidades que lo conforman y sus respectivos jerarcas.",
+        "etiquetas": [
+          "Cargos",
+          "Estructura",
+          "Organigrama",
+          "Transparencia",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2020-07-13T14:31:31.789998",
+        "modificado": "2026-01-02T15:35:24.767228",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "d184626b-d5bc-460f-9125-0cd74a3fffdb",
+            "nombre": "Organigrama del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/782f8962-5018-4df3-a6ca-9fcaf304b9bd/resource/d184626b-d5bc-460f-9125-0cd74a3fffdb/download/organigrama-del-organismo.xlsx",
+            "formato": "XLSX",
+            "tamaño": 31291,
+            "creado": "2024-01-10T14:46:16.309528"
+          },
+          {
+            "id": "4b58569a-0e04-4777-8fee-57a152d4340f",
+            "nombre": "Organigrama del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/782f8962-5018-4df3-a6ca-9fcaf304b9bd/resource/4b58569a-0e04-4777-8fee-57a152d4340f/download/organigrama-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 32103,
+            "creado": "2024-01-10T14:46:17.122043"
+          },
+          {
+            "id": "205e65cf-910c-436f-b976-a89d1963e647",
+            "nombre": "Organigrama del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/782f8962-5018-4df3-a6ca-9fcaf304b9bd/resource/205e65cf-910c-436f-b976-a89d1963e647/download/organigrama-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 95826,
+            "creado": "2024-01-10T14:46:18.252279"
+          },
+          {
+            "id": "2b93d6f3-4ea6-4f9b-8303-5d60a4002710",
+            "nombre": "Metadatos de organigrama del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/782f8962-5018-4df3-a6ca-9fcaf304b9bd/resource/2b93d6f3-4ea6-4f9b-8303-5d60a4002710/download/metadatos_organigrama-del-organismo.json",
+            "formato": "JSON",
+            "tamaño": 4746,
+            "creado": "2024-01-10T14:46:18.980290"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:10.220Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-central-del-uruguay-organigrama",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "9b4ac3b2dc77af0d2609be4dcc016952bacc3185dc568a829f5a9c21baa773d2"
+        }
+      },
+      {
+        "id": "1ff4f1f0-1359-4b3f-bd45-f2da12445254",
+        "nombre": "Funcionarios en comisión",
+        "slug": "funcionarios_comision",
+        "organismo": {
+          "id": "banco-central-del-uruguay",
+          "nombre": "Banco Central del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Información de funcionarios en comisión provenientes de otros Organismos",
+        "etiquetas": [
+          "Comisión",
+          "Funcionarios en BCU",
+          "Otros organismos",
+          "Pases en comisión",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-12-02T15:47:38.597323",
+        "modificado": "2025-09-25T17:44:19.106979",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "33457704-2fff-4ffd-8e6c-5d594dac83ea",
+            "nombre": "Funcionarios en comisión de otros organismos",
+            "url": "https://catalogodatos.gub.uy/dataset/1ff4f1f0-1359-4b3f-bd45-f2da12445254/resource/33457704-2fff-4ffd-8e6c-5d594dac83ea/download/funcionarios_comision_bcu.xlsx",
+            "formato": "XLSX",
+            "tamaño": 18189,
+            "creado": "2019-12-02T15:47:44.379699"
+          },
+          {
+            "id": "086be821-1c64-4ec3-a15f-79a52c390a5e",
+            "nombre": "Metadatos de funcionarios en comisión de otros organismos",
+            "url": "https://catalogodatos.gub.uy/dataset/1ff4f1f0-1359-4b3f-bd45-f2da12445254/resource/086be821-1c64-4ec3-a15f-79a52c390a5e/download/metadatos_funcionarios-en-comision.json",
+            "formato": "JSON",
+            "tamaño": 4301,
+            "creado": "2019-12-02T15:47:41.674643"
+          },
+          {
+            "id": "272d17fe-e4ee-43da-b43f-063fab67c776",
+            "nombre": "Funcionarios en comisión de otros organismos",
+            "url": "https://catalogodatos.gub.uy/dataset/1ff4f1f0-1359-4b3f-bd45-f2da12445254/resource/272d17fe-e4ee-43da-b43f-063fab67c776/download/funcionarios-en-comision.csv",
+            "formato": "CSV",
+            "tamaño": 3897,
+            "creado": "2019-12-02T15:47:43.052650"
+          },
+          {
+            "id": "718dc181-3d98-4092-b901-cc5f4a740eec",
+            "nombre": "Funcionarios en comisión de otros organismos",
+            "url": "https://catalogodatos.gub.uy/dataset/1ff4f1f0-1359-4b3f-bd45-f2da12445254/resource/718dc181-3d98-4092-b901-cc5f4a740eec/download/funcionarios-en-comision.xml",
+            "formato": "XML",
+            "tamaño": 9875,
+            "creado": "2019-12-02T15:47:45.624208"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:10.220Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/funcionarios_comision",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "5fc8f667f94db3e32f8808699d5c56e8512d673b5c1cce5d9ff2e15c78e6e9a8"
+        }
+      },
+      {
+        "id": "3221e288-f397-4b50-8fee-e43b1627d819",
+        "nombre": "Llamados y concursos",
+        "slug": "llamados_concursos",
+        "organismo": {
+          "id": "banco-central-del-uruguay",
+          "nombre": "Banco Central del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Llamados a concursos.",
+        "etiquetas": [
+          "Transparencia Activa",
+          "concursos"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-12-02T15:41:46.021160",
+        "modificado": "2025-09-25T17:08:17.337657",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "7ff7db45-2bc8-4b0e-983e-c98f23dae160",
+            "nombre": "Metadatos de llamados y concursos",
+            "url": "https://catalogodatos.gub.uy/dataset/3221e288-f397-4b50-8fee-e43b1627d819/resource/7ff7db45-2bc8-4b0e-983e-c98f23dae160/download/metadatos_llamados_concursos.json",
+            "formato": "JSON",
+            "tamaño": 3108,
+            "creado": "2019-12-02T15:41:49.443159"
+          },
+          {
+            "id": "fa0cd3d0-f24c-47ff-b718-5a64a8a1d33b",
+            "nombre": "Datos de Llamados Concursos",
+            "url": "https://catalogodatos.gub.uy/dataset/3221e288-f397-4b50-8fee-e43b1627d819/resource/fa0cd3d0-f24c-47ff-b718-5a64a8a1d33b/download/llamados_concursos.csv",
+            "formato": "CSV",
+            "tamaño": 4933,
+            "creado": "2023-03-17T19:07:59.712327"
+          },
+          {
+            "id": "eae909a4-00e1-4aba-a20c-66bab88f2830",
+            "nombre": "Datos de Llamados Concursos",
+            "url": "https://catalogodatos.gub.uy/dataset/3221e288-f397-4b50-8fee-e43b1627d819/resource/eae909a4-00e1-4aba-a20c-66bab88f2830/download/llamados_concursos-externos-_bcu.xlsx",
+            "formato": "XLSX",
+            "tamaño": 19316,
+            "creado": "2023-03-17T19:08:48.711313"
+          },
+          {
+            "id": "5e3abbe2-cb1f-4cab-bfb9-966c55731b28",
+            "nombre": "Datos de Llamados y Concursos",
+            "url": "https://catalogodatos.gub.uy/dataset/3221e288-f397-4b50-8fee-e43b1627d819/resource/5e3abbe2-cb1f-4cab-bfb9-966c55731b28/download/datos_llamados-concursos.xml",
+            "formato": "XML",
+            "tamaño": 11292,
+            "creado": "2023-03-17T19:09:21.395661"
+          },
+          {
+            "id": "eb23b233-6be6-4a28-a1fe-2de6e4ca3933",
+            "nombre": "Datos de Llamados Concursos",
+            "url": "https://catalogodatos.gub.uy/dataset/3221e288-f397-4b50-8fee-e43b1627d819/resource/eb23b233-6be6-4a28-a1fe-2de6e4ca3933/download/datos-de-llamados-concursos.xlsx",
+            "formato": "XLSX",
+            "tamaño": 19258,
+            "creado": "2023-11-08T14:23:08.266736"
+          },
+          {
+            "id": "a645d7e9-7c94-4064-a9a2-432a58e8e291",
+            "nombre": "Datos de Llamados Concursos",
+            "url": "https://catalogodatos.gub.uy/dataset/3221e288-f397-4b50-8fee-e43b1627d819/resource/a645d7e9-7c94-4064-a9a2-432a58e8e291/download/datos-de-llamados-concursos.csv",
+            "formato": "CSV",
+            "tamaño": 4469,
+            "creado": "2023-11-08T14:23:15.483004"
+          },
+          {
+            "id": "fe769bad-eb88-4551-8e5d-7d062446c2c0",
+            "nombre": "Datos de Llamados Concursos",
+            "url": "https://catalogodatos.gub.uy/dataset/3221e288-f397-4b50-8fee-e43b1627d819/resource/fe769bad-eb88-4551-8e5d-7d062446c2c0/download/llamados_concursos.xml",
+            "formato": "XML",
+            "tamaño": 11111,
+            "creado": "2023-11-08T14:23:16.352200"
+          },
+          {
+            "id": "cde900e3-1523-448c-98e0-235203565140",
+            "nombre": "Metadatos de datos de llamados concursos",
+            "url": "https://catalogodatos.gub.uy/dataset/3221e288-f397-4b50-8fee-e43b1627d819/resource/cde900e3-1523-448c-98e0-235203565140/download/metadatos_llamados_concursos.json",
+            "formato": "JSON",
+            "tamaño": 3063,
+            "creado": "2023-11-08T14:23:17.230589"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:10.220Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/llamados_concursos",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "fb3e463310749cf6a1f92f504422970e8a490af74689a8030db108f339d60b47"
+        }
+      },
+      {
+        "id": "0cf46699-678f-4020-8ca4-23af11084d0e",
+        "nombre": "Sistema de remuneraciones del BCU",
+        "slug": "banco-central-del-uruguay-sistema-de-remuneraciones-de-los-funcionarios-del-bcu",
+        "organismo": {
+          "id": "banco-central-del-uruguay",
+          "nombre": "Banco Central del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Este conjunto contiene la información sobre el sistema de remuneraciones de los funcionarios del BCU. La información presentada es desde el año 2019 a la fecha.",
+        "etiquetas": [
+          "Remuneraciones",
+          "Sistema de remuneraciones",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2022-08-12T12:28:17.139983",
+        "modificado": "2025-08-11T15:17:31.711503",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "41cec759-1468-441b-ba55-3d75b0608a87",
+            "nombre": "Escala de remuneraciones",
+            "url": "https://catalogodatos.gub.uy/dataset/0cf46699-678f-4020-8ca4-23af11084d0e/resource/41cec759-1468-441b-ba55-3d75b0608a87/download/escala-de-remuneraciones.csv",
+            "formato": "CSV",
+            "tamaño": 30027,
+            "creado": "2024-03-18T15:31:49.434659"
+          },
+          {
+            "id": "deaef6f1-d535-49ff-8465-37c8806d5ac8",
+            "nombre": "Escala de remuneraciones",
+            "url": "https://catalogodatos.gub.uy/dataset/0cf46699-678f-4020-8ca4-23af11084d0e/resource/deaef6f1-d535-49ff-8465-37c8806d5ac8/download/remuneraciones_2025.xlsx",
+            "formato": "XLSX",
+            "tamaño": 33131,
+            "creado": "2024-03-18T15:31:45.906238"
+          },
+          {
+            "id": "b53b8cdd-b5ee-445d-86e2-3c8372e0576d",
+            "nombre": "Escala de remuneraciones",
+            "url": "https://catalogodatos.gub.uy/dataset/0cf46699-678f-4020-8ca4-23af11084d0e/resource/b53b8cdd-b5ee-445d-86e2-3c8372e0576d/download/escala-de-remuneraciones.xml",
+            "formato": "XML",
+            "tamaño": 107494,
+            "creado": "2024-03-18T15:31:50.871722"
+          },
+          {
+            "id": "b99ee44e-d1dc-46cd-b7e7-c198a71c71b4",
+            "nombre": "Metadatos de escala de remuneraciones",
+            "url": "https://catalogodatos.gub.uy/dataset/0cf46699-678f-4020-8ca4-23af11084d0e/resource/b99ee44e-d1dc-46cd-b7e7-c198a71c71b4/download/metadatos_escala-de-remuneraciones.json",
+            "formato": "JSON",
+            "tamaño": 3866,
+            "creado": "2024-03-18T15:31:51.763095"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:10.220Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-central-del-uruguay-sistema-de-remuneraciones-de-los-funcionarios-del-bcu",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "9ddf2b61d6d57b7b560a7ef17f40d2127c8340a9b90eaee76e1026b8ccb82317"
+        }
+      },
+      {
+        "id": "03535427-17f5-4517-a165-fede90338e94",
+        "nombre": "Estados Financieros del BCU",
+        "slug": "banco-central-del-uruguay-auditorias_bcu",
+        "organismo": {
+          "id": "banco-central-del-uruguay",
+          "nombre": "Banco Central del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Estados Financieros del Banco Central del Uruguay con dictamen del Tribunal de Cuentas y de la Auditoría Externa.",
+        "etiquetas": [
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2020-10-02T13:45:06.367416",
+        "modificado": "2025-08-08T14:27:40.390391",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "d069818f-ebf8-4bd3-83b5-bfa973407f52",
+            "nombre": "Estados financieros",
+            "url": "https://catalogodatos.gub.uy/dataset/03535427-17f5-4517-a165-fede90338e94/resource/d069818f-ebf8-4bd3-83b5-bfa973407f52/download/estados-financieros-bcu-historico.xlsx",
+            "formato": "XLSX",
+            "tamaño": 16352,
+            "creado": "2023-02-01T20:11:10.463166"
+          },
+          {
+            "id": "af55ec20-05ff-42e0-a0bf-97d4a28664ea",
+            "nombre": "Estados financieros",
+            "url": "https://catalogodatos.gub.uy/dataset/03535427-17f5-4517-a165-fede90338e94/resource/af55ec20-05ff-42e0-a0bf-97d4a28664ea/download/estados-financieros-bcu-historico.csv",
+            "formato": "CSV",
+            "tamaño": 1718,
+            "creado": "2023-02-01T20:11:51.518301"
+          },
+          {
+            "id": "6e57b485-eb67-4201-9137-b089f11efaf1",
+            "nombre": "Estados financieros",
+            "url": "https://catalogodatos.gub.uy/dataset/03535427-17f5-4517-a165-fede90338e94/resource/6e57b485-eb67-4201-9137-b089f11efaf1/download/estados-financieros-bcu-historico.xml",
+            "formato": "XML",
+            "tamaño": 3697,
+            "creado": "2023-02-01T20:14:08.678624"
+          },
+          {
+            "id": "39cd1569-1007-4516-bb4e-1053f2c7953d",
+            "nombre": "Metadatos de estados financieros",
+            "url": "https://catalogodatos.gub.uy/dataset/03535427-17f5-4517-a165-fede90338e94/resource/39cd1569-1007-4516-bb4e-1053f2c7953d/download/metadatos_estados-financieros-bcu-historico.json",
+            "formato": "JSON",
+            "tamaño": 2616,
+            "creado": "2020-10-02T13:45:07.446107"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:10.220Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-central-del-uruguay-auditorias_bcu",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "3bbf0c48471817e5d77453c2ed1550c2ae5f038524f311111020ad1cbd5c7784"
+        }
+      },
+      {
+        "id": "0ddc6929-cb7f-4f62-bb72-63ec323809e0",
+        "nombre": "Balance de Ejecución Presupuestal del BCU",
+        "slug": "banco-central-del-uruguay-presupuesto_bcu",
+        "organismo": {
+          "id": "banco-central-del-uruguay",
+          "nombre": "Banco Central del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Conjunto que cuenta con la información sobre el Balance de Ejecución Presupuestal del Banco Central del Uruguay con dictamen del Tribunal de Cuentas.",
+        "etiquetas": [
+          "Ejecución presupuestal",
+          "Presupuesto",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2020-10-02T14:05:42.587011",
+        "modificado": "2025-06-11T19:59:42.312192",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "79713c41-413b-408e-b014-2617e2f748e5",
+            "nombre": "Balance presupuestal",
+            "url": "https://catalogodatos.gub.uy/dataset/0ddc6929-cb7f-4f62-bb72-63ec323809e0/resource/79713c41-413b-408e-b014-2617e2f748e5/download/balance-ejecucion-presupuestal-historico.xlsx",
+            "formato": "XLSX",
+            "tamaño": 40832,
+            "creado": "2023-02-01T19:46:51.285124"
+          },
+          {
+            "id": "8b07faf3-8e2c-4317-bcc8-109ebec60610",
+            "nombre": "Balance presupuestal",
+            "url": "https://catalogodatos.gub.uy/dataset/0ddc6929-cb7f-4f62-bb72-63ec323809e0/resource/8b07faf3-8e2c-4317-bcc8-109ebec60610/download/balance-ejecucion-presupuestal-historico.csv",
+            "formato": "CSV",
+            "tamaño": 78120,
+            "creado": "2023-02-01T19:48:00.457789"
+          },
+          {
+            "id": "c3e997ed-50f4-454f-b29b-afbb834a5c4e",
+            "nombre": "Balance presupuestal",
+            "url": "https://catalogodatos.gub.uy/dataset/0ddc6929-cb7f-4f62-bb72-63ec323809e0/resource/c3e997ed-50f4-454f-b29b-afbb834a5c4e/download/balance-ejecucion-presupuestal-historico.xml",
+            "formato": "XML",
+            "tamaño": 184428,
+            "creado": "2023-02-01T19:48:30.482445"
+          },
+          {
+            "id": "a13aea19-a2cd-421f-90c7-c457664a9ef1",
+            "nombre": "Metadatos de balance presupuestal",
+            "url": "https://catalogodatos.gub.uy/dataset/0ddc6929-cb7f-4f62-bb72-63ec323809e0/resource/a13aea19-a2cd-421f-90c7-c457664a9ef1/download/metadatos_balance-ejecucion-presupuestal-historico.json",
+            "formato": "JSON",
+            "tamaño": 4371,
+            "creado": "2023-02-01T19:49:22.342306"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:10.220Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-central-del-uruguay-presupuesto_bcu",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "9be36075e55c1f979f9bf4daf7236aa741bd4c4bc931d43be4aff8683cf3f7f6"
+        }
+      },
+      {
+        "id": "c36ff292-18cc-4587-92f0-b791e585ad4d",
+        "nombre": "Proyectos",
+        "slug": "banco-central-del-uruguay-proyectos",
+        "organismo": {
+          "id": "banco-central-del-uruguay",
+          "nombre": "Banco Central del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Portafolio de proyectos que integran el Plan Estratégico del Banco Central del Uruguay",
+        "etiquetas": [
+          "BCU",
+          "Proyectos",
+          "Transparecia",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2020-06-22T19:34:26.640879",
+        "modificado": "2025-06-11T19:56:46.922050",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "e99df541-5687-4a4b-b519-2e12442a008c",
+            "nombre": "Proyectos del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/c36ff292-18cc-4587-92f0-b791e585ad4d/resource/e99df541-5687-4a4b-b519-2e12442a008c/download/proyectos-bcu-2023.csv",
+            "formato": "CSV",
+            "tamaño": 78120,
+            "creado": "2022-05-06T18:30:39.123857"
+          },
+          {
+            "id": "1353fe53-0046-43cb-8b56-7f2523fe5a86",
+            "nombre": "Proyectos del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/c36ff292-18cc-4587-92f0-b791e585ad4d/resource/1353fe53-0046-43cb-8b56-7f2523fe5a86/download/proyectos-bcu-2023.xml",
+            "formato": "XML",
+            "tamaño": 184428,
+            "creado": "2022-05-06T18:30:43.701875"
+          },
+          {
+            "id": "c6ea8749-f745-4113-9c1c-1280d0883104",
+            "nombre": "Proyectos del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/c36ff292-18cc-4587-92f0-b791e585ad4d/resource/c6ea8749-f745-4113-9c1c-1280d0883104/download/proyectos-bcu-2023.xlsx",
+            "formato": "XLSX",
+            "tamaño": 40832,
+            "creado": "2023-03-21T13:55:57.364869"
+          },
+          {
+            "id": "2e2a85d1-18e6-4a17-a0e6-ea1aaca35b25",
+            "nombre": "Metadatos de proyectos del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/c36ff292-18cc-4587-92f0-b791e585ad4d/resource/2e2a85d1-18e6-4a17-a0e6-ea1aaca35b25/download/metadatos_proyectos-bcu-2023.json",
+            "formato": "JSON",
+            "tamaño": 4377,
+            "creado": "2022-05-06T18:30:36.506187"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:10.220Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-central-del-uruguay-proyectos",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "7e588991feb4897a45b28d2557a29ca8d4be4f043d1d041cf0445c71cb8121c5"
+        }
+      },
+      {
+        "id": "55cc0a56-b3f9-4155-add5-480a756a7501",
+        "nombre": "Compensaciones a funcionarios en comisión del Banco Central del Uruguay",
+        "slug": "banco-central-del-uruguay-compensacion_funcionario_comision",
+        "organismo": {
+          "id": "banco-central-del-uruguay",
+          "nombre": "Banco Central del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Información de las compensaciones a funcionarios en comisión provenientes de otros organismos.",
+        "etiquetas": [
+          "BCU",
+          "Banco Central",
+          "Banco Central del Uruguay",
+          "Comisión",
+          "Transparencia Activa",
+          "escala remuneraciones"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-11-04T14:48:14.032946",
+        "modificado": "2025-05-05T14:20:22.256580",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "f95b976d-2ebf-4fd4-8a01-86b8a2ae0363",
+            "nombre": "Compensaciones a funcionarios en comisión en Banco Central del Uruguay",
+            "url": "https://catalogodatos.gub.uy/dataset/55cc0a56-b3f9-4155-add5-480a756a7501/resource/f95b976d-2ebf-4fd4-8a01-86b8a2ae0363/download/compensaciones-a-funcionarios-en-comision-en-banco-central-del-uruguay.xlsx",
+            "formato": "XLSX",
+            "tamaño": 19332,
+            "creado": "2023-11-10T19:00:57.341076"
+          },
+          {
+            "id": "cba69de2-187c-40bc-ab07-83dc44bcff70",
+            "nombre": "Compensaciones a funcionarios en comisión en Banco Central del Uruguay",
+            "url": "https://catalogodatos.gub.uy/dataset/55cc0a56-b3f9-4155-add5-480a756a7501/resource/cba69de2-187c-40bc-ab07-83dc44bcff70/download/compensaciones-a-funcionarios-en-comision-en-banco-central-del-uruguay.csv",
+            "formato": "CSV",
+            "tamaño": 7297,
+            "creado": "2023-11-10T19:00:58.921174"
+          },
+          {
+            "id": "9712caa0-8f1d-4925-8611-a479b39c1af7",
+            "nombre": "Compensaciones a funcionarios en comisión en Banco Central del Uruguay",
+            "url": "https://catalogodatos.gub.uy/dataset/55cc0a56-b3f9-4155-add5-480a756a7501/resource/9712caa0-8f1d-4925-8611-a479b39c1af7/download/compensaciones-a-funcionarios-en-comision-en-banco-central-del-uruguay.xml",
+            "formato": "XML",
+            "tamaño": 20856,
+            "creado": "2023-11-10T19:01:00.875319"
+          },
+          {
+            "id": "0ad7d9f6-2d07-485f-9d1f-95b02d456b02",
+            "nombre": "Metadatos de compensaciones a funcionarios en comisión en banco central del uruguay",
+            "url": "https://catalogodatos.gub.uy/dataset/55cc0a56-b3f9-4155-add5-480a756a7501/resource/0ad7d9f6-2d07-485f-9d1f-95b02d456b02/download/metadatos_compensaciones-a-funcionarios-en-comision-en-banco-central-del-uruguay.json",
+            "formato": "JSON",
+            "tamaño": 2829,
+            "creado": "2023-11-10T19:01:02.319074"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:10.220Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-central-del-uruguay-compensacion_funcionario_comision",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "41ebd55dbce804e8494c698c4dcc452d547f7b4cb2beac8158a7477a7f365250"
+        }
+      },
+      {
+        "id": "b5af7cf1-a879-48f5-b065-3c1f09027ffa",
+        "nombre": "Partidas financiadas por organismos internacionales BCU",
+        "slug": "banco-central-del-uruguay-presupuesto_organismos_internacionales",
+        "organismo": {
+          "id": "banco-central-del-uruguay",
+          "nombre": "Banco Central del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Conjunto de datos que presenta las partidas presupuestales provenientes de convenios con organismos internacionales o que se gestionen a través de estos.",
+        "etiquetas": [
+          "Financiamiento externo",
+          "Partidas presupuestales",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2020-10-02T14:27:30.279443",
+        "modificado": "2025-04-24T13:22:13.710335",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "ba6ed558-f5e3-456f-bcd7-252a11f8c42b",
+            "nombre": "Partidas de financiamiento externo",
+            "url": "https://catalogodatos.gub.uy/dataset/b5af7cf1-a879-48f5-b065-3c1f09027ffa/resource/ba6ed558-f5e3-456f-bcd7-252a11f8c42b/download/presupuesto_finan_externo.xlsx",
+            "formato": "XLSX",
+            "tamaño": 16563,
+            "creado": "2023-02-02T14:39:57.623882"
+          },
+          {
+            "id": "6b8147d1-7b01-4ca8-a87f-26c090d649c5",
+            "nombre": "Partidas de financiamiento externo",
+            "url": "https://catalogodatos.gub.uy/dataset/b5af7cf1-a879-48f5-b065-3c1f09027ffa/resource/6b8147d1-7b01-4ca8-a87f-26c090d649c5/download/presupuesto_finan_externo.csv",
+            "formato": "CSV",
+            "tamaño": 999,
+            "creado": "2023-02-02T15:14:35.795882"
+          },
+          {
+            "id": "8800fdae-320f-4e77-a1ad-1d3ae8369305",
+            "nombre": "Partidas de financiamiento externo",
+            "url": "https://catalogodatos.gub.uy/dataset/b5af7cf1-a879-48f5-b065-3c1f09027ffa/resource/8800fdae-320f-4e77-a1ad-1d3ae8369305/download/presupuesto_finan_externo.xml",
+            "formato": "XML",
+            "tamaño": 2856,
+            "creado": "2023-02-02T15:15:10.572262"
+          },
+          {
+            "id": "454f6bd0-024a-4cbe-b23a-5888b986af42",
+            "nombre": "Metadatos de partidas de financiamiento externo",
+            "url": "https://catalogodatos.gub.uy/dataset/b5af7cf1-a879-48f5-b065-3c1f09027ffa/resource/454f6bd0-024a-4cbe-b23a-5888b986af42/download/metadatos_presupuesto_finan_externo.json",
+            "formato": "JSON",
+            "tamaño": 3844,
+            "creado": "2020-10-02T14:27:31.782867"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:10.220Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-central-del-uruguay-presupuesto_organismos_internacionales",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "e6367654a7aada1554b837b808b90444de4a5c0183c71c85f5a095b15145b8a1"
+        }
+      },
+      {
+        "id": "f1d5ba67-ad75-4d19-a9f3-a9969d51971b",
+        "nombre": "Programa Gestion Documental",
+        "slug": "banco-central-del-uruguay-programa_gestion_documental",
+        "organismo": {
+          "id": "banco-central-del-uruguay",
+          "nombre": "Banco Central del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto presenta la información que se encuentra publicada conforma la Tabla de Plazos Precaucionales del Banco Central del Uruguay en la cual se encuentran identificadas las series documentales de acuerdo al Cuadro de Clasificación de la organización. Se especifica el destino decidido en el proceso de evaluación documental detallando las series a ser conservadas íntegramente, cuáles parcialmente y cuáles eliminadas en su totalidad y en qué plazos.",
+        "etiquetas": [
+          "Documentos",
+          "Gestión documental",
+          "Guardado de archivos"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2023-11-07T16:36:09.563448",
+        "modificado": "2025-02-18T13:56:34.025813",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "3f1ec813-8a2e-47ac-be2e-e2a0eb5f3493",
+            "nombre": "Gestión de archivos",
+            "url": "https://catalogodatos.gub.uy/dataset/f1d5ba67-ad75-4d19-a9f3-a9969d51971b/resource/3f1ec813-8a2e-47ac-be2e-e2a0eb5f3493/download/programa-gestion-documental.xlsx",
+            "formato": "XLSX",
+            "tamaño": 46591,
+            "creado": "2023-11-07T16:36:11.424301"
+          },
+          {
+            "id": "5be9742e-9597-48e6-b459-9466bbcb2a4f",
+            "nombre": "Gestión de archivos",
+            "url": "https://catalogodatos.gub.uy/dataset/f1d5ba67-ad75-4d19-a9f3-a9969d51971b/resource/5be9742e-9597-48e6-b459-9466bbcb2a4f/download/programa-gestion-documental.csv",
+            "formato": "CSV",
+            "tamaño": 134466,
+            "creado": "2023-11-07T16:36:12.328822"
+          },
+          {
+            "id": "ad0496f7-aed5-4b53-8875-7a255f14caf0",
+            "nombre": "Gestión de archivos",
+            "url": "https://catalogodatos.gub.uy/dataset/f1d5ba67-ad75-4d19-a9f3-a9969d51971b/resource/ad0496f7-aed5-4b53-8875-7a255f14caf0/download/programa-gestion-documental.xml",
+            "formato": "XML",
+            "tamaño": 331176,
+            "creado": "2023-11-07T16:36:14.107430"
+          },
+          {
+            "id": "041077bf-6b34-4a60-bf9e-a7ed04bed587",
+            "nombre": "Metadatos de gestión de archivos",
+            "url": "https://catalogodatos.gub.uy/dataset/f1d5ba67-ad75-4d19-a9f3-a9969d51971b/resource/041077bf-6b34-4a60-bf9e-a7ed04bed587/download/metadatos_programa-gestion-documental.json",
+            "formato": "JSON",
+            "tamaño": 4505,
+            "creado": "2023-11-07T16:36:15.046365"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:10.220Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-central-del-uruguay-programa_gestion_documental",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "04d8c38e11daf3a00fe85f234ad56e17c739c8ab2e365591d78d308c30673ed0"
+        }
+      },
+      {
+        "id": "d1334af2-8eb7-43d7-80bb-b7da6fc9063e",
+        "nombre": "Marco jurídico del Banco Central del Uruguay",
+        "slug": "banco-central-del-uruguay-marco_juridico",
+        "organismo": {
+          "id": "banco-central-del-uruguay",
+          "nombre": "Banco Central del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto presenta información sobre la normativa relativa al Banco Central del Uruguay, incluyendo información sobre su carta orgánica.",
+        "etiquetas": [
+          "Banco Central del Uruguay",
+          "Marco Jurídico",
+          "Normativa",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-11-04T12:26:51.886311",
+        "modificado": "2024-10-18T13:16:22.724751",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "dd3ce562-d07f-4540-845c-bd15bd5a17fc",
+            "nombre": "Marco jurídico del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/d1334af2-8eb7-43d7-80bb-b7da6fc9063e/resource/dd3ce562-d07f-4540-845c-bd15bd5a17fc/download/marco-juridico.csv",
+            "formato": "CSV",
+            "tamaño": 2033,
+            "creado": "2019-11-04T12:26:56.537790"
+          },
+          {
+            "id": "e9b32839-d55a-47b0-8787-eac1f107312a",
+            "nombre": "Marco jurídico del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/d1334af2-8eb7-43d7-80bb-b7da6fc9063e/resource/e9b32839-d55a-47b0-8787-eac1f107312a/download/marco-juridico.xlsx",
+            "formato": "XLSX",
+            "tamaño": 16778,
+            "creado": "2019-11-04T12:26:57.850613"
+          },
+          {
+            "id": "a380f94b-0968-478f-be33-217df036a1a6",
+            "nombre": "Marco jurídico del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/d1334af2-8eb7-43d7-80bb-b7da6fc9063e/resource/a380f94b-0968-478f-be33-217df036a1a6/download/marco-juridico.xml",
+            "formato": "XML",
+            "tamaño": 4698,
+            "creado": "2019-11-04T12:26:58.770321"
+          },
+          {
+            "id": "8db9b767-c7a2-42c5-8703-5cebe6071fed",
+            "nombre": "Metadatos de marco jurídico del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/d1334af2-8eb7-43d7-80bb-b7da6fc9063e/resource/8db9b767-c7a2-42c5-8703-5cebe6071fed/download/metadatos_marco-juridico.json",
+            "formato": "JSON",
+            "tamaño": 3224,
+            "creado": "2019-11-04T12:26:55.746146"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:10.220Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-central-del-uruguay-marco_juridico",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "d882bfce8978cd6a60ab5330a476d5d74ce9d8f647e9054bcc7208113af20b98"
+        }
+      },
+      {
+        "id": "874b4057-0dd8-438b-bc66-ea46e9d1fdc6",
+        "nombre": "Política de Seguridad de la Información",
+        "slug": "banco-central-del-uruguay-politica-de-seguridad-de-la-informacion",
+        "organismo": {
+          "id": "banco-central-del-uruguay",
+          "nombre": "Banco Central del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Política de Seguridad de la Información del Banco Central del Uruguay",
+        "etiquetas": [
+          "Banco Central",
+          "Banco Central del Uruguay",
+          "Tecnologías de la Información",
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-11-01T18:53:17.571555",
+        "modificado": "2022-02-17T15:05:09.034092",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "08a2399f-4186-4713-904d-11fbe658d81e",
+            "nombre": "Política de Seguridad de la Información",
+            "url": "https://catalogodatos.gub.uy/dataset/874b4057-0dd8-438b-bc66-ea46e9d1fdc6/resource/08a2399f-4186-4713-904d-11fbe658d81e/download/ti_politica_seguridad.pdf",
+            "formato": "PDF",
+            "tamaño": 368164,
+            "creado": "2019-11-01T18:55:53.008960"
+          },
+          {
+            "id": "cd073267-472b-4e00-949a-2f7c0cb0bf4d",
+            "nombre": "Política de Seguridad de la Información",
+            "url": "https://catalogodatos.gub.uy/dataset/874b4057-0dd8-438b-bc66-ea46e9d1fdc6/resource/cd073267-472b-4e00-949a-2f7c0cb0bf4d/download/politica-de-seguridad.xlsx",
+            "formato": "XLSX",
+            "tamaño": 15357,
+            "creado": "2020-07-09T15:56:22.365201"
+          },
+          {
+            "id": "e1957673-e8ca-4eba-aede-912d8a557104",
+            "nombre": "Política de Seguridad de la Información",
+            "url": "https://catalogodatos.gub.uy/dataset/874b4057-0dd8-438b-bc66-ea46e9d1fdc6/resource/e1957673-e8ca-4eba-aede-912d8a557104/download/poltica-de-seguridad.csv",
+            "formato": "CSV",
+            "tamaño": 536,
+            "creado": "2020-07-09T15:58:02.648258"
+          },
+          {
+            "id": "f71bff55-f0af-496d-a355-de084c7f0915",
+            "nombre": "Política de Seguridad de la Información",
+            "url": "https://catalogodatos.gub.uy/dataset/874b4057-0dd8-438b-bc66-ea46e9d1fdc6/resource/f71bff55-f0af-496d-a355-de084c7f0915/download/poltica-de-seguridad.xml",
+            "formato": "XML",
+            "tamaño": 790,
+            "creado": "2020-07-09T15:58:45.531584"
+          },
+          {
+            "id": "643433a1-8897-419b-87c1-4cbc557a6e8a",
+            "nombre": "Metadatos de Política de Seguridad de la Información",
+            "url": "https://catalogodatos.gub.uy/dataset/874b4057-0dd8-438b-bc66-ea46e9d1fdc6/resource/643433a1-8897-419b-87c1-4cbc557a6e8a/download/metadatos-agesic-politica_de_seguridad.json",
+            "formato": "JSON",
+            "tamaño": 3413,
+            "creado": "2020-07-09T15:59:34.426293"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:10.220Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-central-del-uruguay-politica-de-seguridad-de-la-informacion",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "8dca8265a41d769d00ee5c386df39f43c20b8325a06db1f16f0e26e3cf240d44"
+        }
+      },
+      {
+        "id": "2cf8d02c-f7d9-41a2-9a68-9af37902efd1",
+        "nombre": "Información del Sujeto Obligado del Banco Central del Uruguay",
+        "slug": "banco_central_del_uruguay-informacion_del_sujeto_obligado",
+        "organismo": {
+          "id": "banco-central-del-uruguay",
+          "nombre": "Banco Central del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Domicilio postal y electrónico y números telefónicos oficiales del sujeto obligado.",
+        "etiquetas": [
+          "BCU",
+          "Banco Central",
+          "Banco Central del Uruguay",
+          "Contacto",
+          "Domicilio",
+          "Horario",
+          "Transparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-11-04T15:49:31.962543",
+        "modificado": "2020-09-16T14:39:54.266250",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "e621ea96-5562-4fe7-ade2-274b94d15794",
+            "nombre": "Metadatos de los datos  de contacto del sujeto obligado.",
+            "url": "https://catalogodatos.gub.uy/dataset/2cf8d02c-f7d9-41a2-9a68-9af37902efd1/resource/e621ea96-5562-4fe7-ade2-274b94d15794/download/metadatos_banco_central_del_uruguay-informacion_del_sujeto_obligado.json",
+            "formato": "JSON",
+            "tamaño": 4133,
+            "creado": "2019-11-04T15:49:34.648444"
+          },
+          {
+            "id": "f7ae82a6-7e48-43a1-a0db-f6564f841e21",
+            "nombre": "Datos de contacto del sujeto obligado.",
+            "url": "https://catalogodatos.gub.uy/dataset/2cf8d02c-f7d9-41a2-9a68-9af37902efd1/resource/f7ae82a6-7e48-43a1-a0db-f6564f841e21/download/datos-de-contacto-del-sujeto-obligado..csv",
+            "formato": "CSV",
+            "tamaño": 423,
+            "creado": "2019-11-04T15:49:35.521995"
+          },
+          {
+            "id": "b6d39a8a-5d5a-4447-a102-bb899ce2f47b",
+            "nombre": "Datos de contacto del sujeto obligado.",
+            "url": "https://catalogodatos.gub.uy/dataset/2cf8d02c-f7d9-41a2-9a68-9af37902efd1/resource/b6d39a8a-5d5a-4447-a102-bb899ce2f47b/download/informacion-sujeto-obligado.xlsx",
+            "formato": "XLS",
+            "tamaño": 16479,
+            "creado": "2019-11-04T15:49:37.064144"
+          },
+          {
+            "id": "c88ef962-39da-4247-8846-a67336f893be",
+            "nombre": "Datos de contacto del sujeto obligado.",
+            "url": "https://catalogodatos.gub.uy/dataset/2cf8d02c-f7d9-41a2-9a68-9af37902efd1/resource/c88ef962-39da-4247-8846-a67336f893be/download/datos-de-contacto-del-sujeto-obligado..xml",
+            "formato": "XML",
+            "tamaño": 594,
+            "creado": "2019-11-04T15:49:38.083703"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:10.220Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco_central_del_uruguay-informacion_del_sujeto_obligado",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "f4985cec75e688c3bc5c29f0ed855d839a1be9351228181d32b405b1d688e7cf"
+        }
+      }
+    ]
+  },
+  "hash": "d4dbb63ff422f978cda5176c0afa08ab6c05945a41a7df10cdab5a0b97e5f33f",
+  "firma": "9bca251527100626c4e1d90b07469cceaf804b6ae8c691c608ff3e2192db1f15"
+}

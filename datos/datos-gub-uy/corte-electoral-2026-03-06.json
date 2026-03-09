@@ -1,0 +1,1598 @@
+{
+  "id": "a684bb96c5281edd023ca264eb93626e",
+  "timestamp": "2026-03-06T23:09:24.198Z",
+  "datos": {
+    "organismo": "corte-electoral",
+    "total": 14,
+    "datasets": [
+      {
+        "id": "2d5eb299-0d95-478b-9271-c62f601e7bc1",
+        "nombre": "Elecciones Departamentales y Municipales 2025",
+        "slug": "corte-electoral-elecciones_departamentales_y_municipales_2025",
+        "organismo": {
+          "id": "corte-electoral",
+          "nombre": "Corte Electoral",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto presenta la información sobre los resultados de las Elecciones Departamentales y Municipales, Plan Circuital y nóminas de candidatos realizadas el 11 de mayo de 2025.",
+        "etiquetas": [],
+        "grupos": [],
+        "creado": "2025-12-23T18:06:59.439767",
+        "modificado": "2025-12-26T16:54:25.130487",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "1049f83b-8515-474f-beac-bffb60621df4",
+            "nombre": "Plan Circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/2d5eb299-0d95-478b-9271-c62f601e7bc1/resource/1049f83b-8515-474f-beac-bffb60621df4/download/plan-circuital.xlsx",
+            "formato": "XLSX",
+            "tamaño": 468279,
+            "creado": "2025-12-23T18:07:04.659553"
+          },
+          {
+            "id": "6eb3c940-4db8-4023-8944-3d44700ed282",
+            "nombre": "Plan Circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/2d5eb299-0d95-478b-9271-c62f601e7bc1/resource/6eb3c940-4db8-4023-8944-3d44700ed282/download/plan-circuital.csv",
+            "formato": "CSV",
+            "tamaño": 819476,
+            "creado": "2025-12-23T18:07:05.911617"
+          },
+          {
+            "id": "baa17f49-ebad-46e7-b1a2-caf530f8230a",
+            "nombre": "Plan Circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/2d5eb299-0d95-478b-9271-c62f601e7bc1/resource/baa17f49-ebad-46e7-b1a2-caf530f8230a/download/plan-circuital.xml",
+            "formato": "XML",
+            "tamaño": 2509289,
+            "creado": "2025-12-23T18:07:07.095707"
+          },
+          {
+            "id": "6b778117-f413-4875-9101-7c37bc84c815",
+            "nombre": "Metadatos de plan circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/2d5eb299-0d95-478b-9271-c62f601e7bc1/resource/6b778117-f413-4875-9101-7c37bc84c815/download/metadatos_plan-circuital.json",
+            "formato": "JSON",
+            "tamaño": 2613,
+            "creado": "2025-12-23T18:07:08.135132"
+          },
+          {
+            "id": "ee596a0f-6c29-448f-bb67-2e265573ab8e",
+            "nombre": "Totales generales por Comisión Receptora de Votos",
+            "url": "https://catalogodatos.gub.uy/dataset/2d5eb299-0d95-478b-9271-c62f601e7bc1/resource/ee596a0f-6c29-448f-bb67-2e265573ab8e/download/totales-generales-por-comision-receptora-de-votos.xlsx",
+            "formato": "XLSX",
+            "tamaño": 395599,
+            "creado": "2025-12-23T18:13:10.988199"
+          },
+          {
+            "id": "a27ceda4-4486-4329-9e67-b7c36e9dfa59",
+            "nombre": "Totales generales por Comisión Receptora de Votos",
+            "url": "https://catalogodatos.gub.uy/dataset/2d5eb299-0d95-478b-9271-c62f601e7bc1/resource/a27ceda4-4486-4329-9e67-b7c36e9dfa59/download/totales-generales-por-comision-receptora-de-votos.csv",
+            "formato": "CSV",
+            "tamaño": 306836,
+            "creado": "2025-12-23T18:13:11.996047"
+          },
+          {
+            "id": "9368f814-2d20-4b71-ab82-59e0198f45a9",
+            "nombre": "Totales generales por Comisión Receptora de Votos",
+            "url": "https://catalogodatos.gub.uy/dataset/2d5eb299-0d95-478b-9271-c62f601e7bc1/resource/9368f814-2d20-4b71-ab82-59e0198f45a9/download/totales-generales-por-comision-receptora-de-votos.xml",
+            "formato": "XML",
+            "tamaño": 3015543,
+            "creado": "2025-12-23T18:13:13.194947"
+          },
+          {
+            "id": "89652401-394b-4afb-b1cb-b8b88a074631",
+            "nombre": "Metadatos de totales generales por comisión receptora de votos",
+            "url": "https://catalogodatos.gub.uy/dataset/2d5eb299-0d95-478b-9271-c62f601e7bc1/resource/89652401-394b-4afb-b1cb-b8b88a074631/download/metadatos_totales-generales-por-comision-receptora-de-votos.json",
+            "formato": "JSON",
+            "tamaño": 3866,
+            "creado": "2025-12-23T18:13:14.197942"
+          },
+          {
+            "id": "dcd25e98-212c-4704-81b8-87a39f333899",
+            "nombre": "Desglose de votos",
+            "url": "https://catalogodatos.gub.uy/dataset/2d5eb299-0d95-478b-9271-c62f601e7bc1/resource/dcd25e98-212c-4704-81b8-87a39f333899/download/desglose-de-votos.xlsx",
+            "formato": "XLSX",
+            "tamaño": 15158196,
+            "creado": "2025-12-23T18:16:01.950686"
+          },
+          {
+            "id": "92d7ca7b-32f1-4cde-b607-d94aef825c4d",
+            "nombre": "Desglose de votos",
+            "url": "https://catalogodatos.gub.uy/dataset/2d5eb299-0d95-478b-9271-c62f601e7bc1/resource/92d7ca7b-32f1-4cde-b607-d94aef825c4d/download/desglose-de-votos.csv",
+            "formato": "CSV",
+            "tamaño": 21172641,
+            "creado": "2025-12-23T18:16:03.290329"
+          },
+          {
+            "id": "56966117-da7a-4f80-b689-c77b112cec00",
+            "nombre": "Desglose de votos",
+            "url": "https://catalogodatos.gub.uy/dataset/2d5eb299-0d95-478b-9271-c62f601e7bc1/resource/56966117-da7a-4f80-b689-c77b112cec00/download/desglose-de-votos.xml",
+            "formato": "XML",
+            "tamaño": 107242624,
+            "creado": "2025-12-23T18:16:06.623883"
+          },
+          {
+            "id": "68ce2dd2-57d1-47ec-9202-8b2da9d4c555",
+            "nombre": "Metadatos de desglose de votos",
+            "url": "https://catalogodatos.gub.uy/dataset/2d5eb299-0d95-478b-9271-c62f601e7bc1/resource/68ce2dd2-57d1-47ec-9202-8b2da9d4c555/download/metadatos_desglose-de-votos.json",
+            "formato": "JSON",
+            "tamaño": 3116,
+            "creado": "2025-12-23T18:16:07.946865"
+          },
+          {
+            "id": "2e0c4b3b-97c8-4a94-a919-3fbdeae6a7ca",
+            "nombre": "Integración de las hojas de votación",
+            "url": "https://catalogodatos.gub.uy/dataset/2d5eb299-0d95-478b-9271-c62f601e7bc1/resource/2e0c4b3b-97c8-4a94-a919-3fbdeae6a7ca/download/integracion-de-las-hojas-de-votacion.xlsx",
+            "formato": "XLSX",
+            "tamaño": 9870510,
+            "creado": "2025-12-23T18:24:43.204463"
+          },
+          {
+            "id": "7b775c22-3a59-490b-b8a0-6a8f8efd33bc",
+            "nombre": "Integración de las hojas de votación",
+            "url": "https://catalogodatos.gub.uy/dataset/2d5eb299-0d95-478b-9271-c62f601e7bc1/resource/7b775c22-3a59-490b-b8a0-6a8f8efd33bc/download/integracion-de-las-hojas-de-votacion.csv",
+            "formato": "CSV",
+            "tamaño": 99321,
+            "creado": "2025-12-23T18:24:44.285019"
+          },
+          {
+            "id": "1be70da6-eeef-4878-b64a-c8013b245be5",
+            "nombre": "Integración de las hojas de votación",
+            "url": "https://catalogodatos.gub.uy/dataset/2d5eb299-0d95-478b-9271-c62f601e7bc1/resource/1be70da6-eeef-4878-b64a-c8013b245be5/download/integracion-de-las-hojas-de-votacion.xml",
+            "formato": "XML",
+            "tamaño": 297485,
+            "creado": "2025-12-23T18:24:45.547998"
+          },
+          {
+            "id": "f934c039-b1e2-46ee-b033-089ea4edd120",
+            "nombre": "Metadatos de integración de las hojas de votación",
+            "url": "https://catalogodatos.gub.uy/dataset/2d5eb299-0d95-478b-9271-c62f601e7bc1/resource/f934c039-b1e2-46ee-b033-089ea4edd120/download/metadatos_integracion-de-las-hojas-de-votacion.json",
+            "formato": "JSON",
+            "tamaño": 4053,
+            "creado": "2025-12-23T18:24:46.345331"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:24.197Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/corte-electoral-elecciones_departamentales_y_municipales_2025",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "1263817bd0153d7bbe37c2ac79c3c579338c8c3250ffb8ba18fdbe59f30786be"
+        }
+      },
+      {
+        "id": "2dc312e4-f3f7-41aa-b56d-74389083e7e1",
+        "nombre": "Balotaje 2024",
+        "slug": "corte-electoral-balotaje_2024",
+        "organismo": {
+          "id": "corte-electoral",
+          "nombre": "Corte Electoral",
+          "tipo": "organization"
+        },
+        "descripcion": "Contiene la información general de la Comisión Receptora de Votos, cantidad de habilitados, series comprendidas, cantidades de votos emitidos, cantidad de votos no observados, cantidad de votos observados, cantidad de anulados, cantidad de votos en blanco y cantidad de votos que recibió cada fórmula.",
+        "etiquetas": [
+          "Balotaje",
+          "Elecciones",
+          "Elecciones nacionales"
+        ],
+        "grupos": [
+          "Estadísticas",
+          "Transparencia"
+        ],
+        "creado": "2024-11-29T13:23:04.546250",
+        "modificado": "2024-12-02T17:32:58.829286",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "8724102f-7c6d-4ebe-b15c-8498e4ab95f3",
+            "nombre": "Balotaje 2024",
+            "url": "https://catalogodatos.gub.uy/dataset/2dc312e4-f3f7-41aa-b56d-74389083e7e1/resource/8724102f-7c6d-4ebe-b15c-8498e4ab95f3/download/balotaje-2024.xlsx",
+            "formato": "XLSX",
+            "tamaño": 418814,
+            "creado": "2024-11-29T13:23:08.094458"
+          },
+          {
+            "id": "ac4cbd7c-dc15-4d3f-87ba-c00fb47604b7",
+            "nombre": "Balotaje 2024",
+            "url": "https://catalogodatos.gub.uy/dataset/2dc312e4-f3f7-41aa-b56d-74389083e7e1/resource/ac4cbd7c-dc15-4d3f-87ba-c00fb47604b7/download/balotaje-2024.csv",
+            "formato": "CSV",
+            "tamaño": 273487,
+            "creado": "2024-11-29T13:23:08.636281"
+          },
+          {
+            "id": "62c32045-8b23-4344-bc7b-bdf91f1908b5",
+            "nombre": "Balotaje 2024",
+            "url": "https://catalogodatos.gub.uy/dataset/2dc312e4-f3f7-41aa-b56d-74389083e7e1/resource/62c32045-8b23-4344-bc7b-bdf91f1908b5/download/balotaje-2024.xml",
+            "formato": "XML",
+            "tamaño": 3021528,
+            "creado": "2024-11-29T13:23:10.042362"
+          },
+          {
+            "id": "ad61ab13-b7a9-499d-8df4-bf38c56646ae",
+            "nombre": "Metadatos de balotaje 2024",
+            "url": "https://catalogodatos.gub.uy/dataset/2dc312e4-f3f7-41aa-b56d-74389083e7e1/resource/ad61ab13-b7a9-499d-8df4-bf38c56646ae/download/metadatos_balotaje-2024.json",
+            "formato": "JSON",
+            "tamaño": 3828,
+            "creado": "2024-11-29T13:23:10.472231"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:24.197Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/corte-electoral-balotaje_2024",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "495a6d3c71a6039e0b2663a6a7a9d9bedc1fc19d769b9a1aee305b8e6300e1ba"
+        }
+      },
+      {
+        "id": "7aaa1ff0-8ea5-4302-a3e6-c2d589b484a3",
+        "nombre": "Elecciones Nacionales 2024",
+        "slug": "corte-electoral-elecciones-nacionales-2024",
+        "organismo": {
+          "id": "corte-electoral",
+          "nombre": "Corte Electoral",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto presenta la información sobre los resultados de las Elecciones Nacionales y Plebiscitos Constitucionales, Plan Circuital y nóminas de candidatos realizadas el 27 de octubre de 2024.",
+        "etiquetas": [
+          "Elecciones",
+          "Elecciones nacionales",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Estadísticas",
+          "Transparencia"
+        ],
+        "creado": "2024-11-04T16:50:43.852874",
+        "modificado": "2024-11-08T14:19:09.087226",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "8efbea44-6406-4875-9e92-921a9de37d49",
+            "nombre": "Plan Circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/7aaa1ff0-8ea5-4302-a3e6-c2d589b484a3/resource/8efbea44-6406-4875-9e92-921a9de37d49/download/plan-circuital.xlsx",
+            "formato": "XLSX",
+            "tamaño": 402234,
+            "creado": "2024-11-04T17:21:40.467753"
+          },
+          {
+            "id": "cd75fe38-2668-4487-992f-e39ea25ee1b6",
+            "nombre": "Plan Circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/7aaa1ff0-8ea5-4302-a3e6-c2d589b484a3/resource/cd75fe38-2668-4487-992f-e39ea25ee1b6/download/plan-circuital.csv",
+            "formato": "CSV",
+            "tamaño": 677639,
+            "creado": "2024-11-04T17:21:41.454847"
+          },
+          {
+            "id": "ca38754b-6526-41fb-8b2d-b2a81f06a1ca",
+            "nombre": "Plan Circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/7aaa1ff0-8ea5-4302-a3e6-c2d589b484a3/resource/ca38754b-6526-41fb-8b2d-b2a81f06a1ca/download/plan-circuital.xml",
+            "formato": "XML",
+            "tamaño": 2219168,
+            "creado": "2024-11-04T17:21:43.270787"
+          },
+          {
+            "id": "9eae4518-50e1-43ec-889a-8b3cbb86d8ac",
+            "nombre": "Metadatos de plan circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/7aaa1ff0-8ea5-4302-a3e6-c2d589b484a3/resource/9eae4518-50e1-43ec-889a-8b3cbb86d8ac/download/metadatos_plan-circuital.json",
+            "formato": "JSON",
+            "tamaño": 2383,
+            "creado": "2024-11-04T17:21:43.726809"
+          },
+          {
+            "id": "99a0d192-a0b8-4376-9d97-ec5302fdd9b5",
+            "nombre": "Totales generales por Comisión Receptora de Votos Y Plebiscitos Constitucionales",
+            "url": "https://catalogodatos.gub.uy/dataset/7aaa1ff0-8ea5-4302-a3e6-c2d589b484a3/resource/99a0d192-a0b8-4376-9d97-ec5302fdd9b5/download/totales-generales-por-comision-receptora-de-votos-y-plebiscitos-constitucionales.xlsx",
+            "formato": "XLSX",
+            "tamaño": 447545,
+            "creado": "2024-11-04T17:27:53.398580"
+          },
+          {
+            "id": "0f149bb6-4fff-463b-bc3a-8ab671bcdf34",
+            "nombre": "Totales generales por Comisión Receptora de Votos Y Plebiscitos Constitucionales",
+            "url": "https://catalogodatos.gub.uy/dataset/7aaa1ff0-8ea5-4302-a3e6-c2d589b484a3/resource/0f149bb6-4fff-463b-bc3a-8ab671bcdf34/download/totales-generales-por-comision-receptora-de-votos-y-plebiscitos-constitucionales.csv",
+            "formato": "CSV",
+            "tamaño": 285506,
+            "creado": "2024-11-04T17:27:54.243407"
+          },
+          {
+            "id": "7fa26426-194e-4bdc-8ba8-603fc44d56b9",
+            "nombre": "Totales generales por Comisión Receptora de Votos Y Plebiscitos Constitucionales",
+            "url": "https://catalogodatos.gub.uy/dataset/7aaa1ff0-8ea5-4302-a3e6-c2d589b484a3/resource/7fa26426-194e-4bdc-8ba8-603fc44d56b9/download/totales-generales-por-comision-receptora-de-votos-y-plebiscitos-constitucionales.xml",
+            "formato": "XML",
+            "tamaño": 2968881,
+            "creado": "2024-11-04T17:27:55.670058"
+          },
+          {
+            "id": "83a77d8a-1708-4295-a7e8-5cee25fdc1a2",
+            "nombre": "Metadatos de totales generales por comisión receptora de votos y plebiscitos constitucionales",
+            "url": "https://catalogodatos.gub.uy/dataset/7aaa1ff0-8ea5-4302-a3e6-c2d589b484a3/resource/83a77d8a-1708-4295-a7e8-5cee25fdc1a2/download/metadatos_totales-generales-por-comision-receptora-de-votos-y-plebiscitos-constitucionales.json",
+            "formato": "JSON",
+            "tamaño": 4467,
+            "creado": "2024-11-04T17:27:56.246558"
+          },
+          {
+            "id": "3edcaab1-4d3f-4dab-90fc-c8c7e50ef24b",
+            "nombre": " Integración de hojas de votación Elección Nacional",
+            "url": "https://catalogodatos.gub.uy/dataset/7aaa1ff0-8ea5-4302-a3e6-c2d589b484a3/resource/3edcaab1-4d3f-4dab-90fc-c8c7e50ef24b/download/-integracion-de-hojas-de-votacion-eleccion-nacional.xlsx",
+            "formato": "XLSX",
+            "tamaño": 14066667,
+            "creado": "2024-11-04T18:01:27.692654"
+          },
+          {
+            "id": "7bf5feeb-3d75-41e2-b21a-0a9706174f18",
+            "nombre": " Integración de hojas de votación Elección Nacional",
+            "url": "https://catalogodatos.gub.uy/dataset/7aaa1ff0-8ea5-4302-a3e6-c2d589b484a3/resource/7bf5feeb-3d75-41e2-b21a-0a9706174f18/download/-integracion-de-hojas-de-votacion-eleccion-nacional.csv",
+            "formato": "CSV",
+            "tamaño": 28402202,
+            "creado": "2024-11-04T18:01:50.831097"
+          },
+          {
+            "id": "7a796f39-867e-45f0-86f1-cdc3bf37c87a",
+            "nombre": " Integración de hojas de votación Elección Nacional",
+            "url": "https://catalogodatos.gub.uy/dataset/7aaa1ff0-8ea5-4302-a3e6-c2d589b484a3/resource/7a796f39-867e-45f0-86f1-cdc3bf37c87a/download/-integracion-de-hojas-de-votacion-eleccion-nacional.xml",
+            "formato": "XML",
+            "tamaño": 105540587,
+            "creado": "2024-11-04T18:04:56.921776"
+          },
+          {
+            "id": "94a6c3f1-7824-48e1-b77b-edcccbc0a9f4",
+            "nombre": "Metadatos de  integración de hojas de votación elección nacional",
+            "url": "https://catalogodatos.gub.uy/dataset/7aaa1ff0-8ea5-4302-a3e6-c2d589b484a3/resource/94a6c3f1-7824-48e1-b77b-edcccbc0a9f4/download/metadatos_-integracion-de-hojas-de-votacion-eleccion-nacional.json",
+            "formato": "JSON",
+            "tamaño": 3816,
+            "creado": "2024-11-04T18:05:01.119503"
+          },
+          {
+            "id": "5d8a09cb-a963-4ab3-aca8-f52985b9bf2b",
+            "nombre": "Desglose de votos",
+            "url": "https://catalogodatos.gub.uy/dataset/7aaa1ff0-8ea5-4302-a3e6-c2d589b484a3/resource/5d8a09cb-a963-4ab3-aca8-f52985b9bf2b/download/desglose-de-votos.xlsx",
+            "formato": "XLSX",
+            "tamaño": 11690369,
+            "creado": "2024-11-04T18:14:48.597517"
+          },
+          {
+            "id": "f74aa981-47d3-4165-81be-5d2abcc5f6d5",
+            "nombre": "Desglose de votos",
+            "url": "https://catalogodatos.gub.uy/dataset/7aaa1ff0-8ea5-4302-a3e6-c2d589b484a3/resource/f74aa981-47d3-4165-81be-5d2abcc5f6d5/download/desglose-de-votos.csv",
+            "formato": "CSV",
+            "tamaño": 16778717,
+            "creado": "2024-11-04T18:16:18.056632"
+          },
+          {
+            "id": "9eb6860e-68e2-4d80-a478-d772c9c0a9e9",
+            "nombre": "Desglose de votos",
+            "url": "https://catalogodatos.gub.uy/dataset/7aaa1ff0-8ea5-4302-a3e6-c2d589b484a3/resource/9eb6860e-68e2-4d80-a478-d772c9c0a9e9/download/desglose-de-votos.xml",
+            "formato": "XML",
+            "tamaño": 76988622,
+            "creado": "2024-11-04T18:22:31.616411"
+          },
+          {
+            "id": "cb2d61f5-d29f-4074-93fb-6377e479df9e",
+            "nombre": "Metadatos de desglose de votos",
+            "url": "https://catalogodatos.gub.uy/dataset/7aaa1ff0-8ea5-4302-a3e6-c2d589b484a3/resource/cb2d61f5-d29f-4074-93fb-6377e479df9e/download/metadatos_desglose-de-votos.json",
+            "formato": "JSON",
+            "tamaño": 2384,
+            "creado": "2024-11-04T18:22:35.912202"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:24.197Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/corte-electoral-elecciones-nacionales-2024",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "30f1c8e2ae0ef41824da3faedb65d8d6a3a28475bda44ba240539ac637899e3b"
+        }
+      },
+      {
+        "id": "48a4e7f5-6909-41a0-aa8a-95dc42cc201f",
+        "nombre": "Elecciones Internas de los Partidos Políticos 2024",
+        "slug": "corte-electoral-elecciones-internas-de-los-partidos-politicos-2024",
+        "organismo": {
+          "id": "corte-electoral",
+          "nombre": "Corte Electoral",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto presenta la información sobre los resultados de las Elecciones Internas de los Partidos Políticos, plan circuital y nóminas de candidatos para el año 2024.",
+        "etiquetas": [
+          "Elecciones internas",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2024-07-15T14:36:08.434269",
+        "modificado": "2024-07-25T18:17:49.644150",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "b2b06d00-8545-4b94-b42a-b8603acd1df9",
+            "nombre": "Plan circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/48a4e7f5-6909-41a0-aa8a-95dc42cc201f/resource/b2b06d00-8545-4b94-b42a-b8603acd1df9/download/plan-circuital.xlsx",
+            "formato": "XLSX",
+            "tamaño": 394820,
+            "creado": "2024-07-23T14:09:33.569945"
+          },
+          {
+            "id": "a46e47e5-72e8-4027-9c0f-f8df2a103c21",
+            "nombre": "Plan circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/48a4e7f5-6909-41a0-aa8a-95dc42cc201f/resource/a46e47e5-72e8-4027-9c0f-f8df2a103c21/download/plan-circuital.csv",
+            "formato": "CSV",
+            "tamaño": 648135,
+            "creado": "2024-07-23T14:09:34.929966"
+          },
+          {
+            "id": "5b8bed5d-ed5f-4b50-99ae-c8f1ba2a2e0b",
+            "nombre": "Plan circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/48a4e7f5-6909-41a0-aa8a-95dc42cc201f/resource/5b8bed5d-ed5f-4b50-99ae-c8f1ba2a2e0b/download/plan-circuital.xml",
+            "formato": "XML",
+            "tamaño": 2164444,
+            "creado": "2024-07-23T14:09:37.955328"
+          },
+          {
+            "id": "c8376b32-993d-470e-920a-cea9407bdcef",
+            "nombre": "Metadatos de plan circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/48a4e7f5-6909-41a0-aa8a-95dc42cc201f/resource/c8376b32-993d-470e-920a-cea9407bdcef/download/metadatos_plan-circuital.json",
+            "formato": "JSON",
+            "tamaño": 2384,
+            "creado": "2024-07-23T14:09:38.490570"
+          },
+          {
+            "id": "eecfd3dc-7cc0-4a07-beae-4fde1589f792",
+            "nombre": "Desglose de votos",
+            "url": "https://catalogodatos.gub.uy/dataset/48a4e7f5-6909-41a0-aa8a-95dc42cc201f/resource/eecfd3dc-7cc0-4a07-beae-4fde1589f792/download/desglose-de-votos.xlsx",
+            "formato": "XLSX",
+            "tamaño": 16911280,
+            "creado": "2024-07-23T15:00:04.410985"
+          },
+          {
+            "id": "dec32eb5-1754-4810-af7a-8c1121259206",
+            "nombre": "Desglose de votos",
+            "url": "https://catalogodatos.gub.uy/dataset/48a4e7f5-6909-41a0-aa8a-95dc42cc201f/resource/dec32eb5-1754-4810-af7a-8c1121259206/download/desglose-de-votos.csv",
+            "formato": "CSV",
+            "tamaño": 29174076,
+            "creado": "2024-07-23T15:00:12.391216"
+          },
+          {
+            "id": "5b48c5f2-84dc-4766-8588-dc6e5b713b89",
+            "nombre": "Desglose de votos",
+            "url": "https://catalogodatos.gub.uy/dataset/48a4e7f5-6909-41a0-aa8a-95dc42cc201f/resource/5b48c5f2-84dc-4766-8588-dc6e5b713b89/download/desglose-de-votos.xml",
+            "formato": "XML",
+            "tamaño": 126422504,
+            "creado": "2024-07-23T15:00:37.391716"
+          },
+          {
+            "id": "58a02b5a-1bb2-427c-b02a-28aab953a104",
+            "nombre": "Metadatos de desglose de votos",
+            "url": "https://catalogodatos.gub.uy/dataset/48a4e7f5-6909-41a0-aa8a-95dc42cc201f/resource/58a02b5a-1bb2-427c-b02a-28aab953a104/download/metadatos_desglose-de-votos.json",
+            "formato": "JSON",
+            "tamaño": 3181,
+            "creado": "2024-07-23T15:00:38.486419"
+          },
+          {
+            "id": "2f786629-80de-4910-bb0f-f5239ad6c0c2",
+            "nombre": "Totales Generales",
+            "url": "https://catalogodatos.gub.uy/dataset/48a4e7f5-6909-41a0-aa8a-95dc42cc201f/resource/2f786629-80de-4910-bb0f-f5239ad6c0c2/download/totales-generales.xlsx",
+            "formato": "XLSX",
+            "tamaño": 333276,
+            "creado": "2024-07-23T15:05:09.382839"
+          },
+          {
+            "id": "f7dd08cf-5978-43c2-acc5-b2854d7029dd",
+            "nombre": "Totales Generales",
+            "url": "https://catalogodatos.gub.uy/dataset/48a4e7f5-6909-41a0-aa8a-95dc42cc201f/resource/f7dd08cf-5978-43c2-acc5-b2854d7029dd/download/totales-generales.csv",
+            "formato": "CSV",
+            "tamaño": 206254,
+            "creado": "2024-07-23T15:05:10.472473"
+          },
+          {
+            "id": "f79a3bad-d11f-4dd8-bbe7-427d5fc1207c",
+            "nombre": "Totales Generales",
+            "url": "https://catalogodatos.gub.uy/dataset/48a4e7f5-6909-41a0-aa8a-95dc42cc201f/resource/f79a3bad-d11f-4dd8-bbe7-427d5fc1207c/download/totales-generales.xml",
+            "formato": "XML",
+            "tamaño": 2534753,
+            "creado": "2024-07-23T15:05:12.186189"
+          },
+          {
+            "id": "3cfb8682-0362-4688-82fe-5e5aef024df0",
+            "nombre": "Metadatos de totales generales",
+            "url": "https://catalogodatos.gub.uy/dataset/48a4e7f5-6909-41a0-aa8a-95dc42cc201f/resource/3cfb8682-0362-4688-82fe-5e5aef024df0/download/metadatos_totales-generales.json",
+            "formato": "JSON",
+            "tamaño": 2674,
+            "creado": "2024-07-23T15:05:13.059327"
+          },
+          {
+            "id": "68123598-1699-4049-a510-d3aafbb112d3",
+            "nombre": "Integración hojas de votación",
+            "url": "https://catalogodatos.gub.uy/dataset/48a4e7f5-6909-41a0-aa8a-95dc42cc201f/resource/68123598-1699-4049-a510-d3aafbb112d3/download/integracion-hojas-de-votacion.xlsx",
+            "formato": "XLSX",
+            "tamaño": 24572384,
+            "creado": "2024-07-25T17:01:11.099734"
+          },
+          {
+            "id": "4937d1a4-0847-4cf7-a2e1-95688ce5c40c",
+            "nombre": "Integración hojas de votación",
+            "url": "https://catalogodatos.gub.uy/dataset/48a4e7f5-6909-41a0-aa8a-95dc42cc201f/resource/4937d1a4-0847-4cf7-a2e1-95688ce5c40c/download/integracion-hojas-de-votacion.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2024-07-25T17:01:12.235608"
+          },
+          {
+            "id": "df56d79e-f395-4691-8b10-8451aecfbfe6",
+            "nombre": "Integración hojas de votación",
+            "url": "https://catalogodatos.gub.uy/dataset/48a4e7f5-6909-41a0-aa8a-95dc42cc201f/resource/df56d79e-f395-4691-8b10-8451aecfbfe6/download/integracion-hojas-de-votacion.xml",
+            "formato": "XML",
+            "tamaño": 54,
+            "creado": "2024-07-25T17:01:13.293525"
+          },
+          {
+            "id": "3b95c1d9-90fb-44c7-bce2-1c4f882ec628",
+            "nombre": "Metadatos de integración hojas de votación",
+            "url": "https://catalogodatos.gub.uy/dataset/48a4e7f5-6909-41a0-aa8a-95dc42cc201f/resource/3b95c1d9-90fb-44c7-bce2-1c4f882ec628/download/metadatos_integracion-hojas-de-votacion.json",
+            "formato": "JSON",
+            "tamaño": 3846,
+            "creado": "2024-07-25T17:01:14.076882"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:24.197Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/corte-electoral-elecciones-internas-de-los-partidos-politicos-2024",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "4a88f6ee45ed863ef3c2a9bfd951056960f168c210b9e4d8ab434cd0e1d21ac2"
+        }
+      },
+      {
+        "id": "e749ad5e-ef5a-4f56-9b16-96868cbfa460",
+        "nombre": "Elecciones Internas de los Partidos Políticos 2019",
+        "slug": "corte-electoral-elecciones_internas_2019",
+        "organismo": {
+          "id": "corte-electoral",
+          "nombre": "Corte Electoral",
+          "tipo": "organization"
+        },
+        "descripcion": "Resultados de las Elecciones Internas de los Partidos Políticos, hojas que participaron y nóminas de candidatos. ",
+        "etiquetas": [
+          "Elecciones",
+          "Elecciones Internas"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-12-16T12:37:50.071134",
+        "modificado": "2024-07-15T14:38:49.574248",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "faab0513-ddb1-4423-908f-c1d074567260",
+            "nombre": "Hojas de votación ",
+            "url": "https://www.corteelectoral.gub.uy/Descargas/HOJAS_INTERNAS_2019.zip",
+            "formato": ".zip",
+            "tamaño": null,
+            "creado": "2020-01-29T19:32:30.872277"
+          },
+          {
+            "id": "0b195a40-6da1-4a7b-9a35-d32451556a90",
+            "nombre": "Metadatos de Desglose de votos ",
+            "url": "https://catalogodatos.gub.uy/dataset/e749ad5e-ef5a-4f56-9b16-96868cbfa460/resource/0b195a40-6da1-4a7b-9a35-d32451556a90/download/metadatos_corte-electoral-elecciones_internas_2019.json",
+            "formato": "JSON",
+            "tamaño": 4838,
+            "creado": "2020-01-29T19:19:10.313454"
+          },
+          {
+            "id": "912bcb58-3b3a-4a4c-aa5d-e633c87fcb97",
+            "nombre": "Desglose de votos ",
+            "url": "https://catalogodatos.gub.uy/dataset/e749ad5e-ef5a-4f56-9b16-96868cbfa460/resource/912bcb58-3b3a-4a4c-aa5d-e633c87fcb97/download/desglose-de-votos-.csv",
+            "formato": "CSV",
+            "tamaño": 38006288,
+            "creado": "2020-01-29T19:19:14.511498"
+          },
+          {
+            "id": "d2701044-b6ba-4faa-ae6f-424ab58392df",
+            "nombre": "Desglose de votos ",
+            "url": "https://catalogodatos.gub.uy/dataset/e749ad5e-ef5a-4f56-9b16-96868cbfa460/resource/d2701044-b6ba-4faa-ae6f-424ab58392df/download/desglose-de-votos.xlsx",
+            "formato": "XLS",
+            "tamaño": 17910255,
+            "creado": "2020-01-29T19:19:16.902256"
+          },
+          {
+            "id": "29eb4a8d-a629-482a-844b-61804b0de6e4",
+            "nombre": "Desglose de votos ",
+            "url": "https://catalogodatos.gub.uy/dataset/e749ad5e-ef5a-4f56-9b16-96868cbfa460/resource/29eb4a8d-a629-482a-844b-61804b0de6e4/download/desglose-de-votos-.xml",
+            "formato": "XML",
+            "tamaño": 143519817,
+            "creado": "2020-01-29T19:19:24.146152"
+          },
+          {
+            "id": "97e45a0d-d1b5-4e51-854d-0c8944e55d1c",
+            "nombre": "Metadatos de Totales Generales por Comisión Receptora de Votos",
+            "url": "https://catalogodatos.gub.uy/dataset/e749ad5e-ef5a-4f56-9b16-96868cbfa460/resource/97e45a0d-d1b5-4e51-854d-0c8944e55d1c/download/metadatos_corte-electoral-elecciones_internas_2019.json",
+            "formato": "JSON",
+            "tamaño": 2676,
+            "creado": "2020-01-29T19:25:54.799405"
+          },
+          {
+            "id": "ec401b7f-bd99-43c7-aed8-e88fc3775923",
+            "nombre": "Totales Generales por Comisión Receptora de Votos",
+            "url": "https://catalogodatos.gub.uy/dataset/e749ad5e-ef5a-4f56-9b16-96868cbfa460/resource/ec401b7f-bd99-43c7-aed8-e88fc3775923/download/totales-generales-por-comisin-receptora-de-votos.csv",
+            "formato": "CSV",
+            "tamaño": 241456,
+            "creado": "2020-01-29T19:25:57.411464"
+          },
+          {
+            "id": "e6c60ae0-319b-4684-a22e-0640f8d4c42a",
+            "nombre": "Totales Generales por Comisión Receptora de Votos",
+            "url": "https://catalogodatos.gub.uy/dataset/e749ad5e-ef5a-4f56-9b16-96868cbfa460/resource/e6c60ae0-319b-4684-a22e-0640f8d4c42a/download/totales-generales-por-circuito.xlsx",
+            "formato": "XLS",
+            "tamaño": 327879,
+            "creado": "2020-01-29T19:25:59.893118"
+          },
+          {
+            "id": "19827e89-7aaf-44f4-90a8-1964b1a81fbb",
+            "nombre": "Totales Generales por Comisión Receptora de Votos",
+            "url": "https://catalogodatos.gub.uy/dataset/e749ad5e-ef5a-4f56-9b16-96868cbfa460/resource/19827e89-7aaf-44f4-90a8-1964b1a81fbb/download/totales-generales-por-comisin-receptora-de-votos.xml",
+            "formato": "XML",
+            "tamaño": 2521577,
+            "creado": "2020-01-29T19:26:01.931301"
+          },
+          {
+            "id": "2a8a2fe2-ff64-4ebc-8b57-ba3958742540",
+            "nombre": "Metadatos de Integración de las Hojas de Votación ",
+            "url": "https://catalogodatos.gub.uy/dataset/e749ad5e-ef5a-4f56-9b16-96868cbfa460/resource/2a8a2fe2-ff64-4ebc-8b57-ba3958742540/download/metadatos_corte-electoral-elecciones_internas_2019.json",
+            "formato": "JSON",
+            "tamaño": 3345,
+            "creado": "2020-01-29T19:31:07.555036"
+          },
+          {
+            "id": "edfdec16-cf84-4b34-a59f-31615228d3c6",
+            "nombre": "Integración de las Hojas de Votación ",
+            "url": "https://catalogodatos.gub.uy/dataset/e749ad5e-ef5a-4f56-9b16-96868cbfa460/resource/edfdec16-cf84-4b34-a59f-31615228d3c6/download/integracin-de-las-hojas-de-votacin-.csv",
+            "formato": "CSV",
+            "tamaño": 53543954,
+            "creado": "2020-01-29T19:31:14.729866"
+          },
+          {
+            "id": "ca84824a-1509-4a8b-a0ab-ab7287362e3f",
+            "nombre": "Integración de las Hojas de Votación ",
+            "url": "https://catalogodatos.gub.uy/dataset/e749ad5e-ef5a-4f56-9b16-96868cbfa460/resource/ca84824a-1509-4a8b-a0ab-ab7287362e3f/download/hojas_interna2019.xlsx",
+            "formato": "XLS",
+            "tamaño": 18331978,
+            "creado": "2020-01-29T19:31:17.945330"
+          },
+          {
+            "id": "e608f796-a0d3-492c-892b-6a6dbdf1c224",
+            "nombre": "Integración de las Hojas de Votación ",
+            "url": "https://catalogodatos.gub.uy/dataset/e749ad5e-ef5a-4f56-9b16-96868cbfa460/resource/e608f796-a0d3-492c-892b-6a6dbdf1c224/download/integracin-de-las-hojas-de-votacin-.xml",
+            "formato": "XML",
+            "tamaño": 149081192,
+            "creado": "2020-01-29T19:31:29.468258"
+          },
+          {
+            "id": "5f61f80a-cb3f-4c53-a331-d4811e81a149",
+            "nombre": "Plan Circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/e749ad5e-ef5a-4f56-9b16-96868cbfa460/resource/5f61f80a-cb3f-4c53-a331-d4811e81a149/download/plan-circuital.xlsx",
+            "formato": "XLSX",
+            "tamaño": 381818,
+            "creado": "2024-03-06T17:28:14.557950"
+          },
+          {
+            "id": "70f13f46-a8d9-4b4c-ac88-d37ef037314c",
+            "nombre": "Plan Circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/e749ad5e-ef5a-4f56-9b16-96868cbfa460/resource/70f13f46-a8d9-4b4c-ac88-d37ef037314c/download/plan-circuital.csv",
+            "formato": "CSV",
+            "tamaño": 682507,
+            "creado": "2024-03-06T17:28:21.114140"
+          },
+          {
+            "id": "cf4192c9-1acc-4210-b3b1-bafead609469",
+            "nombre": "Plan Circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/e749ad5e-ef5a-4f56-9b16-96868cbfa460/resource/cf4192c9-1acc-4210-b3b1-bafead609469/download/plan-circuital.xml",
+            "formato": "XML",
+            "tamaño": 2007839,
+            "creado": "2024-03-06T17:28:23.682341"
+          },
+          {
+            "id": "957b5bab-bb8d-42d5-a734-f7edf4b2468d",
+            "nombre": "Metadatos de plan circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/e749ad5e-ef5a-4f56-9b16-96868cbfa460/resource/957b5bab-bb8d-42d5-a734-f7edf4b2468d/download/metadatos_plan-circuital.json",
+            "formato": "JSON",
+            "tamaño": 2093,
+            "creado": "2024-03-06T17:28:24.849630"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:24.197Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/corte-electoral-elecciones_internas_2019",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "8c8948fc0ef682e8aa6d849a159e004f18f34c600f89496bb69727185be83b0e"
+        }
+      },
+      {
+        "id": "1d025bf7-5b0d-42c5-8a9a-0696e24f7634",
+        "nombre": "Elecciones Nacionales 2014",
+        "slug": "corte-electoral-elecciones_nacionales_2014",
+        "organismo": {
+          "id": "corte-electoral",
+          "nombre": "Corte Electoral",
+          "tipo": "organization"
+        },
+        "descripcion": "EL siguiente conjunto cuenta contoda la información sobre de las Elecciones Nacionales del año 2014. Se detalla; el plan circuital, los totales generales por comisión receptora y el desgloce de votos.",
+        "etiquetas": [
+          "Elecciones",
+          "Elecciones nacionales",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Estadísticas",
+          "Transparencia"
+        ],
+        "creado": "2024-03-06T17:38:54.420132",
+        "modificado": "2024-06-04T14:50:27.466255",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "1e851dea-cd81-4ca5-82d2-55fa8920fc1f",
+            "nombre": "Totales generales por Comisión Receptora de Votos",
+            "url": "https://catalogodatos.gub.uy/dataset/1d025bf7-5b0d-42c5-8a9a-0696e24f7634/resource/1e851dea-cd81-4ca5-82d2-55fa8920fc1f/download/totales-generales-por-comision-receptora-de-votos.csv",
+            "formato": "CSV",
+            "tamaño": 218830,
+            "creado": "2024-03-06T17:39:07.210245"
+          },
+          {
+            "id": "918ed3ae-73ef-464e-a7bf-9b659b58fe08",
+            "nombre": "Totales generales por Comisión Receptora de Votos",
+            "url": "https://catalogodatos.gub.uy/dataset/1d025bf7-5b0d-42c5-8a9a-0696e24f7634/resource/918ed3ae-73ef-464e-a7bf-9b659b58fe08/download/totales-generales-por-comision-receptora-de-votos.xlsx",
+            "formato": "XLSX",
+            "tamaño": 346027,
+            "creado": "2024-03-06T17:39:05.788147"
+          },
+          {
+            "id": "3d736bef-6139-4259-a44d-3eefdb3dd719",
+            "nombre": "Totales generales por Comisión Receptora de Votos",
+            "url": "https://catalogodatos.gub.uy/dataset/1d025bf7-5b0d-42c5-8a9a-0696e24f7634/resource/3d736bef-6139-4259-a44d-3eefdb3dd719/download/totales-generales-por-comision-receptora-de-votos.xml",
+            "formato": "XML",
+            "tamaño": 2519840,
+            "creado": "2024-03-06T17:39:09.316329"
+          },
+          {
+            "id": "246ba4c7-09b6-4a0b-8257-4cb821c9f22e",
+            "nombre": "Metadatos de totales generales por comisión receptora de votos",
+            "url": "https://catalogodatos.gub.uy/dataset/1d025bf7-5b0d-42c5-8a9a-0696e24f7634/resource/246ba4c7-09b6-4a0b-8257-4cb821c9f22e/download/metadatos_totales-generales-por-comision-receptora-de-votos.json",
+            "formato": "JSON",
+            "tamaño": 3168,
+            "creado": "2024-03-06T17:39:10.589724"
+          },
+          {
+            "id": "10303650-c3d0-49d9-b212-a5a10b2a70bc",
+            "nombre": "Plan circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/1d025bf7-5b0d-42c5-8a9a-0696e24f7634/resource/10303650-c3d0-49d9-b212-a5a10b2a70bc/download/plan-circuital.csv",
+            "formato": "CSV",
+            "tamaño": 685183,
+            "creado": "2024-03-07T13:23:48.683090"
+          },
+          {
+            "id": "766fb082-4d93-4fe6-8927-558ae15a17b4",
+            "nombre": "Plan circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/1d025bf7-5b0d-42c5-8a9a-0696e24f7634/resource/766fb082-4d93-4fe6-8927-558ae15a17b4/download/plan-circuital.xlsx",
+            "formato": "XLSX",
+            "tamaño": 378929,
+            "creado": "2024-03-07T13:23:47.017760"
+          },
+          {
+            "id": "a9cf1ada-bb60-4901-9bc1-1b71be2bae58",
+            "nombre": "Plan circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/1d025bf7-5b0d-42c5-8a9a-0696e24f7634/resource/a9cf1ada-bb60-4901-9bc1-1b71be2bae58/download/plan-circuital.xml",
+            "formato": "XML",
+            "tamaño": 2016190,
+            "creado": "2024-03-07T13:23:51.190423"
+          },
+          {
+            "id": "fbc62b47-45b0-4672-a9e3-371d069c082b",
+            "nombre": "Metadatos de plan circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/1d025bf7-5b0d-42c5-8a9a-0696e24f7634/resource/fbc62b47-45b0-4672-a9e3-371d069c082b/download/metadatos_plan-circuital.json",
+            "formato": "JSON",
+            "tamaño": 2093,
+            "creado": "2024-03-07T13:23:51.911715"
+          },
+          {
+            "id": "91bc8eeb-227a-47a3-96e9-c2fe4e4a3e1c",
+            "nombre": "Desglose de votos",
+            "url": "https://catalogodatos.gub.uy/dataset/1d025bf7-5b0d-42c5-8a9a-0696e24f7634/resource/91bc8eeb-227a-47a3-96e9-c2fe4e4a3e1c/download/desglose-de-votos.csv",
+            "formato": "CSV",
+            "tamaño": 8227809,
+            "creado": "2024-03-07T13:47:48.213659"
+          },
+          {
+            "id": "5f40c7e2-449f-4146-95fa-d2dea509d107",
+            "nombre": "Desglose de votos",
+            "url": "https://catalogodatos.gub.uy/dataset/1d025bf7-5b0d-42c5-8a9a-0696e24f7634/resource/5f40c7e2-449f-4146-95fa-d2dea509d107/download/desglose-de-votos.xlsx",
+            "formato": "XLSX",
+            "tamaño": 6159306,
+            "creado": "2024-03-07T13:47:43.870950"
+          },
+          {
+            "id": "f7eebf0b-88bd-4d3b-9ddb-dda685ff4e3e",
+            "nombre": "Desglose de votos",
+            "url": "https://catalogodatos.gub.uy/dataset/1d025bf7-5b0d-42c5-8a9a-0696e24f7634/resource/f7eebf0b-88bd-4d3b-9ddb-dda685ff4e3e/download/desglose-de-votos.xml",
+            "formato": "XML",
+            "tamaño": 39637674,
+            "creado": "2024-03-07T13:47:56.776826"
+          },
+          {
+            "id": "fea056a7-eee4-4dde-9e72-3beb35cc03d8",
+            "nombre": "Metadatos de desglose de votos",
+            "url": "https://catalogodatos.gub.uy/dataset/1d025bf7-5b0d-42c5-8a9a-0696e24f7634/resource/fea056a7-eee4-4dde-9e72-3beb35cc03d8/download/metadatos_desglose-de-votos.json",
+            "formato": "JSON",
+            "tamaño": 2380,
+            "creado": "2024-03-07T13:47:57.788290"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:24.197Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/corte-electoral-elecciones_nacionales_2014",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "277da91e73e260a8058abfb83247451a73e8c224f43fbbecd8962a25a242fee9"
+        }
+      },
+      {
+        "id": "6455b729-be2e-47d7-9205-b9355a593252",
+        "nombre": "Balotaje 2014",
+        "slug": "corte-electoral-balotaje_2014",
+        "organismo": {
+          "id": "corte-electoral",
+          "nombre": "Corte Electoral",
+          "tipo": "organization"
+        },
+        "descripcion": "Datos ordenados por Comisión Receptora de Votos del Balotaje 2014",
+        "etiquetas": [
+          "Balotaje",
+          "Elecciones",
+          "Elecciones nacionales"
+        ],
+        "grupos": [
+          "Estadísticas",
+          "Transparencia"
+        ],
+        "creado": "2024-03-07T13:52:53.605149",
+        "modificado": "2024-03-07T20:06:34.831269",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "26a88f8b-e3a8-4384-b729-5706cdfeef22",
+            "nombre": "Balotaje 2014",
+            "url": "https://catalogodatos.gub.uy/dataset/6455b729-be2e-47d7-9205-b9355a593252/resource/26a88f8b-e3a8-4384-b729-5706cdfeef22/download/balotaje-2014.xlsx",
+            "formato": "XLSX",
+            "tamaño": 398733,
+            "creado": "2024-03-07T13:52:59.636844"
+          },
+          {
+            "id": "5a0b3b75-890b-401e-a44a-08546a043576",
+            "nombre": "Balotaje 2014",
+            "url": "https://catalogodatos.gub.uy/dataset/6455b729-be2e-47d7-9205-b9355a593252/resource/5a0b3b75-890b-401e-a44a-08546a043576/download/balotaje-2014.csv",
+            "formato": "CSV",
+            "tamaño": 263721,
+            "creado": "2024-03-07T13:53:01.237132"
+          },
+          {
+            "id": "62661b6c-0b5d-48d8-a484-fa76a40ba752",
+            "nombre": "Balotaje 2014",
+            "url": "https://catalogodatos.gub.uy/dataset/6455b729-be2e-47d7-9205-b9355a593252/resource/62661b6c-0b5d-48d8-a484-fa76a40ba752/download/balotaje-2014.xml",
+            "formato": "XML",
+            "tamaño": 3273707,
+            "creado": "2024-03-07T13:53:04.087481"
+          },
+          {
+            "id": "e7d21888-88db-4f94-bcd9-ea96b86e6969",
+            "nombre": "Metadatos de balotaje 2014",
+            "url": "https://catalogodatos.gub.uy/dataset/6455b729-be2e-47d7-9205-b9355a593252/resource/e7d21888-88db-4f94-bcd9-ea96b86e6969/download/metadatos_balotaje-2014.json",
+            "formato": "JSON",
+            "tamaño": 3334,
+            "creado": "2024-03-07T13:53:05.052752"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:24.197Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/corte-electoral-balotaje_2014",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "566fd62e0d47a1e65b3797d16ba35b74ed89e009cf2f31e35a324fc4f86b6669"
+        }
+      },
+      {
+        "id": "8a20dcc5-77c7-499d-9932-5d0ebea4df37",
+        "nombre": "Balotaje 2019",
+        "slug": "corte-electoral-balotaje_2019",
+        "organismo": {
+          "id": "corte-electoral",
+          "nombre": "Corte Electoral",
+          "tipo": "organization"
+        },
+        "descripcion": "Contiene la información general de la Comisión Receptora de Votos, cantidad de habilitados, series comprendidas, cantidades de votos emitidos, cantidad de votos no observados, cantidad de votos observados, cantidad de anulados, cantidad de votos en blanco y cantidad de votos que recibió cada fórmula.",
+        "etiquetas": [
+          "Balotaje 2019",
+          "Elecciones",
+          "Elecciones nacionales",
+          "Segunda vuelta 2019"
+        ],
+        "grupos": [
+          "Estadísticas",
+          "Transparencia"
+        ],
+        "creado": "2020-07-16T19:25:04.307326",
+        "modificado": "2024-03-07T20:05:25.068156",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "a64ac0c7-c162-4bea-909e-79f334d44d2d",
+            "nombre": "Metadatos de Balotaje 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/8a20dcc5-77c7-499d-9932-5d0ebea4df37/resource/a64ac0c7-c162-4bea-909e-79f334d44d2d/download/metadatos_corte-electoral-balotaje_2019.json",
+            "formato": "JSON",
+            "tamaño": 3348,
+            "creado": "2020-07-16T19:25:05.626920"
+          },
+          {
+            "id": "a71df2ea-b075-40e7-80b5-1df4c781bb99",
+            "nombre": "Balotaje 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/8a20dcc5-77c7-499d-9932-5d0ebea4df37/resource/a71df2ea-b075-40e7-80b5-1df4c781bb99/download/balotaje-2019.csv",
+            "formato": "CSV",
+            "tamaño": 303938,
+            "creado": "2020-07-16T19:25:07.664582"
+          },
+          {
+            "id": "15af18e6-c10a-497d-8a12-d68624dfae57",
+            "nombre": "Balotaje 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/8a20dcc5-77c7-499d-9932-5d0ebea4df37/resource/15af18e6-c10a-497d-8a12-d68624dfae57/download/modelo-ta_00-balotaje-2019.xlsx",
+            "formato": "XLS",
+            "tamaño": 407733,
+            "creado": "2020-07-16T19:25:09.257011"
+          },
+          {
+            "id": "2b6e4db9-4885-46fa-a482-a8484b6619bc",
+            "nombre": "Balotaje 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/8a20dcc5-77c7-499d-9932-5d0ebea4df37/resource/2b6e4db9-4885-46fa-a482-a8484b6619bc/download/balotaje-2019.xml",
+            "formato": "XML",
+            "tamaño": 3328979,
+            "creado": "2020-07-16T19:25:11.011646"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:24.197Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/corte-electoral-balotaje_2019",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "9d1b37840ea0a248dac3eb2a68ee5a9ce61966353ae7be2da7432ee6ab80bd2a"
+        }
+      },
+      {
+        "id": "7c3caf30-b59e-43de-b928-547030cc682b",
+        "nombre": "Elecciones Nacionales 2019",
+        "slug": "corte-electoral-elecciones-nacionales-2019",
+        "organismo": {
+          "id": "corte-electoral",
+          "nombre": "Corte Electoral",
+          "tipo": "organization"
+        },
+        "descripcion": "Resultados de elecciones",
+        "etiquetas": [
+          "Elecciones",
+          "Elección Nacional 2019"
+        ],
+        "grupos": [
+          "Estadísticas",
+          "Transparencia"
+        ],
+        "creado": "2020-03-02T14:25:44.639953",
+        "modificado": "2024-03-07T13:45:40.893058",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "072f213e-ce52-42c7-a9cd-8c12d75f0c0d",
+            "nombre": "Metadatos - Integración de hojas de votación Nacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/7c3caf30-b59e-43de-b928-547030cc682b/resource/072f213e-ce52-42c7-a9cd-8c12d75f0c0d/download/metadatos_corte-electoral-elecciones-nacionales-2019.json",
+            "formato": "JSON",
+            "tamaño": 3152,
+            "creado": "2020-03-02T14:30:27.799877"
+          },
+          {
+            "id": "8cca61dc-7f7e-4694-a690-97ad5fbe91df",
+            "nombre": "Integración de hojas de votación Nacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/7c3caf30-b59e-43de-b928-547030cc682b/resource/8cca61dc-7f7e-4694-a690-97ad5fbe91df/download/integracin-de-hojas-de-votacin-nacionales.csv",
+            "formato": "CSV",
+            "tamaño": 18395751,
+            "creado": "2020-03-02T14:30:30.015601"
+          },
+          {
+            "id": "8e78e837-bdb7-4177-9142-1fefbb9098bd",
+            "nombre": "Integración de hojas de votación Nacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/7c3caf30-b59e-43de-b928-547030cc682b/resource/8e78e837-bdb7-4177-9142-1fefbb9098bd/download/integracion-de-hojas.xlsx",
+            "formato": "XLS",
+            "tamaño": 6075549,
+            "creado": "2020-03-02T14:30:31.410834"
+          },
+          {
+            "id": "6b56316c-643c-44b7-9271-59daeb8b2b71",
+            "nombre": "Integración de hojas de votación Nacionales",
+            "url": "https://catalogodatos.gub.uy/dataset/7c3caf30-b59e-43de-b928-547030cc682b/resource/6b56316c-643c-44b7-9271-59daeb8b2b71/download/integracin-de-hojas-de-votacin-nacionales.xml",
+            "formato": "XML",
+            "tamaño": 52092023,
+            "creado": "2020-03-02T14:30:34.201591"
+          },
+          {
+            "id": "a48be614-8e13-4aba-8516-740bfe89cdf6",
+            "nombre": "Totales generales por Comisión Receptora de Votos",
+            "url": "https://catalogodatos.gub.uy/dataset/7c3caf30-b59e-43de-b928-547030cc682b/resource/a48be614-8e13-4aba-8516-740bfe89cdf6/download/totales-generales-por-comision-receptora-de-votos.xlsx",
+            "formato": "XLSX",
+            "tamaño": 349965,
+            "creado": "2024-03-06T17:11:18.630757"
+          },
+          {
+            "id": "4e6c2564-a178-4802-b7ed-59be68485146",
+            "nombre": "Totales generales por Comisión Receptora de Votos",
+            "url": "https://catalogodatos.gub.uy/dataset/7c3caf30-b59e-43de-b928-547030cc682b/resource/4e6c2564-a178-4802-b7ed-59be68485146/download/totales-generales-por-comision-receptora-de-votos.csv",
+            "formato": "CSV",
+            "tamaño": 225631,
+            "creado": "2024-03-06T17:11:19.634853"
+          },
+          {
+            "id": "b6d30dd9-629c-4692-8173-f8b6e98077eb",
+            "nombre": "Totales generales por Comisión Receptora de Votos",
+            "url": "https://catalogodatos.gub.uy/dataset/7c3caf30-b59e-43de-b928-547030cc682b/resource/b6d30dd9-629c-4692-8173-f8b6e98077eb/download/totales-generales-por-comision-receptora-de-votos.xml",
+            "formato": "XML",
+            "tamaño": 2589425,
+            "creado": "2024-03-06T17:11:21.424402"
+          },
+          {
+            "id": "2ab92fda-9643-42e4-90f2-ece438599f8f",
+            "nombre": "Metadatos de totales generales por comisión receptora de votos",
+            "url": "https://catalogodatos.gub.uy/dataset/7c3caf30-b59e-43de-b928-547030cc682b/resource/2ab92fda-9643-42e4-90f2-ece438599f8f/download/metadatos_totales-generales-por-comision-receptora-de-votos.json",
+            "formato": "JSON",
+            "tamaño": 3168,
+            "creado": "2024-03-06T17:11:22.769770"
+          },
+          {
+            "id": "b9f5e5f7-4209-405b-85bf-30647be02dbd",
+            "nombre": "Plan Circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/7c3caf30-b59e-43de-b928-547030cc682b/resource/b9f5e5f7-4209-405b-85bf-30647be02dbd/download/plan-circuital.xlsx",
+            "formato": "XLSX",
+            "tamaño": 378929,
+            "creado": "2024-03-06T17:20:45.233082"
+          },
+          {
+            "id": "d97706f7-36df-4f79-8eea-a096a47b1bf1",
+            "nombre": "Plan Circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/7c3caf30-b59e-43de-b928-547030cc682b/resource/d97706f7-36df-4f79-8eea-a096a47b1bf1/download/plan-circuital.csv",
+            "formato": "CSV",
+            "tamaño": 685183,
+            "creado": "2024-03-06T17:20:46.881966"
+          },
+          {
+            "id": "b1661a9e-b651-4de2-b0cf-5272704f5115",
+            "nombre": "Plan Circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/7c3caf30-b59e-43de-b928-547030cc682b/resource/b1661a9e-b651-4de2-b0cf-5272704f5115/download/plan-circuital.xml",
+            "formato": "XML",
+            "tamaño": 2016190,
+            "creado": "2024-03-06T17:20:50.458303"
+          },
+          {
+            "id": "4c99cdf9-f5c2-4266-b964-d835a027b363",
+            "nombre": "Metadatos de plan circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/7c3caf30-b59e-43de-b928-547030cc682b/resource/4c99cdf9-f5c2-4266-b964-d835a027b363/download/metadatos_plan-circuital.json",
+            "formato": "JSON",
+            "tamaño": 2093,
+            "creado": "2024-03-06T17:20:51.496967"
+          },
+          {
+            "id": "599f2d43-37a4-4a10-ae47-f99e48747550",
+            "nombre": "Desglose de votos",
+            "url": "https://catalogodatos.gub.uy/dataset/7c3caf30-b59e-43de-b928-547030cc682b/resource/599f2d43-37a4-4a10-ae47-f99e48747550/download/desglose-de-votos.xlsx",
+            "formato": "XLSX",
+            "tamaño": 9459857,
+            "creado": "2024-03-07T13:45:21.385654"
+          },
+          {
+            "id": "fae2be5e-44db-4763-8b32-9c18679d3aad",
+            "nombre": "Desglose de votos",
+            "url": "https://catalogodatos.gub.uy/dataset/7c3caf30-b59e-43de-b928-547030cc682b/resource/fae2be5e-44db-4763-8b32-9c18679d3aad/download/desglose-de-votos.csv",
+            "formato": "CSV",
+            "tamaño": 14660030,
+            "creado": "2024-03-07T13:45:26.154170"
+          },
+          {
+            "id": "4d61073f-2b7a-4672-af8a-e0e977a3a72e",
+            "nombre": "Desglose de votos",
+            "url": "https://catalogodatos.gub.uy/dataset/7c3caf30-b59e-43de-b928-547030cc682b/resource/4d61073f-2b7a-4672-af8a-e0e977a3a72e/download/desglose-de-votos.xml",
+            "formato": "XML",
+            "tamaño": 66369765,
+            "creado": "2024-03-07T13:45:39.804921"
+          },
+          {
+            "id": "8676c2c3-68da-4da2-bac9-32208121ff2f",
+            "nombre": "Metadatos de desglose de votos",
+            "url": "https://catalogodatos.gub.uy/dataset/7c3caf30-b59e-43de-b928-547030cc682b/resource/8676c2c3-68da-4da2-bac9-32208121ff2f/download/metadatos_desglose-de-votos.json",
+            "formato": "JSON",
+            "tamaño": 2380,
+            "creado": "2024-03-07T13:45:40.944565"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:24.197Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/corte-electoral-elecciones-nacionales-2019",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "50c43f862c6c71cc18d9e6ce278351ca5fb4d49c16f0e46dcc16edeecb859f6e"
+        }
+      },
+      {
+        "id": "e2ae6343-352d-4468-8343-12b7d8837056",
+        "nombre": "Elecciones Departamentales y Municipales 2020",
+        "slug": "corte-electoral-eleccionesdepartamentales2020",
+        "organismo": {
+          "id": "corte-electoral",
+          "nombre": "Corte Electoral",
+          "tipo": "organization"
+        },
+        "descripcion": "Este conjunto de datos cuenta con los resultados de Elecciones Departamentales y Municipales 2020 y los integrantes de las hojas de votación.",
+        "etiquetas": [
+          "Elecciones",
+          "Elecciones departamentales 2020",
+          "Elecciones municipales 2020",
+          "Transparencia"
+        ],
+        "grupos": [
+          "Estadísticas",
+          "Transparencia"
+        ],
+        "creado": "2020-12-10T16:24:27.710219",
+        "modificado": "2024-03-06T19:25:36.314246",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "68f00f05-f23a-49d8-95d4-b913e4ea4bc4",
+            "nombre": "Metadatos de totales generales por Comisión Receptora de Votos",
+            "url": "https://catalogodatos.gub.uy/dataset/e2ae6343-352d-4468-8343-12b7d8837056/resource/68f00f05-f23a-49d8-95d4-b913e4ea4bc4/download/metadatos_corte-electoral-eleccionesdepartamentales2020.json",
+            "formato": "JSON",
+            "tamaño": 2835,
+            "creado": "2020-12-10T16:24:29.579330"
+          },
+          {
+            "id": "b195ebdb-23fa-40e1-8380-aa020d10011b",
+            "nombre": "Totales generales por Comisión Receptora de Votos",
+            "url": "https://catalogodatos.gub.uy/dataset/e2ae6343-352d-4468-8343-12b7d8837056/resource/b195ebdb-23fa-40e1-8380-aa020d10011b/download/totales-generales-por-comisin-receptora-de-votos.csv",
+            "formato": "CSV",
+            "tamaño": 254576,
+            "creado": "2020-12-10T16:24:34.444284"
+          },
+          {
+            "id": "c6a7e7ee-a09d-42cb-a809-268fc490c88f",
+            "nombre": "Totales generales por Comisión Receptora de Votos",
+            "url": "https://catalogodatos.gub.uy/dataset/e2ae6343-352d-4468-8343-12b7d8837056/resource/c6a7e7ee-a09d-42cb-a809-268fc490c88f/download/totales_generales_por_crv.xlsx",
+            "formato": "XLS",
+            "tamaño": 344325,
+            "creado": "2020-12-10T16:24:38.632342"
+          },
+          {
+            "id": "4936e0cd-a6ea-447c-8536-ad05eb38dc0f",
+            "nombre": "Totales generales por Comisión Receptora de Votos",
+            "url": "https://catalogodatos.gub.uy/dataset/e2ae6343-352d-4468-8343-12b7d8837056/resource/4936e0cd-a6ea-447c-8536-ad05eb38dc0f/download/totales-generales-por-comisin-receptora-de-votos.xml",
+            "formato": "XML",
+            "tamaño": 2781942,
+            "creado": "2020-12-10T16:24:41.394706"
+          },
+          {
+            "id": "5f0517b2-0704-4e03-8768-3e387cbc8d11",
+            "nombre": "Metadatos de desglose de votos Elección Departamental",
+            "url": "https://catalogodatos.gub.uy/dataset/e2ae6343-352d-4468-8343-12b7d8837056/resource/5f0517b2-0704-4e03-8768-3e387cbc8d11/download/metadatos_corte-electoral-eleccionesdepartamentales2020.json",
+            "formato": "JSON",
+            "tamaño": 2702,
+            "creado": "2020-12-10T16:32:15.554448"
+          },
+          {
+            "id": "39ecc252-cd4f-49a6-9617-0863023a65cb",
+            "nombre": "Desglose de votos Elección Departamental",
+            "url": "https://catalogodatos.gub.uy/dataset/e2ae6343-352d-4468-8343-12b7d8837056/resource/39ecc252-cd4f-49a6-9617-0863023a65cb/download/desglose-de-votos-eleccin-departamental.csv",
+            "formato": "CSV",
+            "tamaño": 19369554,
+            "creado": "2020-12-10T16:32:21.156667"
+          },
+          {
+            "id": "f9474f7d-c11e-496e-bdb5-da1f549a7c01",
+            "nombre": "Desglose de votos Elección Departamental",
+            "url": "https://catalogodatos.gub.uy/dataset/e2ae6343-352d-4468-8343-12b7d8837056/resource/f9474f7d-c11e-496e-bdb5-da1f549a7c01/download/desglose_eleccion_departamental.xlsx",
+            "formato": "XLS",
+            "tamaño": 11086119,
+            "creado": "2020-12-10T16:32:24.946773"
+          },
+          {
+            "id": "c12ee845-5b31-4fd8-baa5-bc68e035ee1b",
+            "nombre": "Desglose de votos Elección Departamental",
+            "url": "https://catalogodatos.gub.uy/dataset/e2ae6343-352d-4468-8343-12b7d8837056/resource/c12ee845-5b31-4fd8-baa5-bc68e035ee1b/download/desglose-de-votos-eleccin-departamental.xml",
+            "formato": "XML",
+            "tamaño": 83928855,
+            "creado": "2020-12-10T16:32:34.693682"
+          },
+          {
+            "id": "df702bfa-2c7d-45c2-a8c8-a6919009c739",
+            "nombre": "Metadatos de Integración de las hojas de votación",
+            "url": "https://catalogodatos.gub.uy/dataset/e2ae6343-352d-4468-8343-12b7d8837056/resource/df702bfa-2c7d-45c2-a8c8-a6919009c739/download/metadatos_corte-electoral-eleccionesdepartamentales2020.json",
+            "formato": "JSON",
+            "tamaño": 3193,
+            "creado": "2020-12-10T16:36:08.329281"
+          },
+          {
+            "id": "cd83f0bf-f0b1-4c4f-a827-f8a35134fa35",
+            "nombre": "Integración de las hojas de votación",
+            "url": "https://catalogodatos.gub.uy/dataset/e2ae6343-352d-4468-8343-12b7d8837056/resource/cd83f0bf-f0b1-4c4f-a827-f8a35134fa35/download/integracin-de-las-horas-de-votacin.csv",
+            "formato": "CSV",
+            "tamaño": 22458253,
+            "creado": "2020-12-10T16:36:13.140619"
+          },
+          {
+            "id": "21f465d8-d337-45be-97d2-746a5017eb9b",
+            "nombre": "Integración de las hojas de votación",
+            "url": "https://catalogodatos.gub.uy/dataset/e2ae6343-352d-4468-8343-12b7d8837056/resource/21f465d8-d337-45be-97d2-746a5017eb9b/download/integracion_de_hojas.xlsx",
+            "formato": "XLS",
+            "tamaño": 7833451,
+            "creado": "2020-12-10T16:36:28.137879"
+          },
+          {
+            "id": "66e463bf-670f-4689-a886-900a5839c837",
+            "nombre": "Integración de las hojas de votación",
+            "url": "https://catalogodatos.gub.uy/dataset/e2ae6343-352d-4468-8343-12b7d8837056/resource/66e463bf-670f-4689-a886-900a5839c837/download/integracin-de-las-horas-de-votacin.xml",
+            "formato": "XML",
+            "tamaño": 63569263,
+            "creado": "2020-12-10T16:36:59.147601"
+          },
+          {
+            "id": "9f9a794c-4a77-4c60-9af1-68a35f4f4c14",
+            "nombre": "Metadatos de desglose de votos Elección Municipal",
+            "url": "https://catalogodatos.gub.uy/dataset/e2ae6343-352d-4468-8343-12b7d8837056/resource/9f9a794c-4a77-4c60-9af1-68a35f4f4c14/download/metadatos_corte-electoral-eleccionesdepartamentales2020.json",
+            "formato": "JSON",
+            "tamaño": 2711,
+            "creado": "2020-12-10T16:39:33.684596"
+          },
+          {
+            "id": "c61c004d-265a-4c1c-8106-c4ea12f1efa8",
+            "nombre": "Desglose de votos Elección Municipal",
+            "url": "https://catalogodatos.gub.uy/dataset/e2ae6343-352d-4468-8343-12b7d8837056/resource/c61c004d-265a-4c1c-8106-c4ea12f1efa8/download/desglose-de-votos-eleccin-municipal.csv",
+            "formato": "CSV",
+            "tamaño": 5242960,
+            "creado": "2020-12-10T16:39:36.799761"
+          },
+          {
+            "id": "a28dcac5-cfbc-416e-972a-bf8abb634922",
+            "nombre": "Desglose de votos Elección Municipal",
+            "url": "https://catalogodatos.gub.uy/dataset/e2ae6343-352d-4468-8343-12b7d8837056/resource/a28dcac5-cfbc-416e-972a-bf8abb634922/download/desglose_eleccion_municipal.xlsx",
+            "formato": "XLS",
+            "tamaño": 2555540,
+            "creado": "2020-12-10T16:39:40.134686"
+          },
+          {
+            "id": "9a781c97-7566-4fa1-810f-dbbe9ab35468",
+            "nombre": "Desglose de votos Elección Municipal",
+            "url": "https://catalogodatos.gub.uy/dataset/e2ae6343-352d-4468-8343-12b7d8837056/resource/9a781c97-7566-4fa1-810f-dbbe9ab35468/download/desglose-de-votos-eleccin-municipal.xml",
+            "formato": "XML",
+            "tamaño": 19439668,
+            "creado": "2020-12-10T16:39:44.410568"
+          },
+          {
+            "id": "c71193c1-e3d0-4f0e-901a-c508efe70c5e",
+            "nombre": "Plan Circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/e2ae6343-352d-4468-8343-12b7d8837056/resource/c71193c1-e3d0-4f0e-901a-c508efe70c5e/download/plan-circuital.xlsx",
+            "formato": "XLSX",
+            "tamaño": 403497,
+            "creado": "2024-03-06T17:00:15.059636"
+          },
+          {
+            "id": "0f3722d6-759c-4abf-9fc1-585aec58f322",
+            "nombre": "Plan Circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/e2ae6343-352d-4468-8343-12b7d8837056/resource/0f3722d6-759c-4abf-9fc1-585aec58f322/download/plan-circuital.csv",
+            "formato": "CSV",
+            "tamaño": 794556,
+            "creado": "2024-03-06T17:00:19.898037"
+          },
+          {
+            "id": "4eb60c5c-f4f4-42c8-8f99-901f62ca2ebb",
+            "nombre": "Plan Circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/e2ae6343-352d-4468-8343-12b7d8837056/resource/4eb60c5c-f4f4-42c8-8f99-901f62ca2ebb/download/plan-circuital.xml",
+            "formato": "XML",
+            "tamaño": 2293687,
+            "creado": "2024-03-06T17:00:22.683849"
+          },
+          {
+            "id": "e12b6aad-790d-42de-8f92-2264bbd82482",
+            "nombre": "Metadatos de plan circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/e2ae6343-352d-4468-8343-12b7d8837056/resource/e12b6aad-790d-42de-8f92-2264bbd82482/download/metadatos_plan-circuital.json",
+            "formato": "JSON",
+            "tamaño": 2335,
+            "creado": "2024-03-06T17:00:23.968921"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:24.197Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/corte-electoral-eleccionesdepartamentales2020",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "58ec7464d021b754cafe55cb7c9ec768d65371f02d5b48db9e3a1e90b167c9e9"
+        }
+      },
+      {
+        "id": "55b88af7-9364-4735-aad9-b5db5f49d828",
+        "nombre": "Referéndum contra 135 artículos de la Ley 19.889",
+        "slug": "corte-electoral-referendum2022",
+        "organismo": {
+          "id": "corte-electoral",
+          "nombre": "Corte Electoral",
+          "tipo": "organization"
+        },
+        "descripcion": "Contiene la información general de la Comisión Receptora de Votos, cantidad de habilitados, series comprendidas, cantidades de votos emitidos, cantidad de votos no observados, cantidad de votos observados, cantidad de anulados, cantidad de votos en blanco y cantidad de votos que recibió cada hoja.",
+        "etiquetas": [
+          "Elecciones",
+          "LUC",
+          "Ley 19.889",
+          "Referéndum 2022"
+        ],
+        "grupos": [
+          "Estadísticas",
+          "Transparencia"
+        ],
+        "creado": "2022-04-25T16:15:02.239513",
+        "modificado": "2024-03-06T16:45:29.272967",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "0e15bff1-67ae-48af-9e03-4880395ac59e",
+            "nombre": "Referéndum contra 135 artículos de la Ley 19.889",
+            "url": "https://catalogodatos.gub.uy/dataset/55b88af7-9364-4735-aad9-b5db5f49d828/resource/0e15bff1-67ae-48af-9e03-4880395ac59e/download/referndum-contra-135-artculos-de-la-ley-19.889.csv",
+            "formato": "CSV",
+            "tamaño": 303004,
+            "creado": "2022-04-25T16:15:05.379479"
+          },
+          {
+            "id": "60a58a19-cfd3-4513-bc56-7d93d933ec33",
+            "nombre": "Referéndum contra 135 artículos de la Ley 19.889",
+            "url": "https://catalogodatos.gub.uy/dataset/55b88af7-9364-4735-aad9-b5db5f49d828/resource/60a58a19-cfd3-4513-bc56-7d93d933ec33/download/resultadosreferendumporcircuito.xlsx",
+            "formato": "XLS",
+            "tamaño": 419807,
+            "creado": "2022-04-25T16:15:07.423864"
+          },
+          {
+            "id": "360f5e5d-a523-41f2-8953-9af9d6148e4a",
+            "nombre": "Referéndum contra 135 artículos de la Ley 19.889",
+            "url": "https://catalogodatos.gub.uy/dataset/55b88af7-9364-4735-aad9-b5db5f49d828/resource/360f5e5d-a523-41f2-8953-9af9d6148e4a/download/referndum-contra-135-artculos-de-la-ley-19.889.xml",
+            "formato": "XML",
+            "tamaño": 2887655,
+            "creado": "2022-04-25T16:15:09.203957"
+          },
+          {
+            "id": "54a5bfde-920a-4f7a-8e08-d86560adc7aa",
+            "nombre": "Metadatos del Referéndum",
+            "url": "https://catalogodatos.gub.uy/dataset/55b88af7-9364-4735-aad9-b5db5f49d828/resource/54a5bfde-920a-4f7a-8e08-d86560adc7aa/download/metadatos_corte-electoral-referendum2022.json",
+            "formato": "JSON",
+            "tamaño": 3175,
+            "creado": "2022-04-25T16:15:03.777861"
+          },
+          {
+            "id": "38b26dbb-a914-4d8c-91c9-f06955d359f2",
+            "nombre": "Plan circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/55b88af7-9364-4735-aad9-b5db5f49d828/resource/38b26dbb-a914-4d8c-91c9-f06955d359f2/download/plan-circuital.xlsx",
+            "formato": "XLSX",
+            "tamaño": 376842,
+            "creado": "2024-02-09T13:55:54.919320"
+          },
+          {
+            "id": "50f840c7-c146-4079-bf8c-61b3caaf8ec4",
+            "nombre": "Plan circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/55b88af7-9364-4735-aad9-b5db5f49d828/resource/50f840c7-c146-4079-bf8c-61b3caaf8ec4/download/plan-circuital.csv",
+            "formato": "CSV",
+            "tamaño": 681587,
+            "creado": "2024-02-09T13:55:56.958232"
+          },
+          {
+            "id": "446849ad-da3a-4fe7-9276-b397e28cb865",
+            "nombre": "Plan circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/55b88af7-9364-4735-aad9-b5db5f49d828/resource/446849ad-da3a-4fe7-9276-b397e28cb865/download/plan-circuital.xml",
+            "formato": "XML",
+            "tamaño": 2017006,
+            "creado": "2024-02-09T13:55:59.670298"
+          },
+          {
+            "id": "d94e8729-d195-43ef-9030-1540b7fc57c2",
+            "nombre": "Metadatos de plan circuital",
+            "url": "https://catalogodatos.gub.uy/dataset/55b88af7-9364-4735-aad9-b5db5f49d828/resource/d94e8729-d195-43ef-9030-1540b7fc57c2/download/metadatos_plan-circuital.json",
+            "formato": "JSON",
+            "tamaño": 2089,
+            "creado": "2024-02-09T13:56:00.387316"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:24.197Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/corte-electoral-referendum2022",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "1a88d1725a3033e408ba197a3c61557339bc495299bc43cda64728b9571a5013"
+        }
+      },
+      {
+        "id": "299485b9-4209-4d4d-b165-597549f0ccb0",
+        "nombre": "Elección Conaprole 2016",
+        "slug": "corte-electoral-eleccion_conaprole_2016",
+        "organismo": {
+          "id": "corte-electoral",
+          "nombre": "Corte Electoral",
+          "tipo": "organization"
+        },
+        "descripcion": "El juego de datos contiene el resultado del escrutinio definitivo para la elección de autoridades de CONAPROLE realizada el 25 de noviembre de 2016.",
+        "etiquetas": [
+          "Elección Conaprole 2016"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2017-06-05T18:08:10.639897",
+        "modificado": "2020-07-16T19:46:10.584944",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "d20cda78-c7d0-48b5-af2b-012203a23060",
+            "nombre": "Metadatos resultados Conaprole 2016",
+            "url": "https://catalogodatos.gub.uy/dataset/299485b9-4209-4d4d-b165-597549f0ccb0/resource/d20cda78-c7d0-48b5-af2b-012203a23060/download/conaprole2016metadata.json",
+            "formato": "JSON",
+            "tamaño": null,
+            "creado": "2017-06-05T15:10:26.003325"
+          },
+          {
+            "id": "46523889-0f9e-4e73-a188-17d2ea61deed",
+            "nombre": "Resultados Conaprole 2016",
+            "url": "https://catalogodatos.gub.uy/dataset/299485b9-4209-4d4d-b165-597549f0ccb0/resource/46523889-0f9e-4e73-a188-17d2ea61deed/download/resultados-eleccion-conaprole-2016.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2017-06-05T15:11:36.341595"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:24.197Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/corte-electoral-eleccion_conaprole_2016",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "bc9ccb7a686ab885f8acdce05284e8a78ee01f0271db93a9dab6e4536b9bd700"
+        }
+      },
+      {
+        "id": "6b2e84d5-f08b-4a03-8d78-6985f3c74aa5",
+        "nombre": "Elección Caja Notarial 2016",
+        "slug": "corte-electoral-eleccion_caja_notarial_2016",
+        "organismo": {
+          "id": "corte-electoral",
+          "nombre": "Corte Electoral",
+          "tipo": "organization"
+        },
+        "descripcion": "El juego de datos contiene el resultado nacional del escrutinio definitivo para la elección de los miembros del Directorio de la Caja Notarial de Seguridad Social realizada el 11 de noviembre de 2016. Los resultados están dados por departamento, según los órdenes: Escribano, Jubilado y Empleado.",
+        "etiquetas": [
+          "Elección Caja Notarial 2016"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2017-06-05T18:16:29.850633",
+        "modificado": "2020-07-16T19:43:44.666552",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "700c9ba5-e754-4284-b34e-2554abe84066",
+            "nombre": "Metadatos resultados Caja Notarial 2016",
+            "url": "https://catalogodatos.gub.uy/dataset/6b2e84d5-f08b-4a03-8d78-6985f3c74aa5/resource/700c9ba5-e754-4284-b34e-2554abe84066/download/cajanotarial2016metadata.json",
+            "formato": "JSON",
+            "tamaño": null,
+            "creado": "2017-06-05T15:17:46.199822"
+          },
+          {
+            "id": "90a1e387-dbe3-4184-8f8c-418779bee79b",
+            "nombre": "Resultados Caja Notarial 2016",
+            "url": "https://catalogodatos.gub.uy/dataset/6b2e84d5-f08b-4a03-8d78-6985f3c74aa5/resource/90a1e387-dbe3-4184-8f8c-418779bee79b/download/resultados-eleccion-caja-notarial-2016.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2017-06-05T15:18:18.389646"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:24.197Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/corte-electoral-eleccion_caja_notarial_2016",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "738111b5e3a3cd786852eca424508d05a2732d7175637df1275fe17fc4341a18"
+        }
+      },
+      {
+        "id": "e43c1efe-6639-42ed-a92a-c5422cc6af45",
+        "nombre": "Elección Caja de Profesionales 2017",
+        "slug": "corte-electoral-resultados_caja_profesionales_2017",
+        "organismo": {
+          "id": "corte-electoral",
+          "nombre": "Corte Electoral",
+          "tipo": "organization"
+        },
+        "descripcion": "El juego de datos contiene el resultado nacional del escrutinio primario para la Elección de Autoridades de la Caja de Jubilaciones y Pensiones de Profesionales Universitarios realizada el 14 de junio de 2017. Los resultados están dados por circuito.",
+        "etiquetas": [
+          "Caja de Profesionales 2017"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2017-06-14T18:01:12.960174",
+        "modificado": "2020-07-16T19:41:28.140735",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "3e601206-e23e-45cd-90f4-d58b9f234314",
+            "nombre": "Resultado primario Elección Caja Profesional 2017",
+            "url": "https://catalogodatos.gub.uy/dataset/e43c1efe-6639-42ed-a92a-c5422cc6af45/resource/3e601206-e23e-45cd-90f4-d58b9f234314/download/resultadoprimarioeleccioncajaprofesional2017.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2017-06-14T15:02:12.848677"
+          },
+          {
+            "id": "4dd5da82-4d25-47d7-88f7-6a786dde7a50",
+            "nombre": "Metadatos Resultado primario Elección Caja Profesional 2017",
+            "url": "https://catalogodatos.gub.uy/dataset/e43c1efe-6639-42ed-a92a-c5422cc6af45/resource/4dd5da82-4d25-47d7-88f7-6a786dde7a50/download/metadatosjsonoutput.json",
+            "formato": "JSON",
+            "tamaño": null,
+            "creado": "2017-06-14T15:25:54.985047"
+          },
+          {
+            "id": "b8ad75f0-02ac-46e1-be1a-5cce47d60390",
+            "nombre": "Resultado definitivo Elección Caja Profesional 2017",
+            "url": "https://catalogodatos.gub.uy/dataset/e43c1efe-6639-42ed-a92a-c5422cc6af45/resource/b8ad75f0-02ac-46e1-be1a-5cce47d60390/download/resultadoprimarioeleccioncajaprofesional2017.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2017-07-27T14:08:44.050192"
+          },
+          {
+            "id": "af6a9121-574f-427c-b9f6-44eec73fb97b",
+            "nombre": "Metadatos Resultado definitivo Elección Caja Profesional 2017",
+            "url": "https://catalogodatos.gub.uy/dataset/e43c1efe-6639-42ed-a92a-c5422cc6af45/resource/af6a9121-574f-427c-b9f6-44eec73fb97b/download/metadato-.json",
+            "formato": "JSON",
+            "tamaño": null,
+            "creado": "2017-07-27T14:10:21.511352"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:24.197Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/corte-electoral-resultados_caja_profesionales_2017",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "7cd07bdee1b8937ec3383d7440881eca3e3a2cae179eb689bbff03f04271ea35"
+        }
+      }
+    ]
+  },
+  "hash": "cb6ca1948689936e1502858d009766215d3ab63e27d5d19d788a41b516d49661",
+  "firma": "900904fc23cbed3b5e0327e9ef1399b045e240e150da89a56566625a1881c2c7"
+}

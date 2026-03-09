@@ -1,0 +1,797 @@
+{
+  "id": "29e635225b26f7d0cfbb54655efa9650",
+  "timestamp": "2026-03-06T23:09:11.937Z",
+  "datos": {
+    "organismo": "banco-de-la-republica-oriental-del-uruguay",
+    "total": 12,
+    "datasets": [
+      {
+        "id": "2eaca9a5-12ea-4dba-aab1-4391fe4f5523",
+        "nombre": "Comisiones en el exterior",
+        "slug": "banco-de-la-republica-oriental-del-uruguay-comisiones_en_el_exterior",
+        "organismo": {
+          "id": "banco-de-la-republica-oriental-del-uruguay",
+          "nombre": "Banco de la República Oriental del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Este conjunto de datos contiene información referida a las misiones de los funcionarios del BROU en el exterior",
+        "etiquetas": [
+          "Comisiones en el exterior",
+          "Misiones Oficiales",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2025-03-13T19:04:59.336040",
+        "modificado": "2026-03-06T15:55:24.739872",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "9d276e54-57d0-4c36-a971-c79f17bd7485",
+            "nombre": "Datos de las comisiones en el exterior",
+            "url": "https://catalogodatos.gub.uy/dataset/2eaca9a5-12ea-4dba-aab1-4391fe4f5523/resource/9d276e54-57d0-4c36-a971-c79f17bd7485/download/datos-de-las-comisiones-en-el-exterior.csv",
+            "formato": "CSV",
+            "tamaño": 20402,
+            "creado": "2025-03-13T19:05:02.666214"
+          },
+          {
+            "id": "cfd95015-f58e-4282-a6c1-dface6455afa",
+            "nombre": "Datos de las comisiones en el exterior",
+            "url": "https://catalogodatos.gub.uy/dataset/2eaca9a5-12ea-4dba-aab1-4391fe4f5523/resource/cfd95015-f58e-4282-a6c1-dface6455afa/download/datos-de-las-comisiones-en-el-exterior.xlsx",
+            "formato": "XLSX",
+            "tamaño": 50261,
+            "creado": "2025-03-13T19:05:02.069820"
+          },
+          {
+            "id": "9c7cb3f2-f5d1-4c5b-b459-530aa8368d70",
+            "nombre": "Datos de las comisiones en el exterior",
+            "url": "https://catalogodatos.gub.uy/dataset/2eaca9a5-12ea-4dba-aab1-4391fe4f5523/resource/9c7cb3f2-f5d1-4c5b-b459-530aa8368d70/download/datos-de-las-comisiones-en-el-exterior.xml",
+            "formato": "XML",
+            "tamaño": 44052,
+            "creado": "2025-03-13T19:05:03.570014"
+          },
+          {
+            "id": "16842545-6c14-4650-8efc-dcf069ad8031",
+            "nombre": "Metadatos de datos de las comisiones en el exterior",
+            "url": "https://catalogodatos.gub.uy/dataset/2eaca9a5-12ea-4dba-aab1-4391fe4f5523/resource/16842545-6c14-4650-8efc-dcf069ad8031/download/metadatos_datos-de-las-comisiones-en-el-exterior.json",
+            "formato": "JSON",
+            "tamaño": 3667,
+            "creado": "2025-03-13T19:05:04.046792"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:11.936Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-de-la-republica-oriental-del-uruguay-comisiones_en_el_exterior",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "d915606c746accac17d691f7094d3c58e6a5afeeafba4243fc3e572c56a174bb"
+        }
+      },
+      {
+        "id": "637a9290-0b60-4dd5-b165-65bfedbcc049",
+        "nombre": "Funcionarios en comisión",
+        "slug": "banco-de-la-republica-oriental-del-uruguay-funcionarios_en_comision",
+        "organismo": {
+          "id": "banco-de-la-republica-oriental-del-uruguay",
+          "nombre": "Banco de la República Oriental del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Información de funcionarios del BROU en comisión en otros organismos.",
+        "etiquetas": [
+          "BROU",
+          "Pases en comisión",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2023-09-20T17:11:15.091677",
+        "modificado": "2026-03-03T20:14:32.392275",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "8876c16b-a720-4756-8469-2a81b5013fab",
+            "nombre": "Funcionarios en comisión ",
+            "url": "https://catalogodatos.gub.uy/dataset/637a9290-0b60-4dd5-b165-65bfedbcc049/resource/8876c16b-a720-4756-8469-2a81b5013fab/download/datos-de-los-funcionarios-en-comision-de-otros-organismos.xlsx",
+            "formato": "XLSX",
+            "tamaño": 18968,
+            "creado": "2023-09-20T17:11:17.043747"
+          },
+          {
+            "id": "db14ed85-8ea7-4256-bef9-a3923b43d1af",
+            "nombre": "Funcionarios en comisión ",
+            "url": "https://catalogodatos.gub.uy/dataset/637a9290-0b60-4dd5-b165-65bfedbcc049/resource/db14ed85-8ea7-4256-bef9-a3923b43d1af/download/datos-de-los-funcionarios-en-comision-de-otros-organismos.csv",
+            "formato": "CSV",
+            "tamaño": 8287,
+            "creado": "2023-09-20T17:11:17.684707"
+          },
+          {
+            "id": "0a407c9b-a3f4-411e-beae-83a35ceda1df",
+            "nombre": "Metadatos de funcionarios en comisión ",
+            "url": "https://catalogodatos.gub.uy/dataset/637a9290-0b60-4dd5-b165-65bfedbcc049/resource/0a407c9b-a3f4-411e-beae-83a35ceda1df/download/metadatos_datos-de-los-funcionarios-en-comision-de-otros-organismos.json",
+            "formato": "JSON",
+            "tamaño": 3669,
+            "creado": "2023-09-20T17:16:22.962549"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:11.936Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-de-la-republica-oriental-del-uruguay-funcionarios_en_comision",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "dee9c30ba66eaa65febde3a1708303888e8db40008c1b2dda58143859df909e2"
+        }
+      },
+      {
+        "id": "a1f38463-5479-441f-bbac-a660bf4b5630",
+        "nombre": "Personal superior BROU",
+        "slug": "banco-de-la-republica-oriental-del-uruguay-personal-superior-brou",
+        "organismo": {
+          "id": "banco-de-la-republica-oriental-del-uruguay",
+          "nombre": "Banco de la República Oriental del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Este conjunto de datos incluye la nómina de la Dirección y del Personal Superior del BROU, según la definición de personal superior dispuesta por el artículo 536 de la Recopilación de Normas de Regulación y Control del Sistema Financiero.",
+        "etiquetas": [
+          "Artículo 536",
+          "Control del sistema financiero",
+          "Normas de regulación",
+          "Personal",
+          "Tranparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2025-06-05T17:30:25.862083",
+        "modificado": "2026-03-03T20:13:44.360369",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "a9b403e7-b055-4e79-b070-c97785c5fd4b",
+            "nombre": "Listado del Personal Superior",
+            "url": "https://catalogodatos.gub.uy/dataset/a1f38463-5479-441f-bbac-a660bf4b5630/resource/a9b403e7-b055-4e79-b070-c97785c5fd4b/download/personal-superior-brou.csv",
+            "formato": "CSV",
+            "tamaño": 36914,
+            "creado": "2025-06-05T17:38:47.309189"
+          },
+          {
+            "id": "ea7ad3cf-0d04-49a2-b05d-92badf681fd8",
+            "nombre": "Listado del Personal Superior",
+            "url": "https://catalogodatos.gub.uy/dataset/a1f38463-5479-441f-bbac-a660bf4b5630/resource/ea7ad3cf-0d04-49a2-b05d-92badf681fd8/download/personal-superior-brou.xlsx",
+            "formato": "XLSX",
+            "tamaño": 34092,
+            "creado": "2025-06-05T17:37:42.052338"
+          },
+          {
+            "id": "a4f40ec4-f4b9-45e6-b71f-459ed78538b5",
+            "nombre": "Listado del Personal Superior",
+            "url": "https://catalogodatos.gub.uy/dataset/a1f38463-5479-441f-bbac-a660bf4b5630/resource/a4f40ec4-f4b9-45e6-b71f-459ed78538b5/download/personal-superior-brou.xml",
+            "formato": "XML",
+            "tamaño": 86254,
+            "creado": "2025-06-05T17:40:39.318017"
+          },
+          {
+            "id": "29e51b39-d2d6-4b67-9bb2-1e9c5eaf8699",
+            "nombre": "Metadatos de listado del personal superior",
+            "url": "https://catalogodatos.gub.uy/dataset/a1f38463-5479-441f-bbac-a660bf4b5630/resource/29e51b39-d2d6-4b67-9bb2-1e9c5eaf8699/download/metadatos_personal-superior-brou.json",
+            "formato": "JSON",
+            "tamaño": 4475,
+            "creado": "2025-06-05T17:41:35.289323"
+          },
+          {
+            "id": "5aedaba0-7ffd-425e-ad1a-6a4612208d96",
+            "nombre": "Metadatos de listado del Personal Superior",
+            "url": "https://catalogodatos.gub.uy/dataset/a1f38463-5479-441f-bbac-a660bf4b5630/resource/5aedaba0-7ffd-425e-ad1a-6a4612208d96/download/metadatos_personal-superior-.json",
+            "formato": "JSON",
+            "tamaño": 3213,
+            "creado": "2025-06-05T17:39:36.509610"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:11.936Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-de-la-republica-oriental-del-uruguay-personal-superior-brou",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "854b1023b12069f9ff008b3e2369d870392cca2aa98ef1cdf66a5850aea85328"
+        }
+      },
+      {
+        "id": "62d2d17e-8e0d-459a-85d3-6437dd0f42ec",
+        "nombre": "Códigos de servicios brindados en sucursales y puntos de atención",
+        "slug": "catalogodatos-gub-uy-dataset-brou-codigos-de-servicios-brindados-en-sucursales-y-puntos-de-atencion",
+        "organismo": {
+          "id": "banco-de-la-republica-oriental-del-uruguay",
+          "nombre": "Banco de la República Oriental del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Este conjunto cuenta con la información sobre los códigos correspondientes a los servicios brindados en todas las sucursales y puntos de atención del Banco República.",
+        "etiquetas": [
+          "BROU",
+          "Códigos",
+          "Puntos de atención",
+          "Sucursales",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2026-02-09T21:16:17.048365",
+        "modificado": "2026-02-10T15:22:14.908550",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "6b09247f-a0b6-4ed0-9e19-3edaacec3701",
+            "nombre": "Metadatos de códigos de servicios",
+            "url": "https://catalogodatos.gub.uy/dataset/62d2d17e-8e0d-459a-85d3-6437dd0f42ec/resource/6b09247f-a0b6-4ed0-9e19-3edaacec3701/download/metadatos_codigos-de-servicios-brindados-en-sucursales-y-puntos-de-atencion.json",
+            "formato": "JSON",
+            "tamaño": 1767,
+            "creado": "2026-02-09T21:19:12.397747"
+          },
+          {
+            "id": "aaeef418-8ab1-41bb-940b-9d902b26263a",
+            "nombre": "Códigos de servicios",
+            "url": "https://catalogodatos.gub.uy/dataset/62d2d17e-8e0d-459a-85d3-6437dd0f42ec/resource/aaeef418-8ab1-41bb-940b-9d902b26263a/download/codigos-de-servicios-brindados-en-sucursales-y-puntos-de-atencion.csv",
+            "formato": "CSV",
+            "tamaño": 3587,
+            "creado": "2026-02-09T21:17:54.322184"
+          },
+          {
+            "id": "fbe424c9-70b6-46ba-a1f8-55adaa8cfaaa",
+            "nombre": "Códigos de servicios",
+            "url": "https://catalogodatos.gub.uy/dataset/62d2d17e-8e0d-459a-85d3-6437dd0f42ec/resource/fbe424c9-70b6-46ba-a1f8-55adaa8cfaaa/download/codigos-de-servicios-brindados-en-sucursales-y-puntos-de-atencion.json",
+            "formato": "JSON",
+            "tamaño": 5431,
+            "creado": "2026-02-09T21:18:15.570160"
+          },
+          {
+            "id": "56030e90-5fc3-4d73-9945-21f4da6d2d18",
+            "nombre": "Códigos de servicios",
+            "url": "https://catalogodatos.gub.uy/dataset/62d2d17e-8e0d-459a-85d3-6437dd0f42ec/resource/56030e90-5fc3-4d73-9945-21f4da6d2d18/download/codigos-de-servicios-brindados-en-sucursales-y-puntos-de-atencion.xml",
+            "formato": "XML",
+            "tamaño": 6609,
+            "creado": "2026-02-09T21:18:32.320318"
+          },
+          {
+            "id": "afcd536e-edd1-463c-b0b2-3c6295b88de8",
+            "nombre": "Códigos de servicios",
+            "url": "https://catalogodatos.gub.uy/dataset/62d2d17e-8e0d-459a-85d3-6437dd0f42ec/resource/afcd536e-edd1-463c-b0b2-3c6295b88de8/download/codigos-de-servicios-brindados-en-sucursales-y-puntos-de-atencion.xlsx",
+            "formato": "XLSX",
+            "tamaño": 15910,
+            "creado": "2026-02-09T21:17:27.279413"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:11.936Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/catalogodatos-gub-uy-dataset-brou-codigos-de-servicios-brindados-en-sucursales-y-puntos-de-atencion",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "ddd0ffdfbf39929f0d852d25b22463783f9a7c6075687415d5f490b1812eb9dd"
+        }
+      },
+      {
+        "id": "63c53d4b-eaca-4dbc-a538-bf82a25e1552",
+        "nombre": "Capacitaciones",
+        "slug": "banco-de-la-republica-oriental-del-uruguay-capacitaciones",
+        "organismo": {
+          "id": "banco-de-la-republica-oriental-del-uruguay",
+          "nombre": "Banco de la República Oriental del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Este conjunto de datos contiene la información de las capacitaciones impartidas a los funcionarios del BROU.",
+        "etiquetas": [
+          "Capacitaciones",
+          "Capacitación",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2025-03-13T19:08:12.571305",
+        "modificado": "2026-02-06T17:23:41.995062",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "3939885a-d354-4bde-a3df-6e125d28cb91",
+            "nombre": "Datos de capacitaciones realizadas",
+            "url": "https://catalogodatos.gub.uy/dataset/63c53d4b-eaca-4dbc-a538-bf82a25e1552/resource/3939885a-d354-4bde-a3df-6e125d28cb91/download/datos-de-capacitaciones-realizadas.xlsx",
+            "formato": "XLSX",
+            "tamaño": 23851,
+            "creado": "2025-03-13T19:08:14.352014"
+          },
+          {
+            "id": "7dcb8c0a-4f9d-432e-9756-a7265588c0d0",
+            "nombre": "Datos de capacitaciones realizadas",
+            "url": "https://catalogodatos.gub.uy/dataset/63c53d4b-eaca-4dbc-a538-bf82a25e1552/resource/7dcb8c0a-4f9d-432e-9756-a7265588c0d0/download/datos-de-capacitaciones-realizadas.csv",
+            "formato": "CSV",
+            "tamaño": 14875,
+            "creado": "2025-03-13T19:08:14.985781"
+          },
+          {
+            "id": "6f8efc7c-4dad-43e3-a60e-8b6be6bc859e",
+            "nombre": "Datos de capacitaciones realizadas",
+            "url": "https://catalogodatos.gub.uy/dataset/63c53d4b-eaca-4dbc-a538-bf82a25e1552/resource/6f8efc7c-4dad-43e3-a60e-8b6be6bc859e/download/datos-de-capacitaciones-realizadas.xml",
+            "formato": "XML",
+            "tamaño": 39750,
+            "creado": "2025-03-13T19:08:15.605676"
+          },
+          {
+            "id": "9f415f0c-4b7c-4567-8838-e254baf5b4c7",
+            "nombre": "Metadatos de datos de capacitaciones realizadas",
+            "url": "https://catalogodatos.gub.uy/dataset/63c53d4b-eaca-4dbc-a538-bf82a25e1552/resource/9f415f0c-4b7c-4567-8838-e254baf5b4c7/download/metadatos_datos-de-capacitaciones-realizadas.json",
+            "formato": "JSON",
+            "tamaño": 4181,
+            "creado": "2025-03-13T19:08:16.064582"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:11.936Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-de-la-republica-oriental-del-uruguay-capacitaciones",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "9d5c6c40826a0de1d7b97fbee4e49f4d4e2bb2b2b81735ff23fab7d0c85f2cd7"
+        }
+      },
+      {
+        "id": "0bde78c9-78f1-488f-9b81-13cc6dc61d0c",
+        "nombre": "Remuneraciones",
+        "slug": "banco-de-la-republica-oriental-del-uruguay-remuneraciones",
+        "organismo": {
+          "id": "banco-de-la-republica-oriental-del-uruguay",
+          "nombre": "Banco de la República Oriental del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Este conjunto de datos contiene información sobre la escala de remuneraciones del BROU.",
+        "etiquetas": [
+          "Escala de remuneraciones",
+          "Remuneraciones",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2025-02-26T19:32:13.638846",
+        "modificado": "2026-02-05T20:37:35.955516",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "b86e0644-2e1e-423d-a0fe-09732b9862f4",
+            "nombre": "Remuneraciones del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/0bde78c9-78f1-488f-9b81-13cc6dc61d0c/resource/b86e0644-2e1e-423d-a0fe-09732b9862f4/download/datos-de-las-remuneraciones-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 40120,
+            "creado": "2025-02-26T19:32:15.778846"
+          },
+          {
+            "id": "d46c9359-f124-4ea6-ac81-9c03b65fbbbd",
+            "nombre": "Remuneraciones del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/0bde78c9-78f1-488f-9b81-13cc6dc61d0c/resource/d46c9359-f124-4ea6-ac81-9c03b65fbbbd/download/datos-de-las-remuneraciones-del-organismo.xlsx",
+            "formato": "XLSX",
+            "tamaño": 27037,
+            "creado": "2025-02-26T19:32:15.123475"
+          },
+          {
+            "id": "7de651c9-e7bb-432b-8abb-94c161397bc7",
+            "nombre": "Remuneraciones del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/0bde78c9-78f1-488f-9b81-13cc6dc61d0c/resource/7de651c9-e7bb-432b-8abb-94c161397bc7/download/datos-de-las-remuneraciones-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 101076,
+            "creado": "2025-02-26T19:32:16.291595"
+          },
+          {
+            "id": "9303f67e-a452-4c28-94c3-ac7878895239",
+            "nombre": "Metadatos de remuneraciones del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/0bde78c9-78f1-488f-9b81-13cc6dc61d0c/resource/9303f67e-a452-4c28-94c3-ac7878895239/download/metadatos_datos-de-las-remuneraciones-del-organismo.json",
+            "formato": "JSON",
+            "tamaño": 3278,
+            "creado": "2025-02-26T19:32:16.709181"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:11.936Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-de-la-republica-oriental-del-uruguay-remuneraciones",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "4f592182a9a8d97408c12ce7bde9f810b7d06b58f264a3b063ea51caf0310814"
+        }
+      },
+      {
+        "id": "42636d4d-e3b5-4eca-b107-d97baaefd9ab",
+        "nombre": "Organigrama",
+        "slug": "banco-de-la-republica-oriental-del-uruguay-organigrama",
+        "organismo": {
+          "id": "banco-de-la-republica-oriental-del-uruguay",
+          "nombre": "Banco de la República Oriental del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Estructura orgánica del organismo con información adicional de las distintas unidades que lo conforman y sus respectivos jerarcas.",
+        "etiquetas": [
+          "BROU",
+          "Organigrama",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2023-09-18T20:07:27.338028",
+        "modificado": "2026-01-13T20:03:56.543986",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "5ea15c3a-5247-42fd-ad2e-44fe6948c5b7",
+            "nombre": "Datos del organigrama del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/42636d4d-e3b5-4eca-b107-d97baaefd9ab/resource/5ea15c3a-5247-42fd-ad2e-44fe6948c5b7/download/datos-del-organigrama-del-organismo.xlsx",
+            "formato": "XLSX",
+            "tamaño": 23124,
+            "creado": "2023-09-18T20:07:29.223620"
+          },
+          {
+            "id": "9694cce8-ca17-40f5-aee8-ffd4144290bc",
+            "nombre": "Datos del organigrama del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/42636d4d-e3b5-4eca-b107-d97baaefd9ab/resource/9694cce8-ca17-40f5-aee8-ffd4144290bc/download/datos-del-organigrama-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 11092,
+            "creado": "2023-09-18T20:07:29.975697"
+          },
+          {
+            "id": "9a8f885b-a88e-41a0-a7a7-01cea193a8d3",
+            "nombre": "Datos del organigrama del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/42636d4d-e3b5-4eca-b107-d97baaefd9ab/resource/9a8f885b-a88e-41a0-a7a7-01cea193a8d3/download/datos-del-organigrama-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 27687,
+            "creado": "2023-09-18T20:07:31.064647"
+          },
+          {
+            "id": "f52078d8-5845-4df7-b311-3a5f67619f67",
+            "nombre": "Metadatos de datos del organigrama del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/42636d4d-e3b5-4eca-b107-d97baaefd9ab/resource/f52078d8-5845-4df7-b311-3a5f67619f67/download/metadatos_datos-del-organigrama-del-organismo.json",
+            "formato": "JSON",
+            "tamaño": 4761,
+            "creado": "2023-09-18T20:07:31.938563"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:11.936Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-de-la-republica-oriental-del-uruguay-organigrama",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "71d394c21dbc6880f91d1b611573c0365144eac22b7233b90efaa278c967cba0"
+        }
+      },
+      {
+        "id": "8a03b6ec-d6bc-46e7-a050-70ac9c3f40a0",
+        "nombre": "Sucursales y puntos de atención",
+        "slug": "banco-de-la-republica-oriental-del-uruguay-sucursales-y-puntos-de-atencion",
+        "organismo": {
+          "id": "banco-de-la-republica-oriental-del-uruguay",
+          "nombre": "Banco de la República Oriental del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Este conjunto cuenta con la información de contacto sobre todas las sucursales y puntos de atención del Banco República.",
+        "etiquetas": [
+          "BROU",
+          "Puntos de atención",
+          "Sucursales",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2023-09-20T17:52:11.503223",
+        "modificado": "2025-10-01T21:37:40.472055",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "40d8aed3-6a79-4dd2-ac82-36508cc40d48",
+            "nombre": "Metadatos de sucursales y puntos de atención",
+            "url": "https://catalogodatos.gub.uy/dataset/8a03b6ec-d6bc-46e7-a050-70ac9c3f40a0/resource/40d8aed3-6a79-4dd2-ac82-36508cc40d48/download/metadatos_sucursales.json",
+            "formato": "JSON",
+            "tamaño": 2837,
+            "creado": "2023-09-20T17:53:53.159957"
+          },
+          {
+            "id": "2e36d9a3-319e-46a7-8d9b-06e0039528c9",
+            "nombre": "Sucursales y puntos de atención",
+            "url": "https://catalogodatos.gub.uy/dataset/8a03b6ec-d6bc-46e7-a050-70ac9c3f40a0/resource/2e36d9a3-319e-46a7-8d9b-06e0039528c9/download/sucursales.csv",
+            "formato": "CSV",
+            "tamaño": 26835,
+            "creado": "2023-09-20T17:55:14.488410"
+          },
+          {
+            "id": "64f9c8d5-9c5e-46b2-83ca-ef081402c130",
+            "nombre": "Sucursales y puntos de atención",
+            "url": "https://catalogodatos.gub.uy/dataset/8a03b6ec-d6bc-46e7-a050-70ac9c3f40a0/resource/64f9c8d5-9c5e-46b2-83ca-ef081402c130/download/sucursales.json",
+            "formato": "JSON",
+            "tamaño": 75469,
+            "creado": "2023-09-20T17:56:07.349620"
+          },
+          {
+            "id": "9fa05df7-ec51-4b2e-b75c-2c6b605c6a8d",
+            "nombre": "Sucursales y puntos de atención",
+            "url": "https://catalogodatos.gub.uy/dataset/8a03b6ec-d6bc-46e7-a050-70ac9c3f40a0/resource/9fa05df7-ec51-4b2e-b75c-2c6b605c6a8d/download/sucursales.xml",
+            "formato": "XML",
+            "tamaño": 113689,
+            "creado": "2023-09-20T17:56:48.108828"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:11.936Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-de-la-republica-oriental-del-uruguay-sucursales-y-puntos-de-atencion",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "aebae5bad80b5d51cb231df82220fb872ff4e073a96827b104e185533fa042f4"
+        }
+      },
+      {
+        "id": "f7fc1290-7fcf-433e-b9eb-8b4283fec918",
+        "nombre": "Funcionarios de otros organismos en comisión",
+        "slug": "banco-de-la-republica-oriental-del-uruguay-funcionarios-otros-organismos-en-comision",
+        "organismo": {
+          "id": "banco-de-la-republica-oriental-del-uruguay",
+          "nombre": "Banco de la República Oriental del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Información de funcionarios de otros organismos en comisión en BROU.",
+        "etiquetas": [
+          "BROU",
+          "Pases en comisión",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2025-07-10T21:43:02.601771",
+        "modificado": "2025-08-06T19:11:49.927340",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "da4e18b4-e302-4d6d-8a1c-4eb136f67073",
+            "nombre": "Funcionarios de otros organismos",
+            "url": "https://catalogodatos.gub.uy/dataset/f7fc1290-7fcf-433e-b9eb-8b4283fec918/resource/da4e18b4-e302-4d6d-8a1c-4eb136f67073/download/datos-de-los-funcionarios-en-comision-en-brou.xlsx",
+            "formato": "XLSX",
+            "tamaño": 16084,
+            "creado": "2025-07-10T21:45:06.127469"
+          },
+          {
+            "id": "979dede7-760c-4255-aa28-f01f62ea7375",
+            "nombre": "Funcionarios de otros organismos",
+            "url": "https://catalogodatos.gub.uy/dataset/f7fc1290-7fcf-433e-b9eb-8b4283fec918/resource/979dede7-760c-4255-aa28-f01f62ea7375/download/datos-de-los-funcionarios-en-comision-en-brou.csv",
+            "formato": "CSV",
+            "tamaño": 739,
+            "creado": "2025-07-10T21:45:48.186001"
+          },
+          {
+            "id": "58cd4170-0b12-4d0f-ac42-b60e10c9429f",
+            "nombre": "Metadatos de funcionarios de otros organismos",
+            "url": "https://catalogodatos.gub.uy/dataset/f7fc1290-7fcf-433e-b9eb-8b4283fec918/resource/58cd4170-0b12-4d0f-ac42-b60e10c9429f/download/metadatos_datos-de-los-funcionarios-en-comision-en-brou.json",
+            "formato": "JSON",
+            "tamaño": 3681,
+            "creado": "2025-07-10T21:47:13.277794"
+          },
+          {
+            "id": "a5cd37bf-824b-4111-9359-f0f4ac9fa71c",
+            "nombre": "Funcionarios de otros organismos",
+            "url": "https://catalogodatos.gub.uy/dataset/f7fc1290-7fcf-433e-b9eb-8b4283fec918/resource/a5cd37bf-824b-4111-9359-f0f4ac9fa71c/download/funcionarios-de-otros-organismos-en-comision-en-brou.json",
+            "formato": "JSON",
+            "tamaño": 1073,
+            "creado": "2025-08-06T19:11:23.012863"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:11.936Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-de-la-republica-oriental-del-uruguay-funcionarios-otros-organismos-en-comision",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "8384c1b9c57e7a21f1182f19d7819c5d5c801a3ff01e584581d0780696b267de"
+        }
+      },
+      {
+        "id": "2bb94068-f29d-4989-9af9-9ce76bc7faa6",
+        "nombre": "Autoridades",
+        "slug": "banco-de-la-republica-oriental-del-uruguay-autoridades",
+        "organismo": {
+          "id": "banco-de-la-republica-oriental-del-uruguay",
+          "nombre": "Banco de la República Oriental del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Este conjunto cuenta con la información sobre los funcionarios con cargos de jefatura en el Banco de la República Oriental del Uruguay.\r\n\r\nLa información incluye: nombre, domicilio postal, electrónico y números telefónicos oficiales.",
+        "etiquetas": [
+          "Autoridades",
+          "BROU",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2023-09-18T19:45:48.726979",
+        "modificado": "2025-06-02T21:27:41.679823",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "683b3939-5b58-425c-997b-64ac402597e3",
+            "nombre": "Autoridades del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/2bb94068-f29d-4989-9af9-9ce76bc7faa6/resource/683b3939-5b58-425c-997b-64ac402597e3/download/autoridades-brou-.xlsx",
+            "formato": "XLSX",
+            "tamaño": 18999,
+            "creado": "2023-09-18T19:45:51.097240"
+          },
+          {
+            "id": "3c627c26-ff64-4129-82bc-cdf51fd95f26",
+            "nombre": "Autoridades del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/2bb94068-f29d-4989-9af9-9ce76bc7faa6/resource/3c627c26-ff64-4129-82bc-cdf51fd95f26/download/autoridades-brou-.csv",
+            "formato": "CSV",
+            "tamaño": 2445,
+            "creado": "2023-09-18T19:45:51.762166"
+          },
+          {
+            "id": "f648abf8-ac77-4e0d-a049-94fa396448f8",
+            "nombre": "Metadatos de autoridades del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/2bb94068-f29d-4989-9af9-9ce76bc7faa6/resource/f648abf8-ac77-4e0d-a049-94fa396448f8/download/metadatos_autoridades-brou-.json",
+            "formato": "JSON",
+            "tamaño": 4741,
+            "creado": "2023-09-18T19:48:52.636904"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:11.936Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-de-la-republica-oriental-del-uruguay-autoridades",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "2d94e7b8bf0b199e30ac7dc5de184e4698e3ff63c65ce3e5c8d7387902bf6507"
+        }
+      },
+      {
+        "id": "cf69b1a0-9587-4698-9843-ce0b4be19e10",
+        "nombre": "Creación y evolución del organismo",
+        "slug": "banco-de-la-republica-oriental-del-uruguay-evolucion_del_organismo",
+        "organismo": {
+          "id": "banco-de-la-republica-oriental-del-uruguay",
+          "nombre": "Banco de la República Oriental del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Este conjunto cuenta con la información sobre la creación y evolución del Banco de la República Oriental del Uruguay (BROU). ",
+        "etiquetas": [
+          "BROU",
+          "Evolución histórica",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2023-09-21T16:02:01.337700",
+        "modificado": "2024-11-20T17:44:25.607714",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "2d65ce4e-30f9-424b-85f9-f307f7a8f543",
+            "nombre": "Datos de la evolución del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/cf69b1a0-9587-4698-9843-ce0b4be19e10/resource/2d65ce4e-30f9-424b-85f9-f307f7a8f543/download/datos-de-la-evolucion-del-organismo.xlsx",
+            "formato": "XLSX",
+            "tamaño": 18974,
+            "creado": "2023-09-21T16:02:03.354343"
+          },
+          {
+            "id": "fd243e90-fe9f-464a-afde-0f213862a623",
+            "nombre": "Datos de la evolución del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/cf69b1a0-9587-4698-9843-ce0b4be19e10/resource/fd243e90-fe9f-464a-afde-0f213862a623/download/datos-de-la-evolucion-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 2814,
+            "creado": "2023-09-21T16:02:04.097152"
+          },
+          {
+            "id": "37b80337-ce94-481e-85c7-90fde8012577",
+            "nombre": "Datos de la evolución del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/cf69b1a0-9587-4698-9843-ce0b4be19e10/resource/37b80337-ce94-481e-85c7-90fde8012577/download/datos-de-la-evolucion-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 6150,
+            "creado": "2023-09-21T16:02:04.819911"
+          },
+          {
+            "id": "9a48dad5-7dbe-4b22-9a8a-43b92e568ccc",
+            "nombre": "Metadatos de datos de la evolución del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/cf69b1a0-9587-4698-9843-ce0b4be19e10/resource/9a48dad5-7dbe-4b22-9a8a-43b92e568ccc/download/metadatos_datos-de-la-evolucion-del-organismo.json",
+            "formato": "JSON",
+            "tamaño": 3291,
+            "creado": "2023-09-21T16:02:05.574242"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:11.936Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-de-la-republica-oriental-del-uruguay-evolucion_del_organismo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "120f889fbbe64bbf6d8a3cdd92e3554e4b8ad0f214621dcba93ab7dd0146c670"
+        }
+      },
+      {
+        "id": "c082ea57-cbed-4127-9eea-d48db9bfa872",
+        "nombre": "Marco jurídico",
+        "slug": "banco-de-la-republica-oriental-del-uruguay-marco_juridico",
+        "organismo": {
+          "id": "banco-de-la-republica-oriental-del-uruguay",
+          "nombre": "Banco de la República Oriental del Uruguay",
+          "tipo": "organization"
+        },
+        "descripcion": "Leyes y decretos que son aplicables al funcionamiento del sujeto obligado.",
+        "etiquetas": [
+          "BROU",
+          "Marco jurídico",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2023-09-20T16:49:02.824676",
+        "modificado": "2023-09-21T16:42:00.334955",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "fbe30d8e-871a-4e01-a260-7f65f4b3d3bf",
+            "nombre": "Datos del marco jurídico del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/c082ea57-cbed-4127-9eea-d48db9bfa872/resource/fbe30d8e-871a-4e01-a260-7f65f4b3d3bf/download/datos-del-marco-juridico-del-organismo.xlsx",
+            "formato": "XLSX",
+            "tamaño": 19880,
+            "creado": "2023-09-20T16:49:04.920674"
+          },
+          {
+            "id": "4ef1206f-37ee-4bd6-995d-e5f9c05d9b03",
+            "nombre": "Datos del marco jurídico del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/c082ea57-cbed-4127-9eea-d48db9bfa872/resource/4ef1206f-37ee-4bd6-995d-e5f9c05d9b03/download/datos-del-marco-juridico-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 3307,
+            "creado": "2023-09-20T16:49:05.614975"
+          },
+          {
+            "id": "cc539b83-e16e-4104-9025-8fdfd0af1985",
+            "nombre": "Datos del marco jurídico del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/c082ea57-cbed-4127-9eea-d48db9bfa872/resource/cc539b83-e16e-4104-9025-8fdfd0af1985/download/datos-del-marco-juridico-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 6816,
+            "creado": "2023-09-20T16:49:06.620884"
+          },
+          {
+            "id": "432d4ee9-ebb8-48e8-835b-8a2b66a896af",
+            "nombre": "Metadatos de datos del marco jurídico del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/c082ea57-cbed-4127-9eea-d48db9bfa872/resource/432d4ee9-ebb8-48e8-835b-8a2b66a896af/download/metadatos_datos-del-marco-juridico-del-organismo.json",
+            "formato": "JSON",
+            "tamaño": 3235,
+            "creado": "2023-09-20T16:49:07.256988"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:11.936Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/banco-de-la-republica-oriental-del-uruguay-marco_juridico",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "2d90e705abf2f4acd59aa5015d2d702a397676486e98514b0f3056cdd7bb3c2f"
+        }
+      }
+    ]
+  },
+  "hash": "9cb1efdf518d757e1e44cc97347fa1422f04a982dedd808fc0a590010e1dc77a",
+  "firma": "7981442644852eb84b633c5e909fe6977e59f828a4a757bae8a2a03eb5e3afaf"
+}

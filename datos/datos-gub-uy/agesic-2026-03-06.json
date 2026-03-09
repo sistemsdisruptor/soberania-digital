@@ -1,0 +1,2999 @@
+{
+  "id": "cfbcfc84cf7853ab0cc42df9259e2b28",
+  "timestamp": "2026-03-06T23:08:55.133Z",
+  "datos": {
+    "organismo": "agesic",
+    "total": 26,
+    "datasets": [
+      {
+        "id": "4249fa91-4e43-4428-be26-3e8c1400ed30",
+        "nombre": "Catálogo de trámites y servicios del Estado",
+        "slug": "agesic-guia-de-tramites",
+        "organismo": {
+          "id": "agesic",
+          "nombre": "AGESIC",
+          "tipo": "organization"
+        },
+        "descripcion": "Este conjunto presenta toda la información de los trámites y servicios que se encuentran publicados en la página de trámites de gub.uy .\r\n\r\nLa información contenida en los datos incluye: descripción, organismo del cual depende, direcciones donde se realiza el trámite, requisitos a presentar y costos. Los trámites pertenecen a la Administración Central, Entes Autónomos, Servicios Descentralizados y Gobiernos departamentales. Son una muestra actual de los distintos trámites y servicios, no se muestra el historico.",
+        "etiquetas": [
+          "Catálogo de trámites",
+          "Gub.uy",
+          "Guía de tramites",
+          "Servicios del estado",
+          "Tramites",
+          "Tramites en línea",
+          "Tramites y servicios"
+        ],
+        "grupos": [
+          "Desarrollo Social"
+        ],
+        "creado": "2013-06-29T21:49:34.962206",
+        "modificado": "2026-03-06T06:06:00.815884",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "41b02575-5cd6-461c-ab45-a54e93d751be",
+            "nombre": "Tramites y servicios",
+            "url": "https://catalogodatos.gub.uy/dataset/4249fa91-4e43-4428-be26-3e8c1400ed30/resource/41b02575-5cd6-461c-ab45-a54e93d751be/download/tramites.csv",
+            "formato": "CSV",
+            "tamaño": 9708457,
+            "creado": "2023-12-14T18:30:52.099857"
+          },
+          {
+            "id": "79ca2b81-4351-410f-8915-6523459bc678",
+            "nombre": "Tramites y servicios",
+            "url": "https://catalogodatos.gub.uy/dataset/4249fa91-4e43-4428-be26-3e8c1400ed30/resource/79ca2b81-4351-410f-8915-6523459bc678/download/tramites.xlsx",
+            "formato": "XLSX",
+            "tamaño": 2358645,
+            "creado": "2023-12-14T18:31:55.487797"
+          },
+          {
+            "id": "85647cdc-31a5-4025-9ca5-441bbfe08f57",
+            "nombre": "Tramites y servicios",
+            "url": "https://catalogodatos.gub.uy/dataset/4249fa91-4e43-4428-be26-3e8c1400ed30/resource/85647cdc-31a5-4025-9ca5-441bbfe08f57/download/tramites.xml",
+            "formato": "XML",
+            "tamaño": 13524116,
+            "creado": "2023-12-14T18:33:02.167520"
+          },
+          {
+            "id": "3dbb1a50-28af-4e63-b06e-60db2bdf6ebf",
+            "nombre": "Metadatos de tramites y servicios",
+            "url": "https://catalogodatos.gub.uy/dataset/4249fa91-4e43-4428-be26-3e8c1400ed30/resource/3dbb1a50-28af-4e63-b06e-60db2bdf6ebf/download/metadatos-tramites.json",
+            "formato": "JSON",
+            "tamaño": 8859,
+            "creado": "2023-12-14T18:33:55.716259"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:55.131Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/agesic-guia-de-tramites",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "2479dee593025a62fa038827cf5a12ca866e1a8510fdc9db1980ac2140359c27"
+        }
+      },
+      {
+        "id": "a0cfe8cb-adf5-4de0-af02-29a30e818360",
+        "nombre": "Evaluación de accesibilidad digital en organismos del Estado",
+        "slug": "agesic-evaluacion_de_accesibilidad_digital_en_organismos_del_estado",
+        "organismo": {
+          "id": "agesic",
+          "nombre": "AGESIC",
+          "tipo": "organization"
+        },
+        "descripcion": "Este conjunto presenta la información del Observatorio de Accesibilidad Digital, una plataforma que tiene como objetivo medir el grado de cumplimiento de las pautas de accesibilidad en los servicios digitales de organismos estatales de Uruguay a travez de su visualizador, de acuerdo con la normativa vigente.\r\n\r\nEn su versión beta, el Visualizador presenta el análisis automático de los sitios web, trámites y catálogos de organismos del Estado.\r\n\r\nEn próximas versiones, incorporará la evaluación de otras soluciones tecnológicas.",
+        "etiquetas": [
+          "Accesibilidad digital",
+          "Accesibilidad web",
+          "Observatorio de Accesibilidad Digital",
+          "Visualizador de Accesibilidad Digital"
+        ],
+        "grupos": [
+          "Desarrollo Social",
+          "Estadísticas",
+          "Transparencia"
+        ],
+        "creado": "2024-05-06T17:01:30.307834",
+        "modificado": "2025-12-29T15:32:07.284901",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "fef0bd80-f18f-40bf-8695-953bcdb2479f",
+            "nombre": "Nota metodológica",
+            "url": "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/publicaciones/evalua-observatorio-accesibilidad-digital",
+            "formato": "HTML",
+            "tamaño": null,
+            "creado": "2024-05-16T17:27:22.367449"
+          },
+          {
+            "id": "60b3f023-7e07-49e9-a19a-66fd1619aff5",
+            "nombre": "Evaluación automática - 2024-04",
+            "url": "https://catalogodatos.gub.uy/dataset/a0cfe8cb-adf5-4de0-af02-29a30e818360/resource/60b3f023-7e07-49e9-a19a-66fd1619aff5/download/evaluacion-automatica.xlsx",
+            "formato": "XLSX",
+            "tamaño": 1228638,
+            "creado": "2024-05-06T17:01:47.065570"
+          },
+          {
+            "id": "d1ac942d-f284-48b1-a3c8-87e957704a6f",
+            "nombre": "Evaluación automática - 2024-04",
+            "url": "https://catalogodatos.gub.uy/dataset/a0cfe8cb-adf5-4de0-af02-29a30e818360/resource/d1ac942d-f284-48b1-a3c8-87e957704a6f/download/evaluacion-automatica.csv",
+            "formato": "CSV",
+            "tamaño": 3679064,
+            "creado": "2024-05-06T17:01:54.413279"
+          },
+          {
+            "id": "a3bcc770-fb7d-4ca8-94fe-b8dbc2f02e35",
+            "nombre": "Evaluación automática - 2024-04",
+            "url": "https://catalogodatos.gub.uy/dataset/a0cfe8cb-adf5-4de0-af02-29a30e818360/resource/a3bcc770-fb7d-4ca8-94fe-b8dbc2f02e35/download/evaluacion-automatica.xml",
+            "formato": "XML",
+            "tamaño": 7593535,
+            "creado": "2024-05-06T17:01:59.598561"
+          },
+          {
+            "id": "f90b7363-ff66-4315-a327-5a141a452fa2",
+            "nombre": "Metadatos de evaluación automática - 202404",
+            "url": "https://catalogodatos.gub.uy/dataset/a0cfe8cb-adf5-4de0-af02-29a30e818360/resource/f90b7363-ff66-4315-a327-5a141a452fa2/download/metadatos_evaluacion-automatica.json",
+            "formato": "JSON",
+            "tamaño": 2484,
+            "creado": "2024-05-06T17:02:00.469675"
+          },
+          {
+            "id": "f0c73c00-1a04-4e08-8c7b-213933e6b20c",
+            "nombre": "Evaluación automática - 2024-10",
+            "url": "https://catalogodatos.gub.uy/dataset/a0cfe8cb-adf5-4de0-af02-29a30e818360/resource/f0c73c00-1a04-4e08-8c7b-213933e6b20c/download/evaluacion-automatica.xlsx",
+            "formato": "XLSX",
+            "tamaño": 1612100,
+            "creado": "2025-01-23T14:58:53.350397"
+          },
+          {
+            "id": "c266cc07-f28c-436d-8212-a397be62c03c",
+            "nombre": "Evaluación automática - 2024-10",
+            "url": "https://catalogodatos.gub.uy/dataset/a0cfe8cb-adf5-4de0-af02-29a30e818360/resource/c266cc07-f28c-436d-8212-a397be62c03c/download/evaluacion-automatica.csv",
+            "formato": "CSV",
+            "tamaño": 4273403,
+            "creado": "2025-01-23T14:58:55.328178"
+          },
+          {
+            "id": "e17c9b19-c70c-4027-92a1-210d1295f111",
+            "nombre": "Evaluación automática - 2024-10",
+            "url": "https://catalogodatos.gub.uy/dataset/a0cfe8cb-adf5-4de0-af02-29a30e818360/resource/e17c9b19-c70c-4027-92a1-210d1295f111/download/evaluacion-automatica.xml",
+            "formato": "XML",
+            "tamaño": 9539779,
+            "creado": "2025-01-23T14:58:58.423860"
+          },
+          {
+            "id": "3a7b9738-b1b1-45ed-b281-ba59948b1ad9",
+            "nombre": "Metadatos de evaluación automática 202410",
+            "url": "https://catalogodatos.gub.uy/dataset/a0cfe8cb-adf5-4de0-af02-29a30e818360/resource/3a7b9738-b1b1-45ed-b281-ba59948b1ad9/download/metadatos_evaluacion-automatica.json",
+            "formato": "JSON",
+            "tamaño": 3034,
+            "creado": "2025-01-23T14:58:59.294164"
+          },
+          {
+            "id": "7fa5fa44-f4e8-4afe-b7b3-067e9e0500ff",
+            "nombre": "Evaluación automática - 2025-04",
+            "url": "https://catalogodatos.gub.uy/dataset/a0cfe8cb-adf5-4de0-af02-29a30e818360/resource/7fa5fa44-f4e8-4afe-b7b3-067e9e0500ff/download/evaluacion-automatica-2025-04.xlsx",
+            "formato": "XLSX",
+            "tamaño": 2968178,
+            "creado": "2025-05-08T17:05:16.893479"
+          },
+          {
+            "id": "f4166f4e-d4cb-4cf5-915c-c4f352277eab",
+            "nombre": "Evaluación automática - 2025-04",
+            "url": "https://catalogodatos.gub.uy/dataset/a0cfe8cb-adf5-4de0-af02-29a30e818360/resource/f4166f4e-d4cb-4cf5-915c-c4f352277eab/download/evaluacion-automatica-2025-04.csv",
+            "formato": "CSV",
+            "tamaño": 7823309,
+            "creado": "2025-05-08T17:05:19.559207"
+          },
+          {
+            "id": "accfef24-87d2-48bd-853a-1aa5e156b13b",
+            "nombre": "Evaluación automática - 2025-04",
+            "url": "https://catalogodatos.gub.uy/dataset/a0cfe8cb-adf5-4de0-af02-29a30e818360/resource/accfef24-87d2-48bd-853a-1aa5e156b13b/download/evaluacion-automatica-2025-04.xml",
+            "formato": "XML",
+            "tamaño": 18484440,
+            "creado": "2025-05-08T17:05:20.848399"
+          },
+          {
+            "id": "45e64f3d-898f-4e2a-a67d-efcff1efc40d",
+            "nombre": "Metadatos de evaluación automática - 2025-04",
+            "url": "https://catalogodatos.gub.uy/dataset/a0cfe8cb-adf5-4de0-af02-29a30e818360/resource/45e64f3d-898f-4e2a-a67d-efcff1efc40d/download/metadatos_evaluacion-automatica-2025-04.json",
+            "formato": "JSON",
+            "tamaño": 3321,
+            "creado": "2025-05-08T17:05:21.776009"
+          },
+          {
+            "id": "3f8eb5a1-6e99-410f-b09c-9709b36c51f3",
+            "nombre": "Evaluación automática - 2025-10",
+            "url": "https://catalogodatos.gub.uy/dataset/a0cfe8cb-adf5-4de0-af02-29a30e818360/resource/3f8eb5a1-6e99-410f-b09c-9709b36c51f3/download/evaluacion-automatica-2025-10.xlsx",
+            "formato": "XLSX",
+            "tamaño": 2767897,
+            "creado": "2025-12-29T15:29:23.515489"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:55.131Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/agesic-evaluacion_de_accesibilidad_digital_en_organismos_del_estado",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "2499696cb85bbdc45efb5d341c2c0141728d023cf31f267045e60b6ddc2473d0"
+        }
+      },
+      {
+        "id": "751d0cec-4141-4f1d-b166-8e18ac1aaf68",
+        "nombre": "Indicadores de la Gestión Administrativa Digital",
+        "slug": "agesic-indicadores-de-la-gestion-administrativa-digital",
+        "organismo": {
+          "id": "agesic",
+          "nombre": "AGESIC",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto permite conocer los tipos de soluciones que han implementado los diferentes organismos del Estado, el detalle de qué solución específica están usando, e identificar aquellos organismos que ya interoperan.\r\n\r\nLos datos utilizados surgen de registros administrativos de Agesic, resultante de procesos de implantaciones de soluciones, procesos de acompañamiento e incluso registros de reuniones de intercambio con diferentes organismos del Estado.\r\n\r\nEl objetivo final es evolucionar y avanzar en la completitud de la información de todo el Estado. Aquellos organismos que identifiquen diferencias en la información publicada, pueden contactarse a pgad@agesic.gub.uy para realizar la actualización correspondiente.",
+        "etiquetas": [
+          "Gestión administrativa",
+          "Gestión digital",
+          "Registros administrativos",
+          "Soluciones digitales"
+        ],
+        "grupos": [
+          "Estadísticas",
+          "Transparencia"
+        ],
+        "creado": "2024-03-06T20:22:53.002449",
+        "modificado": "2025-10-01T13:03:11.875442",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "b0f6cab8-9e52-473c-8267-eb3c7b2d721d",
+            "nombre": "Gestión administrativa digital 2023",
+            "url": "https://catalogodatos.gub.uy/dataset/751d0cec-4141-4f1d-b166-8e18ac1aaf68/resource/b0f6cab8-9e52-473c-8267-eb3c7b2d721d/download/datos_gestion_administrativa_2023.xlsx",
+            "formato": "XLSX",
+            "tamaño": 61821,
+            "creado": "2024-03-06T20:25:17.338850"
+          },
+          {
+            "id": "ffc72c77-6506-4ded-a4a6-dc9b0b0f8187",
+            "nombre": "Gestión administrativa digital 2023",
+            "url": "https://catalogodatos.gub.uy/dataset/751d0cec-4141-4f1d-b166-8e18ac1aaf68/resource/ffc72c77-6506-4ded-a4a6-dc9b0b0f8187/download/datos_gestion_administrativa_2023.csv",
+            "formato": "CSV",
+            "tamaño": 108978,
+            "creado": "2024-03-06T20:26:32.258269"
+          },
+          {
+            "id": "75c64cb7-1743-4f96-bb86-514825526225",
+            "nombre": "Gestión administrativa digital 2023",
+            "url": "https://catalogodatos.gub.uy/dataset/751d0cec-4141-4f1d-b166-8e18ac1aaf68/resource/75c64cb7-1743-4f96-bb86-514825526225/download/datos_gestion_administrativa_2023.xml",
+            "formato": "XML",
+            "tamaño": 605839,
+            "creado": "2024-03-06T20:25:41.067909"
+          },
+          {
+            "id": "11cfc2c3-2195-4eec-b6f8-48820e1314e3",
+            "nombre": "Metadatos de gestión administrativa digital 2023",
+            "url": "https://catalogodatos.gub.uy/dataset/751d0cec-4141-4f1d-b166-8e18ac1aaf68/resource/11cfc2c3-2195-4eec-b6f8-48820e1314e3/download/metadatos_datos_gestion_administrativa_2023.json",
+            "formato": "JSON",
+            "tamaño": 9023,
+            "creado": "2024-03-06T20:26:11.265793"
+          },
+          {
+            "id": "89f8be12-5cb7-4b3b-9822-63ddb7afb098",
+            "nombre": "Gestión administrativa digital 2024",
+            "url": "https://catalogodatos.gub.uy/dataset/751d0cec-4141-4f1d-b166-8e18ac1aaf68/resource/89f8be12-5cb7-4b3b-9822-63ddb7afb098/download/datos_gestion_administrativa_2024.xlsx",
+            "formato": "XLSX",
+            "tamaño": 64363,
+            "creado": "2025-05-16T11:53:36.189591"
+          },
+          {
+            "id": "45edf839-cece-465e-9d40-7fefdf98aecb",
+            "nombre": "Gestión administrativa digital 2024",
+            "url": "https://catalogodatos.gub.uy/dataset/751d0cec-4141-4f1d-b166-8e18ac1aaf68/resource/45edf839-cece-465e-9d40-7fefdf98aecb/download/datos_gestion_administrativa_2024.csv",
+            "formato": "CSV",
+            "tamaño": 113595,
+            "creado": "2025-05-16T11:53:37.256556"
+          },
+          {
+            "id": "067a5dcb-de36-4e24-9ea6-a30a9ab98412",
+            "nombre": "Gestión administrativa digital 2024",
+            "url": "https://catalogodatos.gub.uy/dataset/751d0cec-4141-4f1d-b166-8e18ac1aaf68/resource/067a5dcb-de36-4e24-9ea6-a30a9ab98412/download/datos_gestion_administrativa_2024.xml",
+            "formato": "XML",
+            "tamaño": 601016,
+            "creado": "2025-05-16T11:53:38.556797"
+          },
+          {
+            "id": "2fdfc9ec-1df8-4f79-a5da-d1c49cd6faa1",
+            "nombre": "Metadatos de gestión administrativa 2024",
+            "url": "https://catalogodatos.gub.uy/dataset/751d0cec-4141-4f1d-b166-8e18ac1aaf68/resource/2fdfc9ec-1df8-4f79-a5da-d1c49cd6faa1/download/metadatos_datos_gestion_administrativa_2024.json",
+            "formato": "JSON",
+            "tamaño": 8966,
+            "creado": "2025-05-16T11:53:39.438171"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:55.131Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/agesic-indicadores-de-la-gestion-administrativa-digital",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "948e8f15beb256ba86187848c7226442e71270479f3cab85e33e6ae35abc52e1"
+        }
+      },
+      {
+        "id": "260eedda-5abd-47b2-9c95-8f009e9b5b4f",
+        "nombre": "Indicadores de atención a la ciudadanía",
+        "slug": "agesic-indicadores-de-atencion-a-la-ciudadania",
+        "organismo": {
+          "id": "agesic",
+          "nombre": "AGESIC",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto cuenta con los indicadores de atención a la ciudadanía, los cuales reflejan la cantidad de consultas atendidas por los canales transversales del primer nivel de atención del Estado gestionados por AGESIC, discriminados por el canal por el que fueron recibidos y en el mes de su recepción.\r\n\r\nAtención a la Ciudadanía es uno de los programas de Agesic que promueven la transformación digital de manera inclusiva y sustentable, para que todas las personas tengan las mismas posibilidades de acceso a la información de los trámites y servicios del Estado, mediante el desarrollo, gestión y mantenimiento de canales transversales de atención de acuerdo con las pautas de calidad establecidas.\r\n\r\nEsta información contempla las atenciones efectivamente respondidas luego de depurar los agradecimientos y spam recibidos. Los datos presentados son a partir del año 2016 en adelante.",
+        "etiquetas": [
+          "Desarrollo social",
+          "Estadísticas",
+          "Transparencia"
+        ],
+        "grupos": [
+          "Desarrollo Social"
+        ],
+        "creado": "2024-03-01T18:15:23.043248",
+        "modificado": "2025-08-20T14:43:22.994941",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "11864c23-5159-4efe-a298-d81383a4d069",
+            "nombre": "Indicadores de atención",
+            "url": "https://catalogodatos.gub.uy/dataset/260eedda-5abd-47b2-9c95-8f009e9b5b4f/resource/11864c23-5159-4efe-a298-d81383a4d069/download/indicadores_de_atencion.xlsx",
+            "formato": "XLSX",
+            "tamaño": 23097,
+            "creado": "2024-03-01T18:19:57.332249"
+          },
+          {
+            "id": "554262e9-58a5-48d2-af6a-5b7cf19b078f",
+            "nombre": "Indicadores de atención",
+            "url": "https://catalogodatos.gub.uy/dataset/260eedda-5abd-47b2-9c95-8f009e9b5b4f/resource/554262e9-58a5-48d2-af6a-5b7cf19b078f/download/indicadores_de_atencion.csv",
+            "formato": "CSV",
+            "tamaño": 18839,
+            "creado": "2024-03-01T18:21:34.210831"
+          },
+          {
+            "id": "a0b317ac-5e49-4243-8912-128dbe5e2501",
+            "nombre": "Indicadores de atención",
+            "url": "https://catalogodatos.gub.uy/dataset/260eedda-5abd-47b2-9c95-8f009e9b5b4f/resource/a0b317ac-5e49-4243-8912-128dbe5e2501/download/indicadores_de_atencion.xml",
+            "formato": "XML",
+            "tamaño": 59187,
+            "creado": "2024-03-01T18:22:55.202353"
+          },
+          {
+            "id": "3dae3218-4b6a-4f54-b675-ba027e9a67ce",
+            "nombre": "Metdatos de indicadores de atención",
+            "url": "https://catalogodatos.gub.uy/dataset/260eedda-5abd-47b2-9c95-8f009e9b5b4f/resource/3dae3218-4b6a-4f54-b675-ba027e9a67ce/download/metdatos_de_indicadores_de_atencion.json",
+            "formato": "JSON",
+            "tamaño": 1187,
+            "creado": "2024-03-01T18:25:46.365173"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:55.131Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/agesic-indicadores-de-atencion-a-la-ciudadania",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "3e5e30ded61361e12f4099153e1b5ed3c542378d8a0fe1c3e75e55fabeb0fbbd"
+        }
+      },
+      {
+        "id": "aa34c126-6bb6-4a4f-a860-45cbb86b794f",
+        "nombre": "Encuesta de uso de TIC - EUTIC",
+        "slug": "agesic-encuestas-de-uso-de-tic",
+        "organismo": {
+          "id": "agesic",
+          "nombre": "AGESIC",
+          "tipo": "organization"
+        },
+        "descripcion": "Conjunto de datos que contiene los datos de las Encuestas EUTIC (Encuestas de uso de TIC) que realiza el Instituto Nacional de Estadística en conjunto con la división Agenda Digital y Observatorio de la Sociedad de la Información de AGESIC.\r\nLa encuesta se realiza cada 3 años, por cada año de las encuestas realizadas se publica el recurso con los datos, además en distintos formatos, el diccionario de variables y el formulario de la encuesta.",
+        "etiquetas": [
+          "Agenda digital",
+          "EUTIC",
+          "Encuestas",
+          "Encuestas de uso TIC",
+          "Observatorio de la sociedad de la información"
+        ],
+        "grupos": [
+          "Desarrollo Social",
+          "Estadísticas"
+        ],
+        "creado": "2020-09-28T15:42:43.880693",
+        "modificado": "2025-05-21T18:38:13.512806",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "2c40e794-665c-4db0-86dc-071fc7d46e84",
+            "nombre": "Cuestionario - Encuestas EUTIC - 2010",
+            "url": "https://catalogodatos.gub.uy/dataset/aa34c126-6bb6-4a4f-a860-45cbb86b794f/resource/2c40e794-665c-4db0-86dc-071fc7d46e84/download/cuestionario_eutic_2010.pdf",
+            "formato": "PDF",
+            "tamaño": 125516,
+            "creado": "2020-10-09T14:11:37.836593"
+          },
+          {
+            "id": "293166f7-a1ee-416d-83ea-082b6b98a084",
+            "nombre": "Encuestas EUTIC - 2010",
+            "url": "https://catalogodatos.gub.uy/dataset/aa34c126-6bb6-4a4f-a860-45cbb86b794f/resource/293166f7-a1ee-416d-83ea-082b6b98a084/download/base-personas_ech_tics_2010.xlsx",
+            "formato": "XLSX",
+            "tamaño": 5803396,
+            "creado": "2020-10-09T14:13:26.548727"
+          },
+          {
+            "id": "dbd8ef81-7897-4d58-91f1-3d21f4f0c077",
+            "nombre": "Encuestas EUTIC - 2010",
+            "url": "https://catalogodatos.gub.uy/dataset/aa34c126-6bb6-4a4f-a860-45cbb86b794f/resource/dbd8ef81-7897-4d58-91f1-3d21f4f0c077/download/base-personas_ech_tics_2010.csv",
+            "formato": "CSV",
+            "tamaño": 6719130,
+            "creado": "2020-10-09T14:18:58.383299"
+          },
+          {
+            "id": "e17e07cb-ab69-4fb7-8293-31d0b0e77324",
+            "nombre": "Diccionario de variables - Encuesta EUTIC - 2010",
+            "url": "https://catalogodatos.gub.uy/dataset/aa34c126-6bb6-4a4f-a860-45cbb86b794f/resource/e17e07cb-ab69-4fb7-8293-31d0b0e77324/download/diccionario_eutic_2010.xls",
+            "formato": "XLS",
+            "tamaño": 334848,
+            "creado": "2020-10-09T14:21:14.291279"
+          },
+          {
+            "id": "1aa7befc-abea-43e1-999d-38ac4530a5ad",
+            "nombre": "Cuestionario - Encuestas EUTIC - 2013",
+            "url": "https://catalogodatos.gub.uy/dataset/aa34c126-6bb6-4a4f-a860-45cbb86b794f/resource/1aa7befc-abea-43e1-999d-38ac4530a5ad/download/cuestionario_eutic_2013.pdf",
+            "formato": "PDF",
+            "tamaño": 102675,
+            "creado": "2020-10-09T13:44:49.709422"
+          },
+          {
+            "id": "8cac0593-2140-43fc-9bcd-00315d4f344f",
+            "nombre": "Encuestas EUTIC - 2013",
+            "url": "https://catalogodatos.gub.uy/dataset/aa34c126-6bb6-4a4f-a860-45cbb86b794f/resource/8cac0593-2140-43fc-9bcd-00315d4f344f/download/base-personas_eutic2013.xlsx",
+            "formato": "XLSX",
+            "tamaño": 7414833,
+            "creado": "2020-10-09T13:49:55.064928"
+          },
+          {
+            "id": "dee42143-e121-44b6-94dc-44173d4f1095",
+            "nombre": "Encuestas EUTIC - 2013",
+            "url": "https://catalogodatos.gub.uy/dataset/aa34c126-6bb6-4a4f-a860-45cbb86b794f/resource/dee42143-e121-44b6-94dc-44173d4f1095/download/base-personas_eutic2013.csv",
+            "formato": "CSV",
+            "tamaño": 4495966,
+            "creado": "2020-10-09T13:53:43.947132"
+          },
+          {
+            "id": "239f8134-59cb-4c0c-93c8-08d8179fddab",
+            "nombre": "Diccionario de variables - Encuesta EUTIC - 2013",
+            "url": "https://catalogodatos.gub.uy/dataset/aa34c126-6bb6-4a4f-a860-45cbb86b794f/resource/239f8134-59cb-4c0c-93c8-08d8179fddab/download/diccionario_eutic-2013.xls",
+            "formato": "XLS",
+            "tamaño": 227840,
+            "creado": "2020-10-09T13:56:11.423131"
+          },
+          {
+            "id": "8cfafe9b-115e-4d25-b38a-4d40d103163e",
+            "nombre": "Cuestionario - Encuestas EUTIC - año 2016",
+            "url": "https://catalogodatos.gub.uy/dataset/aa34c126-6bb6-4a4f-a860-45cbb86b794f/resource/8cfafe9b-115e-4d25-b38a-4d40d103163e/download/cuestionario-eutic-2016.pdf",
+            "formato": "PDF",
+            "tamaño": 1993590,
+            "creado": "2020-10-09T13:34:22.233356"
+          },
+          {
+            "id": "4873d0e8-be80-476c-ac5d-aa53dc2b5c12",
+            "nombre": "Encuestas EUTIC - 2016",
+            "url": "https://catalogodatos.gub.uy/dataset/aa34c126-6bb6-4a4f-a860-45cbb86b794f/resource/4873d0e8-be80-476c-ac5d-aa53dc2b5c12/download/base-hogares-y-personas-eutic-2016.xlsx",
+            "formato": "XLSX",
+            "tamaño": 2042478,
+            "creado": "2020-10-09T13:32:15.529739"
+          },
+          {
+            "id": "abe95fe3-3bde-4799-b21c-68a07abb3b85",
+            "nombre": "Encuestas EUTIC - 2016",
+            "url": "https://catalogodatos.gub.uy/dataset/aa34c126-6bb6-4a4f-a860-45cbb86b794f/resource/abe95fe3-3bde-4799-b21c-68a07abb3b85/download/base-hogares-y-personas-eutic-2016.csv",
+            "formato": "CSV",
+            "tamaño": 1160974,
+            "creado": "2020-10-09T13:30:51.450689"
+          },
+          {
+            "id": "ba321d0a-1f09-4e60-b287-8d7c0caee62b",
+            "nombre": "Diccionario de variables - Encuesta EUTIC - 2016",
+            "url": "https://catalogodatos.gub.uy/dataset/aa34c126-6bb6-4a4f-a860-45cbb86b794f/resource/ba321d0a-1f09-4e60-b287-8d7c0caee62b/download/diccionario-de-variables-eutic-2016.xls",
+            "formato": "XLS",
+            "tamaño": 125952,
+            "creado": "2020-10-09T13:36:48.230927"
+          },
+          {
+            "id": "4075745b-1746-4f4a-b208-71eec35fd47b",
+            "nombre": "Cuestionario - Encuestas EUTIC - 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/aa34c126-6bb6-4a4f-a860-45cbb86b794f/resource/4075745b-1746-4f4a-b208-71eec35fd47b/download/cuestionario-eutic-2019.pdf",
+            "formato": "PDF",
+            "tamaño": 89484,
+            "creado": "2020-09-28T15:52:52.236909"
+          },
+          {
+            "id": "af7dd25e-3cd5-4089-8eb7-7c35e50d8d96",
+            "nombre": "Encuestas EUTIC - 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/aa34c126-6bb6-4a4f-a860-45cbb86b794f/resource/af7dd25e-3cd5-4089-8eb7-7c35e50d8d96/download/base-de-hogares-y-personas-para-terceros-eutic-2019-v.2.xlsx",
+            "formato": "XLSX",
+            "tamaño": 1443544,
+            "creado": "2020-09-28T15:48:55.560723"
+          },
+          {
+            "id": "9ce9c2cd-3426-4c41-a87f-acc42bb68197",
+            "nombre": "Encuestas EUTIC - 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/aa34c126-6bb6-4a4f-a860-45cbb86b794f/resource/9ce9c2cd-3426-4c41-a87f-acc42bb68197/download/base-de-hogares-y-personas-para-terceros-eutic-2019-v.2.csv",
+            "formato": "CSV",
+            "tamaño": 1643647,
+            "creado": "2020-09-28T15:50:04.693919"
+          },
+          {
+            "id": "c499d839-b33e-4006-b520-5d29414ad59d",
+            "nombre": "Diccionario de variables - Encuesta EUTIC - 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/aa34c126-6bb6-4a4f-a860-45cbb86b794f/resource/c499d839-b33e-4006-b520-5d29414ad59d/download/diccionario-de-variables-eutic-2019.xls",
+            "formato": "XLS",
+            "tamaño": 121856,
+            "creado": "2020-09-28T15:52:01.811191"
+          },
+          {
+            "id": "14d361b5-4d04-4fc9-bbd8-c369811fedf0",
+            "nombre": "Cuestionario - Encuestas EUTIC - 2022",
+            "url": "https://catalogodatos.gub.uy/dataset/aa34c126-6bb6-4a4f-a860-45cbb86b794f/resource/14d361b5-4d04-4fc9-bbd8-c369811fedf0/download/cuestionario-final-eutic-2022-ine.pdf",
+            "formato": "PDF",
+            "tamaño": 158417,
+            "creado": "2024-06-14T13:52:58.689404"
+          },
+          {
+            "id": "0f854c48-3856-470a-b2bf-091eca430f9b",
+            "nombre": "Encuestas EUTIC - 2022",
+            "url": "https://catalogodatos.gub.uy/dataset/aa34c126-6bb6-4a4f-a860-45cbb86b794f/resource/0f854c48-3856-470a-b2bf-091eca430f9b/download/eutic-2022_base-final_catalogoda.csv",
+            "formato": "CSV",
+            "tamaño": 921602,
+            "creado": "2024-06-14T13:54:34.434750"
+          },
+          {
+            "id": "5dfab167-9f42-41df-b1bd-e66c7b7306a5",
+            "nombre": "Encuestas EUTIC - 2022",
+            "url": "https://catalogodatos.gub.uy/dataset/aa34c126-6bb6-4a4f-a860-45cbb86b794f/resource/5dfab167-9f42-41df-b1bd-e66c7b7306a5/download/eutic-2022_base-final_catalogoda.xlsx",
+            "formato": "XLSX",
+            "tamaño": 1598563,
+            "creado": "2024-06-14T13:55:15.988789"
+          },
+          {
+            "id": "0f857ad9-934a-48cc-9439-70b994d3937e",
+            "nombre": "Diccionario de variables - Encuesta EUTIC - 2022",
+            "url": "https://catalogodatos.gub.uy/dataset/aa34c126-6bb6-4a4f-a860-45cbb86b794f/resource/0f857ad9-934a-48cc-9439-70b994d3937e/download/diccionarioeutic_2022.xls",
+            "formato": "XLSX",
+            "tamaño": 115200,
+            "creado": "2024-06-14T13:56:13.170637"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:55.131Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/agesic-encuestas-de-uso-de-tic",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "9a584ff06601a14333f6e0a9982a6d49359499b6f4ca62f846f00a04c49cc40c"
+        }
+      },
+      {
+        "id": "b3e0cdc4-d5a4-4bbd-a941-3b1e0091ce73",
+        "nombre": "UNAOID - Listado de OIDs de la rama organización",
+        "slug": "agesic-la-unaoid",
+        "organismo": {
+          "id": "agesic",
+          "nombre": "AGESIC",
+          "tipo": "organization"
+        },
+        "descripcion": "Un OID es un identificador de objetos y se define de acuerdo a una asignación jerárquica, establecida por la Organización Internacional de Normalización (ISO), basada en la Norma ISO/IEC 8824-1.\r\n\r\nLa UNAOID (Unidad Nacional de Asignación de OID), a través de estos identificadores busca proporcionar una base estandarizada para la interoperabilidad de los sistemas de información en la Administración Pública, así como en el resto de sectores de la sociedad.\r\n\r\nLa raíz nacional asignada por ISO e ITU-T a la UNAOID, de acuerdo a los procedimientos ISO/IEC JTC 1/SC 6/WG 9 y ITU-T Q.12/17 respectivamente, corresponde a: 2.16.858.\r\n\r\nPor más información consultar en [la página web de la UNAOID](http://unaoid.gub.uy/)",
+        "etiquetas": [
+          "Asignación jerárquica",
+          "Identificador",
+          "oid",
+          "unaoid"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-01-18T16:08:28.191216",
+        "modificado": "2025-05-20T15:00:04.259695",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "4471dcb4-ce39-44e9-b273-0d27af77c4b3",
+            "nombre": "Listado de OIDs",
+            "url": "https://catalogodatos.gub.uy/dataset/b3e0cdc4-d5a4-4bbd-a941-3b1e0091ce73/resource/4471dcb4-ce39-44e9-b273-0d27af77c4b3/download/oid.csv",
+            "formato": "CSV",
+            "tamaño": 557993,
+            "creado": "2019-01-18T16:08:57.753766"
+          },
+          {
+            "id": "4ec31390-ceed-4b3c-b1a6-e536368c3ea2",
+            "nombre": "Listado de OIDs",
+            "url": "https://catalogodatos.gub.uy/dataset/b3e0cdc4-d5a4-4bbd-a941-3b1e0091ce73/resource/4ec31390-ceed-4b3c-b1a6-e536368c3ea2/download/oid.xlsx",
+            "formato": "XLSX",
+            "tamaño": 182162,
+            "creado": "2020-03-03T14:26:27.699922"
+          },
+          {
+            "id": "4d6e5d3d-ab10-4bbb-ab99-347247f1a4ec",
+            "nombre": "Listado de OIDs",
+            "url": "https://catalogodatos.gub.uy/dataset/b3e0cdc4-d5a4-4bbd-a941-3b1e0091ce73/resource/4d6e5d3d-ab10-4bbb-ab99-347247f1a4ec/download/oid.xml",
+            "formato": "XML",
+            "tamaño": 1061219,
+            "creado": "2025-02-10T13:28:58.044311"
+          },
+          {
+            "id": "48c60f85-2904-41e9-960b-e392460f799a",
+            "nombre": "Metadatos de Listado de OIDs",
+            "url": "https://catalogodatos.gub.uy/dataset/b3e0cdc4-d5a4-4bbd-a941-3b1e0091ce73/resource/48c60f85-2904-41e9-960b-e392460f799a/download/metadatos_oid.json",
+            "formato": "JSON",
+            "tamaño": 1315,
+            "creado": "2019-02-13T15:32:20.615268"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:55.131Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/agesic-la-unaoid",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "acf611fc531075387a53b0a589d121b67b6d8aa982d595bf06c71fedf283f619"
+        }
+      },
+      {
+        "id": "c267ecb9-8572-4119-a0a9-bd9c75d4a406",
+        "nombre": "Informes de avances del Quinto Plan de Acción Nacional de Gobierno Abierto",
+        "slug": "agesic-informes-de-avances-del-quinto-plan-de-accion-nacional-de-gobierno-abierto",
+        "organismo": {
+          "id": "agesic",
+          "nombre": "AGESIC",
+          "tipo": "organization"
+        },
+        "descripcion": "A continuación, se presentan los datos de los informes de avances del 5° Plan de Acción Nacional de Gobierno Abierto 2021-2024. En este 5° Plan de Acción Nacional de Gobierno Abierto 2021-2024 Uruguay establece 29 compromisos a cargo de 23 instituciones del Estado.\r\n\r\nLos compromisos se encuentran agrupados en 4 ejes temáticos, 14 de los 29, integran demandas totales o parciales de diferentes actores que participaron de las actividades del proceso de cocreación, y presentaron ideas o propuestas en las mesas de diálogo, a través de la plataforma de gestión de propuestas, en los talleres de cocreación o en la consulta pública. Se realizarán semestralmente Informes de Seguimiento de avances en la implementación de los compromisos, y dos Informes de Autoevaluación País: uno de medio término, correspondiente al segundo año de implementación, y otro al final de del período que deberá informar sobre los resultados finales y lecciones aprendidas.\r\n\r\n\r\n __Nota:__ A partir de enero de 2024 el informe publicado en setiembre de 2023  bajo el título _“3er Informe de Seguimiento del 5to Plan de Acción Nacional de Gobierno Abierto”_ se renombró bajo el título  _“Primer Informe de Autoevaluación País del 5to Plan de Acción Nacional de Gobierno Abierto (informe de medio término)”_.  El informe publicado actualmente bajo el título _“3er informe de Seguimiento del 5to Plan de Acción Nacional de Gobierno Abierto”_ fue publicado en enero de 2024.",
+        "etiquetas": [
+          "Gobierno Abierto",
+          "Plan de acción Nacional de Gobierno Abierto",
+          "Quinto Plan de Acción Nacional de Gobierno Abierto"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2022-08-22T14:18:40.014330",
+        "modificado": "2025-03-14T15:21:44.061102",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "edd7e716-9676-4d9a-a610-ef00f915ad47",
+            "nombre": "Informes de seguimiento",
+            "url": "https://catalogodatos.gub.uy/dataset/c267ecb9-8572-4119-a0a9-bd9c75d4a406/resource/edd7e716-9676-4d9a-a610-ef00f915ad47/download/datos_compromisos-5to_plan.csv",
+            "formato": "CSV",
+            "tamaño": 426557,
+            "creado": "2022-08-26T14:14:40.613333"
+          },
+          {
+            "id": "0b5d887b-2bbd-44e8-9ed6-1f6b479dd1dc",
+            "nombre": "Informes de seguimiento",
+            "url": "https://catalogodatos.gub.uy/dataset/c267ecb9-8572-4119-a0a9-bd9c75d4a406/resource/0b5d887b-2bbd-44e8-9ed6-1f6b479dd1dc/download/datos_compromisos-5to_plan.xlsx",
+            "formato": "XLSX",
+            "tamaño": 81078,
+            "creado": "2022-08-22T14:20:33.491476"
+          },
+          {
+            "id": "95bad7c8-fae1-4b56-a916-ad1a8cf06d7b",
+            "nombre": "Informes de seguimiento",
+            "url": "https://catalogodatos.gub.uy/dataset/c267ecb9-8572-4119-a0a9-bd9c75d4a406/resource/95bad7c8-fae1-4b56-a916-ad1a8cf06d7b/download/datos_compromisos-5to_plan.xml",
+            "formato": "XML",
+            "tamaño": 734968,
+            "creado": "2022-08-26T14:17:33.333201"
+          },
+          {
+            "id": "ab6092e2-9f82-4709-b593-e125a3d5ad25",
+            "nombre": "Metadatos de informes de seguimiento",
+            "url": "https://catalogodatos.gub.uy/dataset/c267ecb9-8572-4119-a0a9-bd9c75d4a406/resource/ab6092e2-9f82-4709-b593-e125a3d5ad25/download/metadatos_datos_compromisos-5to_plan.json",
+            "formato": "JSON",
+            "tamaño": 3716,
+            "creado": "2022-08-26T14:18:22.656196"
+          },
+          {
+            "id": "d5c4d593-93c6-4bfe-a3c6-9e55d9b6cc14",
+            "nombre": "Nota metodología",
+            "url": "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/politicas-y-gestion/visualizador-gobierno-abierto",
+            "formato": "eBook",
+            "tamaño": null,
+            "creado": "2023-09-04T14:45:34.762729"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:55.131Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/agesic-informes-de-avances-del-quinto-plan-de-accion-nacional-de-gobierno-abierto",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "9e5bbfd98c9be678bc0a3966436e701963ed4af8cfa160f947f1dfcef7be4074"
+        }
+      },
+      {
+        "id": "1d0f163c-c191-495e-b241-0d4c3c869694",
+        "nombre": "Marco Jurídico",
+        "slug": "agesic-marco_juridico_agesic",
+        "organismo": {
+          "id": "agesic",
+          "nombre": "AGESIC",
+          "tipo": "organization"
+        },
+        "descripcion": "Marco jurídico, leyes y decretos que son aplicables al funcionamiento del sujeto obligado.",
+        "etiquetas": [
+          "Marco Jurídico",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2017-09-27T20:21:50.749402",
+        "modificado": "2024-12-18T17:52:21.799635",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "cae00e29-16ad-40d3-a5d5-f1831af6ed82",
+            "nombre": "Datos del Marco Jurídico ",
+            "url": "https://catalogodatos.gub.uy/dataset/1d0f163c-c191-495e-b241-0d4c3c869694/resource/cae00e29-16ad-40d3-a5d5-f1831af6ed82/download/datosmarco-jurdico-.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2017-10-24T11:51:46.600896"
+          },
+          {
+            "id": "b0182a7c-29e4-4d94-9260-6525c12f9285",
+            "nombre": "Metadatos de los datos del Marco Jurídico ",
+            "url": "https://catalogodatos.gub.uy/dataset/1d0f163c-c191-495e-b241-0d4c3c869694/resource/b0182a7c-29e4-4d94-9260-6525c12f9285/download/metadatosjsonoutput.json",
+            "formato": "JSON",
+            "tamaño": null,
+            "creado": "2017-10-24T11:51:45.716589"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:55.132Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/agesic-marco_juridico_agesic",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "db003f0bd7f349573aef9c7772e1759c90e79f54337b9fa3cee8a5998739b953"
+        }
+      },
+      {
+        "id": "ade7d6f4-ca6e-4de5-b29b-fbb4025ebcf9",
+        "nombre": "Ambitos de participación ciudadana",
+        "slug": "agesic-relevamiento-de-ambitos-de-participacion-ciudadana",
+        "organismo": {
+          "id": "agesic",
+          "nombre": "AGESIC",
+          "tipo": "organization"
+        },
+        "descripcion": "Relevamiento de ámbitos de participación ciudadana institucionalizados; creados por los organismos del Estado Uruguayo en los tres niveles de gobierno -Nacional, Departamental y Municipal- en todo el territorio nacional.",
+        "etiquetas": [
+          "Participación",
+          "Participación ciudadana"
+        ],
+        "grupos": [
+          "Desarrollo Social"
+        ],
+        "creado": "2017-12-06T13:31:24.265521",
+        "modificado": "2024-12-05T13:45:21.779634",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "c8184ab6-f154-4f6d-938c-8bbd92ba4f5c",
+            "nombre": "Ambitos de participación ciudadana",
+            "url": "https://catalogodatos.gub.uy/dataset/ade7d6f4-ca6e-4de5-b29b-fbb4025ebcf9/resource/c8184ab6-f154-4f6d-938c-8bbd92ba4f5c/download/apc_datosabiertos.xml",
+            "formato": "XML",
+            "tamaño": 4654395,
+            "creado": "2017-12-06T10:32:14.889401"
+          },
+          {
+            "id": "7f2e6617-deef-42b6-8451-108aeac1adfb",
+            "nombre": "Metadatos de Ambitos de participación ciudadana",
+            "url": "https://catalogodatos.gub.uy/dataset/ade7d6f4-ca6e-4de5-b29b-fbb4025ebcf9/resource/7f2e6617-deef-42b6-8451-108aeac1adfb/download/ambitos_participacion_ciudadana.xsd",
+            "formato": "XSD",
+            "tamaño": 20702,
+            "creado": "2017-12-06T10:38:49.326278"
+          },
+          {
+            "id": "8d1c009f-603a-4a51-89b0-e3cdd1dc275f",
+            "nombre": "Nota metodológica",
+            "url": "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/publicaciones/metodologia-para-actualizacion-del-catalogo-participacion-ciudadana",
+            "formato": "ebook",
+            "tamaño": null,
+            "creado": "2024-11-15T17:21:57.812394"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:55.132Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/agesic-relevamiento-de-ambitos-de-participacion-ciudadana",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "82a0265a22758876f39df238efcc171af52c18d0ab90d8e73394ec4314ff58a2"
+        }
+      },
+      {
+        "id": "9225c6f8-ce7c-468c-8913-aebad8407dcc",
+        "nombre": "Datos referenciales - codigueras",
+        "slug": "agesic-datos-referenciales-codigueras",
+        "organismo": {
+          "id": "agesic",
+          "nombre": "AGESIC",
+          "tipo": "organization"
+        },
+        "descripcion": "En el marco de la definición de la arquitectura integrada de gobierno se definen conjuntos de datos referenciales sobre entidades comunes del Estado.\r\nEstos conjuntos de datos forman parte de la Arquitectura de Datos de Gobierno y definen los valores posibles para algunos dominios de datos generales, que permiten la integración y comunicación entre los organismos del Estado.\r\nCada conjunto de datos definido representa un dominio específico y está representado como una lista codificada.",
+        "etiquetas": [
+          "Ascendencia racial",
+          "Codigueras",
+          "Códigos",
+          "Datoreferencial",
+          "Genero",
+          "Metadatos",
+          "Sexo"
+        ],
+        "grupos": [
+          "Cultura"
+        ],
+        "creado": "2017-12-08T18:24:57.368258",
+        "modificado": "2024-07-11T18:54:33.220394",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "37a6db2d-6d4d-43fa-8324-5babc98c74bc",
+            "nombre": "Países",
+            "url": "https://catalogodatos.gub.uy/dataset/9225c6f8-ce7c-468c-8913-aebad8407dcc/resource/37a6db2d-6d4d-43fa-8324-5babc98c74bc/download/paises_es_v1.xml",
+            "formato": "XML",
+            "tamaño": 17887,
+            "creado": "2017-12-08T15:27:49.341487"
+          },
+          {
+            "id": "aec023cc-0a59-4854-8ff6-60c901fcbb5e",
+            "nombre": "Países",
+            "url": "https://catalogodatos.gub.uy/dataset/9225c6f8-ce7c-468c-8913-aebad8407dcc/resource/aec023cc-0a59-4854-8ff6-60c901fcbb5e/download/paises_es_v1.csv",
+            "formato": "CSV",
+            "tamaño": 7903,
+            "creado": "2018-11-22T18:37:22.114615"
+          },
+          {
+            "id": "7e02c04d-9d6c-4f94-94b6-0d1e5bd7f4f3",
+            "nombre": "Países",
+            "url": "https://catalogodatos.gub.uy/dataset/9225c6f8-ce7c-468c-8913-aebad8407dcc/resource/7e02c04d-9d6c-4f94-94b6-0d1e5bd7f4f3/download/paises_es_v1.js",
+            "formato": "JSON",
+            "tamaño": 24292,
+            "creado": "2018-11-22T18:39:04.211741"
+          },
+          {
+            "id": "a26c9963-f397-4306-8b87-bc7eaab6589a",
+            "nombre": "Departamentos",
+            "url": "https://catalogodatos.gub.uy/dataset/9225c6f8-ce7c-468c-8913-aebad8407dcc/resource/a26c9963-f397-4306-8b87-bc7eaab6589a/download/departamentosv1.xml",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2017-12-08T15:28:32.963766"
+          },
+          {
+            "id": "dea9580d-85ae-4099-9973-631dbb027cfa",
+            "nombre": "Departamentos",
+            "url": "https://catalogodatos.gub.uy/dataset/9225c6f8-ce7c-468c-8913-aebad8407dcc/resource/dea9580d-85ae-4099-9973-631dbb027cfa/download/departamentos_v1.csv",
+            "formato": "CSV",
+            "tamaño": 344,
+            "creado": "2018-11-22T18:40:05.949112"
+          },
+          {
+            "id": "f1f98099-d56e-49c9-8766-068065023686",
+            "nombre": "Departamentos",
+            "url": "https://catalogodatos.gub.uy/dataset/9225c6f8-ce7c-468c-8913-aebad8407dcc/resource/f1f98099-d56e-49c9-8766-068065023686/download/departamentos_v1.js",
+            "formato": "JSON",
+            "tamaño": 728,
+            "creado": "2018-11-22T18:41:11.416125"
+          },
+          {
+            "id": "0ea23b5a-dd59-4928-a9f1-72f15d1af786",
+            "nombre": "Sexo",
+            "url": "https://catalogodatos.gub.uy/dataset/9225c6f8-ce7c-468c-8913-aebad8407dcc/resource/0ea23b5a-dd59-4928-a9f1-72f15d1af786/download/sexo_v2024.xml",
+            "formato": "XML",
+            "tamaño": 194,
+            "creado": "2017-12-08T15:30:32.528978"
+          },
+          {
+            "id": "75be20b5-2e9c-4b0c-9e1c-a1c23e7cd7cf",
+            "nombre": "Sexo",
+            "url": "https://catalogodatos.gub.uy/dataset/9225c6f8-ce7c-468c-8913-aebad8407dcc/resource/75be20b5-2e9c-4b0c-9e1c-a1c23e7cd7cf/download/sexo_v2024.csv",
+            "formato": "CSV",
+            "tamaño": 64,
+            "creado": "2018-11-22T18:42:19.720795"
+          },
+          {
+            "id": "8a4f295d-294f-401c-97c7-c477992e99d3",
+            "nombre": "Sexo",
+            "url": "https://catalogodatos.gub.uy/dataset/9225c6f8-ce7c-468c-8913-aebad8407dcc/resource/8a4f295d-294f-401c-97c7-c477992e99d3/download/sexo_v2024.json",
+            "formato": "JSON",
+            "tamaño": 130,
+            "creado": "2018-11-22T18:43:02.294599"
+          },
+          {
+            "id": "6ef7ec3f-e4c6-45cf-a1b3-8be8f018539b",
+            "nombre": "Género",
+            "url": "https://catalogodatos.gub.uy/dataset/9225c6f8-ce7c-468c-8913-aebad8407dcc/resource/6ef7ec3f-e4c6-45cf-a1b3-8be8f018539b/download/genero_v2024.xml",
+            "formato": "XML",
+            "tamaño": 473,
+            "creado": "2017-12-08T15:29:48.259399"
+          },
+          {
+            "id": "887b61c6-0d05-4045-823b-89a150b4180d",
+            "nombre": "Género",
+            "url": "https://catalogodatos.gub.uy/dataset/9225c6f8-ce7c-468c-8913-aebad8407dcc/resource/887b61c6-0d05-4045-823b-89a150b4180d/download/genero_v2024.csv",
+            "formato": "CSV",
+            "tamaño": 115,
+            "creado": "2018-11-22T18:44:14.239725"
+          },
+          {
+            "id": "7c4cb76a-ad0d-4f7e-9276-7af6bb68680d",
+            "nombre": "Género",
+            "url": "https://catalogodatos.gub.uy/dataset/9225c6f8-ce7c-468c-8913-aebad8407dcc/resource/7c4cb76a-ad0d-4f7e-9276-7af6bb68680d/download/genero_v2024.json",
+            "formato": "JSON",
+            "tamaño": 570,
+            "creado": "2018-11-22T18:44:55.194602"
+          },
+          {
+            "id": "7f28f106-84db-4ab3-93cc-67374cf5b34c",
+            "nombre": "Estado Civil",
+            "url": "https://catalogodatos.gub.uy/dataset/9225c6f8-ce7c-468c-8913-aebad8407dcc/resource/7f28f106-84db-4ab3-93cc-67374cf5b34c/download/estadocivilv1.xml",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2017-12-08T15:29:14.417951"
+          },
+          {
+            "id": "072eb529-03ba-44ab-9ed0-8769807e133d",
+            "nombre": "Estado Civil",
+            "url": "https://catalogodatos.gub.uy/dataset/9225c6f8-ce7c-468c-8913-aebad8407dcc/resource/072eb529-03ba-44ab-9ed0-8769807e133d/download/estado_civil_v1.csv",
+            "formato": "CSV",
+            "tamaño": 595,
+            "creado": "2018-11-22T18:45:59.443575"
+          },
+          {
+            "id": "90c6d407-78ea-494c-9ce9-83adf32a9ee2",
+            "nombre": "Estado Civil",
+            "url": "https://catalogodatos.gub.uy/dataset/9225c6f8-ce7c-468c-8913-aebad8407dcc/resource/90c6d407-78ea-494c-9ce9-83adf32a9ee2/download/estado_civil_v1.js",
+            "formato": "JSON",
+            "tamaño": 838,
+            "creado": "2018-11-22T18:46:45.976423"
+          },
+          {
+            "id": "a5808b86-bc05-4a5b-858c-23145da96458",
+            "nombre": "Ascendencia Racial",
+            "url": "https://catalogodatos.gub.uy/dataset/9225c6f8-ce7c-468c-8913-aebad8407dcc/resource/a5808b86-bc05-4a5b-858c-23145da96458/download/ascendencia_racial_v2024.xml",
+            "formato": "XML",
+            "tamaño": 345,
+            "creado": "2022-12-23T19:34:18.834129"
+          },
+          {
+            "id": "1ea6e0c4-672f-461e-8da4-07d00a4339d2",
+            "nombre": "Ascendencia Racial",
+            "url": "https://catalogodatos.gub.uy/dataset/9225c6f8-ce7c-468c-8913-aebad8407dcc/resource/1ea6e0c4-672f-461e-8da4-07d00a4339d2/download/ascendencia_racial_v2024.csv",
+            "formato": "CSV",
+            "tamaño": 104,
+            "creado": "2022-12-23T19:34:52.719222"
+          },
+          {
+            "id": "80aca534-892e-4215-a9a6-43a4d2a9f535",
+            "nombre": "Ascendencia Racial",
+            "url": "https://catalogodatos.gub.uy/dataset/9225c6f8-ce7c-468c-8913-aebad8407dcc/resource/80aca534-892e-4215-a9a6-43a4d2a9f535/download/ascendencia_racial_v2024.json",
+            "formato": "JSON",
+            "tamaño": 493,
+            "creado": "2022-12-23T19:35:31.732006"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:55.132Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/agesic-datos-referenciales-codigueras",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "ac69534b6723424f6f324444c496e6d20178f562c909b5986354982031eb5b78"
+        }
+      },
+      {
+        "id": "a1b78ac3-13e0-4880-a0a4-4aafcf55aa7b",
+        "nombre": "Encuesta de Conocimientos, Actitudes y Prácticas de Ciudadanía Digital",
+        "slug": "agesic-encuestas-cap",
+        "organismo": {
+          "id": "agesic",
+          "nombre": "AGESIC",
+          "tipo": "organization"
+        },
+        "descripcion": "Conjunto de datos de la Encuesta de Conocimientos, Actitudes y Prácticas de Ciudadanía Digital, realizada por la división Agenda Digital y Observatorio SIC de AGESIC. Contiene información sobre acceso y uso de TIC, actitudes hacia las TIC, uso de servicios de e-Gobierno así como de otros aspectos vinculados a la temática. Es una encuesta representativa de la población mayor de 18 años y se realiza anualmente desde 2013.",
+        "etiquetas": [
+          "Agenda digital",
+          "CAP",
+          "Ciudadanía digital",
+          "Encuestas",
+          "Observatorio de la sociedad de la información"
+        ],
+        "grupos": [
+          "Desarrollo Social",
+          "Estadísticas"
+        ],
+        "creado": "2020-10-09T14:47:21.709593",
+        "modificado": "2024-07-09T15:19:09.040010",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "0ee0225f-a8d7-41c9-83de-0d09665b799a",
+            "nombre": "Cuestionario - Encuestas CAP - 2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a1b78ac3-13e0-4880-a0a4-4aafcf55aa7b/resource/0ee0225f-a8d7-41c9-83de-0d09665b799a/download/cuestionario-cap-2018.pdf",
+            "formato": "PDF",
+            "tamaño": 165034,
+            "creado": "2021-11-03T18:27:25.994834"
+          },
+          {
+            "id": "1aa1f871-ce33-4cbc-a872-ca6d4408b688",
+            "nombre": "Encuestas CAP - 2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a1b78ac3-13e0-4880-a0a4-4aafcf55aa7b/resource/1aa1f871-ce33-4cbc-a872-ca6d4408b688/download/cap_base_2018-para-publicar.sav",
+            "formato": "sav",
+            "tamaño": 131193,
+            "creado": "2021-11-03T18:28:28.457818"
+          },
+          {
+            "id": "cf810ec9-ac80-4bd3-8835-ca631568aadf",
+            "nombre": "Encuestas CAP - 2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a1b78ac3-13e0-4880-a0a4-4aafcf55aa7b/resource/cf810ec9-ac80-4bd3-8835-ca631568aadf/download/encuesta_cap_2018.csv",
+            "formato": "CSV",
+            "tamaño": 290937,
+            "creado": "2021-11-03T18:29:59.830864"
+          },
+          {
+            "id": "57b534ed-7eba-45e3-894c-486529b8493f",
+            "nombre": "Información de variables CAP - 2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a1b78ac3-13e0-4880-a0a4-4aafcf55aa7b/resource/57b534ed-7eba-45e3-894c-486529b8493f/download/informacion-variables_cap_2018.csv",
+            "formato": "CSV",
+            "tamaño": 11746,
+            "creado": "2021-11-03T18:35:39.737543"
+          },
+          {
+            "id": "ca057156-35ec-48f4-a326-d9ba584f4511",
+            "nombre": "Valor de variables CAP - 2018",
+            "url": "https://catalogodatos.gub.uy/dataset/a1b78ac3-13e0-4880-a0a4-4aafcf55aa7b/resource/ca057156-35ec-48f4-a326-d9ba584f4511/download/valor-variables_cap_2018.csv",
+            "formato": "CSV",
+            "tamaño": 10173,
+            "creado": "2021-11-03T18:37:05.864764"
+          },
+          {
+            "id": "ce05e9e6-649d-41bb-b75b-9465a3983da4",
+            "nombre": "Cuestionario - Encuestas CAP - 2020",
+            "url": "https://catalogodatos.gub.uy/dataset/a1b78ac3-13e0-4880-a0a4-4aafcf55aa7b/resource/ce05e9e6-649d-41bb-b75b-9465a3983da4/download/cuestionario-cap-2020.pdf",
+            "formato": "PDF",
+            "tamaño": 488717,
+            "creado": "2020-10-09T14:57:55.308578"
+          },
+          {
+            "id": "ce8d0547-ada8-4c18-936b-b4b2e172398a",
+            "nombre": "Encuestas CAP - 2020",
+            "url": "https://catalogodatos.gub.uy/dataset/a1b78ac3-13e0-4880-a0a4-4aafcf55aa7b/resource/ce8d0547-ada8-4c18-936b-b4b2e172398a/download/base-cap-2020.csv",
+            "formato": "CSV",
+            "tamaño": 254301,
+            "creado": "2020-10-09T14:56:39.515332"
+          },
+          {
+            "id": "06fc47bd-3267-470c-80d8-46451abc2750",
+            "nombre": "Diccionario de variables - 2020",
+            "url": "https://catalogodatos.gub.uy/dataset/a1b78ac3-13e0-4880-a0a4-4aafcf55aa7b/resource/06fc47bd-3267-470c-80d8-46451abc2750/download/diccionario-cap-2020.xlsx",
+            "formato": "XLSX",
+            "tamaño": 23794,
+            "creado": "2020-10-09T15:00:51.392838"
+          },
+          {
+            "id": "a4b5f5ff-6ff6-4ac1-ac3a-1ca195ee5c6e",
+            "nombre": "Cuestionario - Encuestas CAP - 2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a1b78ac3-13e0-4880-a0a4-4aafcf55aa7b/resource/a4b5f5ff-6ff6-4ac1-ac3a-1ca195ee5c6e/download/cuestionario-cap-2021.pdf",
+            "formato": "PDF",
+            "tamaño": 711531,
+            "creado": "2021-11-01T17:58:06.221544"
+          },
+          {
+            "id": "677c73be-b2a0-4f93-859a-48a0dcd343b9",
+            "nombre": "Encuestas CAP - 2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a1b78ac3-13e0-4880-a0a4-4aafcf55aa7b/resource/677c73be-b2a0-4f93-859a-48a0dcd343b9/download/base_encuesta_cap_2021-para-publicar.sav",
+            "formato": "sav",
+            "tamaño": 372144,
+            "creado": "2021-11-01T18:05:53.971354"
+          },
+          {
+            "id": "5bb590ac-9424-4111-9212-f031afb062ba",
+            "nombre": "Encuesta CAP - 2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a1b78ac3-13e0-4880-a0a4-4aafcf55aa7b/resource/5bb590ac-9424-4111-9212-f031afb062ba/download/encuesta_cap_2021.csv",
+            "formato": "CSV",
+            "tamaño": 407253,
+            "creado": "2021-11-01T18:15:55.793479"
+          },
+          {
+            "id": "92e97c7c-5401-4fcf-8dfd-210996a9d5fa",
+            "nombre": "Información de variables CAP - 2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a1b78ac3-13e0-4880-a0a4-4aafcf55aa7b/resource/92e97c7c-5401-4fcf-8dfd-210996a9d5fa/download/informacion-variables_cap_2021.csv",
+            "formato": "CSV",
+            "tamaño": 24159,
+            "creado": "2021-11-01T18:20:04.502893"
+          },
+          {
+            "id": "9a95666c-d492-45a4-8b84-ce30070a1a89",
+            "nombre": "Valor de variables CAP - 2021",
+            "url": "https://catalogodatos.gub.uy/dataset/a1b78ac3-13e0-4880-a0a4-4aafcf55aa7b/resource/9a95666c-d492-45a4-8b84-ce30070a1a89/download/valor-variables_cap_2021.csv",
+            "formato": "CSV",
+            "tamaño": 14639,
+            "creado": "2021-11-01T18:22:27.938545"
+          },
+          {
+            "id": "b86ab72b-1b18-4635-93e9-326ccc0fba56",
+            "nombre": "Cuestionario - Encuestas CAP - 2022",
+            "url": "https://catalogodatos.gub.uy/dataset/a1b78ac3-13e0-4880-a0a4-4aafcf55aa7b/resource/b86ab72b-1b18-4635-93e9-326ccc0fba56/download/cuestionario_cap_2022_vfinal.pdf",
+            "formato": "PDF",
+            "tamaño": 414074,
+            "creado": "2022-11-10T17:21:21.606033"
+          },
+          {
+            "id": "6a13ed30-42d8-45e9-9c5d-6bab1aadf6e0",
+            "nombre": "Encuestas CAP - 2022",
+            "url": "https://catalogodatos.gub.uy/dataset/a1b78ac3-13e0-4880-a0a4-4aafcf55aa7b/resource/6a13ed30-42d8-45e9-9c5d-6bab1aadf6e0/download/base_agesic_cap_2022_original.sav",
+            "formato": "SAV",
+            "tamaño": 2312804,
+            "creado": "2022-11-10T17:25:07.909736"
+          },
+          {
+            "id": "165f2c83-25a3-4612-abf9-ce01529010af",
+            "nombre": "Encuestas CAP - 2022",
+            "url": "https://catalogodatos.gub.uy/dataset/a1b78ac3-13e0-4880-a0a4-4aafcf55aa7b/resource/165f2c83-25a3-4612-abf9-ce01529010af/download/encuesta-cap-2022.csv",
+            "formato": "CSV",
+            "tamaño": 314111,
+            "creado": "2022-11-10T17:29:50.060608"
+          },
+          {
+            "id": "2d964911-0ed5-431a-b19b-3c867a44fd3e",
+            "nombre": "Información de variables CAP - 2022",
+            "url": "https://catalogodatos.gub.uy/dataset/a1b78ac3-13e0-4880-a0a4-4aafcf55aa7b/resource/2d964911-0ed5-431a-b19b-3c867a44fd3e/download/informacion-variables-cap-2022.csv",
+            "formato": "CSV",
+            "tamaño": 14086,
+            "creado": "2022-11-10T17:31:05.864613"
+          },
+          {
+            "id": "78a1d074-a928-47f1-98a2-78ebd88dae92",
+            "nombre": "Valor de variables CAP - 2022",
+            "url": "https://catalogodatos.gub.uy/dataset/a1b78ac3-13e0-4880-a0a4-4aafcf55aa7b/resource/78a1d074-a928-47f1-98a2-78ebd88dae92/download/valor-variables-cap-2022.csv",
+            "formato": "CSV",
+            "tamaño": 8875,
+            "creado": "2022-11-10T17:32:48.315395"
+          },
+          {
+            "id": "ee470534-2e7c-4aba-8c1f-05105faf0944",
+            "nombre": "Cuestionario - Encuestas CAP - 2024",
+            "url": "https://catalogodatos.gub.uy/dataset/a1b78ac3-13e0-4880-a0a4-4aafcf55aa7b/resource/ee470534-2e7c-4aba-8c1f-05105faf0944/download/cuestionario-cap_2024.pdf",
+            "formato": "PDF",
+            "tamaño": 1191349,
+            "creado": "2024-07-09T14:56:40.432790"
+          },
+          {
+            "id": "58348e7b-5a0b-491c-8a0a-8474c7c300a1",
+            "nombre": "Cuestionario - Encuestas CAP - 2024",
+            "url": "https://catalogodatos.gub.uy/dataset/a1b78ac3-13e0-4880-a0a4-4aafcf55aa7b/resource/58348e7b-5a0b-491c-8a0a-8474c7c300a1/download/cuestionario-cap_2024.xls",
+            "formato": "XLSX",
+            "tamaño": 170496,
+            "creado": "2024-07-09T14:57:11.457249"
+          },
+          {
+            "id": "f82e59c9-f2c8-45a6-ac6c-2f9f4549ac49",
+            "nombre": "Encuestas CAP - 2024",
+            "url": "https://catalogodatos.gub.uy/dataset/a1b78ac3-13e0-4880-a0a4-4aafcf55aa7b/resource/f82e59c9-f2c8-45a6-ac6c-2f9f4549ac49/download/cap-agesic-2024.csv",
+            "formato": "CSV",
+            "tamaño": 672582,
+            "creado": "2024-07-09T14:58:02.886544"
+          },
+          {
+            "id": "bf31d971-38df-40db-9541-0168dd55ef10",
+            "nombre": "Encuestas CAP - 2024",
+            "url": "https://catalogodatos.gub.uy/dataset/a1b78ac3-13e0-4880-a0a4-4aafcf55aa7b/resource/bf31d971-38df-40db-9541-0168dd55ef10/download/cap-agesic-2024.sav",
+            "formato": "SAV",
+            "tamaño": 1162775,
+            "creado": "2024-07-09T14:58:27.513613"
+          },
+          {
+            "id": "944d712e-c811-45ea-9bba-2d05b4eb0730",
+            "nombre": "Información de variables CAP - 2024",
+            "url": "https://catalogodatos.gub.uy/dataset/a1b78ac3-13e0-4880-a0a4-4aafcf55aa7b/resource/944d712e-c811-45ea-9bba-2d05b4eb0730/download/metadatos-cap-2024-informacion-de-variables.csv",
+            "formato": "CSV",
+            "tamaño": 13662,
+            "creado": "2024-07-09T15:18:46.392114"
+          },
+          {
+            "id": "7d2e136a-f4eb-451f-9737-f2d2bb2b3502",
+            "nombre": "Valor de variables CAP - 2024",
+            "url": "https://catalogodatos.gub.uy/dataset/a1b78ac3-13e0-4880-a0a4-4aafcf55aa7b/resource/7d2e136a-f4eb-451f-9737-f2d2bb2b3502/download/metadatos-cap-2024-valores-de-variable.csv",
+            "formato": "CSV",
+            "tamaño": 12840,
+            "creado": "2024-07-09T15:14:30.199654"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:55.132Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/agesic-encuestas-cap",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "a50ff529c331d1f3c25ce2cce983f48782b02eee1fbe30b37206a63c327a2a0d"
+        }
+      },
+      {
+        "id": "39647e1a-9669-44bb-b611-76ccf625be28",
+        "nombre": "Informes de avances del Cuarto Plan de Acción Nacional de Gobierno Abierto 2018-2020",
+        "slug": "agesic-informes-de-avances-del-cuarto-plan-de-accion-nacional-de-gobierno-abierto-2018-2020",
+        "organismo": {
+          "id": "agesic",
+          "nombre": "AGESIC",
+          "tipo": "organization"
+        },
+        "descripcion": "En el 4° Plan de Acción Nacional de Gobierno Abierto 2018-2020, Uruguay establece 39 compromisos de 28 instituciones del Estado, que se encuentran agrupados en 11 ejes temáticos, 21 de los compromisos integran demandas totales o parciales de actores de la sociedad civil que participaron de las actividades del proceso de cocreación, o integran demanda presentadas a través de la plataforma de gestión de propuestas.\r\nSe realizarán semestralmente Informes de seguimiento de avances de los compromisos, y dos Informes de auto evaluación país, siendo uno de medio término,  correspondiente al prime año de implementación, y el otro es el informe final, correspondiente al segundo año de ejecución final, el cual deberá informar sobre los resultados finales y lecciones aprendidas.",
+        "etiquetas": [
+          "Gobierno Abierto",
+          "Plan de acción Nacional de Gobierno Abierto"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-04-29T14:57:32.910747",
+        "modificado": "2024-06-21T14:19:57.277448",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "db286036-b5fe-42c1-ba90-4fe3b5f8e605",
+            "nombre": "Primer Informe de seguimiento Marzo 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/39647e1a-9669-44bb-b611-76ccf625be28/resource/db286036-b5fe-42c1-ba90-4fe3b5f8e605/download/planilla_seguimiento_metas_datos_marzo-2019.csv",
+            "formato": "CSV",
+            "tamaño": 68933,
+            "creado": "2019-04-29T17:22:29.029080"
+          },
+          {
+            "id": "fa233f67-cb04-425d-82ac-186feed921ac",
+            "nombre": "Metadatos",
+            "url": "https://catalogodatos.gub.uy/dataset/39647e1a-9669-44bb-b611-76ccf625be28/resource/fa233f67-cb04-425d-82ac-186feed921ac/download/planilla_seguimiento_metadatos_marzo-2019.csv",
+            "formato": "CSV",
+            "tamaño": 4983,
+            "creado": "2019-04-29T17:24:20.491400"
+          },
+          {
+            "id": "5272d33c-f4e1-4c78-81e9-55aeb991a62b",
+            "nombre": "Primer informe de autoevaluación país ante OGP - Setiembre 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/39647e1a-9669-44bb-b611-76ccf625be28/resource/5272d33c-f4e1-4c78-81e9-55aeb991a62b/download/planilla_seguimiento_metas_datos_setiembre-2019.csv",
+            "formato": "CSV",
+            "tamaño": 19971071,
+            "creado": "2019-11-13T19:16:02.259985"
+          },
+          {
+            "id": "5b2653b9-fe87-4d3c-adf0-b7793e09e6b3",
+            "nombre": "Segundo Informe de Seguimiento - Diciembre 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/39647e1a-9669-44bb-b611-76ccf625be28/resource/5b2653b9-fe87-4d3c-adf0-b7793e09e6b3/download/planilla_seguimiento_metas_datos_diciembre-2019.csv",
+            "formato": "CSV",
+            "tamaño": 49037,
+            "creado": "2020-01-09T14:56:03.146558"
+          },
+          {
+            "id": "d7e771fd-df22-4aba-b4ad-5fecba0a07bf",
+            "nombre": "Tercer Informe de Seguimiento - Marzo 2020",
+            "url": "https://catalogodatos.gub.uy/dataset/39647e1a-9669-44bb-b611-76ccf625be28/resource/d7e771fd-df22-4aba-b4ad-5fecba0a07bf/download/planilla_seguimiento_metas_datos_marzo-2020.csv",
+            "formato": "CSV",
+            "tamaño": 50497,
+            "creado": "2020-03-20T20:09:45.738064"
+          },
+          {
+            "id": "dd3e6359-6135-4b6a-a8b3-7cc983569ed9",
+            "nombre": "Cuarto Informe de Seguimiento - Julio 2020",
+            "url": "https://catalogodatos.gub.uy/dataset/39647e1a-9669-44bb-b611-76ccf625be28/resource/dd3e6359-6135-4b6a-a8b3-7cc983569ed9/download/planilla_seguimiento_metas_datos_julio-2020.csv",
+            "formato": "CSV",
+            "tamaño": 52582,
+            "creado": "2020-08-12T16:08:47.546468"
+          },
+          {
+            "id": "2868a274-b5a3-4c46-8561-f8775437fbc7",
+            "nombre": "Informe final de Autoevaluación país del 4° Plan de Acción Nacional de Gobierno  Abierto 2018-2020.",
+            "url": "https://catalogodatos.gub.uy/dataset/39647e1a-9669-44bb-b611-76ccf625be28/resource/2868a274-b5a3-4c46-8561-f8775437fbc7/download/planilla_seguimiento_metas_datos_abril-2021.csv",
+            "formato": "CSV",
+            "tamaño": 51180,
+            "creado": "2021-04-28T20:18:13.025307"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:55.132Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/agesic-informes-de-avances-del-cuarto-plan-de-accion-nacional-de-gobierno-abierto-2018-2020",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "813006b69f3b64af1f2a789047e9e084529a669211d5300f059f670977c46e98"
+        }
+      },
+      {
+        "id": "e33f3d3e-a8ed-479c-b679-a7510bef5057",
+        "nombre": "Creación de Empresas a través de Empresa en el Dia",
+        "slug": "agesic-creacion-de-empresas-a-traves-de-empresa-en-el-dia",
+        "organismo": {
+          "id": "agesic",
+          "nombre": "AGESIC",
+          "tipo": "organization"
+        },
+        "descripcion": "Cantidad de empresas creadas, en el mes de referencia, entre los años 2017 - 2019, a través del sistema de Empresa en el día, discriminado por departamento (Salto, Montevideo) donde se cuenta con oficina.",
+        "etiquetas": [
+          "apertura de empresas",
+          "empresas",
+          "sa",
+          "sociedad de hecho"
+        ],
+        "grupos": [
+          "Economía",
+          "Trabajo"
+        ],
+        "creado": "2017-12-14T18:17:52.054895",
+        "modificado": "2021-08-31T14:07:39.211547",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "70f1d128-f184-452b-8a0c-e3f53b19ee36",
+            "nombre": "Inscripciones Enero 2017 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/70f1d128-f184-452b-8a0c-e3f53b19ee36/download/salto-enero-2017.csv",
+            "formato": "CSV",
+            "tamaño": 382,
+            "creado": "2017-12-14T18:19:27.866528"
+          },
+          {
+            "id": "4d03528a-3f23-4297-9bd9-279503e595f0",
+            "nombre": "Inscripciones Enero 2017 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/4d03528a-3f23-4297-9bd9-279503e595f0/download/montevideo-enero-2017.csv",
+            "formato": "CSV",
+            "tamaño": 4218,
+            "creado": "2017-12-18T14:41:51.297609"
+          },
+          {
+            "id": "48ae92e4-1ab0-454c-9a55-2bf422d64203",
+            "nombre": "Inscripciones Febrero 2017 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/48ae92e4-1ab0-454c-9a55-2bf422d64203/download/salto-febrero-2017.csv",
+            "formato": "CSV",
+            "tamaño": 1402,
+            "creado": "2017-12-14T18:23:50.024193"
+          },
+          {
+            "id": "b6629a0a-5230-443f-a318-3bd03d6e8467",
+            "nombre": "Inscripciones Febrero 2017 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/b6629a0a-5230-443f-a318-3bd03d6e8467/download/montevideo-febrero-2017.csv",
+            "formato": "CSV",
+            "tamaño": 3844,
+            "creado": "2017-12-18T14:43:00.105764"
+          },
+          {
+            "id": "f68b7971-12b3-4859-b921-d81361f7ee8d",
+            "nombre": "Inscripciones Marzo 2017 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/f68b7971-12b3-4859-b921-d81361f7ee8d/download/salto-marzo-2017.csv",
+            "formato": "CSV",
+            "tamaño": 1555,
+            "creado": "2017-12-14T18:25:44.249087"
+          },
+          {
+            "id": "603bc9fa-f194-4889-a4da-239a3aabe78f",
+            "nombre": "Inscripciones Marzo 2017 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/603bc9fa-f194-4889-a4da-239a3aabe78f/download/montevideo-marzo-2017.csv",
+            "formato": "CSV",
+            "tamaño": 10052,
+            "creado": "2017-12-18T14:44:12.997126"
+          },
+          {
+            "id": "59daf125-69ed-4da3-8b52-7ff9e2c3c860",
+            "nombre": "Inscripciones Abril 2017 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/59daf125-69ed-4da3-8b52-7ff9e2c3c860/download/salto-abril-2017.csv",
+            "formato": "CSV",
+            "tamaño": 880,
+            "creado": "2017-12-14T18:26:42.197735"
+          },
+          {
+            "id": "9e9bfb50-47b4-4ad6-b335-214d6ee33c2d",
+            "nombre": "Inscripciones Abril 2017 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/9e9bfb50-47b4-4ad6-b335-214d6ee33c2d/download/montevideo-abril-2017.csv",
+            "formato": "CSV",
+            "tamaño": 8921,
+            "creado": "2017-12-18T14:45:28.377215"
+          },
+          {
+            "id": "a899f60e-898c-4720-8c4d-436b48d38c81",
+            "nombre": "Inscripciones Mayo 2017 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/a899f60e-898c-4720-8c4d-436b48d38c81/download/salto-mayo-2017.csv",
+            "formato": "CSV",
+            "tamaño": 1581,
+            "creado": "2017-12-14T18:28:00.848302"
+          },
+          {
+            "id": "b28491da-8ae3-45a5-8587-549877db8553",
+            "nombre": "Inscripciones Mayo 2017 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/b28491da-8ae3-45a5-8587-549877db8553/download/montevideo-mayo-2017.csv",
+            "formato": "CSV",
+            "tamaño": 13393,
+            "creado": "2017-12-18T14:46:28.738572"
+          },
+          {
+            "id": "f9ec50e5-b760-4b25-9a48-2ec7aa763a70",
+            "nombre": "Inscripciones Junio 2017 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/f9ec50e5-b760-4b25-9a48-2ec7aa763a70/download/salto-junio-2017.csv",
+            "formato": "CSV",
+            "tamaño": 1404,
+            "creado": "2017-12-14T18:28:49.560914"
+          },
+          {
+            "id": "d203db0d-dc68-4161-a2ef-e7abd060bbea",
+            "nombre": "Inscripciones Junio 2017 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/d203db0d-dc68-4161-a2ef-e7abd060bbea/download/montevideo-junio-2017.csv",
+            "formato": "CSV",
+            "tamaño": 9846,
+            "creado": "2017-12-18T14:48:38.970085"
+          },
+          {
+            "id": "7f288b16-875f-4cd4-97c8-6f9149514b1b",
+            "nombre": "Inscripciones Julio 2017 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/7f288b16-875f-4cd4-97c8-6f9149514b1b/download/salto-julio-2017.csv",
+            "formato": "CSV",
+            "tamaño": 1465,
+            "creado": "2017-12-14T18:29:31.625381"
+          },
+          {
+            "id": "0fe8966a-bcab-4bd0-b10a-5ef3f40c1160",
+            "nombre": "Inscripciones Julio 2017 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/0fe8966a-bcab-4bd0-b10a-5ef3f40c1160/download/montevideo-julio-2017.csv",
+            "formato": "CSV",
+            "tamaño": 9903,
+            "creado": "2017-12-18T14:49:26.748177"
+          },
+          {
+            "id": "97db7182-76a1-42d8-af12-51655bcb02b2",
+            "nombre": "Inscripciones Agosto 2017 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/97db7182-76a1-42d8-af12-51655bcb02b2/download/salto-agosto-2017.csv",
+            "formato": "CSV",
+            "tamaño": 1625,
+            "creado": "2017-12-14T18:30:32.039401"
+          },
+          {
+            "id": "528dd1f5-5d40-4c97-a7c4-6a2f6d186eea",
+            "nombre": "Inscripciones Agosto 2017 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/528dd1f5-5d40-4c97-a7c4-6a2f6d186eea/download/montevideo-agosto-2017.csv",
+            "formato": "CSV",
+            "tamaño": 10104,
+            "creado": "2017-12-18T14:50:20.229548"
+          },
+          {
+            "id": "84f32643-2b1c-4079-9d15-2f7196ee3d38",
+            "nombre": "Inscripciones Setiembre 2017 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/84f32643-2b1c-4079-9d15-2f7196ee3d38/download/salto-setiembre-2017.csv",
+            "formato": "CSV",
+            "tamaño": 1686,
+            "creado": "2017-12-14T18:33:05.567179"
+          },
+          {
+            "id": "4ea41831-8208-469b-bc92-b702a83bec24",
+            "nombre": "Inscripciones Setiembre 2017 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/4ea41831-8208-469b-bc92-b702a83bec24/download/montevideo-setiembre-2017.csv",
+            "formato": "CSV",
+            "tamaño": 7150,
+            "creado": "2017-12-18T14:51:07.264001"
+          },
+          {
+            "id": "53fe7262-8bc5-4658-92c3-431b574f3697",
+            "nombre": "Inscripciones Octubre 2017 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/53fe7262-8bc5-4658-92c3-431b574f3697/download/salto-octubre-2017.csv",
+            "formato": "CSV",
+            "tamaño": 2053,
+            "creado": "2017-12-14T18:31:29.202279"
+          },
+          {
+            "id": "393cb90d-f7f4-4892-a9b5-229d12fd087b",
+            "nombre": "Inscripciones Octubre 2017 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/393cb90d-f7f4-4892-a9b5-229d12fd087b/download/montevideo-octubre-2017.csv",
+            "formato": "CSV",
+            "tamaño": 7383,
+            "creado": "2017-12-18T14:51:58.835915"
+          },
+          {
+            "id": "65319243-83b9-4aab-8603-038dad8c1b01",
+            "nombre": "Inscripciones Noviembre 2017 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/65319243-83b9-4aab-8603-038dad8c1b01/download/salto-noviembre-2017.csv",
+            "formato": "CSV",
+            "tamaño": 1531,
+            "creado": "2017-12-14T18:32:11.413642"
+          },
+          {
+            "id": "98101322-e5ec-4106-bf1f-c8d2b69e8d9f",
+            "nombre": "Inscripciones Noviembre 2017 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/98101322-e5ec-4106-bf1f-c8d2b69e8d9f/download/montevideo-noviembre-2017.csv",
+            "formato": "CSV",
+            "tamaño": 5527,
+            "creado": "2017-12-18T14:52:44.259746"
+          },
+          {
+            "id": "3fc85085-884d-4436-af7e-ab3c0ec6b170",
+            "nombre": "Inscripciones Diciembre 2017 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/3fc85085-884d-4436-af7e-ab3c0ec6b170/download/salto-diciembre-2017.csv",
+            "formato": "CSV",
+            "tamaño": 1113,
+            "creado": "2018-01-05T16:50:14.325317"
+          },
+          {
+            "id": "6844af34-d341-457c-86c8-f184104d265e",
+            "nombre": "Inscripciones Diciembre 2017 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/6844af34-d341-457c-86c8-f184104d265e/download/montevideo-diciembre-2017.csv",
+            "formato": "CSV",
+            "tamaño": 4824,
+            "creado": "2018-01-05T16:53:51.538863"
+          },
+          {
+            "id": "eb10ad6f-900e-4570-9cda-db50dc90ac3a",
+            "nombre": "Inscripciones Enero 2018 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/eb10ad6f-900e-4570-9cda-db50dc90ac3a/download/salto-enero.csv",
+            "formato": "CSV",
+            "tamaño": 978,
+            "creado": "2018-02-16T13:29:57.872721"
+          },
+          {
+            "id": "7ffd40c7-e898-466d-b326-cd1f91bcc62f",
+            "nombre": "Inscripciones Enero 2018 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/7ffd40c7-e898-466d-b326-cd1f91bcc62f/download/montevideo-enero.csv",
+            "formato": "CSV",
+            "tamaño": 5692,
+            "creado": "2018-02-16T13:29:02.578859"
+          },
+          {
+            "id": "e5cb87be-0d7a-42c6-ad99-b295be82b97f",
+            "nombre": "Inscripciones Febrero 2018 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/e5cb87be-0d7a-42c6-ad99-b295be82b97f/download/datos-abiertos-salto-febrero-18.csv",
+            "formato": "CSV",
+            "tamaño": 636,
+            "creado": "2018-03-05T12:47:29.875276"
+          },
+          {
+            "id": "4338e808-1879-4b85-9acd-f2748557841a",
+            "nombre": "Inscripciones Febrero 2018 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/4338e808-1879-4b85-9acd-f2748557841a/download/datos-abiertos-mdeo-febrero-2018.csv",
+            "formato": "CSV",
+            "tamaño": 2394,
+            "creado": "2018-03-05T12:46:22.855268"
+          },
+          {
+            "id": "e8a8652b-2f8d-4850-86f2-aa2e1a0e1d8e",
+            "nombre": "Inscripciones Marzo 2018 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/e8a8652b-2f8d-4850-86f2-aa2e1a0e1d8e/download/inscripciones-marzo-2018-salto.csv",
+            "formato": "CSV",
+            "tamaño": 1364,
+            "creado": "2018-04-06T21:14:55.652990"
+          },
+          {
+            "id": "dea16efe-d84d-41d6-b6b0-5bce073cacc9",
+            "nombre": "Inscripciones Marzo 2018 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/dea16efe-d84d-41d6-b6b0-5bce073cacc9/download/inscripciones-marzo-2018-montevideo.csv",
+            "formato": "CSV",
+            "tamaño": 3250,
+            "creado": "2018-04-06T19:08:38.340027"
+          },
+          {
+            "id": "ab6db027-86e0-4b19-af71-c4b2ae0cd4e6",
+            "nombre": "Inscripciones Abril 2018 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/ab6db027-86e0-4b19-af71-c4b2ae0cd4e6/download/mdeo-abril-.csv",
+            "formato": "CSV",
+            "tamaño": 5713,
+            "creado": "2018-05-09T12:39:55.225172"
+          },
+          {
+            "id": "d6ece082-04a4-4948-8f9c-adc608710873",
+            "nombre": "Inscripciones Abril 2018 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/d6ece082-04a4-4948-8f9c-adc608710873/download/salto-abril-.csv",
+            "formato": "CSV",
+            "tamaño": 2335,
+            "creado": "2018-05-09T12:38:18.367327"
+          },
+          {
+            "id": "4313eb42-2252-491d-af13-e61b0632c53b",
+            "nombre": "Inscripciones Mayo 2018 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/4313eb42-2252-491d-af13-e61b0632c53b/download/salto-mayo-.csv",
+            "formato": "CSV",
+            "tamaño": 1385,
+            "creado": "2018-06-07T20:31:01.963071"
+          },
+          {
+            "id": "28da2f21-0403-4cfb-94d9-31be36e43a9b",
+            "nombre": "Inscripciones Mayo 2018 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/28da2f21-0403-4cfb-94d9-31be36e43a9b/download/mdeo-mayo.csv",
+            "formato": "CSV",
+            "tamaño": 5017,
+            "creado": "2018-06-07T20:29:58.685842"
+          },
+          {
+            "id": "d14911ec-fec5-4fe4-853f-d84b542b4dc3",
+            "nombre": "Inscripciones Junio 2018 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/d14911ec-fec5-4fe4-853f-d84b542b4dc3/download/062018_datos-abiertos-salto.csv",
+            "formato": "CSV",
+            "tamaño": 1140,
+            "creado": "2018-07-11T17:08:21.880661"
+          },
+          {
+            "id": "f607c482-bc3e-4712-b29c-85ebdf7dffa2",
+            "nombre": "Inscripciones Junio 2018 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/f607c482-bc3e-4712-b29c-85ebdf7dffa2/download/062018_datos-abiertos-montevideo.csv",
+            "formato": "CSV",
+            "tamaño": 3282,
+            "creado": "2018-07-11T17:08:55.901099"
+          },
+          {
+            "id": "bfc8b8b9-f6fd-4bc8-bcc4-ca78556781e5",
+            "nombre": "Inscripciones Junio 2018 - Maldonado",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/bfc8b8b9-f6fd-4bc8-bcc4-ca78556781e5/download/062018_datos-abiertos-maldonado.csv",
+            "formato": "CSV",
+            "tamaño": 886,
+            "creado": "2018-07-10T13:56:10.252079"
+          },
+          {
+            "id": "55586457-364c-493b-8bde-30e00ccd98b5",
+            "nombre": "Inscripciones Julio 2018 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/55586457-364c-493b-8bde-30e00ccd98b5/download/072018_datos-abiertos-salto.csv",
+            "formato": "CSV",
+            "tamaño": 1848,
+            "creado": "2018-08-02T18:30:38.739102"
+          },
+          {
+            "id": "001ff957-c622-4d91-9cb1-39bed5228f6f",
+            "nombre": "Inscripciones Julio 2018 - Maldonado",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/001ff957-c622-4d91-9cb1-39bed5228f6f/download/072018_datos-abiertos-maldonado.csv",
+            "formato": "CSV",
+            "tamaño": 1283,
+            "creado": "2018-08-02T18:28:03.836845"
+          },
+          {
+            "id": "983779b8-405d-40ba-a309-4c40726ef610",
+            "nombre": "Inscripciones Julio 2018 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/983779b8-405d-40ba-a309-4c40726ef610/download/072018_datos-abiertos-montevideo.csv",
+            "formato": "CSV",
+            "tamaño": 2962,
+            "creado": "2018-08-02T18:29:44.768069"
+          },
+          {
+            "id": "63a60311-a53e-4bf5-ab66-545e23dfe7b9",
+            "nombre": "Inscripciones Agosto 2018 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/63a60311-a53e-4bf5-ab66-545e23dfe7b9/download/082018_datos-abiertos-salto.csv",
+            "formato": "CSV",
+            "tamaño": 1856,
+            "creado": "2018-09-06T13:51:02.301354"
+          },
+          {
+            "id": "a5e7ce73-a95f-47d0-8962-425815e924d6",
+            "nombre": "Inscripciones Agosto 2018 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/a5e7ce73-a95f-47d0-8962-425815e924d6/download/082018_datos-abiertos-montevideo.csv",
+            "formato": "CSV",
+            "tamaño": 3411,
+            "creado": "2018-09-06T13:52:08.641395"
+          },
+          {
+            "id": "2b7ca4b4-8a59-4ae7-aad3-4bfa505e9942",
+            "nombre": "Inscripciones Agosto 2018 - Maldonado",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/2b7ca4b4-8a59-4ae7-aad3-4bfa505e9942/download/082018_datos-abiertos-maldonado.csv",
+            "formato": "CSV",
+            "tamaño": 2100,
+            "creado": "2018-09-06T13:52:49.724531"
+          },
+          {
+            "id": "c70ec57a-f61f-41b1-ac62-598b579bdc0f",
+            "nombre": "Inscripciones Setiembre 2018 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/c70ec57a-f61f-41b1-ac62-598b579bdc0f/download/092018_datos-abiertos-salto.csv",
+            "formato": "CSV",
+            "tamaño": 1285,
+            "creado": "2018-10-09T15:03:51.357744"
+          },
+          {
+            "id": "77b2d90a-248c-4303-a298-402b015c7c45",
+            "nombre": "Inscripciones Setiembre 2018 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/77b2d90a-248c-4303-a298-402b015c7c45/download/092018_datos-abiertos-montevideo.csv",
+            "formato": "CSV",
+            "tamaño": 1661,
+            "creado": "2018-10-09T15:06:50.087357"
+          },
+          {
+            "id": "8df2fa93-ec4c-4fdb-b95f-aa177607f05a",
+            "nombre": "Inscripciones Setiembre 2018 - Maldonado",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/8df2fa93-ec4c-4fdb-b95f-aa177607f05a/download/092018_datos-abiertos-maldonado.csv",
+            "formato": "CSV",
+            "tamaño": 1500,
+            "creado": "2018-10-09T15:03:09.343801"
+          },
+          {
+            "id": "7146bbb2-8148-46ec-b5dc-e1806cab7dc9",
+            "nombre": "Inscripciones Octubre 2018 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/7146bbb2-8148-46ec-b5dc-e1806cab7dc9/download/102018_datos-abiertos-salto.csv",
+            "formato": "CSV",
+            "tamaño": 1729,
+            "creado": "2018-11-19T18:24:13.241175"
+          },
+          {
+            "id": "aa191ffe-9a59-42b5-88ff-34f5ee254223",
+            "nombre": "Inscripciones Octubre 2018 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/aa191ffe-9a59-42b5-88ff-34f5ee254223/download/102018_datos-abiertos-montevideo.csv",
+            "formato": "CSV",
+            "tamaño": 2261,
+            "creado": "2018-11-19T18:23:56.920761"
+          },
+          {
+            "id": "592d99d1-dc10-425a-9052-dc38e9c653c2",
+            "nombre": "Inscripciones Octubre 2018 - Maldonado",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/592d99d1-dc10-425a-9052-dc38e9c653c2/download/102018_datos-abiertos-maldonado.csv",
+            "formato": "CSV",
+            "tamaño": 1668,
+            "creado": "2018-11-19T18:23:27.807634"
+          },
+          {
+            "id": "ffcc875a-a1f5-4b77-a432-11065890de2d",
+            "nombre": "Inscripciones Noviembre 2018 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/ffcc875a-a1f5-4b77-a432-11065890de2d/download/112018_datos-abiertos-salto.csv",
+            "formato": "CSV",
+            "tamaño": 1324,
+            "creado": "2018-12-06T18:09:47.585440"
+          },
+          {
+            "id": "a2a256f5-7c84-40db-8588-5931af56b4a9",
+            "nombre": "Inscripciones Noviembre 2018 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/a2a256f5-7c84-40db-8588-5931af56b4a9/download/112018_datos-abiertos-montevideo.csv",
+            "formato": "CSV",
+            "tamaño": 1075,
+            "creado": "2018-12-06T18:05:03.335973"
+          },
+          {
+            "id": "88834ff7-21a7-46d0-988b-1b04e32ccd81",
+            "nombre": "Inscripciones Noviembre 2018 - Maldonado",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/88834ff7-21a7-46d0-988b-1b04e32ccd81/download/112018_datos-abiertos-maldonado.csv",
+            "formato": "CSV",
+            "tamaño": 673,
+            "creado": "2018-12-06T18:07:24.507357"
+          },
+          {
+            "id": "01e2f38d-717e-49ce-98ea-619536b4c8c1",
+            "nombre": "Inscripciones Diciembre 2018 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/01e2f38d-717e-49ce-98ea-619536b4c8c1/download/122018_datos-abiertos-salto.csv",
+            "formato": "CSV",
+            "tamaño": 1268,
+            "creado": "2019-01-02T19:37:33.583082"
+          },
+          {
+            "id": "40baceaf-012f-43e9-b9cf-acdec65147e4",
+            "nombre": "Inscripciones Diciembre 2018 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/40baceaf-012f-43e9-b9cf-acdec65147e4/download/122018_datos-abiertos-montevideo.csv",
+            "formato": "CSV",
+            "tamaño": 889,
+            "creado": "2019-01-02T19:38:33.727960"
+          },
+          {
+            "id": "9d826943-c626-414b-8d60-44a26ad7aa3d",
+            "nombre": "Inscripciones Diciembre 2018 - Maldonado",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/9d826943-c626-414b-8d60-44a26ad7aa3d/download/122018_datos-abiertos-maldonado.csv",
+            "formato": "CSV",
+            "tamaño": 2014,
+            "creado": "2019-01-02T19:39:08.556702"
+          },
+          {
+            "id": "f152da4e-580f-4e29-9ff8-04ff5c3c4f0f",
+            "nombre": "Inscripciones Enero 2019 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/f152da4e-580f-4e29-9ff8-04ff5c3c4f0f/download/012019_datos-abiertos-salto.csv",
+            "formato": "CSV",
+            "tamaño": 754,
+            "creado": "2019-02-05T12:51:00.154771"
+          },
+          {
+            "id": "cdde0ba4-1a5e-473d-b6f8-9918fffab9b0",
+            "nombre": "Inscripciones Enero 2019 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/cdde0ba4-1a5e-473d-b6f8-9918fffab9b0/download/012019_datos-abiertos-montevideo.csv",
+            "formato": "CSV",
+            "tamaño": 1476,
+            "creado": "2019-02-05T12:49:51.277555"
+          },
+          {
+            "id": "6c30ef50-2bce-4b13-b530-10bc103d8dc7",
+            "nombre": "Inscripciones Enero 2019 - Maldonado",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/6c30ef50-2bce-4b13-b530-10bc103d8dc7/download/012019_datos-abiertos-maldonado.csv",
+            "formato": "CSV",
+            "tamaño": 633,
+            "creado": "2019-02-05T12:50:27.498637"
+          },
+          {
+            "id": "236df74b-065d-4f59-87e3-a2340e8a368e",
+            "nombre": "Inscripciones Febrero 2019 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/236df74b-065d-4f59-87e3-a2340e8a368e/download/022019_datos-abiertos-salto.csv",
+            "formato": "CSV",
+            "tamaño": 1230,
+            "creado": "2019-03-11T17:51:45.252404"
+          },
+          {
+            "id": "f9b6638c-df20-40b3-b09c-66f5804b9c72",
+            "nombre": "Inscripciones Febrero 2019 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/f9b6638c-df20-40b3-b09c-66f5804b9c72/download/022019_datos-abiertos-montevideo.csv",
+            "formato": "CSV",
+            "tamaño": 992,
+            "creado": "2019-03-11T17:51:04.589922"
+          },
+          {
+            "id": "c9519dbb-6ff6-41e8-9239-5f995be67439",
+            "nombre": "Inscripciones Febrero 2019 - Maldonado",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/c9519dbb-6ff6-41e8-9239-5f995be67439/download/022019_datos-abiertos-maldonado.csv",
+            "formato": "CSV",
+            "tamaño": 1047,
+            "creado": "2019-03-11T17:50:35.359510"
+          },
+          {
+            "id": "5e239aeb-867e-4aa3-a7d7-4a2eb4cab28d",
+            "nombre": "Inscripciones Marzo 2019 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/5e239aeb-867e-4aa3-a7d7-4a2eb4cab28d/download/032019_datos-abiertos-salto.csv",
+            "formato": "CSV",
+            "tamaño": 653,
+            "creado": "2019-04-01T17:46:24.792761"
+          },
+          {
+            "id": "4200a4c3-c710-4d07-a2d4-02e50ff811a5",
+            "nombre": "Inscripciones Marzo 2019 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/4200a4c3-c710-4d07-a2d4-02e50ff811a5/download/032019_datos-abiertos-montevideo.csv",
+            "formato": "CSV",
+            "tamaño": 1141,
+            "creado": "2019-04-01T17:46:01.064059"
+          },
+          {
+            "id": "078ade1d-039a-4498-a6e1-342cc3b6d2d3",
+            "nombre": "Inscripciones Marzo 2019 - Maldonado",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/078ade1d-039a-4498-a6e1-342cc3b6d2d3/download/032019_datos-abiertos-maldonado.csv",
+            "formato": "CSV",
+            "tamaño": 1284,
+            "creado": "2019-04-01T17:45:32.199819"
+          },
+          {
+            "id": "d314556d-0fc5-4472-a4f0-a549d5035d1c",
+            "nombre": "Inscripciones Abril 2019 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/d314556d-0fc5-4472-a4f0-a549d5035d1c/download/042019_datos-abiertos-salto.csv",
+            "formato": "CSV",
+            "tamaño": 1573,
+            "creado": "2019-05-03T11:56:25.835854"
+          },
+          {
+            "id": "66768137-0f79-436e-824c-7c03fc7a7865",
+            "nombre": "Inscripciones Abril 2019 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/66768137-0f79-436e-824c-7c03fc7a7865/download/042019_datos-abiertos-montevideo.csv",
+            "formato": "CSV",
+            "tamaño": 825,
+            "creado": "2019-05-03T11:58:02.967111"
+          },
+          {
+            "id": "51745092-5196-4cda-b80c-15c4fd5f7f2b",
+            "nombre": "Inscripciones Abril 2019 - Maldonado",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/51745092-5196-4cda-b80c-15c4fd5f7f2b/download/042019_datos-abiertos-maldonado.csv",
+            "formato": "CSV",
+            "tamaño": 1282,
+            "creado": "2019-05-03T11:55:52.458352"
+          },
+          {
+            "id": "2dbe260c-ce0b-401c-8d31-1636e18fb780",
+            "nombre": "Inscripciones de empresas Mayo 2019 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/2dbe260c-ce0b-401c-8d31-1636e18fb780/download/inscripciones-de-empresas-en-salto_052019.csv",
+            "formato": "CSV",
+            "tamaño": 1003,
+            "creado": "2020-05-19T16:21:03.163254"
+          },
+          {
+            "id": "5cd81fde-239d-49e0-9f25-9ef969874596",
+            "nombre": "Inscripciones empresas Mayo 2019 - Maldonado",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/5cd81fde-239d-49e0-9f25-9ef969874596/download/inscripciones-de-empresas-en-maldonado_052019.csv",
+            "formato": "CSV",
+            "tamaño": 672,
+            "creado": "2020-05-19T15:54:12.286644"
+          },
+          {
+            "id": "c4498fe6-f882-4fc6-a7d0-66c432e5a652",
+            "nombre": "Inscripciones de empresas Mayo 2019 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/c4498fe6-f882-4fc6-a7d0-66c432e5a652/download/inscripciones-de-empresas-en-montevideo_052019.csv",
+            "formato": "CSV",
+            "tamaño": 344,
+            "creado": "2020-05-19T15:56:41.849591"
+          },
+          {
+            "id": "7dac75c8-b6f7-4652-ba82-af62e5524dab",
+            "nombre": "Inscripciones Junio 2019 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/7dac75c8-b6f7-4652-ba82-af62e5524dab/download/062019_datos-abiertos-salto.csv",
+            "formato": "CSV",
+            "tamaño": 120,
+            "creado": "2019-07-09T15:44:46.536616"
+          },
+          {
+            "id": "dc5f4edb-db09-4564-98a8-9933dbe7ba9a",
+            "nombre": "Inscripciones Junio 2019 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/dc5f4edb-db09-4564-98a8-9933dbe7ba9a/download/062019_datos-abiertos-montevideo.csv",
+            "formato": "CSV",
+            "tamaño": 1306,
+            "creado": "2019-07-09T15:45:41.027942"
+          },
+          {
+            "id": "ee792ca8-5827-41ac-af2e-332d16d599db",
+            "nombre": "Inscripciones Junio 2019 - Maldonado",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/ee792ca8-5827-41ac-af2e-332d16d599db/download/062019_datos-abiertos-maldonado.csv",
+            "formato": "CSV",
+            "tamaño": 181,
+            "creado": "2019-07-09T15:46:24.545562"
+          },
+          {
+            "id": "3a18c5ee-016b-4234-b906-86db3f58127e",
+            "nombre": "Inscripciones de Julio 2019 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/3a18c5ee-016b-4234-b906-86db3f58127e/download/inscripciones-de-empresas-montevideo-072019.csv",
+            "formato": "CSV",
+            "tamaño": 1205,
+            "creado": "2020-05-19T17:54:09.318152"
+          },
+          {
+            "id": "8a5b60d0-7d1c-44c2-98fa-d35e7b5ffe0f",
+            "nombre": "Inscripciones de Agosto 2019 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/8a5b60d0-7d1c-44c2-98fa-d35e7b5ffe0f/download/inscripciones-de-empresas-montevideo_082019.csv",
+            "formato": "CSV",
+            "tamaño": 1550,
+            "creado": "2020-05-19T18:15:47.498206"
+          },
+          {
+            "id": "ed844b89-4255-48c0-9868-15ff4fa5940c",
+            "nombre": "Inscripciones de Setiembre 2019 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/ed844b89-4255-48c0-9868-15ff4fa5940c/download/inscripciones-de-empresas-montevideo_092019.csv",
+            "formato": "CSV",
+            "tamaño": 1138,
+            "creado": "2020-05-19T18:23:39.317416"
+          },
+          {
+            "id": "07bfd7c9-a962-4725-9f03-360b171c7936",
+            "nombre": "Inscripciones de Octubre 2019 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/07bfd7c9-a962-4725-9f03-360b171c7936/download/inscripciones-de-empresas-montevideo-102019.csv",
+            "formato": "CSV",
+            "tamaño": 1470,
+            "creado": "2020-05-19T18:35:49.319655"
+          },
+          {
+            "id": "3ce188ea-3004-4986-aa7a-3f59ff387db7",
+            "nombre": "Inscripciones de Noviembre 2019 - Montevideo y Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/3ce188ea-3004-4986-aa7a-3f59ff387db7/download/inscripciones-de-empresas-montevideo-y-salto_112019.csv",
+            "formato": "CSV",
+            "tamaño": 1460,
+            "creado": "2020-01-15T18:37:29.568465"
+          },
+          {
+            "id": "be3e131c-2266-468b-b08d-c1be4aca54a3",
+            "nombre": "Inscripción de Diciembre 2019 - Montevideo y Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/be3e131c-2266-468b-b08d-c1be4aca54a3/download/inscripciones-de-empresas-montevideo-y-salto_122019.csv",
+            "formato": "CSV",
+            "tamaño": 818,
+            "creado": "2020-01-15T18:45:12.626263"
+          },
+          {
+            "id": "da8868ec-c126-4666-a280-4b4c3882cf74",
+            "nombre": "Inscripciones de Enero 2020 - Montevideo y Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/da8868ec-c126-4666-a280-4b4c3882cf74/download/inscripciones-de-empresas-montevideo-y-salto_012020.csv",
+            "formato": "CSV",
+            "tamaño": 226,
+            "creado": "2020-05-19T17:02:36.436068"
+          },
+          {
+            "id": "03b5fa97-39c2-4636-847f-c300d4173818",
+            "nombre": "Inscripciones de Febrero 2020 - Montevideo y Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/03b5fa97-39c2-4636-847f-c300d4173818/download/inscripciones-de-empresas-montevideo-y-salto-022020.csv",
+            "formato": "CSV",
+            "tamaño": 431,
+            "creado": "2020-05-19T17:28:23.552099"
+          },
+          {
+            "id": "01fd2c64-3286-4c94-bf01-25c9989d74ff",
+            "nombre": "Inscripciones Marzo 2020 - Montevideo y Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/01fd2c64-3286-4c94-bf01-25c9989d74ff/download/inscripciones-de-empresas-montevideo-y-salto-032020.csv",
+            "formato": "CSV",
+            "tamaño": 141,
+            "creado": "2020-05-19T17:29:27.516071"
+          },
+          {
+            "id": "70c63fb3-6d1e-48c1-b22a-78c01b6f7bc1",
+            "nombre": "Inscripciones Mayo 2020 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/70c63fb3-6d1e-48c1-b22a-78c01b6f7bc1/download/inscripciones-de-empresas-montevideo-052020-1.csv",
+            "formato": "CSV",
+            "tamaño": 403,
+            "creado": "2020-06-02T14:23:51.171727"
+          },
+          {
+            "id": "c7671ee5-93c7-4597-a65a-1dc0a3ba9141",
+            "nombre": "Inscripciones Junio 2020 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/c7671ee5-93c7-4597-a65a-1dc0a3ba9141/download/inscripciones-de-empresas-montevideo-062020.csv",
+            "formato": "CSV",
+            "tamaño": 183,
+            "creado": "2020-07-08T13:39:31.872965"
+          },
+          {
+            "id": "72d4a6a9-73c9-489e-a5d4-f9a13f7e91bc",
+            "nombre": "Inscripciones Julio 2020 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/72d4a6a9-73c9-489e-a5d4-f9a13f7e91bc/download/inscripciones-de-empresas-montevideo-072020.csv",
+            "formato": "CSV",
+            "tamaño": 295,
+            "creado": "2020-09-18T18:30:34.285973"
+          },
+          {
+            "id": "7b1e2f02-dac2-4d87-aefc-b2ed65415fc7",
+            "nombre": "Inscripciones Agosto 2020 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/7b1e2f02-dac2-4d87-aefc-b2ed65415fc7/download/inscripciones-de-empresas-montevideo-082020.csv",
+            "formato": "CSV",
+            "tamaño": 776,
+            "creado": "2020-09-18T18:37:11.688445"
+          },
+          {
+            "id": "813c0557-2e69-4a31-9469-345add8998fc",
+            "nombre": "Inscripciones Agosto 2020 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/813c0557-2e69-4a31-9469-345add8998fc/download/inscripciones-de-empresas-salto082020.csv",
+            "formato": "CSV",
+            "tamaño": 126,
+            "creado": "2020-09-21T16:20:30.042975"
+          },
+          {
+            "id": "13fcba7f-7643-4c58-9090-6806141d254c",
+            "nombre": "Inscripciones de Empresas Setiembre 2020 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/13fcba7f-7643-4c58-9090-6806141d254c/download/inscripciones-de-empresas-septiembre-2020-montevideo.csv",
+            "formato": "CSV",
+            "tamaño": 794,
+            "creado": "2020-10-19T15:49:50.542401"
+          },
+          {
+            "id": "582c873d-a7d9-4f80-8772-945a93861bfe",
+            "nombre": "Inscripciones Octubre 2020 -  Montevideo.",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/582c873d-a7d9-4f80-8772-945a93861bfe/download/reporte_mensual_octubre.csv",
+            "formato": "CSV",
+            "tamaño": 1199,
+            "creado": "2020-11-09T14:09:34.652207"
+          },
+          {
+            "id": "5fb6d538-a6b7-43a6-a691-b068022cb7d5",
+            "nombre": "Inscripciones Noviembre 2020 - Montevideo.",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/5fb6d538-a6b7-43a6-a691-b068022cb7d5/download/reporte_mensual_noviembre_montevideo.csv",
+            "formato": "CSV",
+            "tamaño": 1965,
+            "creado": "2020-12-14T12:57:29.070515"
+          },
+          {
+            "id": "cf4bbe5d-47eb-4316-b39a-527371e09735",
+            "nombre": "Inscripción Empresas - Montevideo Diciembre 2020",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/cf4bbe5d-47eb-4316-b39a-527371e09735/download/reporte_mensual_diciembre_2020.csv",
+            "formato": "CSV",
+            "tamaño": 723,
+            "creado": "2021-01-14T14:18:14.847237"
+          },
+          {
+            "id": "ecbbe72f-11ff-4808-a472-73e3d439a3de",
+            "nombre": "Inscripciones Enero 2021 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/ecbbe72f-11ff-4808-a472-73e3d439a3de/download/inscripciones-de-empresas-montevideo-012021.csv",
+            "formato": "CSV",
+            "tamaño": 749,
+            "creado": "2021-02-04T13:33:46.093222"
+          },
+          {
+            "id": "9e66aa98-16a6-45e1-a96c-2ac0610b684c",
+            "nombre": "Inscripción Empresas - Montevideo Febrero 2021",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/9e66aa98-16a6-45e1-a96c-2ac0610b684c/download/lnscripciones_montevideo_febrero.csv",
+            "formato": "CSV",
+            "tamaño": 282,
+            "creado": "2021-03-12T17:06:34.658154"
+          },
+          {
+            "id": "d8e692ee-5655-4c65-8c12-a2c8bfa188d6",
+            "nombre": "Inscripción Empresas - Montevideo Marzo 2021",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/d8e692ee-5655-4c65-8c12-a2c8bfa188d6/download/inscripciones_montevideo_marzo.csv",
+            "formato": "CSV",
+            "tamaño": 1222,
+            "creado": "2021-04-12T16:12:59.323053"
+          },
+          {
+            "id": "f6b001ab-ce27-490a-bdc8-6120b0c1b5fc",
+            "nombre": "Inscripción Empresas - Montevideo Abril 2021",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/f6b001ab-ce27-490a-bdc8-6120b0c1b5fc/download/inscripcion_empresas_abril.csv",
+            "formato": "CSV",
+            "tamaño": 489,
+            "creado": "2021-05-05T15:39:26.357696"
+          },
+          {
+            "id": "bad5ef8d-98a6-4846-a3e2-8eb1d99db439",
+            "nombre": "Inscripciones Julio 2021 - Montevideo",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/bad5ef8d-98a6-4846-a3e2-8eb1d99db439/download/inscripciones_montevideo_julio_2021.csv",
+            "formato": "CSV",
+            "tamaño": 1286,
+            "creado": "2021-08-16T16:41:16.935081"
+          },
+          {
+            "id": "95a55da4-dda2-42d0-944b-9015accadce8",
+            "nombre": "Inscripciones Julio 2021 - Salto",
+            "url": "https://catalogodatos.gub.uy/dataset/e33f3d3e-a8ed-479c-b679-a7510bef5057/resource/95a55da4-dda2-42d0-944b-9015accadce8/download/inscripciones_salto_julio_2021.csv",
+            "formato": "CSV",
+            "tamaño": 150,
+            "creado": "2021-08-31T14:07:39.488349"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:55.132Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/agesic-creacion-de-empresas-a-traves-de-empresa-en-el-dia",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "1aea9d48bebf2336dfbaf6c9362fd102e10a968ffcdf2b97d30e4a88d44fddf6"
+        }
+      },
+      {
+        "id": "8c3d4833-18f4-4ae6-8927-82bafb013821",
+        "nombre": "Organigrama",
+        "slug": "agesic-organigrama_agesic",
+        "organismo": {
+          "id": "agesic",
+          "nombre": "AGESIC",
+          "tipo": "organization"
+        },
+        "descripcion": "Estructura orgánica del organismo con información adicional de las distintas unidades que lo conforman y sus respectivos jerarcas de AGESIC.",
+        "etiquetas": [
+          "Organigrama",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2017-09-27T20:19:17.376089",
+        "modificado": "2021-07-02T20:13:28.860021",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "61d17612-2499-49d6-beda-4feab750b8e7",
+            "nombre": "Datos del organigrama",
+            "url": "https://catalogodatos.gub.uy/dataset/8c3d4833-18f4-4ae6-8927-82bafb013821/resource/61d17612-2499-49d6-beda-4feab750b8e7/download/datosorganigrama.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2017-10-24T11:50:21.420357"
+          },
+          {
+            "id": "e30b6cb7-61e0-411a-81d3-d9b64da3b204",
+            "nombre": "Datos del Organigrama",
+            "url": "https://catalogodatos.gub.uy/dataset/8c3d4833-18f4-4ae6-8927-82bafb013821/resource/e30b6cb7-61e0-411a-81d3-d9b64da3b204/download/datos-del-organigrama-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 307710,
+            "creado": "2020-03-03T14:20:08.449518"
+          },
+          {
+            "id": "00fcaad0-5e75-425c-9b49-f5a4a02bee91",
+            "nombre": "Datos del Organigrama",
+            "url": "https://catalogodatos.gub.uy/dataset/8c3d4833-18f4-4ae6-8927-82bafb013821/resource/00fcaad0-5e75-425c-9b49-f5a4a02bee91/download/201911_entidades.xlsx",
+            "formato": "XLSX",
+            "tamaño": 81567,
+            "creado": "2020-03-03T14:21:03.259056"
+          },
+          {
+            "id": "9de5f790-4efe-4167-97ea-66f3c4ade6e8",
+            "nombre": "Metadatos del organigrama del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/8c3d4833-18f4-4ae6-8927-82bafb013821/resource/9de5f790-4efe-4167-97ea-66f3c4ade6e8/download/metadatosjsonoutput.json",
+            "formato": "JSON",
+            "tamaño": null,
+            "creado": "2017-10-24T11:50:20.512546"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:55.132Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/agesic-organigrama_agesic",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "3e1143d0464067e91175c9d669618cf6806ff924245da3c356a8492756e055f9"
+        }
+      },
+      {
+        "id": "e2cb939c-5ddd-4f09-bcaf-fb4f7f747bc7",
+        "nombre": "Remuneraciones",
+        "slug": "agesic-remuneraciones_agesic",
+        "organismo": {
+          "id": "agesic",
+          "nombre": "AGESIC",
+          "tipo": "organization"
+        },
+        "descripcion": "Sistema de remuneraciones de los funcionarios. * Las diferencias de remuneración dentro del mismo Escalafón y Grado resultan del cumplimiento de lo dispuesto por el literal A) del artículo 102 de la Ley N° 19.121, de 20 de agosto de 2013.",
+        "etiquetas": [
+          "Tranparencia Activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2017-09-27T20:23:02.793481",
+        "modificado": "2020-03-13T12:27:21.342563",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "4accbaf5-90c0-489d-a6d4-3c7f35345bd9",
+            "nombre": "Metadatos de los datos de las remuneraciones",
+            "url": "https://catalogodatos.gub.uy/dataset/e2cb939c-5ddd-4f09-bcaf-fb4f7f747bc7/resource/4accbaf5-90c0-489d-a6d4-3c7f35345bd9/download/metadatosjsonoutput.json",
+            "formato": "JSON",
+            "tamaño": null,
+            "creado": "2017-10-24T12:00:51.921064"
+          },
+          {
+            "id": "b73f3cbb-324b-4ff0-8f4c-053e5ba8adea",
+            "nombre": "Datos de las remuneraciones ",
+            "url": "https://catalogodatos.gub.uy/dataset/e2cb939c-5ddd-4f09-bcaf-fb4f7f747bc7/resource/b73f3cbb-324b-4ff0-8f4c-053e5ba8adea/download/datosremuneraciones.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2017-10-24T12:00:53.002589"
+          },
+          {
+            "id": "b4ae2ac8-cffa-4f2a-8e2b-87603c541729",
+            "nombre": "Datos de las remuneraciones - 2020",
+            "url": "https://catalogodatos.gub.uy/dataset/e2cb939c-5ddd-4f09-bcaf-fb4f7f747bc7/resource/b4ae2ac8-cffa-4f2a-8e2b-87603c541729/download/dataset_ta_12-remuneraciones_agesic2020-1.xlsx",
+            "formato": "XLSX",
+            "tamaño": 15222,
+            "creado": "2020-03-13T12:25:15.017533"
+          },
+          {
+            "id": "732b24d5-3581-4ed5-937a-233b5cf38692",
+            "nombre": "Datos de las remuneraciones - 2020",
+            "url": "https://catalogodatos.gub.uy/dataset/e2cb939c-5ddd-4f09-bcaf-fb4f7f747bc7/resource/732b24d5-3581-4ed5-937a-233b5cf38692/download/dataset_ta_12-remuneraciones_agesic2020.csv",
+            "formato": "CSV",
+            "tamaño": 3831,
+            "creado": "2020-03-13T12:27:21.420775"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:55.132Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/agesic-remuneraciones_agesic",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "8789bc7a733320a300540211c36f77f6d2d4055924153590503672c7ec5c8951"
+        }
+      },
+      {
+        "id": "53f9fe28-7bce-4754-983a-0d71d2302be7",
+        "nombre": "Vocabulario de Persona",
+        "slug": "agesic-vocabulario-de-persona",
+        "organismo": {
+          "id": "agesic",
+          "nombre": "AGESIC",
+          "tipo": "organization"
+        },
+        "descripcion": "Los metadatos constituyen un elemento esencial para lograr un adecuado esquema de intercambio de información, ya que facilitan el entendimiento de los datos al proporcionar la semántica adecuada para su interpretación.\r\n\r\nEn el marco de la Arquitectura de Datos de Gobierno se definen los vocabularios de las entidades de datos transversales en el Estado. Estos vocabularios permiten unificar el significado de una entidad de datos y así hacer posible la interoperabilidad semántica entre sistemas.\r\n\r\nEste conjunto de datos define las estructuras de datos necesarias para representar a una persona. (Versión inicial)\r\n\r\nSe hace uso de los esquemas definidos en: https://catalogodatos.gub.uy/dataset/agesic-metadatos-para-la-definicion-de-vocabularios-y-datos-referenciales\r\n",
+        "etiquetas": [
+          "ArqdeDatos",
+          "metadatos",
+          "personas",
+          "vocabularios"
+        ],
+        "grupos": [],
+        "creado": "2018-12-18T17:27:07.025554",
+        "modificado": "2020-03-12T18:09:12.996234",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "579a136d-6af5-4b2d-aede-c0e8e82a5e85",
+            "nombre": "Vocabulario de Personas",
+            "url": "https://catalogodatos.gub.uy/dataset/53f9fe28-7bce-4754-983a-0d71d2302be7/resource/579a136d-6af5-4b2d-aede-c0e8e82a5e85/download/persona.xsd",
+            "formato": "xsd",
+            "tamaño": 3796,
+            "creado": "2018-12-18T17:27:41.810729"
+          },
+          {
+            "id": "e40748ad-41ec-4f08-b8c0-254aaf831b0c",
+            "nombre": "Metadatos del vocabulario de Personas",
+            "url": "https://catalogodatos.gub.uy/dataset/53f9fe28-7bce-4754-983a-0d71d2302be7/resource/e40748ad-41ec-4f08-b8c0-254aaf831b0c/download/persona_metadatos.xml",
+            "formato": "XML",
+            "tamaño": 917,
+            "creado": "2018-12-18T17:28:06.882574"
+          },
+          {
+            "id": "a83cf19e-2719-4ccd-800c-eb6c6f334342",
+            "nombre": "Datos referenciales de sexo",
+            "url": "https://catalogodatos.gub.uy/dataset/53f9fe28-7bce-4754-983a-0d71d2302be7/resource/a83cf19e-2719-4ccd-800c-eb6c6f334342/download/persona_sexo.xsd",
+            "formato": "xsd",
+            "tamaño": 1269,
+            "creado": "2018-12-18T17:28:40.119816"
+          },
+          {
+            "id": "cd173a4c-72c8-472a-83bb-08b4324c5d6e",
+            "nombre": "Metadatos de los datos referenciales de sexo",
+            "url": "https://catalogodatos.gub.uy/dataset/53f9fe28-7bce-4754-983a-0d71d2302be7/resource/cd173a4c-72c8-472a-83bb-08b4324c5d6e/download/persona_sexo_metadatos.xml",
+            "formato": "XML",
+            "tamaño": 1290,
+            "creado": "2018-12-18T17:29:25.408711"
+          },
+          {
+            "id": "128b001e-161f-4124-820e-8c32dcedd1f6",
+            "nombre": "Datos referenciales de género",
+            "url": "https://catalogodatos.gub.uy/dataset/53f9fe28-7bce-4754-983a-0d71d2302be7/resource/128b001e-161f-4124-820e-8c32dcedd1f6/download/persona_genero.xsd",
+            "formato": "xsd",
+            "tamaño": 1075,
+            "creado": "2018-12-18T17:29:58.400008"
+          },
+          {
+            "id": "1d73b995-26f2-4380-986b-a8fd2d5d2c00",
+            "nombre": "Metadatos de los datos referenciales de género",
+            "url": "https://catalogodatos.gub.uy/dataset/53f9fe28-7bce-4754-983a-0d71d2302be7/resource/1d73b995-26f2-4380-986b-a8fd2d5d2c00/download/persona_genero_metadatos.xml",
+            "formato": "XML",
+            "tamaño": 1327,
+            "creado": "2018-12-18T17:30:24.616877"
+          },
+          {
+            "id": "220b5067-5ae2-44ca-bcd8-ae540c71cc6a",
+            "nombre": "Tipos de datos del vocabulario de personas",
+            "url": "https://catalogodatos.gub.uy/dataset/53f9fe28-7bce-4754-983a-0d71d2302be7/resource/220b5067-5ae2-44ca-bcd8-ae540c71cc6a/download/tipodatos_persona.xsd",
+            "formato": "xsd",
+            "tamaño": 2366,
+            "creado": "2018-12-18T17:30:58.917825"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:55.132Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/agesic-vocabulario-de-persona",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "4f6313cc6bdd805336373ce0b29c73e97912bf9d4c5919d8a41051a3ddeb0152"
+        }
+      },
+      {
+        "id": "56973d7d-71fb-4636-a49f-6d8efbfa81e2",
+        "nombre": "Trazabilidad de Trámites",
+        "slug": "agesic-trazabilidadtramites",
+        "organismo": {
+          "id": "agesic",
+          "nombre": "AGESIC",
+          "tipo": "organization"
+        },
+        "descripcion": "Datos referentes a los inicios de los trámites en línea, extraídos desde la base de datos del sistema de Trazabilidad para la fecha junio - noviembre 2018. ",
+        "etiquetas": [
+          "Tramites",
+          "Transparencia Activa",
+          "Trazabilidad"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-02-06T18:43:07.471690",
+        "modificado": "2020-03-03T11:17:41.994421",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "221ba29b-4ca6-4d93-ba53-f38f8c1287f3",
+            "nombre": "Metadatos trazabilidad de trámites junio - noviembre 2018",
+            "url": "https://catalogodatos.gub.uy/dataset/56973d7d-71fb-4636-a49f-6d8efbfa81e2/resource/221ba29b-4ca6-4d93-ba53-f38f8c1287f3/download/metadatos_trazabilidadtramites.json",
+            "formato": "JSON",
+            "tamaño": 5049,
+            "creado": "2019-02-06T18:44:12.564292"
+          },
+          {
+            "id": "4dbc68eb-efb4-47e0-af4a-de742cfdcb27",
+            "nombre": "Datos junio - noviembre 2018",
+            "url": "https://catalogodatos.gub.uy/dataset/56973d7d-71fb-4636-a49f-6d8efbfa81e2/resource/4dbc68eb-efb4-47e0-af4a-de742cfdcb27/download/datos-junio-noviembre-2018.csv",
+            "formato": "CSV",
+            "tamaño": 147510149,
+            "creado": "2019-02-06T18:44:16.199914"
+          },
+          {
+            "id": "36e433aa-f947-4051-96e5-554c950b165f",
+            "nombre": "Datos junio - noviembre 2018",
+            "url": "https://catalogodatos.gub.uy/dataset/56973d7d-71fb-4636-a49f-6d8efbfa81e2/resource/36e433aa-f947-4051-96e5-554c950b165f/download/datosabiertostrazabilidad-junio-a-noviembre-2018.xlsx",
+            "formato": "XLS",
+            "tamaño": 49259818,
+            "creado": "2019-02-06T18:44:18.490404"
+          },
+          {
+            "id": "7f0b3d5e-58d8-4345-99a5-e37abaaa5c2c",
+            "nombre": "Datos junio - noviembre 2018",
+            "url": "https://catalogodatos.gub.uy/dataset/56973d7d-71fb-4636-a49f-6d8efbfa81e2/resource/7f0b3d5e-58d8-4345-99a5-e37abaaa5c2c/download/datos-junio-noviembre-2018.xml",
+            "formato": "XML",
+            "tamaño": 354233397,
+            "creado": "2019-02-06T18:44:28.011078"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:55.132Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/agesic-trazabilidadtramites",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "47860bfb56b955f6460190efd7045b216408c81926b12ff8a731a1c586ab73de"
+        }
+      },
+      {
+        "id": "2f340450-5cfb-4870-adde-05f883ea8c04",
+        "nombre": "Metadatos para la definición de Vocabularios y Datos Referenciales",
+        "slug": "agesic-metadatos-para-la-definicion-de-vocabularios-y-datos-referenciales",
+        "organismo": {
+          "id": "agesic",
+          "nombre": "AGESIC",
+          "tipo": "organization"
+        },
+        "descripcion": "En el marco de la Arquitectura de Datos de Gobierno se describen los metadatos que se deben definir al especificar un vocabulario o un conjunto de datos referenciales. Estos metadatos permiten unificar la definición y facilitan la comprensión de los datos.",
+        "etiquetas": [
+          "Arquitectura de Datos",
+          "datos referenciales",
+          "metadatos",
+          "vocabularios"
+        ],
+        "grupos": [],
+        "creado": "2018-09-04T14:26:32.457135",
+        "modificado": "2018-12-20T18:35:41.251713",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "bd700f48-98b8-45df-b050-5c70dff180df",
+            "nombre": "Metadatos para los vocabularios",
+            "url": "https://catalogodatos.gub.uy/dataset/2f340450-5cfb-4870-adde-05f883ea8c04/resource/bd700f48-98b8-45df-b050-5c70dff180df/download/vocabulario_metadatos.xsd",
+            "formato": "xsd",
+            "tamaño": 3814,
+            "creado": "2018-09-04T14:27:59.849360"
+          },
+          {
+            "id": "f81a5259-f1e1-4dce-ac04-2419cbc99c33",
+            "nombre": "Metadatos para los datos referenciales",
+            "url": "https://catalogodatos.gub.uy/dataset/2f340450-5cfb-4870-adde-05f883ea8c04/resource/f81a5259-f1e1-4dce-ac04-2419cbc99c33/download/dato_referencial_metadatos.xsd",
+            "formato": "xsd",
+            "tamaño": 3945,
+            "creado": "2018-09-04T14:28:47.197673"
+          },
+          {
+            "id": "93ac2aec-8cb8-425d-a7f4-008d5c0c5ab5",
+            "nombre": "Tipos de datos comunes",
+            "url": "https://catalogodatos.gub.uy/dataset/2f340450-5cfb-4870-adde-05f883ea8c04/resource/93ac2aec-8cb8-425d-a7f4-008d5c0c5ab5/download/tipodatos_core.xsd",
+            "formato": "xsd",
+            "tamaño": 2957,
+            "creado": "2018-09-04T14:29:26.865150"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:55.132Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/agesic-metadatos-para-la-definicion-de-vocabularios-y-datos-referenciales",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "b72a55bc85ec205a079669d64b9f32af64a7e8e2efa9154050a0323f3525a1c1"
+        }
+      },
+      {
+        "id": "b876adae-04a7-4fc5-b621-33204977f217",
+        "nombre": "Vocabulario de Direcciones",
+        "slug": "agesic-vocabulario-de-direcciones",
+        "organismo": {
+          "id": "agesic",
+          "nombre": "AGESIC",
+          "tipo": "organization"
+        },
+        "descripcion": "Los metadatos constituyen un elemento esencial para lograr un adecuado esquema de intercambio de información, ya que facilitan el entendimiento de los datos al proporcionar la semántica adecuada para su interpretación.\r\n\r\nEn el marco de la Arquitectura de Datos de Gobierno se definen los vocabularios de las entidades de datos transversales en el Estado. Estos vocabularios permiten unificar el significado de una entidad de datos y así hacer posible la interoperabilidad semántica entre sistemas.\r\n\r\nEste conjunto de datos define las estructuras de datos necesarias para representar una dirección en el territorio nacional. (Versión inicial)\r\nEl vocabulario está basado en el modelo de referencia de direcciones y en el siguiente link se encuentra la información necesaria para establecer el mapeo entre las formas canónicas del modelo  y el vocabulario definido.\r\n\r\nhttps://centroderecursos.agesic.gub.uy/web/arquitectura-de-referencia-de-datos-geograficos/inicio/-/wiki/Main/Descripci%C3%B3n+de+Direcciones+y+Vocabularios+de+Intercambio\r\n\r\nSe hace uso de los esquemas definidos en: https://catalogodatos.gub.uy/dataset/metadatos-para-la-definicion-de-vocabularios-y-datos-referenciales\r\n\r\n",
+        "etiquetas": [
+          "ArqdeDatos",
+          "direcciones",
+          "metadatos",
+          "vocabularios"
+        ],
+        "grupos": [],
+        "creado": "2018-11-30T17:36:14.254535",
+        "modificado": "2018-12-20T18:35:30.988316",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "7c993626-ecb7-4d60-b169-002829252500",
+            "nombre": "Vocabulario de Direcciones",
+            "url": "https://catalogodatos.gub.uy/dataset/b876adae-04a7-4fc5-b621-33204977f217/resource/7c993626-ecb7-4d60-b169-002829252500/download/direccion.xsd",
+            "formato": "xsd",
+            "tamaño": 4090,
+            "creado": "2018-11-30T17:36:51.177947"
+          },
+          {
+            "id": "75111424-0dd8-4010-84ec-817ba2d27fad",
+            "nombre": "Metadatos del vocabulario de Direcciones",
+            "url": "https://catalogodatos.gub.uy/dataset/b876adae-04a7-4fc5-b621-33204977f217/resource/75111424-0dd8-4010-84ec-817ba2d27fad/download/direccion_metadatos.xml",
+            "formato": "XML",
+            "tamaño": 962,
+            "creado": "2018-11-30T17:37:31.824181"
+          },
+          {
+            "id": "10fd366d-6d49-4136-aa4d-f58e0d04582c",
+            "nombre": "Datos referenciales de Países",
+            "url": "https://catalogodatos.gub.uy/dataset/b876adae-04a7-4fc5-b621-33204977f217/resource/10fd366d-6d49-4136-aa4d-f58e0d04582c/download/direccion_paisalpha2.xsd",
+            "formato": "xsd",
+            "tamaño": 34234,
+            "creado": "2018-11-30T17:38:03.758385"
+          },
+          {
+            "id": "7d1a7f3d-1cb6-4a06-9323-706c89df10bb",
+            "nombre": "Metadatos de los datos referenciales de Países",
+            "url": "https://catalogodatos.gub.uy/dataset/b876adae-04a7-4fc5-b621-33204977f217/resource/7d1a7f3d-1cb6-4a06-9323-706c89df10bb/download/direccion_paisalpha2_metadatos.xml",
+            "formato": "XML",
+            "tamaño": 1079,
+            "creado": "2018-11-30T17:38:35.748084"
+          },
+          {
+            "id": "fd6d92f9-9c9e-4221-9561-a3ee6715f51b",
+            "nombre": "Datos referenciales de los Tipos de Vialidad",
+            "url": "https://catalogodatos.gub.uy/dataset/b876adae-04a7-4fc5-b621-33204977f217/resource/fd6d92f9-9c9e-4221-9561-a3ee6715f51b/download/direccion_tipovialidad.xsd",
+            "formato": "xsd",
+            "tamaño": 1603,
+            "creado": "2018-11-30T17:39:03.768855"
+          },
+          {
+            "id": "6554af36-9ceb-415e-8c1a-29169b3b6890",
+            "nombre": "Metadatos de los datos referenciales de los tipos de vialidad",
+            "url": "https://catalogodatos.gub.uy/dataset/b876adae-04a7-4fc5-b621-33204977f217/resource/6554af36-9ceb-415e-8c1a-29169b3b6890/download/direccion_tipovialidad_metadatos.xml",
+            "formato": "XML",
+            "tamaño": 997,
+            "creado": "2018-11-30T17:39:33.527377"
+          },
+          {
+            "id": "5f52f081-6377-48f0-ba9a-484f92c3adef",
+            "nombre": "Tipos de datos del vocabulario de direcciones",
+            "url": "https://catalogodatos.gub.uy/dataset/b876adae-04a7-4fc5-b621-33204977f217/resource/5f52f081-6377-48f0-ba9a-484f92c3adef/download/tipodatos_direccion.xsd",
+            "formato": "xsd",
+            "tamaño": 2156,
+            "creado": "2018-11-30T17:40:23.974812"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:55.132Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/agesic-vocabulario-de-direcciones",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "1f74fad9b113c02fb7dc3bea8513778dc677656191bcf9453da349463915e2c7"
+        }
+      },
+      {
+        "id": "91ec49d3-786a-4899-90bf-c27cd461213a",
+        "nombre": "Vocabulario de Organismo",
+        "slug": "agesic-vocabulario-de-organismo",
+        "organismo": {
+          "id": "agesic",
+          "nombre": "AGESIC",
+          "tipo": "organization"
+        },
+        "descripcion": "Los metadatos constituyen un elemento esencial para lograr un adecuado esquema de intercambio de información, ya que facilitan el entendimiento de los datos al proporcionar la semántica adecuada para su interpretación.\r\n\r\nEn el marco de la Arquitectura de Datos de Gobierno se definen los vocabularios de las entidades de datos transversales en el Estado. Estos vocabularios permiten unificar el significado de una entidad de datos y así hacer posible la interoperabilidad semántica entre sistemas.\r\n\r\nEste conjunto de datos define las estructuras de datos necesarias para representar a un Organismo Público. (Versión inicial)\r\n\r\nSe hace uso de los esquemas definidos en: https://catalogodatos.gub.uy/dataset/metadatos-para-la-definicion-de-vocabularios-y-datos-referenciales\r\n",
+        "etiquetas": [
+          "ArqdeDatos",
+          "metadatos",
+          "organismos",
+          "vocabularios"
+        ],
+        "grupos": [],
+        "creado": "2018-12-18T18:18:41.878678",
+        "modificado": "2018-12-20T18:35:19.852946",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "b1c7b1bb-cb9f-4e2c-a1a4-f89ce9ca8237",
+            "nombre": "Vocabulario de Organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/91ec49d3-786a-4899-90bf-c27cd461213a/resource/b1c7b1bb-cb9f-4e2c-a1a4-f89ce9ca8237/download/organismo.xsd",
+            "formato": "xsd",
+            "tamaño": 3883,
+            "creado": "2018-12-18T18:19:09.022646"
+          },
+          {
+            "id": "4d8e3399-d5f3-4389-8b25-9d80c35555a9",
+            "nombre": "Metadatos del vocabulario de Organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/91ec49d3-786a-4899-90bf-c27cd461213a/resource/4d8e3399-d5f3-4389-8b25-9d80c35555a9/download/organismo_metadatos.xml",
+            "formato": "XML",
+            "tamaño": 938,
+            "creado": "2018-12-18T18:19:39.598355"
+          },
+          {
+            "id": "941353ed-fb24-42e6-8ecd-31585cfcb4f7",
+            "nombre": "Tipos de datos del vocabulario de Organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/91ec49d3-786a-4899-90bf-c27cd461213a/resource/941353ed-fb24-42e6-8ecd-31585cfcb4f7/download/tipodatos_organismo.xsd",
+            "formato": "xsd",
+            "tamaño": 1380,
+            "creado": "2018-12-18T18:20:18.367291"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:55.132Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/agesic-vocabulario-de-organismo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "97be4ea2bf5460bbdab2155a1794c792366e148bafe08d4d8ae95a85f11ac782"
+        }
+      },
+      {
+        "id": "53ebed1f-5968-4220-89ba-64d9e7e1ed56",
+        "nombre": "Vocabulario de Empresa",
+        "slug": "agesic-vocabulario-de-empresa",
+        "organismo": {
+          "id": "agesic",
+          "nombre": "AGESIC",
+          "tipo": "organization"
+        },
+        "descripcion": "Los metadatos constituyen un elemento esencial para lograr un adecuado esquema de intercambio de información, ya que facilitan el entendimiento de los datos al proporcionar la semántica adecuada para su interpretación.\r\n\r\nEn el marco de la Arquitectura de Datos de Gobierno se definen los vocabularios de las entidades de datos transversales en el Estado. Estos vocabularios permiten unificar el significado de una entidad de datos y así hacer posible la interoperabilidad semántica entre sistemas.\r\n\r\nEste conjunto de datos define las estructuras de datos necesarias para representar una empresa en el territorio nacional. (Versión inicial)\r\n\r\nSe hace uso de los esquemas definidos en: https://catalogodatos.gub.uy/dataset/metadatos-para-la-definicion-de-vocabularios-y-datos-referenciales\r\n",
+        "etiquetas": [
+          "ArqdeDatos",
+          "empresa",
+          "vocabularios"
+        ],
+        "grupos": [],
+        "creado": "2018-12-17T19:47:29.871314",
+        "modificado": "2018-12-20T18:34:57.148390",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "9d541aea-6cda-48ef-aff2-15a8bd9629bf",
+            "nombre": "Vocabulario de Empresa",
+            "url": "https://catalogodatos.gub.uy/dataset/53ebed1f-5968-4220-89ba-64d9e7e1ed56/resource/9d541aea-6cda-48ef-aff2-15a8bd9629bf/download/empresa.xsd",
+            "formato": "xsd",
+            "tamaño": 3457,
+            "creado": "2018-12-17T19:48:27.324286"
+          },
+          {
+            "id": "1e0e9ad1-45d0-480e-ba03-adbaf1a6427b",
+            "nombre": "Metadatos del vocabulario de Empresa",
+            "url": "https://catalogodatos.gub.uy/dataset/53ebed1f-5968-4220-89ba-64d9e7e1ed56/resource/1e0e9ad1-45d0-480e-ba03-adbaf1a6427b/download/empresa_metadatos.xml",
+            "formato": "XML",
+            "tamaño": 917,
+            "creado": "2018-12-17T19:49:05.625565"
+          },
+          {
+            "id": "1ac21389-c4a2-4016-9ba5-1b53ef2c21d1",
+            "nombre": "Datos referenciales de los estados de la Empresa",
+            "url": "https://catalogodatos.gub.uy/dataset/53ebed1f-5968-4220-89ba-64d9e7e1ed56/resource/1ac21389-c4a2-4016-9ba5-1b53ef2c21d1/download/empresa_estado.xsd",
+            "formato": "xsd",
+            "tamaño": 924,
+            "creado": "2018-12-17T19:49:46.033220"
+          },
+          {
+            "id": "ee123050-74dd-407c-a3a8-d158f4dc38f8",
+            "nombre": "Metadatos de los datos referenciales de estados de la Empresa",
+            "url": "https://catalogodatos.gub.uy/dataset/53ebed1f-5968-4220-89ba-64d9e7e1ed56/resource/ee123050-74dd-407c-a3a8-d158f4dc38f8/download/empresa_estado_metadatos.xml",
+            "formato": "XML",
+            "tamaño": 960,
+            "creado": "2018-12-17T19:50:25.570704"
+          },
+          {
+            "id": "bafe7970-a232-4da2-9d7f-db2289ac33c9",
+            "nombre": "Datos referenciales de la naturaleza jurídica de la Empresa",
+            "url": "https://catalogodatos.gub.uy/dataset/53ebed1f-5968-4220-89ba-64d9e7e1ed56/resource/bafe7970-a232-4da2-9d7f-db2289ac33c9/download/empresa_naturaleza_juridica.xsd",
+            "formato": "xsd",
+            "tamaño": 2637,
+            "creado": "2018-12-17T19:51:03.165093"
+          },
+          {
+            "id": "8a635c79-377f-4d66-9378-eb5e70c38a00",
+            "nombre": "Metadatos de los datos referenciales de la naturaleza jurídica de la Empresa",
+            "url": "https://catalogodatos.gub.uy/dataset/53ebed1f-5968-4220-89ba-64d9e7e1ed56/resource/8a635c79-377f-4d66-9378-eb5e70c38a00/download/empresa_naturaleza_juridica_metadatos.xml",
+            "formato": "XML",
+            "tamaño": 1064,
+            "creado": "2018-12-17T19:51:58.538366"
+          },
+          {
+            "id": "55a8318e-7055-42aa-b82c-68e305e0848a",
+            "nombre": "Tipos de datos del vocabulario de Empresa",
+            "url": "https://catalogodatos.gub.uy/dataset/53ebed1f-5968-4220-89ba-64d9e7e1ed56/resource/55a8318e-7055-42aa-b82c-68e305e0848a/download/tipodatos_empresa.xsd",
+            "formato": "xsd",
+            "tamaño": 3149,
+            "creado": "2018-12-17T19:52:46.987243"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:55.132Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/agesic-vocabulario-de-empresa",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "4db9ea3e399920fe0241777590118899168d6870f7cc7597884c452ace4cffc5"
+        }
+      },
+      {
+        "id": "f7523b2c-1566-4cd6-965f-8b76928e7034",
+        "nombre": "Informes de avances del Tercer Plan de Acción Nacional de Gobierno Abierto 2016-2018",
+        "slug": "agesic-informes-de-avances-del-tercer-plan-de-accion-nacional-de-gobierno-abierto-2016-2018",
+        "organismo": {
+          "id": "agesic",
+          "nombre": "AGESIC",
+          "tipo": "organization"
+        },
+        "descripcion": "En el 3er. Plan de Acción Nacional de Gobierno Abierto 2016-2018, Uruguay establece 75 compromisos con 212 metas propuestas que se encuentran agrupados en 12 ejes temáticos; 26 compromisos de los que se presentan en este plan, han sido generados total o parcialmente a través del mecanismo de Mesas de Diálogo con la participación de actores de gobierno, sociedad civil y la academia. Los 12 ejes temáticos buscan integrar los pilares y valores del Gobierno Abierto (Transparencia, Rendición de Cuentas, Participación y Colaboración Ciudadana e Innovación Tecnológica) en diferentes políticas públicas específicas. Se realizarán trimestralmente Informes de seguimiento de avances de los compromisos,  y dos Informes de auto evaluación país, siendo uno de medio término, correspondiente al prime año de implementación, y el otro es el informe final, correspondiente al segundo año de implementación, el cual deberá informar sobre los resultados finales y lecciones aprendidas.",
+        "etiquetas": [
+          "Gobierno Abierto",
+          "Plan de acción Nacional de Gobierno Abierto"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2017-09-13T19:27:29.717771",
+        "modificado": "2018-12-05T19:23:49.837062",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "e31f7803-a6f0-4d4f-8bc8-4b021ff20241",
+            "nombre": "1er Informe de auto evaluación país Julio 2017 - Planilla de seguimiento de metas",
+            "url": "https://catalogodatos.gub.uy/dataset/f7523b2c-1566-4cd6-965f-8b76928e7034/resource/e31f7803-a6f0-4d4f-8bc8-4b021ff20241/download/planilla-seguimiento-metas-3er-paga-v18.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2017-09-13T16:30:42.513026"
+          },
+          {
+            "id": "981fef2d-6681-4350-a094-dd4a142f8546",
+            "nombre": "1er Informe de auto evaluación país - Metadatos - Planilla Seguimiento de metas",
+            "url": "https://catalogodatos.gub.uy/dataset/f7523b2c-1566-4cd6-965f-8b76928e7034/resource/981fef2d-6681-4350-a094-dd4a142f8546/download/metadatos.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2017-09-13T16:32:33.412287"
+          },
+          {
+            "id": "f4eceae3-6c90-4e73-af14-1ce05ece0e86",
+            "nombre": "1er Informe de seguimiento Abril 2017 - Planilla de seguimiento de metas",
+            "url": "https://catalogodatos.gub.uy/dataset/f7523b2c-1566-4cd6-965f-8b76928e7034/resource/f4eceae3-6c90-4e73-af14-1ce05ece0e86/download/planilla-1er-informe-de-seguimiento.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2017-10-02T16:13:46.085921"
+          },
+          {
+            "id": "f18028d3-7314-477c-8139-39963e87b44e",
+            "nombre": "2° Informe de Seguimiento - Planilla de seguimiento",
+            "url": "https://catalogodatos.gub.uy/dataset/f7523b2c-1566-4cd6-965f-8b76928e7034/resource/f18028d3-7314-477c-8139-39963e87b44e/download/planilla2doinformeseguimiento.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2017-11-27T12:12:53.903074"
+          },
+          {
+            "id": "99396cd9-9b42-459a-92b1-ceb1d458fbe7",
+            "nombre": "2° Informe de Seguimiento - Metadatos",
+            "url": "https://catalogodatos.gub.uy/dataset/f7523b2c-1566-4cd6-965f-8b76928e7034/resource/99396cd9-9b42-459a-92b1-ceb1d458fbe7/download/planilla2doinformeseguimientometadatos.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2017-11-27T12:14:14.842593"
+          },
+          {
+            "id": "d1a153df-ddd9-4530-8ed1-5a9721709af6",
+            "nombre": "3er Informe de Seguimiento Abril 2018",
+            "url": "https://catalogodatos.gub.uy/dataset/f7523b2c-1566-4cd6-965f-8b76928e7034/resource/d1a153df-ddd9-4530-8ed1-5a9721709af6/download/planilla_seguimiento_metas_datos.csv",
+            "formato": "CSV",
+            "tamaño": 69455,
+            "creado": "2018-04-16T19:30:24.082521"
+          },
+          {
+            "id": "fd7b0aab-3c08-4fad-a3a2-cb1ba721219c",
+            "nombre": "Informe final de autoevaluación país 3er Plan de Acción Nacional de Gobierno Abierto 2016 - 2018",
+            "url": "https://catalogodatos.gub.uy/dataset/f7523b2c-1566-4cd6-965f-8b76928e7034/resource/fd7b0aab-3c08-4fad-a3a2-cb1ba721219c/download/planilla_seguimiento_metas_datos_noviembre-2018.csv",
+            "formato": "CSV",
+            "tamaño": 70538,
+            "creado": "2018-12-05T13:55:53.312541"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:55.132Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/agesic-informes-de-avances-del-tercer-plan-de-accion-nacional-de-gobierno-abierto-2016-2018",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "307a990efc1290b0228e7e222b7ed39ebf9417a42583a6165d37ff66b31c201a"
+        }
+      },
+      {
+        "id": "72f1673e-9da8-4bdb-a529-58d710dea02f",
+        "nombre": "Autoridades",
+        "slug": "agesic-autoridades_agesic",
+        "organismo": {
+          "id": "agesic",
+          "nombre": "AGESIC",
+          "tipo": "organization"
+        },
+        "descripcion": "El listado de los funcionarios, a partir del jefe de departamento, gerente, director o equivalente hasta el jerarca máximo, incluyendo: nombre, domicilio postal, electrónico y números telefónicos oficiales.",
+        "etiquetas": [],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2017-09-27T20:20:39.514232",
+        "modificado": "2017-10-24T14:47:41.667374",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "61064570-1f82-4928-855e-5ab798fde675",
+            "nombre": "Metadatos de los datos de las autoridades",
+            "url": "https://catalogodatos.gub.uy/dataset/72f1673e-9da8-4bdb-a529-58d710dea02f/resource/61064570-1f82-4928-855e-5ab798fde675/download/metadatosjsonoutput.json",
+            "formato": "JSON",
+            "tamaño": null,
+            "creado": "2017-10-24T11:46:29.897971"
+          },
+          {
+            "id": "6e65abbf-4492-4365-8e07-07a0c2071a54",
+            "nombre": "Datos de las autoridades ",
+            "url": "https://catalogodatos.gub.uy/dataset/72f1673e-9da8-4bdb-a529-58d710dea02f/resource/6e65abbf-4492-4365-8e07-07a0c2071a54/download/datosautoridades.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2017-10-24T11:46:31.029479"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:55.132Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/agesic-autoridades_agesic",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "670f2a7878da5967078aab010e25d6405fb00f1e59e8c60b61ee9c03bd92e16f"
+        }
+      },
+      {
+        "id": "280e4d47-432f-4c5d-ae94-1daca5674b3d",
+        "nombre": "Evolución",
+        "slug": "agesic-evolucion_organismo_agesic",
+        "organismo": {
+          "id": "agesic",
+          "nombre": "AGESIC",
+          "tipo": "organization"
+        },
+        "descripcion": "Creación y evolución histórica del sujeto obligado conjuntamente con sus cometidos.",
+        "etiquetas": [],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2017-09-27T20:18:05.595693",
+        "modificado": "2017-10-24T14:43:50.459414",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "173b1cfb-1bb2-4a83-941a-47a199fd5a60",
+            "nombre": "Metadatos de los datos de la evolución del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/280e4d47-432f-4c5d-ae94-1daca5674b3d/resource/173b1cfb-1bb2-4a83-941a-47a199fd5a60/download/metadatosjsonoutput.json",
+            "formato": "JSON",
+            "tamaño": null,
+            "creado": "2017-10-24T11:41:04.844369"
+          },
+          {
+            "id": "d781d302-e9f3-459a-bc1b-75260dd80640",
+            "nombre": "Datos de la evolución del organismo ",
+            "url": "https://catalogodatos.gub.uy/dataset/280e4d47-432f-4c5d-ae94-1daca5674b3d/resource/d781d302-e9f3-459a-bc1b-75260dd80640/download/datosevolucin-.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2017-10-24T11:41:06.537239"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:55.132Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/agesic-evolucion_organismo_agesic",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "07ccd3879cdd0ea15360112d6ce344a7dbd7d9d71fa2b5bc49f370dd231d9308"
+        }
+      },
+      {
+        "id": "d7b62ff1-a1c1-4710-9e10-8a2b9f5718e6",
+        "nombre": "Diario de Sesiones",
+        "slug": "agesic-diario_sesiones_agesic",
+        "organismo": {
+          "id": "agesic",
+          "nombre": "AGESIC",
+          "tipo": "organization"
+        },
+        "descripcion": "Información sobre lo acontecido en las distintas sesiones.",
+        "etiquetas": [],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2017-09-27T20:23:55.489575",
+        "modificado": "2017-09-27T20:23:58.666818",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "13db40f7-2b2f-44d4-82f8-d64d3b6441f3",
+            "nombre": "Metadatos de los datos del diario de sesiones ",
+            "url": "https://catalogodatos.gub.uy/dataset/d7b62ff1-a1c1-4710-9e10-8a2b9f5718e6/resource/13db40f7-2b2f-44d4-82f8-d64d3b6441f3/download/metadatosjsonoutput.json",
+            "formato": "JSON",
+            "tamaño": null,
+            "creado": "2017-09-27T17:23:58.057356"
+          },
+          {
+            "id": "e6eb4a28-384c-41db-bb14-21510a68e9b4",
+            "nombre": "Datos del diario de sesiones ",
+            "url": "https://catalogodatos.gub.uy/dataset/d7b62ff1-a1c1-4710-9e10-8a2b9f5718e6/resource/e6eb4a28-384c-41db-bb14-21510a68e9b4/download/datosdiario-de-sesiones.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2017-09-27T17:23:58.681402"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:55.132Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/agesic-diario_sesiones_agesic",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "29c169d5f80d511e0beea0091c9dd9810fbb728bf757b8d9d78b631ded08f8bf"
+        }
+      },
+      {
+        "id": "4ddd2a98-f5d9-46ac-a745-8849d628320b",
+        "nombre": "Informes de autoevaluación del segundo plan nacional de Gobierno Abierto",
+        "slug": "agesic-informes-de-autoevaluacion-del-segundo-plan-nacional-de-gobierno-abierto",
+        "organismo": {
+          "id": "agesic",
+          "nombre": "AGESIC",
+          "tipo": "organization"
+        },
+        "descripcion": "En el Plan de Acción 2014-2016, Uruguay establece 40 compromisos con 91 metas que se encuentran agrupados en ocho ejes temáticos. De esos compromisos, diez integran total o parcialmente 25 propuestas de la sociedad civil generadas a través del espacio participativo llamado Mesas de Diálogo.\r\n\r\nEl informe de autoevaluación pone énfasis en el trabajo de las metas comprometidas y hace una revisión del avance intermedio de las metas previstas.",
+        "etiquetas": [],
+        "grupos": [
+          "Desarrollo Social"
+        ],
+        "creado": "2015-10-16T16:24:54.600864",
+        "modificado": "2016-02-18T00:00:00",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "be36592a-6e9e-447b-b142-b7e3b387e1f0",
+            "nombre": "Primer informe de autoevaluación",
+            "url": "https://catalogodatos.gub.uy/dataset/4ddd2a98-f5d9-46ac-a745-8849d628320b/resource/be36592a-6e9e-447b-b142-b7e3b387e1f0/download/planilladeseguimientodic2014.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2015-10-16T13:37:41.777005"
+          },
+          {
+            "id": "b233a788-e4bc-4d0c-8f9a-c9d7982ddf96",
+            "nombre": "Primer informe de autoevaluación",
+            "url": "https://catalogodatos.gub.uy/dataset/4ddd2a98-f5d9-46ac-a745-8849d628320b/resource/b233a788-e4bc-4d0c-8f9a-c9d7982ddf96/download/planilladeseguimientodic2014.json",
+            "formato": "JSON",
+            "tamaño": null,
+            "creado": "2015-10-16T13:49:42.943952"
+          },
+          {
+            "id": "85f7075c-da80-401d-a659-7d87022ced6b",
+            "nombre": "Metadatos",
+            "url": "https://catalogodatos.gub.uy/dataset/4ddd2a98-f5d9-46ac-a745-8849d628320b/resource/85f7075c-da80-401d-a659-7d87022ced6b/download/metadatos.ods",
+            "formato": "ODS",
+            "tamaño": null,
+            "creado": "2015-10-16T15:17:26.037978"
+          },
+          {
+            "id": "8ae422f9-0717-49ad-8c61-31d214811782",
+            "nombre": "2º  Informe de avance",
+            "url": "https://catalogodatos.gub.uy/dataset/4ddd2a98-f5d9-46ac-a745-8849d628320b/resource/8ae422f9-0717-49ad-8c61-31d214811782/download/planilla-seguimiento-may2015.csv",
+            "formato": "CSV",
+            "tamaño": null,
+            "creado": "2016-02-18T12:31:59.636873"
+          },
+          {
+            "id": "2c796e29-a089-4b3f-8663-d1a2e6507541",
+            "nombre": "2º Informe de avance",
+            "url": "https://catalogodatos.gub.uy/dataset/4ddd2a98-f5d9-46ac-a745-8849d628320b/resource/2c796e29-a089-4b3f-8663-d1a2e6507541/download/planilla-seguimiento-may2015.json",
+            "formato": "JSON",
+            "tamaño": null,
+            "creado": "2016-02-18T12:33:20.590025"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:55.132Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/agesic-informes-de-autoevaluacion-del-segundo-plan-nacional-de-gobierno-abierto",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "eaee62e54569a2b10fed98ad14dd0e21945fd1905d1a9df5e79c0c47e6792e33"
+        }
+      }
+    ]
+  },
+  "hash": "ffcdfa3de363d0b7120024a5553e0b416d6b20c7c4ebd4d8f381ed457b9aedb7",
+  "firma": "70f778744b8a7dc2e7602e3c602e355e6fe0a98f33ebfa975e85ee855099c4cf"
+}

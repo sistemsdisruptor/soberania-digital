@@ -1,0 +1,142 @@
+{
+  "id": "29d56b8805aed21c8267c867d956ecc1",
+  "timestamp": "2026-03-06T23:09:04.858Z",
+  "datos": {
+    "organismo": "antel",
+    "total": 2,
+    "datasets": [
+      {
+        "id": "06102a72-3152-4c83-902c-204073048e89",
+        "nombre": "Evolución",
+        "slug": "antel-evolucion_organismo",
+        "organismo": {
+          "id": "antel",
+          "nombre": "ANTEL",
+          "tipo": "organization"
+        },
+        "descripcion": "Ley de creación del sujeto obligado y  reseña de los principales cambios que han tenido lugar dentro del organismo",
+        "etiquetas": [
+          "Evolución",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2025-08-21T13:29:32.546873",
+        "modificado": "2025-08-21T13:31:41.517443",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "866d0316-2b67-43dd-9b14-43464cc88bf0",
+            "nombre": "Evolución del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/06102a72-3152-4c83-902c-204073048e89/resource/866d0316-2b67-43dd-9b14-43464cc88bf0/download/evolucion-del-organismo.xlsx",
+            "formato": "XLSX",
+            "tamaño": 18659,
+            "creado": "2025-08-21T13:29:35.139646"
+          },
+          {
+            "id": "9bbf71b5-b23a-4edc-a73b-1587edcf46da",
+            "nombre": "Evolución del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/06102a72-3152-4c83-902c-204073048e89/resource/9bbf71b5-b23a-4edc-a73b-1587edcf46da/download/evolucion-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 2537,
+            "creado": "2025-08-21T13:29:36.445915"
+          },
+          {
+            "id": "87c70f3e-ff78-4a1f-946f-f9b5e20888c7",
+            "nombre": "Evolución del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/06102a72-3152-4c83-902c-204073048e89/resource/87c70f3e-ff78-4a1f-946f-f9b5e20888c7/download/evolucion-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 5078,
+            "creado": "2025-08-21T13:29:37.671979"
+          },
+          {
+            "id": "099de460-87e7-40ce-8b18-753072a904a0",
+            "nombre": "Metadatos de evolución del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/06102a72-3152-4c83-902c-204073048e89/resource/099de460-87e7-40ce-8b18-753072a904a0/download/metadatos_evolucion-del-organismo.json",
+            "formato": "JSON",
+            "tamaño": 3260,
+            "creado": "2025-08-21T13:29:38.779647"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:04.858Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/antel-evolucion_organismo",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "9d36391ba0929d09de74e38a0e2a0e583e7e6aaf8d435688f8a530bf31fea556"
+        }
+      },
+      {
+        "id": "2dfd2bc7-8b73-4538-9879-0a5e6ba4e723",
+        "nombre": "Información de servicios y trámites",
+        "slug": "antel-informacion_de_servicios_y_tramites",
+        "organismo": {
+          "id": "antel",
+          "nombre": "ANTEL",
+          "tipo": "organization"
+        },
+        "descripcion": "El siguiente conjunto presenta toda la Información sobre los  servicios y trámites que Antel pone a disposición.",
+        "etiquetas": [
+          "Servicios",
+          "Tramites",
+          "Tramites y servicios",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2024-11-27T16:04:10.147184",
+        "modificado": "2024-11-27T21:00:10.442994",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "14e59d8b-9041-46e1-83cc-afffd79525f1",
+            "nombre": "Servicios y trámites del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/2dfd2bc7-8b73-4538-9879-0a5e6ba4e723/resource/14e59d8b-9041-46e1-83cc-afffd79525f1/download/datos-de-la-informacion-de-servicios-y-tramites-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 25561,
+            "creado": "2024-11-27T16:04:15.885698"
+          },
+          {
+            "id": "e4988d8e-00b6-4574-85e9-323900cfdcc4",
+            "nombre": "Servicios y trámites del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/2dfd2bc7-8b73-4538-9879-0a5e6ba4e723/resource/e4988d8e-00b6-4574-85e9-323900cfdcc4/download/datos-de-la-informacion-de-servicios-y-tramites-del-organismo.xlsx",
+            "formato": "XLSX",
+            "tamaño": 31909,
+            "creado": "2024-11-27T16:04:15.257125"
+          },
+          {
+            "id": "8b9af260-4647-4abc-b09f-cbf04f499ebe",
+            "nombre": "Servicios y trámites del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/2dfd2bc7-8b73-4538-9879-0a5e6ba4e723/resource/8b9af260-4647-4abc-b09f-cbf04f499ebe/download/datos-de-la-informacion-de-servicios-y-tramites-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 46340,
+            "creado": "2024-11-27T16:04:16.381737"
+          },
+          {
+            "id": "0af1468f-5789-41b2-9745-8ee723b3941e",
+            "nombre": "Metadatos de servicios y trámites del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/2dfd2bc7-8b73-4538-9879-0a5e6ba4e723/resource/0af1468f-5789-41b2-9745-8ee723b3941e/download/metadatos_datos-de-la-informacion-de-servicios-y-tramites-del-organismo.json",
+            "formato": "JSON",
+            "tamaño": 4486,
+            "creado": "2024-11-27T16:04:16.762631"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:04.858Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/antel-informacion_de_servicios_y_tramites",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "3216440112a428c288641f3dc51d289b20d77044ee49203128515073f8db70a4"
+        }
+      }
+    ]
+  },
+  "hash": "d89751c4cb9fe2d40b558b2b55c5244c44a19cbb0e01f23ec3f065563e6ffa45",
+  "firma": "ca9ac34c50bb38c35b36e6f5c6ea6c9a89a396cb8e50d5968807ec5aa4f0a5b4"
+}

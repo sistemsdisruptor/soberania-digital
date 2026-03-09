@@ -1,0 +1,1508 @@
+{
+  "id": "f9170c3f13857b589731fecec9549398",
+  "timestamp": "2026-03-06T23:09:06.702Z",
+  "datos": {
+    "organismo": "acce",
+    "total": 12,
+    "datasets": [
+      {
+        "id": "cbe2defd-d214-4e5b-9b52-424f3688b2cf",
+        "nombre": "Registro Unico de Proveedores del Estado (RUPE) - 2026",
+        "slug": "arce-registro-unico-de-proveedores-del-estado-rupe-2026",
+        "organismo": {
+          "id": "acce",
+          "nombre": "ARCE",
+          "tipo": "organization"
+        },
+        "descripcion": "Este conjunto cuenta con los datos extraídos del Registro Único de Proveedores del Estado (RUPE). Por cada proveedor registrado, se informa: país, identificación, denominación social, domicilio fiscal, localidad, departamento y estado (por ejemplo, En Ingreso, Activo).",
+        "etiquetas": [
+          "Compras Públicas",
+          "Compras estatales",
+          "Proveedores",
+          "RUPE"
+        ],
+        "grupos": [
+          "Economía",
+          "Transparencia"
+        ],
+        "creado": "2026-01-19T18:39:58.011862",
+        "modificado": "2026-03-02T16:27:02.602932",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "343f18f0-2c9a-4189-a73a-210c0e1f18ba",
+            "nombre": "Diccionario de Datos",
+            "url": "https://catalogodatos.gub.uy/dataset/cbe2defd-d214-4e5b-9b52-424f3688b2cf/resource/343f18f0-2c9a-4189-a73a-210c0e1f18ba/download/diccionario_datos_rupe.csv",
+            "formato": "CSV",
+            "tamaño": 435,
+            "creado": "2026-01-19T18:41:23.809247"
+          },
+          {
+            "id": "7ff5648a-ffff-46c8-b326-57bf9cdacd38",
+            "nombre": "Registro de Proveedores - Enero",
+            "url": "https://catalogodatos.gub.uy/dataset/cbe2defd-d214-4e5b-9b52-424f3688b2cf/resource/7ff5648a-ffff-46c8-b326-57bf9cdacd38/download/rupe-enero-2026.csv",
+            "formato": "CSV",
+            "tamaño": 12712832,
+            "creado": "2026-02-02T12:39:18.694794"
+          },
+          {
+            "id": "bc290bde-a323-41cf-bc17-230efc478468",
+            "nombre": "Registro de Proveedores - Febrero",
+            "url": "https://catalogodatos.gub.uy/dataset/cbe2defd-d214-4e5b-9b52-424f3688b2cf/resource/bc290bde-a323-41cf-bc17-230efc478468/download/rupe-febrero-2026.csv",
+            "formato": "CSV",
+            "tamaño": 12782390,
+            "creado": "2026-03-02T16:26:27.726267"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:06.701Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/arce-registro-unico-de-proveedores-del-estado-rupe-2026",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "3198433f4b92f0bb0cbf7a3c26fd4b84618371e343ea22fe0212c205c4e7fd36"
+        }
+      },
+      {
+        "id": "5203d170-e9ec-44d3-b09c-c0ef02270cc9",
+        "nombre": "Datos Históricos de Compras",
+        "slug": "arce-datos-historicos-de-compras",
+        "organismo": {
+          "id": "acce",
+          "nombre": "ARCE",
+          "tipo": "organization"
+        },
+        "descripcion": "Ponemos a disposición en formato OCDS, la información histórica de las compras y contrataciones del Estado, que han sido publicadas en nuestro sitio, independientemente de su origen, desde el año 2002 en adelante. \r\n\r\nLos datos históricos, han sido transformados al formato OCDS y se encuentran disponibles para su descarga masiva, mediante archivos comprimidos (formato Zip) por cada año del período antes mencionado. Los ZIP contiene archivos JSON con la información de los llamados y de las adjudicaciones, por cada mes/año. Los JSON se identifican mediante un prefijo “l” o “a”, para indicar si se trata de un release package de llamados o de adjudicaciones, respectivamente, seguidos del mes y año, por ejemplo: “l-10-2005” corresponde a los llamados publicados en octubre 2005, “a-07-2010.json” corresponde a las adjudicaciones publicadas en julio 2010.\r\n\r\nPor información acerca de la implementación del Estándar Open Contracting en Uruguay, consultar el siguiente enlace: \r\nhttps://www.gub.uy/agencia-reguladora-compras-estatales/datos-y-estadisticas/datos/open-contracting",
+        "etiquetas": [
+          "Compras estatales",
+          "Compras públicas",
+          "Proveedores",
+          "Transparecia"
+        ],
+        "grupos": [
+          "Economía",
+          "Transparencia"
+        ],
+        "creado": "2020-11-06T12:24:42.206808",
+        "modificado": "2026-01-19T15:09:25.799179",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "eae57d58-1e39-453d-90f7-54bca4a4a33c",
+            "nombre": "Compras 2002",
+            "url": "https://catalogodatos.gub.uy/dataset/5203d170-e9ec-44d3-b09c-c0ef02270cc9/resource/eae57d58-1e39-453d-90f7-54bca4a4a33c/download/ocds-2002.zip",
+            "formato": "JSON",
+            "tamaño": 2125246,
+            "creado": "2020-11-06T12:28:30.642006"
+          },
+          {
+            "id": "fb8fb9cd-b33f-41bb-8ab7-7355fd082d92",
+            "nombre": "Compras 2003",
+            "url": "https://catalogodatos.gub.uy/dataset/5203d170-e9ec-44d3-b09c-c0ef02270cc9/resource/fb8fb9cd-b33f-41bb-8ab7-7355fd082d92/download/ocds-2003.zip",
+            "formato": "JSON",
+            "tamaño": 6647360,
+            "creado": "2020-11-06T12:29:55.475357"
+          },
+          {
+            "id": "9c59c983-5f81-479c-9cfd-40eefaa432d3",
+            "nombre": "Compras 2004",
+            "url": "https://catalogodatos.gub.uy/dataset/5203d170-e9ec-44d3-b09c-c0ef02270cc9/resource/9c59c983-5f81-479c-9cfd-40eefaa432d3/download/ocds-2004.zip",
+            "formato": "JSON",
+            "tamaño": 9102799,
+            "creado": "2020-11-06T12:30:58.567425"
+          },
+          {
+            "id": "d422ac87-3ee3-44e8-96e2-d4dc607a492d",
+            "nombre": "Compras 2005",
+            "url": "https://catalogodatos.gub.uy/dataset/5203d170-e9ec-44d3-b09c-c0ef02270cc9/resource/d422ac87-3ee3-44e8-96e2-d4dc607a492d/download/ocds-2005.zip",
+            "formato": "JSON",
+            "tamaño": 8428754,
+            "creado": "2020-11-06T12:31:35.336683"
+          },
+          {
+            "id": "1891fc0f-4183-4a90-8463-f9a4b549a40c",
+            "nombre": "Compras 2006",
+            "url": "https://catalogodatos.gub.uy/dataset/5203d170-e9ec-44d3-b09c-c0ef02270cc9/resource/1891fc0f-4183-4a90-8463-f9a4b549a40c/download/ocds-2006.zip",
+            "formato": "JSON",
+            "tamaño": 8931468,
+            "creado": "2020-11-06T12:32:13.539871"
+          },
+          {
+            "id": "0f59e788-0c2f-45b8-9664-d46fd838a3d1",
+            "nombre": "Compras 2007",
+            "url": "https://catalogodatos.gub.uy/dataset/5203d170-e9ec-44d3-b09c-c0ef02270cc9/resource/0f59e788-0c2f-45b8-9664-d46fd838a3d1/download/ocds-2007.zip",
+            "formato": "JSON",
+            "tamaño": 12576669,
+            "creado": "2020-11-06T12:32:59.620828"
+          },
+          {
+            "id": "a7a0bd88-bf19-45eb-a569-0744da10af52",
+            "nombre": "Compras 2008",
+            "url": "https://catalogodatos.gub.uy/dataset/5203d170-e9ec-44d3-b09c-c0ef02270cc9/resource/a7a0bd88-bf19-45eb-a569-0744da10af52/download/ocds-2008.zip",
+            "formato": "JSON",
+            "tamaño": 14656483,
+            "creado": "2020-11-06T12:33:37.131152"
+          },
+          {
+            "id": "b16d7fae-bb86-4ca2-b00a-538d6305410d",
+            "nombre": "Compras 2009",
+            "url": "https://catalogodatos.gub.uy/dataset/5203d170-e9ec-44d3-b09c-c0ef02270cc9/resource/b16d7fae-bb86-4ca2-b00a-538d6305410d/download/ocds-2009.zip",
+            "formato": "JSON",
+            "tamaño": 9579306,
+            "creado": "2020-11-06T12:34:07.385109"
+          },
+          {
+            "id": "02c7c86c-dc34-4471-a916-93799c863fd8",
+            "nombre": "Compras 2010",
+            "url": "https://catalogodatos.gub.uy/dataset/5203d170-e9ec-44d3-b09c-c0ef02270cc9/resource/02c7c86c-dc34-4471-a916-93799c863fd8/download/ocds-2010.zip",
+            "formato": "JSON",
+            "tamaño": 10802258,
+            "creado": "2020-11-06T12:34:47.641036"
+          },
+          {
+            "id": "27a7ceb7-5a14-4548-9bce-799d51570921",
+            "nombre": "Compras 2011",
+            "url": "https://catalogodatos.gub.uy/dataset/5203d170-e9ec-44d3-b09c-c0ef02270cc9/resource/27a7ceb7-5a14-4548-9bce-799d51570921/download/ocds-2011.zip",
+            "formato": "JSON",
+            "tamaño": 12391396,
+            "creado": "2020-11-06T12:35:27.941946"
+          },
+          {
+            "id": "f5731ca1-1a3d-4803-a08b-ed9d7ef0983a",
+            "nombre": "Compras 2012",
+            "url": "https://catalogodatos.gub.uy/dataset/5203d170-e9ec-44d3-b09c-c0ef02270cc9/resource/f5731ca1-1a3d-4803-a08b-ed9d7ef0983a/download/ocds-2012.zip",
+            "formato": "JSON",
+            "tamaño": 12158064,
+            "creado": "2020-11-06T12:36:06.881789"
+          },
+          {
+            "id": "3a82f4f6-2d4b-4cdb-8d85-0a25ccc1be59",
+            "nombre": "Compras 2013",
+            "url": "https://catalogodatos.gub.uy/dataset/5203d170-e9ec-44d3-b09c-c0ef02270cc9/resource/3a82f4f6-2d4b-4cdb-8d85-0a25ccc1be59/download/ocds-2013.zip",
+            "formato": "JSON",
+            "tamaño": 12458324,
+            "creado": "2020-11-06T12:36:53.847816"
+          },
+          {
+            "id": "1700fb11-1a0c-4829-ade8-7c1891e48b9b",
+            "nombre": "Compras 2014",
+            "url": "https://catalogodatos.gub.uy/dataset/5203d170-e9ec-44d3-b09c-c0ef02270cc9/resource/1700fb11-1a0c-4829-ade8-7c1891e48b9b/download/ocds-2014.zip",
+            "formato": "JSON",
+            "tamaño": 13020393,
+            "creado": "2020-11-06T12:37:37.182789"
+          },
+          {
+            "id": "3bfb4fa7-a554-4ff7-b4dd-6d112ece356a",
+            "nombre": "Compras 2015",
+            "url": "https://catalogodatos.gub.uy/dataset/5203d170-e9ec-44d3-b09c-c0ef02270cc9/resource/3bfb4fa7-a554-4ff7-b4dd-6d112ece356a/download/ocds-2015.zip",
+            "formato": "JSON",
+            "tamaño": 13972191,
+            "creado": "2020-11-06T12:38:05.639047"
+          },
+          {
+            "id": "405b0144-c143-49ea-88cd-5cf19151a24f",
+            "nombre": "Compras 2016",
+            "url": "https://catalogodatos.gub.uy/dataset/5203d170-e9ec-44d3-b09c-c0ef02270cc9/resource/405b0144-c143-49ea-88cd-5cf19151a24f/download/ocds-2016.zip",
+            "formato": "JSON",
+            "tamaño": 15201348,
+            "creado": "2020-11-06T12:38:41.442091"
+          },
+          {
+            "id": "cfd2f909-9660-4f20-bd68-663557175f9d",
+            "nombre": "Compras 2017",
+            "url": "https://catalogodatos.gub.uy/dataset/5203d170-e9ec-44d3-b09c-c0ef02270cc9/resource/cfd2f909-9660-4f20-bd68-663557175f9d/download/ocds-2017.zip",
+            "formato": "JSON",
+            "tamaño": 17360839,
+            "creado": "2020-11-06T12:48:32.901640"
+          },
+          {
+            "id": "60c70a33-2515-4f7f-8ae0-850a0e8c822c",
+            "nombre": "Compras 2018",
+            "url": "https://catalogodatos.gub.uy/dataset/5203d170-e9ec-44d3-b09c-c0ef02270cc9/resource/60c70a33-2515-4f7f-8ae0-850a0e8c822c/download/ocds-2018.zip",
+            "formato": "JSON",
+            "tamaño": 19998361,
+            "creado": "2021-04-09T16:29:12.176572"
+          },
+          {
+            "id": "b52ec670-bf0d-4607-8a66-92c3b94a6459",
+            "nombre": "Compras 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/5203d170-e9ec-44d3-b09c-c0ef02270cc9/resource/b52ec670-bf0d-4607-8a66-92c3b94a6459/download/ocds-2019.zip",
+            "formato": "JSON",
+            "tamaño": 21723293,
+            "creado": "2021-04-09T16:51:26.734424"
+          },
+          {
+            "id": "1ebf3367-321e-4171-a524-0105897e1230",
+            "nombre": "Compras 2020",
+            "url": "https://catalogodatos.gub.uy/dataset/5203d170-e9ec-44d3-b09c-c0ef02270cc9/resource/1ebf3367-321e-4171-a524-0105897e1230/download/ocds-2020.zip",
+            "formato": "JSON",
+            "tamaño": 18863531,
+            "creado": "2021-04-09T17:07:03.589553"
+          },
+          {
+            "id": "16f2facf-1b13-4e71-82f1-13fae7a25cab",
+            "nombre": "Compras 2021",
+            "url": "https://catalogodatos.gub.uy/dataset/5203d170-e9ec-44d3-b09c-c0ef02270cc9/resource/16f2facf-1b13-4e71-82f1-13fae7a25cab/download/ocds-2021.zip",
+            "formato": "JSON",
+            "tamaño": 24596709,
+            "creado": "2021-10-22T18:42:36.155665"
+          },
+          {
+            "id": "703fc3f1-c251-4f43-a1d5-11380fa741f6",
+            "nombre": "Compras 2022",
+            "url": "https://catalogodatos.gub.uy/dataset/5203d170-e9ec-44d3-b09c-c0ef02270cc9/resource/703fc3f1-c251-4f43-a1d5-11380fa741f6/download/ocds-2022.zip",
+            "formato": "JSON",
+            "tamaño": 27094719,
+            "creado": "2023-01-09T12:18:34.886240"
+          },
+          {
+            "id": "e4de0c01-285a-4ba2-ba9c-bc5411cacd5e",
+            "nombre": "Compras 2023",
+            "url": "https://catalogodatos.gub.uy/dataset/5203d170-e9ec-44d3-b09c-c0ef02270cc9/resource/e4de0c01-285a-4ba2-ba9c-bc5411cacd5e/download/ocds-2023.zip",
+            "formato": "JSON",
+            "tamaño": 26666652,
+            "creado": "2024-01-15T13:12:44.341364"
+          },
+          {
+            "id": "12508c0e-6857-406b-8aca-a63e66920e9f",
+            "nombre": "Compras 2024",
+            "url": "https://catalogodatos.gub.uy/dataset/5203d170-e9ec-44d3-b09c-c0ef02270cc9/resource/12508c0e-6857-406b-8aca-a63e66920e9f/download/ocds-2024.zip",
+            "formato": "JSON",
+            "tamaño": 32927528,
+            "creado": "2025-02-27T15:42:34.626288"
+          },
+          {
+            "id": "cb26fe02-3bc2-4d79-95f3-a9d8d502134a",
+            "nombre": "Compras 2025",
+            "url": "https://catalogodatos.gub.uy/dataset/5203d170-e9ec-44d3-b09c-c0ef02270cc9/resource/cb26fe02-3bc2-4d79-95f3-a9d8d502134a/download/ocds-2025.zip",
+            "formato": "JSON",
+            "tamaño": 27132122,
+            "creado": "2026-01-19T15:09:25.970349"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:06.701Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/arce-datos-historicos-de-compras",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "46b9dcce688460863408b5818d0b422792a36541431a1a6571cbc11bac8dd873"
+        }
+      },
+      {
+        "id": "c55d90e1-1c62-440c-9e03-b359dffdf25c",
+        "nombre": "Registro Unico de Proveedores del Estado (RUPE) - 2025",
+        "slug": "arce-registro-unico-de-proveedores-del-estado-rupe-2025",
+        "organismo": {
+          "id": "acce",
+          "nombre": "ARCE",
+          "tipo": "organization"
+        },
+        "descripcion": "Este conjunto cuenta con los datos extraídos del Registro Único de Proveedores del Estado (RUPE). Por cada proveedor registrado, se informa: país, identificación, denominación social, domicilio fiscal, localidad, departamento y estado (por ejemplo, En Ingreso, Activo).",
+        "etiquetas": [
+          "Compras Públicas",
+          "Compras estatales",
+          "Proveedores",
+          "RUPE"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2025-01-30T16:44:15.846515",
+        "modificado": "2026-01-19T12:33:08.502342",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "852757ef-aa9b-4d53-bf10-6750900eeb54",
+            "nombre": "Diccionario de Datos",
+            "url": "https://catalogodatos.gub.uy/dataset/c55d90e1-1c62-440c-9e03-b359dffdf25c/resource/852757ef-aa9b-4d53-bf10-6750900eeb54/download/diccionario_datos_rupe.xlsx",
+            "formato": "XLSX",
+            "tamaño": 9635,
+            "creado": "2025-01-30T16:45:16.166550"
+          },
+          {
+            "id": "b954a6ad-b969-4970-bff7-1bc3b8931881",
+            "nombre": "Registro de Proveedores - Enero",
+            "url": "https://catalogodatos.gub.uy/dataset/c55d90e1-1c62-440c-9e03-b359dffdf25c/resource/b954a6ad-b969-4970-bff7-1bc3b8931881/download/rupe-enero-2025.csv",
+            "formato": "CSV",
+            "tamaño": 11831666,
+            "creado": "2025-02-03T13:30:51.393080"
+          },
+          {
+            "id": "1bd325a6-c301-4ca1-8375-e4a047ec09bf",
+            "nombre": "Registro de Proveedores - Febrero",
+            "url": "https://catalogodatos.gub.uy/dataset/c55d90e1-1c62-440c-9e03-b359dffdf25c/resource/1bd325a6-c301-4ca1-8375-e4a047ec09bf/download/rupe-febrero-2025.csv",
+            "formato": "CSV",
+            "tamaño": 11896576,
+            "creado": "2025-03-05T14:31:44.824124"
+          },
+          {
+            "id": "fa190af9-48e5-4d2c-b82a-ae463a63c815",
+            "nombre": "Registro de Proveedores - Marzo",
+            "url": "https://catalogodatos.gub.uy/dataset/c55d90e1-1c62-440c-9e03-b359dffdf25c/resource/fa190af9-48e5-4d2c-b82a-ae463a63c815/download/rupe-marzo-2025.csv",
+            "formato": "CSV",
+            "tamaño": 11979473,
+            "creado": "2025-04-01T13:36:25.456850"
+          },
+          {
+            "id": "5ee5b921-feff-48bf-80e0-86c36fa1253c",
+            "nombre": "Registro de Proveedores - Abril",
+            "url": "https://catalogodatos.gub.uy/dataset/c55d90e1-1c62-440c-9e03-b359dffdf25c/resource/5ee5b921-feff-48bf-80e0-86c36fa1253c/download/rupe-abril-2025.csv",
+            "formato": "CSV",
+            "tamaño": 12038328,
+            "creado": "2025-05-02T13:15:48.141353"
+          },
+          {
+            "id": "290c5f8c-216a-40a5-9a8c-610f49be1655",
+            "nombre": "Registro de Proveedores - Mayo",
+            "url": "https://catalogodatos.gub.uy/dataset/c55d90e1-1c62-440c-9e03-b359dffdf25c/resource/290c5f8c-216a-40a5-9a8c-610f49be1655/download/rupe-mayo-2025.csv",
+            "formato": "CSV",
+            "tamaño": 12105484,
+            "creado": "2025-06-02T13:53:02.462125"
+          },
+          {
+            "id": "f8a88580-0d5d-448e-bda2-fe76a4509ea7",
+            "nombre": "Registro de Proveedores - Junio",
+            "url": "https://catalogodatos.gub.uy/dataset/c55d90e1-1c62-440c-9e03-b359dffdf25c/resource/f8a88580-0d5d-448e-bda2-fe76a4509ea7/download/rupe-junio-2025.csv",
+            "formato": "CSV",
+            "tamaño": 12163597,
+            "creado": "2025-07-01T13:15:00.682495"
+          },
+          {
+            "id": "efde6fd4-0b3d-4853-b048-36273104fec8",
+            "nombre": "Registro de Proveedores - Julio",
+            "url": "https://catalogodatos.gub.uy/dataset/c55d90e1-1c62-440c-9e03-b359dffdf25c/resource/efde6fd4-0b3d-4853-b048-36273104fec8/download/rupe-julio-2025.csv",
+            "formato": "CSV",
+            "tamaño": 12233577,
+            "creado": "2025-08-01T13:27:15.250657"
+          },
+          {
+            "id": "6214322b-8f09-4794-8087-c0926cc02ed8",
+            "nombre": "Registro de Proveedores - Agosto",
+            "url": "https://catalogodatos.gub.uy/dataset/c55d90e1-1c62-440c-9e03-b359dffdf25c/resource/6214322b-8f09-4794-8087-c0926cc02ed8/download/rupe-agosto-2025.csv",
+            "formato": "CSV",
+            "tamaño": 12310248,
+            "creado": "2025-09-02T12:58:48.547332"
+          },
+          {
+            "id": "cd8edf27-380b-4ac3-9044-5ed890e5aa0d",
+            "nombre": "Registro de Proveedores - Setiembre",
+            "url": "https://catalogodatos.gub.uy/dataset/c55d90e1-1c62-440c-9e03-b359dffdf25c/resource/cd8edf27-380b-4ac3-9044-5ed890e5aa0d/download/rupe-setiembre-2025.csv",
+            "formato": "CSV",
+            "tamaño": 12392731,
+            "creado": "2025-10-01T13:25:23.350232"
+          },
+          {
+            "id": "d32956f7-9191-4f03-ae22-76b8a43b2714",
+            "nombre": "Registro de Proveedores - Octubre",
+            "url": "https://catalogodatos.gub.uy/dataset/c55d90e1-1c62-440c-9e03-b359dffdf25c/resource/d32956f7-9191-4f03-ae22-76b8a43b2714/download/rupe-octubre-2025.csv",
+            "formato": "CSV",
+            "tamaño": 12483759,
+            "creado": "2025-11-03T14:11:07.221227"
+          },
+          {
+            "id": "c19522fc-eeed-4817-a2df-22f86a4839ed",
+            "nombre": "Registro de Proveedores - Noviembre",
+            "url": "https://catalogodatos.gub.uy/dataset/c55d90e1-1c62-440c-9e03-b359dffdf25c/resource/c19522fc-eeed-4817-a2df-22f86a4839ed/download/rupe-noviembre-2025.csv",
+            "formato": "CSV",
+            "tamaño": 12555977,
+            "creado": "2025-12-01T14:28:56.269841"
+          },
+          {
+            "id": "188cb57e-8334-430a-a113-b23dc406dd92",
+            "nombre": "Registro de Proveedores - Diciembre",
+            "url": "https://catalogodatos.gub.uy/dataset/c55d90e1-1c62-440c-9e03-b359dffdf25c/resource/188cb57e-8334-430a-a113-b23dc406dd92/download/rupe-diciembre-2025.csv",
+            "formato": "CSV",
+            "tamaño": 12644031,
+            "creado": "2026-01-19T12:32:34.849504"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:06.701Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/arce-registro-unico-de-proveedores-del-estado-rupe-2025",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "61bfc0cc673efe783596cbdb76d4eafc67a76f57830846d092c1d89fcecdeeb5"
+        }
+      },
+      {
+        "id": "1c890764-c427-4411-bda0-2a3cd1b230f1",
+        "nombre": "Registro Unico de Proveedores del Estado (RUPE) - 2024",
+        "slug": "arce-registro-unico-de-proveedores-del-estado-rupe-2024",
+        "organismo": {
+          "id": "acce",
+          "nombre": "ARCE",
+          "tipo": "organization"
+        },
+        "descripcion": "Este conjunto cuenta con los datos extraídos del Registro Único de Proveedores del Estado (RUPE). Por cada proveedor registrado, se informa: país, identificación, denominación social, domicilio fiscal, localidad, departamento y estado (por ejemplo, En Ingreso, Activo).",
+        "etiquetas": [
+          "Compras públicas",
+          "Proveedores",
+          "RUPE",
+          "compras estatales"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2024-02-01T13:01:31.558076",
+        "modificado": "2025-01-20T13:32:30.442263",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "7adf003f-6132-4071-9bcb-5c8a505c78ca",
+            "nombre": "Registro de Proveedores - Enero",
+            "url": "https://catalogodatos.gub.uy/dataset/1c890764-c427-4411-bda0-2a3cd1b230f1/resource/7adf003f-6132-4071-9bcb-5c8a505c78ca/download/rupe-enero-2024.csv",
+            "formato": "CSV",
+            "tamaño": 11040535,
+            "creado": "2024-02-01T13:04:24.173130"
+          },
+          {
+            "id": "bb4c1dd5-6925-45c0-a220-c85b4012212b",
+            "nombre": "Diccionario de Datos",
+            "url": "https://catalogodatos.gub.uy/dataset/1c890764-c427-4411-bda0-2a3cd1b230f1/resource/bb4c1dd5-6925-45c0-a220-c85b4012212b/download/diccionario_datos_rupe.xlsx",
+            "formato": "XLSX",
+            "tamaño": 9635,
+            "creado": "2024-02-01T13:03:01.362687"
+          },
+          {
+            "id": "cbf8359e-f79e-4021-bf6d-36ceb38069f8",
+            "nombre": "Registro de Proveedores - Febrero",
+            "url": "https://catalogodatos.gub.uy/dataset/1c890764-c427-4411-bda0-2a3cd1b230f1/resource/cbf8359e-f79e-4021-bf6d-36ceb38069f8/download/rupe-febrero-2024.csv",
+            "formato": "CSV",
+            "tamaño": 11106767,
+            "creado": "2024-03-05T12:44:43.003953"
+          },
+          {
+            "id": "ad91e194-70fc-49af-943e-76f7832a976c",
+            "nombre": "Registro de Proveedores - Marzo",
+            "url": "https://catalogodatos.gub.uy/dataset/1c890764-c427-4411-bda0-2a3cd1b230f1/resource/ad91e194-70fc-49af-943e-76f7832a976c/download/rupe-marzo-2024.csv",
+            "formato": "CSV",
+            "tamaño": 11162434,
+            "creado": "2024-04-01T12:55:39.674286"
+          },
+          {
+            "id": "a9f623ef-2dcb-4bf5-a10e-d61750834316",
+            "nombre": "Registro de Proveedores - Abril",
+            "url": "https://catalogodatos.gub.uy/dataset/1c890764-c427-4411-bda0-2a3cd1b230f1/resource/a9f623ef-2dcb-4bf5-a10e-d61750834316/download/rupe-abril-2024.csv",
+            "formato": "CSV",
+            "tamaño": 11236005,
+            "creado": "2024-05-02T13:06:47.095610"
+          },
+          {
+            "id": "ffa8cbf7-84ee-4c09-8a0c-f82d8bc9f258",
+            "nombre": " Registro de Proveedores - Mayo",
+            "url": "https://catalogodatos.gub.uy/dataset/1c890764-c427-4411-bda0-2a3cd1b230f1/resource/ffa8cbf7-84ee-4c09-8a0c-f82d8bc9f258/download/rupe-mayo-2024.csv",
+            "formato": "CSV",
+            "tamaño": 11308843,
+            "creado": "2024-06-03T13:52:25.147666"
+          },
+          {
+            "id": "4d91b00a-6cab-403b-ad5b-3085a8cbdaf9",
+            "nombre": "Registro de Proveedores - Junio",
+            "url": "https://catalogodatos.gub.uy/dataset/1c890764-c427-4411-bda0-2a3cd1b230f1/resource/4d91b00a-6cab-403b-ad5b-3085a8cbdaf9/download/rupe-junio-2024.csv",
+            "formato": "CSV",
+            "tamaño": 11373864,
+            "creado": "2024-07-01T13:50:17.021966"
+          },
+          {
+            "id": "77852cc8-ea6d-4c6e-aa04-5dea9bc36065",
+            "nombre": "Registro de Proveedores - Julio",
+            "url": "https://catalogodatos.gub.uy/dataset/1c890764-c427-4411-bda0-2a3cd1b230f1/resource/77852cc8-ea6d-4c6e-aa04-5dea9bc36065/download/rupe-julio-2024.csv",
+            "formato": "CSV",
+            "tamaño": 11442614,
+            "creado": "2024-08-01T13:25:39.169939"
+          },
+          {
+            "id": "970f67b1-7001-4a73-8ca1-f8487a3dadd7",
+            "nombre": "Registro de Proveedores - Agosto",
+            "url": "https://catalogodatos.gub.uy/dataset/1c890764-c427-4411-bda0-2a3cd1b230f1/resource/970f67b1-7001-4a73-8ca1-f8487a3dadd7/download/rupe-agosto-2024.csv",
+            "formato": "CSV",
+            "tamaño": 11522008,
+            "creado": "2024-09-02T18:10:03.256407"
+          },
+          {
+            "id": "4d582bbe-417b-4834-a248-c9fe5aa3ef0c",
+            "nombre": "Registro de Proveedores - Setiembre",
+            "url": "https://catalogodatos.gub.uy/dataset/1c890764-c427-4411-bda0-2a3cd1b230f1/resource/4d582bbe-417b-4834-a248-c9fe5aa3ef0c/download/rupe-setiembre-2024.csv",
+            "formato": "CSV",
+            "tamaño": 11589830,
+            "creado": "2024-10-01T13:34:30.838533"
+          },
+          {
+            "id": "637cf36c-b364-4979-a5e9-026a61da7c41",
+            "nombre": " Registro de Proveedores - Octubre",
+            "url": "https://catalogodatos.gub.uy/dataset/1c890764-c427-4411-bda0-2a3cd1b230f1/resource/637cf36c-b364-4979-a5e9-026a61da7c41/download/rupe-octubre-2024.csv",
+            "formato": "CSV",
+            "tamaño": 11660584,
+            "creado": "2024-11-04T12:36:53.627486"
+          },
+          {
+            "id": "426c685e-cd61-4ec0-8dd2-0f2aad76fecf",
+            "nombre": "Registro de Proveedores - Noviembre",
+            "url": "https://catalogodatos.gub.uy/dataset/1c890764-c427-4411-bda0-2a3cd1b230f1/resource/426c685e-cd61-4ec0-8dd2-0f2aad76fecf/download/rupe-noviembre-2024.csv",
+            "formato": "CSV",
+            "tamaño": 11723120,
+            "creado": "2024-12-02T13:40:56.551339"
+          },
+          {
+            "id": "f1c62054-e4d1-40cc-b1f3-68730e19278b",
+            "nombre": "Registro de Proveedores - Diciembre",
+            "url": "https://catalogodatos.gub.uy/dataset/1c890764-c427-4411-bda0-2a3cd1b230f1/resource/f1c62054-e4d1-40cc-b1f3-68730e19278b/download/rupe-diciembre-2024.csv",
+            "formato": "CSV",
+            "tamaño": 11772546,
+            "creado": "2025-01-20T13:32:30.499225"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:06.701Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/arce-registro-unico-de-proveedores-del-estado-rupe-2024",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "1d3264871d8a95fdfb67851367d624aad349e5c6ffe659e98d748c81d1ad75f0"
+        }
+      },
+      {
+        "id": "26f9e1b9-1bef-4900-8815-3003c7d62367",
+        "nombre": "Registro Unico de Proveedores del Estado (RUPE) - 2023",
+        "slug": "registro-unico-de-proveedores-del-estado-rupe-2023",
+        "organismo": {
+          "id": "acce",
+          "nombre": "ARCE",
+          "tipo": "organization"
+        },
+        "descripcion": "Datos extraídos del Registro Único de Proveedores del Estado (RUPE). Por cada proveedor registrado, se informa: país, identificación, denominación social, domicilio fiscal, localidad, departamento y estado (por ejemplo, En Ingreso, Activo).",
+        "etiquetas": [
+          "Compras estatales",
+          "Compras públicas",
+          "Proveedores"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2023-02-02T12:27:06.058472",
+        "modificado": "2024-01-15T19:07:48.190474",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "fa21af6e-dd59-4394-b36e-ee8b752a7dde",
+            "nombre": "Diccionario de Datos",
+            "url": "https://catalogodatos.gub.uy/dataset/26f9e1b9-1bef-4900-8815-3003c7d62367/resource/fa21af6e-dd59-4394-b36e-ee8b752a7dde/download/diccionario_datos_rupe.xlsx",
+            "formato": "XLSX",
+            "tamaño": 9635,
+            "creado": "2023-02-02T12:28:28.748091"
+          },
+          {
+            "id": "d8566f1f-975e-4106-8989-9af82d399c30",
+            "nombre": "Registro de Proveedores en RUPE - Enero",
+            "url": "https://catalogodatos.gub.uy/dataset/26f9e1b9-1bef-4900-8815-3003c7d62367/resource/d8566f1f-975e-4106-8989-9af82d399c30/download/rupe-enero-2023.csv",
+            "formato": "CSV",
+            "tamaño": 10089989,
+            "creado": "2023-02-02T12:29:30.876409"
+          },
+          {
+            "id": "0cfa4489-3723-47a7-bb31-eaa5a311120f",
+            "nombre": "Registro de Proveedores en RUPE - Febrero",
+            "url": "https://catalogodatos.gub.uy/dataset/26f9e1b9-1bef-4900-8815-3003c7d62367/resource/0cfa4489-3723-47a7-bb31-eaa5a311120f/download/rupe-febrero-2023.csv",
+            "formato": "CSV",
+            "tamaño": 10157579,
+            "creado": "2023-03-01T14:48:31.495975"
+          },
+          {
+            "id": "57a2cec0-3bb8-4bb1-b4dc-ba7b1418603a",
+            "nombre": "Registro de Proveedores en RUPE - Marzo",
+            "url": "https://catalogodatos.gub.uy/dataset/26f9e1b9-1bef-4900-8815-3003c7d62367/resource/57a2cec0-3bb8-4bb1-b4dc-ba7b1418603a/download/rupe-marzo-2023.csv",
+            "formato": "CSV",
+            "tamaño": 10262482,
+            "creado": "2023-04-10T13:51:24.680114"
+          },
+          {
+            "id": "c8ec389e-a42e-4829-8cc9-a6fb8a7d9d39",
+            "nombre": "Registro de Proveedores en RUPE - Abril",
+            "url": "https://catalogodatos.gub.uy/dataset/26f9e1b9-1bef-4900-8815-3003c7d62367/resource/c8ec389e-a42e-4829-8cc9-a6fb8a7d9d39/download/rupe-abril-2023.csv",
+            "formato": "CSV",
+            "tamaño": 10316611,
+            "creado": "2023-05-02T12:50:55.970428"
+          },
+          {
+            "id": "ebc8abc8-bf57-4d85-8534-3af64c6e17fb",
+            "nombre": "Registro de Proveedores en RUPE - Mayo",
+            "url": "https://catalogodatos.gub.uy/dataset/26f9e1b9-1bef-4900-8815-3003c7d62367/resource/ebc8abc8-bf57-4d85-8534-3af64c6e17fb/download/rupe-mayo-2023.csv",
+            "formato": "CSV",
+            "tamaño": 10411882,
+            "creado": "2023-06-01T17:48:26.509403"
+          },
+          {
+            "id": "accf6acf-6c8a-4496-9962-e425402da9be",
+            "nombre": "Registro de Proveedores en RUPE - Junio",
+            "url": "https://catalogodatos.gub.uy/dataset/26f9e1b9-1bef-4900-8815-3003c7d62367/resource/accf6acf-6c8a-4496-9962-e425402da9be/download/rupe-junio-2023.csv",
+            "formato": "CSV",
+            "tamaño": 10485127,
+            "creado": "2023-07-04T12:49:20.079207"
+          },
+          {
+            "id": "7941f67c-28d8-469c-b33c-0487cd7011b5",
+            "nombre": "Registro de Proveedores en RUPE - Julio",
+            "url": "https://catalogodatos.gub.uy/dataset/26f9e1b9-1bef-4900-8815-3003c7d62367/resource/7941f67c-28d8-469c-b33c-0487cd7011b5/download/rupe-julio-2023.csv",
+            "formato": "CSV",
+            "tamaño": 10569444,
+            "creado": "2023-08-01T14:37:05.664524"
+          },
+          {
+            "id": "0f22879f-99a6-40f8-b777-552d58da4fc3",
+            "nombre": "Registro de Proveedores en RUPE - Agosto",
+            "url": "https://catalogodatos.gub.uy/dataset/26f9e1b9-1bef-4900-8815-3003c7d62367/resource/0f22879f-99a6-40f8-b777-552d58da4fc3/download/rupe-agosto-2023.csv",
+            "formato": "CSV",
+            "tamaño": 10680367,
+            "creado": "2023-09-11T13:08:28.478888"
+          },
+          {
+            "id": "8ce6fbc1-3469-4a86-9353-03fd3a886ef3",
+            "nombre": "Registro de Proveedores en RUPE - Setiembre",
+            "url": "https://catalogodatos.gub.uy/dataset/26f9e1b9-1bef-4900-8815-3003c7d62367/resource/8ce6fbc1-3469-4a86-9353-03fd3a886ef3/download/rupe-setiembre-2023.csv",
+            "formato": "CSV",
+            "tamaño": 10769563,
+            "creado": "2023-10-02T14:29:05.867019"
+          },
+          {
+            "id": "a71964f4-8f9e-4034-a4e7-f91c4c75198e",
+            "nombre": "Registro de Proveedores en RUPE - Octubre",
+            "url": "https://catalogodatos.gub.uy/dataset/26f9e1b9-1bef-4900-8815-3003c7d62367/resource/a71964f4-8f9e-4034-a4e7-f91c4c75198e/download/rupe-octubre-2023.csv",
+            "formato": "CSV",
+            "tamaño": 10840740,
+            "creado": "2023-11-01T19:22:52.758014"
+          },
+          {
+            "id": "1b83c0f2-2d2b-480a-bde1-de9b0e4b17b7",
+            "nombre": "Registro de Proveedores en RUPE - Noviembre",
+            "url": "https://catalogodatos.gub.uy/dataset/26f9e1b9-1bef-4900-8815-3003c7d62367/resource/1b83c0f2-2d2b-480a-bde1-de9b0e4b17b7/download/rupe-noviembre-2023.csv",
+            "formato": "CSV",
+            "tamaño": 10919766,
+            "creado": "2023-12-11T12:27:28.636355"
+          },
+          {
+            "id": "af4b1d1e-bd87-43dc-a263-bffa02502a59",
+            "nombre": "Registro de Proveedores en RUPE - Diciembre",
+            "url": "https://catalogodatos.gub.uy/dataset/26f9e1b9-1bef-4900-8815-3003c7d62367/resource/af4b1d1e-bd87-43dc-a263-bffa02502a59/download/rupe-diciembre-2023.csv",
+            "formato": "CSV",
+            "tamaño": 10978697,
+            "creado": "2024-01-15T19:07:48.254120"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:06.701Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/registro-unico-de-proveedores-del-estado-rupe-2023",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "e6d9ca246436e6ef3c77d3bbebe53557224b816347f6c0efc1f63d8b7fce02d4"
+        }
+      },
+      {
+        "id": "37f9b94e-766c-4ac0-9b83-3119bda27361",
+        "nombre": "Registro Unico de Proveedores del Estado (RUPE) - 2022",
+        "slug": "acce-registro-unico-de-proveedores-del-estado-rupe-2022",
+        "organismo": {
+          "id": "acce",
+          "nombre": "ARCE",
+          "tipo": "organization"
+        },
+        "descripcion": "Datos extraídos del Registro Único de Proveedores del Estado (RUPE). Por cada proveedor registrado, se informa: país, identificación, denominación social, domicilio fiscal, localidad, departamento y estado (por ejemplo, En Ingreso, Activo).",
+        "etiquetas": [
+          "Compras públicas",
+          "compras estatales",
+          "proveedores"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2022-02-01T14:09:54.211374",
+        "modificado": "2023-01-09T12:33:56.477759",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "d0f192c3-de51-4751-b4d1-259f4e7e1785",
+            "nombre": "Diccionario de Datos",
+            "url": "https://catalogodatos.gub.uy/dataset/37f9b94e-766c-4ac0-9b83-3119bda27361/resource/d0f192c3-de51-4751-b4d1-259f4e7e1785/download/diccionario_datos_rupe.xlsx",
+            "formato": "XLSX",
+            "tamaño": 9635,
+            "creado": "2022-02-01T14:11:43.196334"
+          },
+          {
+            "id": "c1c1fb21-496f-461d-9896-f27cda34201b",
+            "nombre": "Registro de Proveedores en RUPE - Enero",
+            "url": "https://catalogodatos.gub.uy/dataset/37f9b94e-766c-4ac0-9b83-3119bda27361/resource/c1c1fb21-496f-461d-9896-f27cda34201b/download/rupe-enero-2022.csv",
+            "formato": "CSV",
+            "tamaño": 8605949,
+            "creado": "2022-02-01T14:13:33.091081"
+          },
+          {
+            "id": "7dc98f60-9d4a-4c28-baec-e2c044609c43",
+            "nombre": "Registro de Proveedores en RUPE - Febrero",
+            "url": "https://catalogodatos.gub.uy/dataset/37f9b94e-766c-4ac0-9b83-3119bda27361/resource/7dc98f60-9d4a-4c28-baec-e2c044609c43/download/rupe-febrero-2022.csv",
+            "formato": "CSV",
+            "tamaño": 8668007,
+            "creado": "2022-03-08T14:20:52.194175"
+          },
+          {
+            "id": "6087b472-269e-4a90-865f-e2f21d2f1a3e",
+            "nombre": "Registro de Proveedores en RUPE - Marzo",
+            "url": "https://catalogodatos.gub.uy/dataset/37f9b94e-766c-4ac0-9b83-3119bda27361/resource/6087b472-269e-4a90-865f-e2f21d2f1a3e/download/rupe-marzo-2022.csv",
+            "formato": "CSV",
+            "tamaño": 8749335,
+            "creado": "2022-04-01T13:54:53.786176"
+          },
+          {
+            "id": "20a527ea-f8ff-4b05-b1e1-ae5a4dd352a7",
+            "nombre": "Registro de Proveedores en RUPE - Abril",
+            "url": "https://catalogodatos.gub.uy/dataset/37f9b94e-766c-4ac0-9b83-3119bda27361/resource/20a527ea-f8ff-4b05-b1e1-ae5a4dd352a7/download/rupe-abril-2022.csv",
+            "formato": "CSV",
+            "tamaño": 8802470,
+            "creado": "2022-05-02T13:53:24.652952"
+          },
+          {
+            "id": "f08ef08a-583b-42f3-80c7-68f4eace77dd",
+            "nombre": "Registro de Proveedores en RUPE - Mayo",
+            "url": "https://catalogodatos.gub.uy/dataset/37f9b94e-766c-4ac0-9b83-3119bda27361/resource/f08ef08a-583b-42f3-80c7-68f4eace77dd/download/rupe-mayo-2022.csv",
+            "formato": "CSV",
+            "tamaño": 8878582,
+            "creado": "2022-06-01T13:07:21.108146"
+          },
+          {
+            "id": "9419b828-5529-48e7-bffb-a94778d08558",
+            "nombre": "Registro de Proveedores en RUPE - Junio",
+            "url": "https://catalogodatos.gub.uy/dataset/37f9b94e-766c-4ac0-9b83-3119bda27361/resource/9419b828-5529-48e7-bffb-a94778d08558/download/rupe-junio-2022.csv",
+            "formato": "CSV",
+            "tamaño": 8956971,
+            "creado": "2022-07-04T18:30:11.120463"
+          },
+          {
+            "id": "ac80683e-2b4d-416e-b00e-8f73296b853d",
+            "nombre": "Registro de Proveedores en RUPE - Julio",
+            "url": "https://catalogodatos.gub.uy/dataset/37f9b94e-766c-4ac0-9b83-3119bda27361/resource/ac80683e-2b4d-416e-b00e-8f73296b853d/download/rupe-julio-2022.csv",
+            "formato": "CSV",
+            "tamaño": 9029208,
+            "creado": "2022-08-01T20:18:57.192705"
+          },
+          {
+            "id": "f3cb2446-f5f6-4ea0-bfa8-780d89adcb5e",
+            "nombre": "Registro de Proveedores en RUPE - Agosto",
+            "url": "https://catalogodatos.gub.uy/dataset/37f9b94e-766c-4ac0-9b83-3119bda27361/resource/f3cb2446-f5f6-4ea0-bfa8-780d89adcb5e/download/rupe-agosto-2022.csv",
+            "formato": "CSV",
+            "tamaño": 9122932,
+            "creado": "2022-09-01T16:18:19.158729"
+          },
+          {
+            "id": "4ab818e8-172a-4921-83fa-a1c08322a634",
+            "nombre": "Registro de Proveedores en RUPE - Setiembre",
+            "url": "https://catalogodatos.gub.uy/dataset/37f9b94e-766c-4ac0-9b83-3119bda27361/resource/4ab818e8-172a-4921-83fa-a1c08322a634/download/rupe-setiembre-2022.csv",
+            "formato": "CSV",
+            "tamaño": 9122932,
+            "creado": "2022-10-03T12:55:24.552674"
+          },
+          {
+            "id": "9860b239-6b3b-4c40-a7b1-3975c1f9822c",
+            "nombre": "Registro de Proveedores en RUPE - Octubre",
+            "url": "https://catalogodatos.gub.uy/dataset/37f9b94e-766c-4ac0-9b83-3119bda27361/resource/9860b239-6b3b-4c40-a7b1-3975c1f9822c/download/rupe-octubre-2022.csv",
+            "formato": "CSV",
+            "tamaño": 9200926,
+            "creado": "2022-11-07T15:12:17.941631"
+          },
+          {
+            "id": "8779ec86-97ba-4069-9f01-ebe6680ac56b",
+            "nombre": "Registro de Proveedores en RUPE - Noviembre",
+            "url": "https://catalogodatos.gub.uy/dataset/37f9b94e-766c-4ac0-9b83-3119bda27361/resource/8779ec86-97ba-4069-9f01-ebe6680ac56b/download/rupe-noviembre-2022.csv",
+            "formato": "CSV",
+            "tamaño": 9268822,
+            "creado": "2022-12-01T14:36:34.631216"
+          },
+          {
+            "id": "cbfae06e-5bb5-40b2-9414-f0e7463270e3",
+            "nombre": "Registro de Proveedores en RUPE - Diciembre",
+            "url": "https://catalogodatos.gub.uy/dataset/37f9b94e-766c-4ac0-9b83-3119bda27361/resource/cbfae06e-5bb5-40b2-9414-f0e7463270e3/download/rupe-diciembre-2022.csv",
+            "formato": "CSV",
+            "tamaño": 9399312,
+            "creado": "2023-01-09T12:33:56.506741"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:06.701Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/acce-registro-unico-de-proveedores-del-estado-rupe-2022",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "7b5febfaf7705b2fb02e53daeda72bd8c8255c0d5fc5ddaf7454392eb1bd1017"
+        }
+      },
+      {
+        "id": "2ed18ffb-074c-472a-800e-324388ec0c7a",
+        "nombre": "Registro Unico de Proveedores del Estado (RUPE) - 2021",
+        "slug": "acce-registro-unico-de-proveedores-del-estado-rupe-2021",
+        "organismo": {
+          "id": "acce",
+          "nombre": "ARCE",
+          "tipo": "organization"
+        },
+        "descripcion": "Datos extraídos del Registro Único de Proveedores del Estado (RUPE). Por cada proveedor registrado, se informa: país, identificación, denominación social, domicilio fiscal, localidad, departamento y estado (por ejemplo, En Ingreso, Activo).",
+        "etiquetas": [
+          "Compras Públicas",
+          "compras estatales",
+          "proveedores"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2021-02-01T13:12:18.711283",
+        "modificado": "2022-01-21T13:13:09.017903",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "573fd06a-382a-41fb-ba9f-6ea0f1e8f846",
+            "nombre": "Diccionario de Datos",
+            "url": "https://catalogodatos.gub.uy/dataset/2ed18ffb-074c-472a-800e-324388ec0c7a/resource/573fd06a-382a-41fb-ba9f-6ea0f1e8f846/download/diccionario_datos_rupe.xlsx",
+            "formato": "XLSX",
+            "tamaño": 9635,
+            "creado": "2021-02-01T13:13:06.563015"
+          },
+          {
+            "id": "3a7cfb1a-102a-4d2b-994f-5013bf2ce772",
+            "nombre": "Registro de Proveedores en RUPE - Enero",
+            "url": "https://catalogodatos.gub.uy/dataset/2ed18ffb-074c-472a-800e-324388ec0c7a/resource/3a7cfb1a-102a-4d2b-994f-5013bf2ce772/download/rupe-enero-2021.csv",
+            "formato": "CSV",
+            "tamaño": 7794039,
+            "creado": "2021-02-01T13:28:03.110734"
+          },
+          {
+            "id": "149394b0-45ae-474f-ae1b-aa0470361b7b",
+            "nombre": "Registro de Proveedores en RUPE - Febrero",
+            "url": "https://catalogodatos.gub.uy/dataset/2ed18ffb-074c-472a-800e-324388ec0c7a/resource/149394b0-45ae-474f-ae1b-aa0470361b7b/download/rupe-febrero-2021.csv",
+            "formato": "CSV",
+            "tamaño": 7834602,
+            "creado": "2021-03-08T18:44:46.535482"
+          },
+          {
+            "id": "ddca6084-892d-4750-a3ce-c6a03520a73a",
+            "nombre": "Registro de Proveedores en RUPE - Marzo",
+            "url": "https://catalogodatos.gub.uy/dataset/2ed18ffb-074c-472a-800e-324388ec0c7a/resource/ddca6084-892d-4750-a3ce-c6a03520a73a/download/rupe-marzo-2021.csv",
+            "formato": "CSV",
+            "tamaño": 7890864,
+            "creado": "2021-04-12T19:48:48.075129"
+          },
+          {
+            "id": "5a622c78-a522-485d-bc5e-9c85d4f3a688",
+            "nombre": "Registro de Proveedores en RUPE - Abril",
+            "url": "https://catalogodatos.gub.uy/dataset/2ed18ffb-074c-472a-800e-324388ec0c7a/resource/5a622c78-a522-485d-bc5e-9c85d4f3a688/download/rupe-abril-2021.csv",
+            "formato": "CSV",
+            "tamaño": 7935133,
+            "creado": "2021-05-03T12:53:01.520188"
+          },
+          {
+            "id": "43d79fa2-0fc7-4222-b99f-ed67b89aee05",
+            "nombre": "Registro de Proveedores en RUPE - Mayo",
+            "url": "https://catalogodatos.gub.uy/dataset/2ed18ffb-074c-472a-800e-324388ec0c7a/resource/43d79fa2-0fc7-4222-b99f-ed67b89aee05/download/rupe-mayo-2021.csv",
+            "formato": "CSV",
+            "tamaño": 7977918,
+            "creado": "2021-06-01T13:33:56.320212"
+          },
+          {
+            "id": "324c6a15-fb5f-4a0e-b98c-ce681ed063c7",
+            "nombre": "Registro de Proveedores en RUPE - Junio",
+            "url": "https://catalogodatos.gub.uy/dataset/2ed18ffb-074c-472a-800e-324388ec0c7a/resource/324c6a15-fb5f-4a0e-b98c-ce681ed063c7/download/rupe-junio-2021.csv",
+            "formato": "CSV",
+            "tamaño": 8025716,
+            "creado": "2021-07-01T14:25:32.818030"
+          },
+          {
+            "id": "ac6993e5-6d78-4779-a4ba-cf5ece3b0a5d",
+            "nombre": "Registro de Proveedores en RUPE - Julio",
+            "url": "https://catalogodatos.gub.uy/dataset/2ed18ffb-074c-472a-800e-324388ec0c7a/resource/ac6993e5-6d78-4779-a4ba-cf5ece3b0a5d/download/rupe-julio-2021.csv",
+            "formato": "CSV",
+            "tamaño": 8075259,
+            "creado": "2021-08-02T14:58:08.872385"
+          },
+          {
+            "id": "3c6acfef-dbf3-4ca9-b9e8-4fc634d9a88d",
+            "nombre": "Registro de Proveedores en RUPE - Agosto",
+            "url": "https://catalogodatos.gub.uy/dataset/2ed18ffb-074c-472a-800e-324388ec0c7a/resource/3c6acfef-dbf3-4ca9-b9e8-4fc634d9a88d/download/rupe-agosto-2021.csv",
+            "formato": "CSV",
+            "tamaño": 8124049,
+            "creado": "2021-09-01T12:55:27.572252"
+          },
+          {
+            "id": "8e7c5daa-f63e-49e0-873a-84666275c22c",
+            "nombre": "Registro de Proveedores en RUPE - Setiembre",
+            "url": "https://catalogodatos.gub.uy/dataset/2ed18ffb-074c-472a-800e-324388ec0c7a/resource/8e7c5daa-f63e-49e0-873a-84666275c22c/download/rupe-setiembre-2021.csv",
+            "formato": "CSV",
+            "tamaño": 8205882,
+            "creado": "2021-10-01T14:40:07.818016"
+          },
+          {
+            "id": "f96056be-c269-4ba6-876f-e6e5936fd4c9",
+            "nombre": "Registro de Proveedores en RUPE - Octubre",
+            "url": "https://catalogodatos.gub.uy/dataset/2ed18ffb-074c-472a-800e-324388ec0c7a/resource/f96056be-c269-4ba6-876f-e6e5936fd4c9/download/rupe-octubre-2021.csv",
+            "formato": "CSV",
+            "tamaño": 8350482,
+            "creado": "2021-11-01T13:47:56.726953"
+          },
+          {
+            "id": "846528ff-f96f-4948-a6cc-2a6b1c45c545",
+            "nombre": "Registro de Proveedores en RUPE - Noviembre",
+            "url": "https://catalogodatos.gub.uy/dataset/2ed18ffb-074c-472a-800e-324388ec0c7a/resource/846528ff-f96f-4948-a6cc-2a6b1c45c545/download/rupe-noviembre-2021.csv",
+            "formato": "CSV",
+            "tamaño": 8502792,
+            "creado": "2021-12-01T14:47:38.370198"
+          },
+          {
+            "id": "8495a85d-a565-4c36-b25e-e8353d54ecf3",
+            "nombre": "Registro de Proveedores en RUPE - Diciembre",
+            "url": "https://catalogodatos.gub.uy/dataset/2ed18ffb-074c-472a-800e-324388ec0c7a/resource/8495a85d-a565-4c36-b25e-e8353d54ecf3/download/rupe-diciembre-2021.csv",
+            "formato": "CSV",
+            "tamaño": 8562420,
+            "creado": "2022-01-21T13:13:09.093070"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:06.701Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/acce-registro-unico-de-proveedores-del-estado-rupe-2021",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "c39197cda16d0e9911f79c3696ee88ce5305d2cc0e548355da33e2cae3eb707e"
+        }
+      },
+      {
+        "id": "3a0f2b6e-c3cc-448c-90f5-132d36389bfb",
+        "nombre": "Registro Unico de Proveedores del Estado (RUPE) - 2020",
+        "slug": "acce-registro-unico-de-proveedores-del-estado-rupe-2020",
+        "organismo": {
+          "id": "acce",
+          "nombre": "ARCE",
+          "tipo": "organization"
+        },
+        "descripcion": "Datos extraídos del Registro Único de Proveedores del Estado (RUPE). Por cada proveedor registrado, se informa: país, identificación, denominación social, domicilio fiscal, localidad, departamento y estado (por ejemplo, En Ingreso, Activo).",
+        "etiquetas": [
+          "Compras Públicas",
+          "compras estatales",
+          "proveedores"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2020-02-03T13:26:43.275853",
+        "modificado": "2021-01-28T15:03:36.846038",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "11380b67-33e0-4253-97d4-84eef64b5064",
+            "nombre": "Registro de Proveedores en RUPE - Enero 2020",
+            "url": "https://catalogodatos.gub.uy/dataset/3a0f2b6e-c3cc-448c-90f5-132d36389bfb/resource/11380b67-33e0-4253-97d4-84eef64b5064/download/rupe-enero-2020.csv",
+            "formato": "CSV",
+            "tamaño": 7336294,
+            "creado": "2020-02-03T13:27:10.393915"
+          },
+          {
+            "id": "23cb298d-9969-4905-8bb3-a8d31023426f",
+            "nombre": "Diccionario de Datos RUPE",
+            "url": "https://catalogodatos.gub.uy/dataset/3a0f2b6e-c3cc-448c-90f5-132d36389bfb/resource/23cb298d-9969-4905-8bb3-a8d31023426f/download/diccionario_datos_rupe.xlsx",
+            "formato": "XLSX",
+            "tamaño": 9635,
+            "creado": "2020-02-03T14:07:00.408871"
+          },
+          {
+            "id": "c4932c85-4114-45d5-8bbe-0b0793aef13d",
+            "nombre": "Registro de Proveedores en RUPE - Febrero 2020",
+            "url": "https://catalogodatos.gub.uy/dataset/3a0f2b6e-c3cc-448c-90f5-132d36389bfb/resource/c4932c85-4114-45d5-8bbe-0b0793aef13d/download/rupe-febrero-2020.csv",
+            "formato": "CSV",
+            "tamaño": 7370978,
+            "creado": "2020-03-03T13:34:26.722763"
+          },
+          {
+            "id": "7063d27a-8f37-4c48-ab62-2ab6e250cbb6",
+            "nombre": "Registro de Proveedores en RUPE - Marzo 2020",
+            "url": "https://catalogodatos.gub.uy/dataset/3a0f2b6e-c3cc-448c-90f5-132d36389bfb/resource/7063d27a-8f37-4c48-ab62-2ab6e250cbb6/download/rupe-marzo-2020.csv.csv",
+            "formato": "CSV",
+            "tamaño": 7406786,
+            "creado": "2020-04-01T19:44:52.635084"
+          },
+          {
+            "id": "36d55a79-ee14-4906-a5ac-48098bd837e5",
+            "nombre": "Registro de Proveedores en RUPE - Abril 2020",
+            "url": "https://catalogodatos.gub.uy/dataset/3a0f2b6e-c3cc-448c-90f5-132d36389bfb/resource/36d55a79-ee14-4906-a5ac-48098bd837e5/download/rupe-abril-2020.csv",
+            "formato": "CSV",
+            "tamaño": 7436915,
+            "creado": "2020-05-04T15:21:59.141832"
+          },
+          {
+            "id": "2662c627-65af-483b-b640-945021b970f1",
+            "nombre": "Registro de Proveedores en RUPE - Mayo 2020",
+            "url": "https://catalogodatos.gub.uy/dataset/3a0f2b6e-c3cc-448c-90f5-132d36389bfb/resource/2662c627-65af-483b-b640-945021b970f1/download/rupe-mayo-2020.csv",
+            "formato": "CSV",
+            "tamaño": 7471332,
+            "creado": "2020-06-01T13:15:16.345739"
+          },
+          {
+            "id": "55bb5348-a520-44aa-bc8f-8cd356948abb",
+            "nombre": "Registro de Proveedores en RUPE - Junio 2020",
+            "url": "https://catalogodatos.gub.uy/dataset/3a0f2b6e-c3cc-448c-90f5-132d36389bfb/resource/55bb5348-a520-44aa-bc8f-8cd356948abb/download/rupe-junio-2020.csv",
+            "formato": "CSV",
+            "tamaño": 7506921,
+            "creado": "2020-07-01T14:53:42.767994"
+          },
+          {
+            "id": "5b19417e-a157-4bcb-8dbf-936ccbd8b34b",
+            "nombre": "Registro de Proveedores en RUPE - Julio 2020",
+            "url": "https://catalogodatos.gub.uy/dataset/3a0f2b6e-c3cc-448c-90f5-132d36389bfb/resource/5b19417e-a157-4bcb-8dbf-936ccbd8b34b/download/rupe-julio-2020.csv",
+            "formato": "CSV",
+            "tamaño": 7538612,
+            "creado": "2020-08-03T13:32:25.205041"
+          },
+          {
+            "id": "7e4dc63f-32af-45f9-a0da-f2593e15dcc8",
+            "nombre": "Registro de Proveedores en RUPE - Agosto 2020",
+            "url": "https://catalogodatos.gub.uy/dataset/3a0f2b6e-c3cc-448c-90f5-132d36389bfb/resource/7e4dc63f-32af-45f9-a0da-f2593e15dcc8/download/rupe-agosto-2020.csv",
+            "formato": "CSV",
+            "tamaño": 7573856,
+            "creado": "2020-09-02T13:29:05.990297"
+          },
+          {
+            "id": "98bf4c65-21c3-443c-8732-2c71ec75eb07",
+            "nombre": "Registro de Proveedores en RUPE - Setiembre 2020",
+            "url": "https://catalogodatos.gub.uy/dataset/3a0f2b6e-c3cc-448c-90f5-132d36389bfb/resource/98bf4c65-21c3-443c-8732-2c71ec75eb07/download/rupe-setiembre-2020.csv",
+            "formato": "CSV",
+            "tamaño": 7619841,
+            "creado": "2020-10-01T14:01:55.812899"
+          },
+          {
+            "id": "dd1cb856-fdad-4ade-bbc2-f9a0820efb24",
+            "nombre": "Registro de Proveedores en RUPE - Octubre 2020",
+            "url": "https://catalogodatos.gub.uy/dataset/3a0f2b6e-c3cc-448c-90f5-132d36389bfb/resource/dd1cb856-fdad-4ade-bbc2-f9a0820efb24/download/rupe-octubre-2020.csv",
+            "formato": "CSV",
+            "tamaño": 7666005,
+            "creado": "2020-11-18T14:22:35.729235"
+          },
+          {
+            "id": "875aac37-67ec-4ade-a56e-3503c4b57fa3",
+            "nombre": "Registro de Proveedores en RUPE - Noviembre 2020",
+            "url": "https://catalogodatos.gub.uy/dataset/3a0f2b6e-c3cc-448c-90f5-132d36389bfb/resource/875aac37-67ec-4ade-a56e-3503c4b57fa3/download/rupe-noviembre-2020.csv",
+            "formato": "CSV",
+            "tamaño": 7708845,
+            "creado": "2020-12-01T13:47:07.853024"
+          },
+          {
+            "id": "db11796a-8202-47a7-a87f-d6ea14c98631",
+            "nombre": "Registro de Proveedores en RUPE - Diciembre 2020",
+            "url": "https://catalogodatos.gub.uy/dataset/3a0f2b6e-c3cc-448c-90f5-132d36389bfb/resource/db11796a-8202-47a7-a87f-d6ea14c98631/download/rupe-diciembre-2020.csv",
+            "formato": "CSV",
+            "tamaño": 7746310,
+            "creado": "2021-01-28T15:03:36.968068"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:06.701Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/acce-registro-unico-de-proveedores-del-estado-rupe-2020",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "2f648595c40175b694fb978adf3d2f8d107981a6bf52c21006411202756f3e11"
+        }
+      },
+      {
+        "id": "6a3075be-3338-4cec-91b1-6f66a88a1839",
+        "nombre": "Publicaciones realizadas en el sitio web de Compras Estatales",
+        "slug": "acce-compras-estatales",
+        "organismo": {
+          "id": "acce",
+          "nombre": "ARCE",
+          "tipo": "organization"
+        },
+        "descripcion": "Publicaciones realizadas en el sitio web de compras del Estado uruguayo (www.gub.uy/arce)",
+        "etiquetas": [
+          "codigueras"
+        ],
+        "grupos": [],
+        "creado": "2012-11-30T20:53:56.196712",
+        "modificado": "2020-10-01T19:46:42.853691",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "542e215f-00d2-432e-aac5-d00bc3422633",
+            "nombre": "Documentación de la interfaz de consulta de las publicaciones realizadas",
+            "url": "http://www.comprasestatales.gub.uy/Documentos/Manual_de_Interfaz_G2B.pdf",
+            "formato": "PDF",
+            "tamaño": null,
+            "creado": "2012-11-30T18:53:56.226059"
+          },
+          {
+            "id": "2dc49850-e2b5-434f-8c81-4c91ad1394bf",
+            "nombre": "Codiguera de Estados de Compra",
+            "url": "http://www.comprasestatales.gub.uy/comprasenlinea/jboss/reporteEstadosCompra.do",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2012-11-30T18:58:13.531525"
+          },
+          {
+            "id": "65ceb3c4-ac69-427c-a683-8da4f293344f",
+            "nombre": "Codiguera de Incisos",
+            "url": "http://www.comprasestatales.gub.uy/comprasenlinea/jboss/reporteIncisos.do",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2012-11-30T19:00:17.886481"
+          },
+          {
+            "id": "42a7cbec-ec1f-4594-b5e4-23bc25e7d1bf",
+            "nombre": "Codiguera de Monedas",
+            "url": "http://www.comprasestatales.gub.uy/comprasenlinea/jboss/reporteMonedas.do",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2012-11-30T19:02:50.533341"
+          },
+          {
+            "id": "ed06d108-1fce-4e81-b339-5536216d75c2",
+            "nombre": "Codiguera de Objetos del Gasto",
+            "url": "http://www.comprasestatales.gub.uy/comprasenlinea/jboss/reporteObjetosGasto.do",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2012-11-30T19:04:00.764724"
+          },
+          {
+            "id": "0cb1e938-bc0f-41ac-98f3-8fb67681f6b7",
+            "nombre": "Codiguera de Subtipos de Compra",
+            "url": "http://www.comprasestatales.gub.uy/comprasenlinea/jboss/reporteSubTiposCompra.do",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2012-11-30T19:16:36.051669"
+          },
+          {
+            "id": "9df794ca-a51c-47ed-90a3-a2f0118889fa",
+            "nombre": "Codiguera de Tipos de Compra",
+            "url": "http://www.comprasestatales.gub.uy/comprasenlinea/jboss/reporteTiposCompra.do",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2012-11-30T19:18:00.354481"
+          },
+          {
+            "id": "f9f1635b-ec7e-4553-bb79-a341a3f3c597",
+            "nombre": "Codiguera de Tipos de Documento de Proveedores",
+            "url": "http://www.comprasestatales.gub.uy/comprasenlinea/jboss/reporteTiposDocumento.do",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2012-11-30T19:19:51.062319"
+          },
+          {
+            "id": "4a3d6b1e-9920-49cb-8485-e1748ba95a51",
+            "nombre": "Codiguera de Tipos de Resolución",
+            "url": "http://www.comprasestatales.gub.uy/comprasenlinea/jboss/reporteTiposResolucion.do",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2012-11-30T19:20:48.839559"
+          },
+          {
+            "id": "8c8898bc-ac5c-41d9-a216-a0585051fbdf",
+            "nombre": "Relación entre tipos de compra y tipos de resolución",
+            "url": "http://www.comprasestatales.gub.uy/comprasenlinea/jboss/reporteTiposResolucionCompra.do",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2012-11-30T19:23:14.302748"
+          },
+          {
+            "id": "119126e1-16f5-4f26-95e2-5298404cce1b",
+            "nombre": "Codiguera de Unidades de Compra Centralizadas",
+            "url": "http://www.comprasestatales.gub.uy/comprasenlinea/jboss/reporteUCCs.do",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2012-11-30T19:24:36.406963"
+          },
+          {
+            "id": "a3f8d5f4-1ec8-4888-b38e-d1d7b98e4542",
+            "nombre": "Codiguera de Unidades Ejecutoras",
+            "url": "http://www.comprasestatales.gub.uy/comprasenlinea/jboss/reporteUnidadesEjecutoras.do",
+            "formato": "XML",
+            "tamaño": null,
+            "creado": "2012-11-30T19:27:01.350544"
+          },
+          {
+            "id": "1770d937-2f86-42d6-9bbf-eeb1abeeea6f",
+            "nombre": "Documentación del RSS de publicaciones realizadas",
+            "url": "https://www.gub.uy/agencia-reguladora-compras-estatales/comunicacion/publicaciones/rss-para-uso-computadoras",
+            "formato": "PDF",
+            "tamaño": null,
+            "creado": "2012-11-30T19:35:33.228693"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:06.702Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/acce-compras-estatales",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "5751aba42e2320d9b0ac2c95989cd0c322c2c28edaa65d96d3d85e7029f31b6b"
+        }
+      },
+      {
+        "id": "457ab448-9093-4428-a453-14b845d0babf",
+        "nombre": "Catálogo de Artículos, Servicios y Obras de la Administración Pública",
+        "slug": "acce-catalogo-acce",
+        "organismo": {
+          "id": "acce",
+          "nombre": "ARCE",
+          "tipo": "organization"
+        },
+        "descripcion": "Catálogo de Artículos, Servicios y Obras que utiliza el Estado actualmente en el sitio web de compras estatales y en el sistema informático de gestión de compras utilizado en la Administración Central y en otras instituciones públicas (SICE)",
+        "etiquetas": [],
+        "grupos": [],
+        "creado": "2012-11-30T19:40:52.657757",
+        "modificado": "2020-10-01T19:36:44.242428",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "7ca53547-e19c-4523-8acc-29c9aa130f65",
+            "nombre": "Documentación de la interfaz de actualizaciones al catálogo",
+            "url": "https://www.gub.uy/agencia-reguladora-compras-estatales/politicas-y-gestion/descripcion-interfaz-catalogo",
+            "formato": "PDF",
+            "tamaño": null,
+            "creado": "2012-11-30T17:40:52.691356"
+          },
+          {
+            "id": "aac31ca2-ccea-4a74-946e-550c53b53203",
+            "nombre": "Scripts para crear e importar base de datos del catálogo",
+            "url": "http://www.comprasestatales.gub.uy/datos_abiertos/imp_catalogo.tgz",
+            "formato": "TGZ",
+            "tamaño": null,
+            "creado": "2012-11-30T17:54:46.166637"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:06.702Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/acce-catalogo-acce",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "e357fcce64ae3b6ae4b13a6c2ae80c31a044813872e9a65bc348528752485c22"
+        }
+      },
+      {
+        "id": "35e357e6-a2f5-4083-8442-867707ab4ed7",
+        "nombre": "Registro Unico de Proveedores del Estado (RUPE) - 2019",
+        "slug": "acce-registro-unico-de-proveedores-del-estado-rupe-2019",
+        "organismo": {
+          "id": "acce",
+          "nombre": "ARCE",
+          "tipo": "organization"
+        },
+        "descripcion": "Datos extraídos del Registro Único de Proveedores del Estado (RUPE). Por cada proveedor registrado, se informa: país, identificación, denominación social, domicilio fiscal, localidad, departamento y estado (por ejemplo, En Ingreso, Activo).",
+        "etiquetas": [
+          "Compras Públicas",
+          "compras estatales",
+          "proveedores"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-02-01T13:40:09.081744",
+        "modificado": "2020-09-18T15:50:19.385635",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "7f6b5b8d-387a-4ebf-90e0-ebd1ebe67635",
+            "nombre": "Registro de Proveedores en RUPE - Enero 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/35e357e6-a2f5-4083-8442-867707ab4ed7/resource/7f6b5b8d-387a-4ebf-90e0-ebd1ebe67635/download/rupe-enero-2019.csv",
+            "formato": "CSV",
+            "tamaño": 6747412,
+            "creado": "2019-02-01T13:43:47.806522"
+          },
+          {
+            "id": "808bef64-6f62-4bbf-b92f-da7a3eeb69a1",
+            "nombre": "Diccionario de Datos RUPE",
+            "url": "https://catalogodatos.gub.uy/dataset/35e357e6-a2f5-4083-8442-867707ab4ed7/resource/808bef64-6f62-4bbf-b92f-da7a3eeb69a1/download/diccionario_datos_rupe.xlsx",
+            "formato": "XLSX",
+            "tamaño": 9635,
+            "creado": "2019-02-01T13:47:19.992785"
+          },
+          {
+            "id": "b874ecc3-84cf-4a7a-adc4-c1844e43ecb7",
+            "nombre": "Registro de Proveedores en RUPE - Febrero 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/35e357e6-a2f5-4083-8442-867707ab4ed7/resource/b874ecc3-84cf-4a7a-adc4-c1844e43ecb7/download/rupe-febrero-2019.csv",
+            "formato": "CSV",
+            "tamaño": 6797666,
+            "creado": "2019-03-01T13:14:02.556886"
+          },
+          {
+            "id": "a7d70f14-64d3-4620-bbe6-fab5027f7af1",
+            "nombre": "Registro de Proveedores en RUPE - Marzo 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/35e357e6-a2f5-4083-8442-867707ab4ed7/resource/a7d70f14-64d3-4620-bbe6-fab5027f7af1/download/rupe-marzo-2019.csv",
+            "formato": "CSV",
+            "tamaño": 6844769,
+            "creado": "2019-04-01T15:21:01.869370"
+          },
+          {
+            "id": "79657d1e-206d-45ea-acc1-16def53bfa89",
+            "nombre": "Registro de Proveedores en RUPE - Abril 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/35e357e6-a2f5-4083-8442-867707ab4ed7/resource/79657d1e-206d-45ea-acc1-16def53bfa89/download/rupe-abril-2019.csv",
+            "formato": "CSV",
+            "tamaño": 6898999,
+            "creado": "2019-05-02T12:38:25.768061"
+          },
+          {
+            "id": "9f5a34df-2189-4c48-b48f-0a5e4bc3b67c",
+            "nombre": "Registro de Proveedores en RUPE - Mayo 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/35e357e6-a2f5-4083-8442-867707ab4ed7/resource/9f5a34df-2189-4c48-b48f-0a5e4bc3b67c/download/rupe-mayo-2019.csv",
+            "formato": "CSV",
+            "tamaño": 6960688,
+            "creado": "2019-06-03T14:02:37.137711"
+          },
+          {
+            "id": "f593e83c-8550-4c12-a0fd-7ea9bb227885",
+            "nombre": "Registro de Proveedores en RUPE - Junio 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/35e357e6-a2f5-4083-8442-867707ab4ed7/resource/f593e83c-8550-4c12-a0fd-7ea9bb227885/download/rupe-junio-2019.csv",
+            "formato": "CSV",
+            "tamaño": 7014221,
+            "creado": "2019-07-01T13:48:14.215813"
+          },
+          {
+            "id": "73b0261f-6d4e-4a18-98b9-9f498d0fbc3a",
+            "nombre": "Registro de Proveedores en RUPE - Julio 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/35e357e6-a2f5-4083-8442-867707ab4ed7/resource/73b0261f-6d4e-4a18-98b9-9f498d0fbc3a/download/rupe-julio-2019.csv",
+            "formato": "CSV",
+            "tamaño": 7064371,
+            "creado": "2019-08-01T12:48:28.228861"
+          },
+          {
+            "id": "88e3f7d1-e17e-4787-9961-efcb8d0c6861",
+            "nombre": "Registro de Proveedores en RUPE - Agosto 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/35e357e6-a2f5-4083-8442-867707ab4ed7/resource/88e3f7d1-e17e-4787-9961-efcb8d0c6861/download/rupe-agosto-2019.csv",
+            "formato": "CSV",
+            "tamaño": 7122222,
+            "creado": "2019-09-26T17:26:39.519094"
+          },
+          {
+            "id": "e28413e7-9e06-46a1-a437-f7dd92ea970a",
+            "nombre": "Registro de Proveedores en RUPE - Setiembre 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/35e357e6-a2f5-4083-8442-867707ab4ed7/resource/e28413e7-9e06-46a1-a437-f7dd92ea970a/download/rupe-setiembre-2019.csv",
+            "formato": "CSV",
+            "tamaño": 7327895,
+            "creado": "2019-10-01T15:06:48.945936"
+          },
+          {
+            "id": "02211db0-6e61-4ba8-a722-8b173f01d32d",
+            "nombre": "Registro de Proveedores en RUPE - Octubre 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/35e357e6-a2f5-4083-8442-867707ab4ed7/resource/02211db0-6e61-4ba8-a722-8b173f01d32d/download/rupe-octubre-2019.csv",
+            "formato": "CSV",
+            "tamaño": 7232116,
+            "creado": "2019-11-01T13:50:50.732994"
+          },
+          {
+            "id": "91fae915-c35c-416b-a64f-6e7fc05f31e6",
+            "nombre": "Registro de Proveedores en RUPE - Noviembre 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/35e357e6-a2f5-4083-8442-867707ab4ed7/resource/91fae915-c35c-416b-a64f-6e7fc05f31e6/download/rupe-noviembre-2019.csv",
+            "formato": "CSV",
+            "tamaño": 7275227,
+            "creado": "2019-12-02T14:05:34.849237"
+          },
+          {
+            "id": "1819aeed-0d17-417b-ae74-7716a3572b44",
+            "nombre": "Registro de Proveedores en RUPE - Diciembre 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/35e357e6-a2f5-4083-8442-867707ab4ed7/resource/1819aeed-0d17-417b-ae74-7716a3572b44/download/rupe-diciembre-2019.csv",
+            "formato": "CSV",
+            "tamaño": 7304171,
+            "creado": "2020-01-15T18:23:24.075940"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:06.702Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/acce-registro-unico-de-proveedores-del-estado-rupe-2019",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "5e92281418abde35e1d79c3b2f744300d0d5812fcda81bf5482443bab4844136"
+        }
+      },
+      {
+        "id": "98e0b2e8-bdb6-4dfd-a165-ead5f2ea6452",
+        "nombre": "Registro Unico de Proveedores del Estado (RUPE) - 2018",
+        "slug": "acce-rupe-2018",
+        "organismo": {
+          "id": "acce",
+          "nombre": "ARCE",
+          "tipo": "organization"
+        },
+        "descripcion": "Datos extraídos del Registro Único de Proveedores del Estado (RUPE). Por cada proveedor registrado, se informa: país, identificación, denominación social, domicilio fiscal, localidad, departamento y estado (por ejemplo, En Ingreso, Activo).",
+        "etiquetas": [
+          "Compras Públicas",
+          "compras estatales",
+          "proveedores"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2018-10-01T15:04:32.706081",
+        "modificado": "2020-09-18T15:49:38.558529",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "fbf4601b-c99d-434e-8f97-20a53f58cab5",
+            "nombre": "Registro de Proveedores en RUPE - Setiembre 2018",
+            "url": "https://catalogodatos.gub.uy/dataset/98e0b2e8-bdb6-4dfd-a165-ead5f2ea6452/resource/fbf4601b-c99d-434e-8f97-20a53f58cab5/download/rupe-setiembre-2018.csv",
+            "formato": "CSV",
+            "tamaño": 6598225,
+            "creado": "2018-10-01T15:07:06.588673"
+          },
+          {
+            "id": "1b17aa1e-863c-41d9-a5da-7ce0d628ca95",
+            "nombre": "Diccionario de Datos RUPE",
+            "url": "https://catalogodatos.gub.uy/dataset/98e0b2e8-bdb6-4dfd-a165-ead5f2ea6452/resource/1b17aa1e-863c-41d9-a5da-7ce0d628ca95/download/diccionario_datos_rupe.xlsx",
+            "formato": "XLSX",
+            "tamaño": 9635,
+            "creado": "2018-10-31T19:45:39.164763"
+          },
+          {
+            "id": "3e4e3d95-3416-497c-aafa-4d3d642149d6",
+            "nombre": "Registro de Proveedores en RUPE - Octubre 2018",
+            "url": "https://catalogodatos.gub.uy/dataset/98e0b2e8-bdb6-4dfd-a165-ead5f2ea6452/resource/3e4e3d95-3416-497c-aafa-4d3d642149d6/download/rupe-octubre-2018.csv",
+            "formato": "CSV",
+            "tamaño": 6628298,
+            "creado": "2018-11-01T15:03:24.707764"
+          },
+          {
+            "id": "67d0b0df-b937-4397-a028-80d1b84762d2",
+            "nombre": "Registro de Proveedores en RUPE - Noviembre 2018",
+            "url": "https://catalogodatos.gub.uy/dataset/98e0b2e8-bdb6-4dfd-a165-ead5f2ea6452/resource/67d0b0df-b937-4397-a028-80d1b84762d2/download/rupe-noviembre-2018.csv",
+            "formato": "CSV",
+            "tamaño": 6679164,
+            "creado": "2018-12-03T14:25:38.351931"
+          },
+          {
+            "id": "9c38c410-ec5b-4caa-be48-20edb7798ad4",
+            "nombre": "Registro de Proveedores en RUPE - Diciembre 2018",
+            "url": "https://catalogodatos.gub.uy/dataset/98e0b2e8-bdb6-4dfd-a165-ead5f2ea6452/resource/9c38c410-ec5b-4caa-be48-20edb7798ad4/download/rupe-diciembre-2018.csv",
+            "formato": "CSV",
+            "tamaño": 6713693,
+            "creado": "2019-01-07T14:27:03.104766"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:06.702Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/acce-rupe-2018",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "84d922d4549a5d46bb472216d8c523179aecf20948d0549fbe206e9dc33cdaa7"
+        }
+      }
+    ]
+  },
+  "hash": "dd0711c735d97cb2b830a714c216f91f2c0daea45ce8e39e1e5f681e82a0e069",
+  "firma": "64b77281c7f0bbd606a7b0a05406a6be8b84aa6495307c6f635be6416311ca64"
+}

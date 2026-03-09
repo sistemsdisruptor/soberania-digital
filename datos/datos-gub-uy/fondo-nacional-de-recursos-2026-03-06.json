@@ -1,0 +1,673 @@
+{
+  "id": "e2ff1af8d9ed3ac54acf6d3afc65ff3f",
+  "timestamp": "2026-03-06T23:09:41.542Z",
+  "datos": {
+    "organismo": "fondo-nacional-de-recursos",
+    "total": 8,
+    "datasets": [
+      {
+        "id": "d2a41497-cb11-423e-a471-62bcaf01e736",
+        "nombre": "Organigrama",
+        "slug": "fondo-nacional-de-recursos-organigrama_fondo-nacional-de-recursos",
+        "organismo": {
+          "id": "fondo-nacional-de-recursos",
+          "nombre": "Fondo Nacional de Recursos",
+          "tipo": "organization"
+        },
+        "descripcion": "Estructura orgánica del organismo con información adicional de las distintas unidades que lo conforman y sus respectivos jerarcas.",
+        "etiquetas": [
+          "Estructura orgánica",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-04-04T18:50:17.005684",
+        "modificado": "2024-04-25T14:53:07.259516",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "8437f3f7-1fa9-4be0-8d83-70e18b8bdc0d",
+            "nombre": "Datos del organigrama del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/d2a41497-cb11-423e-a471-62bcaf01e736/resource/8437f3f7-1fa9-4be0-8d83-70e18b8bdc0d/download/modelo-ta_02-organigrama_fnr.csv",
+            "formato": "CSV",
+            "tamaño": 4112,
+            "creado": "2019-04-04T18:50:20.420345"
+          },
+          {
+            "id": "064bc5fc-f6eb-4ef1-b9a7-35c008e51c4c",
+            "nombre": "Datos del organigrama del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/d2a41497-cb11-423e-a471-62bcaf01e736/resource/064bc5fc-f6eb-4ef1-b9a7-35c008e51c4c/download/modelo-ta_02-organigrama_fnr.xlsx",
+            "formato": "XLS",
+            "tamaño": 21830,
+            "creado": "2019-04-04T18:50:21.313187"
+          },
+          {
+            "id": "3dde2843-a2b7-4666-bb1b-b5611823652d",
+            "nombre": "Metadatos de los datos del organigrama",
+            "url": "https://catalogodatos.gub.uy/dataset/d2a41497-cb11-423e-a471-62bcaf01e736/resource/3dde2843-a2b7-4666-bb1b-b5611823652d/download/metadatos_organigrama_fondo-nacional-de-recursos.json",
+            "formato": "JSON",
+            "tamaño": 2392,
+            "creado": "2024-04-10T17:21:25.946945"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:41.541Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/fondo-nacional-de-recursos-organigrama_fondo-nacional-de-recursos",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "3c0b6037e1e455e5f52c1b56b2e29fd56e81b21f12246d5535a77848ab9c4682"
+        }
+      },
+      {
+        "id": "20105f4b-f455-4435-a619-211fa465c59d",
+        "nombre": "Gasto por Tratamientos con Medicamentos",
+        "slug": "fondo-nacional-de-recursos-gasto-por-tratamientos-fondo-nacional-de-recursos",
+        "organismo": {
+          "id": "fondo-nacional-de-recursos",
+          "nombre": "Fondo Nacional de Recursos",
+          "tipo": "organization"
+        },
+        "descripcion": "A continuación se presenta la información del gasto realizado por año por tratamientos con medicamentos. Información historica del periodo 2016 a 2017. Actualmente no se cuenta con datos mas actualizados.",
+        "etiquetas": [
+          "Gastos de salud",
+          "Salud",
+          "Tratamiendos médicos"
+        ],
+        "grupos": [
+          "Salud",
+          "Transparencia"
+        ],
+        "creado": "2019-03-07T17:19:03.695982",
+        "modificado": "2024-04-25T14:51:51.432384",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "042ce43d-39ba-4be5-87a7-e1d71c4a36cf",
+            "nombre": "Glosario",
+            "url": "https://catalogodatos.gub.uy/dataset/20105f4b-f455-4435-a619-211fa465c59d/resource/042ce43d-39ba-4be5-87a7-e1d71c4a36cf/download/glosario_tratamientos.pdf",
+            "formato": "PDF",
+            "tamaño": 56755,
+            "creado": "2019-03-07T18:36:55.499495"
+          },
+          {
+            "id": "40e4e358-985e-4554-b370-3c884c2056bc",
+            "nombre": "Tratamientos con medicamentos - 2016",
+            "url": "https://catalogodatos.gub.uy/dataset/20105f4b-f455-4435-a619-211fa465c59d/resource/40e4e358-985e-4554-b370-3c884c2056bc/download/datos-gastos-por-tratamientos-fondo-nacional-de-recursos-2016.csv",
+            "formato": "CSV",
+            "tamaño": 1399033,
+            "creado": "2019-12-03T17:50:02.930692"
+          },
+          {
+            "id": "612c3401-8e32-42f3-9f51-947a485662f1",
+            "nombre": "Tratamientos con medicamentos - 2016",
+            "url": "https://catalogodatos.gub.uy/dataset/20105f4b-f455-4435-a619-211fa465c59d/resource/612c3401-8e32-42f3-9f51-947a485662f1/download/datos-gastos-por-tratamientos-fondo-nacional-de-recursos-2016.xlsx",
+            "formato": "XLSX",
+            "tamaño": 741599,
+            "creado": "2019-03-07T17:37:25.842772"
+          },
+          {
+            "id": "a2e05a4b-1d3e-4899-92d6-c526c4c58f62",
+            "nombre": "Tratamientos con medicamentos - 2016",
+            "url": "https://catalogodatos.gub.uy/dataset/20105f4b-f455-4435-a619-211fa465c59d/resource/a2e05a4b-1d3e-4899-92d6-c526c4c58f62/download/datos-gastos-por-tratamientos-fondo-nacional-de-recursos-2016.xml",
+            "formato": "XML",
+            "tamaño": 4534931,
+            "creado": "2020-01-28T19:16:38.852369"
+          },
+          {
+            "id": "26667803-d222-40c1-a0dd-bac919c26a7a",
+            "nombre": "Metadatos de Tratamientos con medicamentos - 2016",
+            "url": "https://catalogodatos.gub.uy/dataset/20105f4b-f455-4435-a619-211fa465c59d/resource/26667803-d222-40c1-a0dd-bac919c26a7a/download/datos-gastos-por-tratamientos-fondo-nacional-de-recursos-2016.json",
+            "formato": "JSON",
+            "tamaño": 2608,
+            "creado": "2019-03-07T17:37:23.872859"
+          },
+          {
+            "id": "7c26188b-a390-4a06-b2f4-f3f3fe681b5e",
+            "nombre": "Tratamientos con medicamentos - 2017",
+            "url": "https://catalogodatos.gub.uy/dataset/20105f4b-f455-4435-a619-211fa465c59d/resource/7c26188b-a390-4a06-b2f4-f3f3fe681b5e/download/datos-gastos-por-tratamientos-fondo-nacional-de-recursos-2017.xlsx",
+            "formato": "XLSX",
+            "tamaño": 775135,
+            "creado": "2019-03-07T17:19:09.202719"
+          },
+          {
+            "id": "337dd2ce-47ad-49b9-8e83-44b86c8af7b1",
+            "nombre": "Tratamientos con medicamentos - 2017",
+            "url": "https://catalogodatos.gub.uy/dataset/20105f4b-f455-4435-a619-211fa465c59d/resource/337dd2ce-47ad-49b9-8e83-44b86c8af7b1/download/datos-gastos-por-tratamientos-fondo-nacional-de-recursos-2017.csv",
+            "formato": "CSV",
+            "tamaño": 1462166,
+            "creado": "2019-12-03T17:49:02.184380"
+          },
+          {
+            "id": "142cf67b-f85d-4dbe-9475-644affdef3d8",
+            "nombre": "Tratamientos con medicamentos - 2017",
+            "url": "https://catalogodatos.gub.uy/dataset/20105f4b-f455-4435-a619-211fa465c59d/resource/142cf67b-f85d-4dbe-9475-644affdef3d8/download/datos-gastos-por-tratamientos-fondo-nacional-de-recursos-2017.xml",
+            "formato": "XML",
+            "tamaño": 4739135,
+            "creado": "2020-01-28T19:19:48.663997"
+          },
+          {
+            "id": "309776ca-0745-4a29-a4ec-f7864b1de9ca",
+            "nombre": "Metadatos de Tratamientos con medicamentos - 2017",
+            "url": "https://catalogodatos.gub.uy/dataset/20105f4b-f455-4435-a619-211fa465c59d/resource/309776ca-0745-4a29-a4ec-f7864b1de9ca/download/datos-gastos-por-tratamientos-fondo-nacional-de-recursos-2017.json",
+            "formato": "JSON",
+            "tamaño": 2608,
+            "creado": "2019-03-07T17:19:07.151156"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:41.541Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/fondo-nacional-de-recursos-gasto-por-tratamientos-fondo-nacional-de-recursos",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "30877bd25dd39975a63968784fecb0b3deee62c770b9710c93a816530866841a"
+        }
+      },
+      {
+        "id": "abc90090-d74f-4c88-a98d-2b7f511e7b85",
+        "nombre": "Solicitudes de Prestaciones",
+        "slug": "fondo-nacional-de-recursos-solicitudes-de-prestaciones-fondo-nacional-de-recursos",
+        "organismo": {
+          "id": "fondo-nacional-de-recursos",
+          "nombre": "Fondo Nacional de Recursos",
+          "tipo": "organization"
+        },
+        "descripcion": "A continuación se presenta la información sobre solicitudes de actos médicos y de inicios de tratamientos con medicamentos ingresados, por año en el período de 2016 a 2017. Actualmente no se cuenta con información mas actualizada.",
+        "etiquetas": [
+          "Actos médicos",
+          "Prestaciones medicas",
+          "Salud",
+          "Tratamientos medicos"
+        ],
+        "grupos": [
+          "Estadísticas",
+          "Salud",
+          "Transparencia"
+        ],
+        "creado": "2019-04-04T17:54:15.841939",
+        "modificado": "2024-04-25T14:43:35.700771",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "fbb5238a-934d-4ea4-a5ca-59c6c60ba2fc",
+            "nombre": "Datos de solicitudes de prestaciones 2017",
+            "url": "https://catalogodatos.gub.uy/dataset/abc90090-d74f-4c88-a98d-2b7f511e7b85/resource/fbb5238a-934d-4ea4-a5ca-59c6c60ba2fc/download/datos-solicitudes-2017.xlsx",
+            "formato": "XLS",
+            "tamaño": 2214742,
+            "creado": "2019-04-04T17:55:27.371043"
+          },
+          {
+            "id": "47d7b1ed-cd26-4e7b-b553-9934d81c1be7",
+            "nombre": "Datos de solicitudes de prestaciones 2017",
+            "url": "https://catalogodatos.gub.uy/dataset/abc90090-d74f-4c88-a98d-2b7f511e7b85/resource/47d7b1ed-cd26-4e7b-b553-9934d81c1be7/download/datos-de-solicitudes-de-prestaciones-2017.csv",
+            "formato": "CSV",
+            "tamaño": 4877676,
+            "creado": "2019-04-04T17:55:25.956336"
+          },
+          {
+            "id": "c56bef2c-ce5d-4704-9e8d-63f5ddc67066",
+            "nombre": "Datos de solicitudes de prestaciones 2017",
+            "url": "https://catalogodatos.gub.uy/dataset/abc90090-d74f-4c88-a98d-2b7f511e7b85/resource/c56bef2c-ce5d-4704-9e8d-63f5ddc67066/download/datos-de-solicitudes-de-prestaciones-2017.xml",
+            "formato": "XML",
+            "tamaño": 16931787,
+            "creado": "2019-04-04T17:55:28.957962"
+          },
+          {
+            "id": "484de7f6-7a19-4aa4-bafe-f2ef1f4c1537",
+            "nombre": "Metadatos de los datos de solicitudes de prestaciones 2017",
+            "url": "https://catalogodatos.gub.uy/dataset/abc90090-d74f-4c88-a98d-2b7f511e7b85/resource/484de7f6-7a19-4aa4-bafe-f2ef1f4c1537/download/metadatos_solicitudes-de-prestaciones-fondo-nacional-de-recursos.json",
+            "formato": "JSON",
+            "tamaño": 3762,
+            "creado": "2019-04-04T17:55:24.672553"
+          },
+          {
+            "id": "e035c58c-aafb-4b29-b657-b4ee09b44f08",
+            "nombre": "Datos de solicitudes de prestaciones 2016",
+            "url": "https://catalogodatos.gub.uy/dataset/abc90090-d74f-4c88-a98d-2b7f511e7b85/resource/e035c58c-aafb-4b29-b657-b4ee09b44f08/download/datos-solicitudes-2016.xlsx",
+            "formato": "XLS",
+            "tamaño": 2037158,
+            "creado": "2019-04-04T17:54:22.033115"
+          },
+          {
+            "id": "bde9e55d-1bf0-468b-83a5-63f3b95ed553",
+            "nombre": "Datos de solicitudes de prestaciones 2016",
+            "url": "https://catalogodatos.gub.uy/dataset/abc90090-d74f-4c88-a98d-2b7f511e7b85/resource/bde9e55d-1bf0-468b-83a5-63f3b95ed553/download/datos-de-solicitudes-de-prestaciones-2016.csv",
+            "formato": "CSV",
+            "tamaño": 4682768,
+            "creado": "2019-04-04T17:54:21.021253"
+          },
+          {
+            "id": "e4178f34-a0c3-4dd8-9117-0c8e12dd3ce4",
+            "nombre": "Datos de solicitudes de prestaciones 2016",
+            "url": "https://catalogodatos.gub.uy/dataset/abc90090-d74f-4c88-a98d-2b7f511e7b85/resource/e4178f34-a0c3-4dd8-9117-0c8e12dd3ce4/download/datos-de-solicitudes-de-prestaciones-2016.xml",
+            "formato": "XML",
+            "tamaño": 16320376,
+            "creado": "2019-04-04T17:54:23.282611"
+          },
+          {
+            "id": "1f6b485a-1e60-494c-a46a-017af0e53009",
+            "nombre": "Metadatos de los datos de solicitudes de prestaciones 2016",
+            "url": "https://catalogodatos.gub.uy/dataset/abc90090-d74f-4c88-a98d-2b7f511e7b85/resource/1f6b485a-1e60-494c-a46a-017af0e53009/download/metadatos_solicitudes-de-prestaciones-fondo-nacional-de-recursos.json",
+            "formato": "JSON",
+            "tamaño": 3762,
+            "creado": "2019-04-04T17:54:20.185200"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:41.541Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/fondo-nacional-de-recursos-solicitudes-de-prestaciones-fondo-nacional-de-recursos",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "046f56772285a4f921cc88aa8b5e025d68a11e14de9fdad18d55d129ee69a9eb"
+        }
+      },
+      {
+        "id": "2db182ac-213c-4f2c-ba4e-ec31d8de0a09",
+        "nombre": "Gasto por Actos Médicos",
+        "slug": "fondo-nacional-de-recursos-gasto-por-actos-medicos-fondo-nacional-de-recursos",
+        "organismo": {
+          "id": "fondo-nacional-de-recursos",
+          "nombre": "Fondo Nacional de Recursos",
+          "tipo": "organization"
+        },
+        "descripcion": "A continuación se presenta la información historica del gasto realizado por año por actos médicos en el periodo 2016 a 2018. Actualmente no se cuenta con datos mas actualizados.",
+        "etiquetas": [
+          "Actos médicos",
+          "Gastos",
+          "Medicina",
+          "Medicina altamente especializada",
+          "Salud"
+        ],
+        "grupos": [
+          "Economía",
+          "Estadísticas",
+          "Salud",
+          "Transparencia"
+        ],
+        "creado": "2019-02-27T19:33:10.140189",
+        "modificado": "2024-04-25T14:41:27.382938",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "184f865e-6fac-45c2-988b-1db39e229315",
+            "nombre": "Datos del gasto realizado por actos médicos 2018",
+            "url": "https://catalogodatos.gub.uy/dataset/2db182ac-213c-4f2c-ba4e-ec31d8de0a09/resource/184f865e-6fac-45c2-988b-1db39e229315/download/datos_gastos-por-actos-medicos-fondo-nacional-de-recursos-2018.xlsx",
+            "formato": "XLSX",
+            "tamaño": 3783168,
+            "creado": "2020-05-22T20:13:27.734763"
+          },
+          {
+            "id": "02e2bb65-2f48-4f98-b719-e472cd3b4ea0",
+            "nombre": "Datos del gasto realizado por actos médicos 2018",
+            "url": "https://catalogodatos.gub.uy/dataset/2db182ac-213c-4f2c-ba4e-ec31d8de0a09/resource/02e2bb65-2f48-4f98-b719-e472cd3b4ea0/download/datos_gastos-por-actos-medicos-fondo-nacional-de-recursos-2018.csv",
+            "formato": "CSV",
+            "tamaño": 2663549,
+            "creado": "2020-05-22T20:09:37.501752"
+          },
+          {
+            "id": "f67a38fe-9966-4bd0-83a6-dd8dd4a425b3",
+            "nombre": "Datos del gasto realizado por actos médicos 2017",
+            "url": "https://catalogodatos.gub.uy/dataset/2db182ac-213c-4f2c-ba4e-ec31d8de0a09/resource/f67a38fe-9966-4bd0-83a6-dd8dd4a425b3/download/datos_gastos-por-actos-medicos-fondo-nacional-de-recursos-2017.xlsx",
+            "formato": "XLSX",
+            "tamaño": 1289003,
+            "creado": "2019-02-27T19:38:09.031711"
+          },
+          {
+            "id": "27cc4fa7-a6f3-4de1-b068-a6eb0fbddac5",
+            "nombre": "Datos del gasto realizado por actos médicos 2017",
+            "url": "https://catalogodatos.gub.uy/dataset/2db182ac-213c-4f2c-ba4e-ec31d8de0a09/resource/27cc4fa7-a6f3-4de1-b068-a6eb0fbddac5/download/datos_gastos-por-actos-medicos-fondo-nacional-de-recursos-2017.csv",
+            "formato": "CSV",
+            "tamaño": 3082235,
+            "creado": "2019-12-03T17:29:41.593953"
+          },
+          {
+            "id": "755969e5-a59b-41e3-9934-2f4294e36cb6",
+            "nombre": "Datos del gasto realizado por actos médicos 2017",
+            "url": "https://catalogodatos.gub.uy/dataset/2db182ac-213c-4f2c-ba4e-ec31d8de0a09/resource/755969e5-a59b-41e3-9934-2f4294e36cb6/download/datos_gastos-por-actos-medicos-fondo-nacional-de-recursos-2017.xml",
+            "formato": "XML",
+            "tamaño": 9305549,
+            "creado": "2020-01-21T21:06:56.090718"
+          },
+          {
+            "id": "cae06492-d355-4ab0-9b42-79e0cca87def",
+            "nombre": "Datos del gasto realizado por actos médicos 2016",
+            "url": "https://catalogodatos.gub.uy/dataset/2db182ac-213c-4f2c-ba4e-ec31d8de0a09/resource/cae06492-d355-4ab0-9b42-79e0cca87def/download/datos_gastos-por-actos-medicos-fondo-nacional-de-recursos-2016.xlsx",
+            "formato": "XLSX",
+            "tamaño": 1362325,
+            "creado": "2019-02-27T19:33:16.614265"
+          },
+          {
+            "id": "8829d630-95eb-47f0-8a00-671833ae8f5a",
+            "nombre": "Datos del gasto realizado por actos médicos 2016",
+            "url": "https://catalogodatos.gub.uy/dataset/2db182ac-213c-4f2c-ba4e-ec31d8de0a09/resource/8829d630-95eb-47f0-8a00-671833ae8f5a/download/datos_gastos-por-actos-medicos-fondo-nacional-de-recursos-2016.csv",
+            "formato": "CSV",
+            "tamaño": 2724971,
+            "creado": "2019-12-03T17:31:11.877927"
+          },
+          {
+            "id": "cc86fcae-bae7-4f69-9f24-3ade04ac1f0d",
+            "nombre": "Metadatos de los datos de gasto por actos médicos",
+            "url": "https://catalogodatos.gub.uy/dataset/2db182ac-213c-4f2c-ba4e-ec31d8de0a09/resource/cc86fcae-bae7-4f69-9f24-3ade04ac1f0d/download/metadatos_gasto-por-actos-medicos-fondo-nacional-de-recursos.json",
+            "formato": "JSON",
+            "tamaño": 2674,
+            "creado": "2019-02-27T19:33:14.064926"
+          },
+          {
+            "id": "fa914d61-eb0c-4a0a-81f5-93dcf9d7b2a6",
+            "nombre": "Glosario",
+            "url": "https://catalogodatos.gub.uy/dataset/2db182ac-213c-4f2c-ba4e-ec31d8de0a09/resource/fa914d61-eb0c-4a0a-81f5-93dcf9d7b2a6/download/glosario_am.pdf",
+            "formato": "PDF",
+            "tamaño": 49669,
+            "creado": "2019-03-07T19:16:29.007666"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:41.541Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/fondo-nacional-de-recursos-gasto-por-actos-medicos-fondo-nacional-de-recursos",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "bcbb7375c39611ea5b028675ce7e42936c25ea2dc19dae7ed118a3494d1796cf"
+        }
+      },
+      {
+        "id": "3e4f44c8-eff1-4b95-bda8-4543077e6ddb",
+        "nombre": "Marco jurídico",
+        "slug": "fondo-nacional-de-recursos-marco_juridico_fondo-nacional-de-recursos",
+        "organismo": {
+          "id": "fondo-nacional-de-recursos",
+          "nombre": "Fondo Nacional de Recursos",
+          "tipo": "organization"
+        },
+        "descripcion": "Leyes y decretos que son aplicables al funcionamiento del sujeto obligado.",
+        "etiquetas": [
+          "Decretos",
+          "Leyes",
+          "Transparencia activa"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-04-08T18:24:32.701296",
+        "modificado": "2024-04-12T13:52:36.129890",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "62e93dcc-9780-4c7f-890b-8ede058cc711",
+            "nombre": "Metadatos de los datos del marco jurídico",
+            "url": "https://catalogodatos.gub.uy/dataset/3e4f44c8-eff1-4b95-bda8-4543077e6ddb/resource/62e93dcc-9780-4c7f-890b-8ede058cc711/download/metadatos_marco_juridico_fondo-nacional-de-recursos.json",
+            "formato": "JSON",
+            "tamaño": 3264,
+            "creado": "2019-04-08T18:24:35.556279"
+          },
+          {
+            "id": "40c6d832-ba06-4816-9a4c-77cedec0713d",
+            "nombre": "Datos del marco jurídico del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/3e4f44c8-eff1-4b95-bda8-4543077e6ddb/resource/40c6d832-ba06-4816-9a4c-77cedec0713d/download/datos-del-marco-jurdico-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 3376,
+            "creado": "2019-04-08T18:24:36.304362"
+          },
+          {
+            "id": "677d329d-f28f-4d36-97c4-bc3022d01ee8",
+            "nombre": "Datos del marco jurídico del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/3e4f44c8-eff1-4b95-bda8-4543077e6ddb/resource/677d329d-f28f-4d36-97c4-bc3022d01ee8/download/modelo-ta_03-marco-juridico_fnr.xlsx",
+            "formato": "XLS",
+            "tamaño": 18556,
+            "creado": "2019-04-08T18:24:37.280623"
+          },
+          {
+            "id": "d9e27516-f039-4d77-aba5-d38b38bdfa90",
+            "nombre": "Datos del marco jurídico del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/3e4f44c8-eff1-4b95-bda8-4543077e6ddb/resource/d9e27516-f039-4d77-aba5-d38b38bdfa90/download/datos-del-marco-jurdico-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 5910,
+            "creado": "2019-04-08T18:24:38.258605"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:41.541Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/fondo-nacional-de-recursos-marco_juridico_fondo-nacional-de-recursos",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "9343562fa1b4587f5ef27805df0e0f5cd271163107df83020c7f6a7bff541b96"
+        }
+      },
+      {
+        "id": "25cfd2ff-be64-4d2c-836a-edb9696e022c",
+        "nombre": "Remuneraciones",
+        "slug": "fondo-nacional-de-recursos-remuneraciones_fondo-nacional-de-recursos",
+        "organismo": {
+          "id": "fondo-nacional-de-recursos",
+          "nombre": "Fondo Nacional de Recursos",
+          "tipo": "organization"
+        },
+        "descripcion": "Sistema de remuneraciones de los funcionarios",
+        "etiquetas": [
+          "Fondo Nacional de Recursos",
+          "Remuneraciones",
+          "transparencia"
+        ],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-04-04T19:45:31.020255",
+        "modificado": "2024-04-10T17:21:10.986910",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "cec352f4-3650-4efb-83ef-bbc299dd314a",
+            "nombre": "Metadatos de los datos de las remuneraciones",
+            "url": "https://catalogodatos.gub.uy/dataset/25cfd2ff-be64-4d2c-836a-edb9696e022c/resource/cec352f4-3650-4efb-83ef-bbc299dd314a/download/metadatos_remuneraciones_fondo-nacional-de-recursos.json",
+            "formato": "JSON",
+            "tamaño": 2889,
+            "creado": "2019-04-04T19:45:33.626543"
+          },
+          {
+            "id": "eeb4b736-aced-44c9-98e7-abf673d4811f",
+            "nombre": "Remuneraciones FNR",
+            "url": "https://catalogodatos.gub.uy/dataset/25cfd2ff-be64-4d2c-836a-edb9696e022c/resource/eeb4b736-aced-44c9-98e7-abf673d4811f/download/modelo-ta_12-remuneraciones_fnr.xlsx",
+            "formato": "XLSX",
+            "tamaño": 20928,
+            "creado": "2019-09-19T15:53:24.824773"
+          },
+          {
+            "id": "58ea63af-7025-4adc-9b4a-1f62ef0a53ee",
+            "nombre": "Remuneraciones FNR",
+            "url": "https://catalogodatos.gub.uy/dataset/25cfd2ff-be64-4d2c-836a-edb9696e022c/resource/58ea63af-7025-4adc-9b4a-1f62ef0a53ee/download/modelo-ta_12-remuneraciones_fnr.csv",
+            "formato": "CSV",
+            "tamaño": 9439,
+            "creado": "2019-09-19T15:56:29.908704"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:41.541Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/fondo-nacional-de-recursos-remuneraciones_fondo-nacional-de-recursos",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "f20b92a693c7b8efa11f76ab909c2951f67c7b0e1dbe17079ce074330c2904fc"
+        }
+      },
+      {
+        "id": "899bc0e9-ad4a-4de2-8881-5264254899c0",
+        "nombre": "Solicitudes de prestaciones autorizadas",
+        "slug": "fondo-nacional-de-recursos-solicitudes-de-tramites-autorizados",
+        "organismo": {
+          "id": "fondo-nacional-de-recursos",
+          "nombre": "Fondo Nacional de Recursos",
+          "tipo": "organization"
+        },
+        "descripcion": "Datos sobre las prestaciones que fueron solicitadas y autorizadas por el FNR.",
+        "etiquetas": [
+          "Recursos y prestaciones",
+          "alto precio",
+          "medicina altamente especializada",
+          "salud"
+        ],
+        "grupos": [
+          "Salud"
+        ],
+        "creado": "2020-03-12T17:42:28.405281",
+        "modificado": "2022-05-23T15:07:37.195955",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "23a8dede-1561-4516-8a77-96748cfe29d0",
+            "nombre": "Solicitudes de prestaciones autorizadas 2021",
+            "url": "https://catalogodatos.gub.uy/dataset/899bc0e9-ad4a-4de2-8881-5264254899c0/resource/23a8dede-1561-4516-8a77-96748cfe29d0/download/microdatos_autorizaciones_2021.xlsx",
+            "formato": "XLSX",
+            "tamaño": 2181077,
+            "creado": "2022-05-23T15:00:20.651022"
+          },
+          {
+            "id": "94fa19a5-94a0-4443-839f-626ad0b0ac81",
+            "nombre": "Solicitudes de prestaciones autorizadas 2021",
+            "url": "https://catalogodatos.gub.uy/dataset/899bc0e9-ad4a-4de2-8881-5264254899c0/resource/94fa19a5-94a0-4443-839f-626ad0b0ac81/download/microdatos_autorizaciones_2021.csv",
+            "formato": "CSV",
+            "tamaño": 4495718,
+            "creado": "2022-05-23T15:06:59.838785"
+          },
+          {
+            "id": "cc0d96f3-bf9d-4f82-8ceb-280e8a3982d7",
+            "nombre": "Solicitudes de prestaciones autorizadas 2020",
+            "url": "https://catalogodatos.gub.uy/dataset/899bc0e9-ad4a-4de2-8881-5264254899c0/resource/cc0d96f3-bf9d-4f82-8ceb-280e8a3982d7/download/microdatos_autorizaciones_2020.xlsx",
+            "formato": "XLSX",
+            "tamaño": 2217000,
+            "creado": "2021-04-16T19:19:15.319299"
+          },
+          {
+            "id": "398d4ef5-07c9-4cc6-af27-ac80a075f1fc",
+            "nombre": "Solictudes de prestaciones autorizadas 2020",
+            "url": "https://catalogodatos.gub.uy/dataset/899bc0e9-ad4a-4de2-8881-5264254899c0/resource/398d4ef5-07c9-4cc6-af27-ac80a075f1fc/download/microdatos_autorizaciones_2020.csv",
+            "formato": "CSV",
+            "tamaño": 4506068,
+            "creado": "2021-04-16T19:59:20.095964"
+          },
+          {
+            "id": "aac1faf7-1096-478a-8e4e-fd4f64f1f60e",
+            "nombre": "Solicitudes de prestaciones autorizadas 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/899bc0e9-ad4a-4de2-8881-5264254899c0/resource/aac1faf7-1096-478a-8e4e-fd4f64f1f60e/download/microdatos_autorizaciones_2019.xlsx",
+            "formato": "XLSX",
+            "tamaño": 2440252,
+            "creado": "2020-03-30T20:03:25.396189"
+          },
+          {
+            "id": "dd3046c9-06eb-490e-be95-ba58feb25b5e",
+            "nombre": "Solicitudes de prestaciones autorizadas 2019",
+            "url": "https://catalogodatos.gub.uy/dataset/899bc0e9-ad4a-4de2-8881-5264254899c0/resource/dd3046c9-06eb-490e-be95-ba58feb25b5e/download/microdatos_autorizaciones_2019.csv",
+            "formato": "CSV",
+            "tamaño": 5135394,
+            "creado": "2020-03-12T17:51:41.891261"
+          },
+          {
+            "id": "43bf0a8d-0ac0-4424-bd71-6c290181f217",
+            "nombre": "Metadatos de Solicitudes de prestaciones autorizadas",
+            "url": "https://catalogodatos.gub.uy/dataset/899bc0e9-ad4a-4de2-8881-5264254899c0/resource/43bf0a8d-0ac0-4424-bd71-6c290181f217/download/metadatos_autorizaciones_2019.xlsx",
+            "formato": "XLSX",
+            "tamaño": 8498,
+            "creado": "2020-03-30T20:09:56.525014"
+          },
+          {
+            "id": "e601789c-0123-4b31-bdca-fcc22cd6408f",
+            "nombre": "Metadatos de las solicitudes de prestaciones autorizadas",
+            "url": "https://catalogodatos.gub.uy/dataset/899bc0e9-ad4a-4de2-8881-5264254899c0/resource/e601789c-0123-4b31-bdca-fcc22cd6408f/download/metadatos_autorizaciones_2019.csv",
+            "formato": "CSV",
+            "tamaño": 1323,
+            "creado": "2020-03-30T20:10:51.580073"
+          },
+          {
+            "id": "9c9380e7-92c2-4e90-9cfa-ae7a381c3ef1",
+            "nombre": "Glosario",
+            "url": "https://catalogodatos.gub.uy/dataset/899bc0e9-ad4a-4de2-8881-5264254899c0/resource/9c9380e7-92c2-4e90-9cfa-ae7a381c3ef1/download/glosario.pdf",
+            "formato": "PDF",
+            "tamaño": 313916,
+            "creado": "2020-03-30T20:18:09.515939"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:41.541Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/fondo-nacional-de-recursos-solicitudes-de-tramites-autorizados",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "dbd2fa4933b1ddc712ed5a6cd3b40fcd77afb9a7d0c410749353ea945bf363b0"
+        }
+      },
+      {
+        "id": "79a43590-627f-40a0-b034-dde6cb10a205",
+        "nombre": "Evolución",
+        "slug": "fondo-nacional-de-recursos-evolucion-fondo-nacional-de-recursos",
+        "organismo": {
+          "id": "fondo-nacional-de-recursos",
+          "nombre": "Fondo Nacional de Recursos",
+          "tipo": "organization"
+        },
+        "descripcion": "Creación y evolución histórica del sujeto obligado conjuntamente con sus cometidos.",
+        "etiquetas": [],
+        "grupos": [
+          "Transparencia"
+        ],
+        "creado": "2019-04-04T15:10:37.642516",
+        "modificado": "2019-04-04T15:10:46.579971",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "e5f1854b-3ffa-491c-b695-b6bb06dcf577",
+            "nombre": "Metadatos de los datos de la evolución del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/79a43590-627f-40a0-b034-dde6cb10a205/resource/e5f1854b-3ffa-491c-b695-b6bb06dcf577/download/metadatos_evolucion-fondo-nacional-de-recursos.json",
+            "formato": "JSON",
+            "tamaño": 3295,
+            "creado": "2019-04-04T15:10:41.714183"
+          },
+          {
+            "id": "91429768-25f4-4424-9424-97f5ac380d84",
+            "nombre": "Datos de la evolución del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/79a43590-627f-40a0-b034-dde6cb10a205/resource/91429768-25f4-4424-9424-97f5ac380d84/download/datos-de-la-evolucin-del-organismo.csv",
+            "formato": "CSV",
+            "tamaño": 1739,
+            "creado": "2019-04-04T15:10:42.825696"
+          },
+          {
+            "id": "ab727d06-1ffe-429e-8c0e-572be8ab1f71",
+            "nombre": "Datos de la evolución del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/79a43590-627f-40a0-b034-dde6cb10a205/resource/ab727d06-1ffe-429e-8c0e-572be8ab1f71/download/modelo-ta_01-evolucion_fnr.xlsx",
+            "formato": "XLS",
+            "tamaño": 18794,
+            "creado": "2019-04-04T15:10:45.454462"
+          },
+          {
+            "id": "2497f9a7-ae13-4eb1-bbd5-905ecc4fd379",
+            "nombre": "Datos de la evolución del organismo",
+            "url": "https://catalogodatos.gub.uy/dataset/79a43590-627f-40a0-b034-dde6cb10a205/resource/2497f9a7-ae13-4eb1-bbd5-905ecc4fd379/download/datos-de-la-evolucin-del-organismo.xml",
+            "formato": "XML",
+            "tamaño": 3568,
+            "creado": "2019-04-04T15:10:46.608792"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:09:41.541Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/fondo-nacional-de-recursos-evolucion-fondo-nacional-de-recursos",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "314267cace67489806ca8e27ca7c4cab62dddb05c86fbccf376a66d72184c397"
+        }
+      }
+    ]
+  },
+  "hash": "6a3e6a25f2b33e01274161d57c8d9181cf17c46249a52d2eab657ace98948b6d",
+  "firma": "fb2627b701cf576e5081d12f2d81ce21d99c2d66752b32944aad91591f168a21"
+}

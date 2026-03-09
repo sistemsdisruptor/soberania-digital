@@ -1,0 +1,181 @@
+{
+  "id": "8054a4a2e348839fe5c21b541030e99d",
+  "timestamp": "2026-03-06T23:08:52.478Z",
+  "datos": {
+    "organismo": "acau",
+    "total": 2,
+    "datasets": [
+      {
+        "id": "7c774546-19e9-443f-bacc-5d3ee3e31e2c",
+        "nombre": "Métricas de audiencia y rendimiento del canal de YouTube de la ACAU",
+        "slug": "metricas-audiencia-canal-youtube-acau",
+        "organismo": {
+          "id": "acau",
+          "nombre": "ACAU",
+          "tipo": "organization"
+        },
+        "descripcion": "Este conjunto de datos consolida métricas de rendimiento y audiencia del canal de YouTube de la Agencia del Cine y el Audiovisual del Uruguay (ACAU) para el período comprendido entre el 16 de septiembre de 2024 y el 15 de abril de 2025. La información, extraída a través de la API de YouTube Analytics, proporciona un análisis detallado del comportamiento de los espectadores y el desempeño del contenido audiovisual.\r\n\r\nEl conjunto incluye los siguientes datos, distribuidos en cinco archivos CSV:\r\n- Datos demográficos: Información sobre los rangos de edad y género de la audiencia.\r\n- Datos de dispositivo: Información sobre los dispositivos y sistemas operativos.\r\n- Geolocalización: Desglose de visualizaciones por país, permitiendo identificar la distribución geográfica de la audiencia.\r\n- Retención de audiencia: Curvas de retención que muestran el porcentaje de espectadores que continúan viendo un video en distintos puntos de su duración, lo cual es útil para analizar el nivel de engagement.\r\n- Estadísticas de rendimiento: Métricas clave como visualizaciones, \"me gusta\", comentarios y tiempo de visualización.\r\n\r\nEste conjunto de datos es una herramienta valiosa para investigadores, productores y analistas interesados en la medición de audiencias de contenido audiovisual uruguayo en plataformas digitales.",
+        "etiquetas": [
+          "Audiencias",
+          "Audiovisual",
+          "Cine Uruguayo",
+          "Cultura",
+          "Métricas de visualizaciones"
+        ],
+        "grupos": [
+          "Estadísticas"
+        ],
+        "creado": "2025-09-18T18:00:16.307617",
+        "modificado": "2025-09-22T14:23:26.310315",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "b23960e0-4f11-4719-ae11-79263d15e447",
+            "nombre": "Curvas de retención de audiencia en canal YouTube",
+            "url": "https://catalogodatos.gub.uy/dataset/7c774546-19e9-443f-bacc-5d3ee3e31e2c/resource/b23960e0-4f11-4719-ae11-79263d15e447/download/acau_yt_curvas_de_retencion_16-09-24_15-04-25.csv",
+            "formato": "CSV",
+            "tamaño": 3865497,
+            "creado": "2025-09-18T18:07:09.371469"
+          },
+          {
+            "id": "637d1f12-d256-453e-a178-552ce59cbc38",
+            "nombre": "Metadatos de curvas de retención de audiencia en canal YouTube",
+            "url": "https://catalogodatos.gub.uy/dataset/7c774546-19e9-443f-bacc-5d3ee3e31e2c/resource/637d1f12-d256-453e-a178-552ce59cbc38/download/acau_yt_curvas_de_retencion_16-09-24_15-04-25-metadatos.pdf",
+            "formato": "PDF",
+            "tamaño": 122383,
+            "creado": "2025-09-18T18:10:24.664052"
+          },
+          {
+            "id": "cd4b9964-ab49-4b54-87bc-4396bc9f4002",
+            "nombre": "Visualizaciones por Dispositivo y Sistema Operativo del Canal de YouTube",
+            "url": "https://catalogodatos.gub.uy/dataset/7c774546-19e9-443f-bacc-5d3ee3e31e2c/resource/cd4b9964-ab49-4b54-87bc-4396bc9f4002/download/acau_yt_dispositivos-os_16-09-24_15-04-25.csv",
+            "formato": "CSV",
+            "tamaño": 496933,
+            "creado": "2025-09-18T18:11:32.401763"
+          },
+          {
+            "id": "5dfa5657-a9bf-4ff4-b1d7-09e9947c6f9d",
+            "nombre": "Metadatos de Visualizaciones por Dispositivo y Sistema Operativo del Canal de YouTube",
+            "url": "https://catalogodatos.gub.uy/dataset/7c774546-19e9-443f-bacc-5d3ee3e31e2c/resource/5dfa5657-a9bf-4ff4-b1d7-09e9947c6f9d/download/acau_yt_dispositivos-os_16-09-24_15-04-25-metadatos.pdf",
+            "formato": "PDF",
+            "tamaño": 101233,
+            "creado": "2025-09-18T18:12:47.845410"
+          },
+          {
+            "id": "eace0bb5-cb4a-477d-b123-0430a7eecac5",
+            "nombre": "Demográficos de la Audiencia del Canal de YouTube",
+            "url": "https://catalogodatos.gub.uy/dataset/7c774546-19e9-443f-bacc-5d3ee3e31e2c/resource/eace0bb5-cb4a-477d-b123-0430a7eecac5/download/acau_yt_demografia_16-09-24_15-04-25.csv",
+            "formato": "CSV",
+            "tamaño": 72052,
+            "creado": "2025-09-18T18:14:12.427859"
+          },
+          {
+            "id": "87d835fe-ed34-4598-a0b5-8e0123717212",
+            "nombre": "Metadatos de Demográficos de la Audiencia del Canal de YouTube",
+            "url": "https://catalogodatos.gub.uy/dataset/7c774546-19e9-443f-bacc-5d3ee3e31e2c/resource/87d835fe-ed34-4598-a0b5-8e0123717212/download/acau_yt_demografia_16-09-24_15-04-25-metadatos.pdf",
+            "formato": "PDF",
+            "tamaño": 102676,
+            "creado": "2025-09-18T18:15:00.952599"
+          },
+          {
+            "id": "ee1b04c1-717e-4460-bce7-4c4d5de3c3ad",
+            "nombre": "Visualizaciones por País del Canal de YouTube",
+            "url": "https://catalogodatos.gub.uy/dataset/7c774546-19e9-443f-bacc-5d3ee3e31e2c/resource/ee1b04c1-717e-4460-bce7-4c4d5de3c3ad/download/acau_yt_paises_16-09-24_15-04-25.csv",
+            "formato": "CSV",
+            "tamaño": 85303,
+            "creado": "2025-09-18T18:16:17.983257"
+          },
+          {
+            "id": "0e53d7c2-4e64-43c4-8930-3c406a5de44d",
+            "nombre": "Metadatos de Visualizaciones por País del Canal de YouTube",
+            "url": "https://catalogodatos.gub.uy/dataset/7c774546-19e9-443f-bacc-5d3ee3e31e2c/resource/0e53d7c2-4e64-43c4-8930-3c406a5de44d/download/acau_yt_paises_16-09-24_15-04-25-metadatos.pdf",
+            "formato": "PDF",
+            "tamaño": 100682,
+            "creado": "2025-09-18T18:17:06.715600"
+          },
+          {
+            "id": "ae81130a-f59e-4f1c-af2c-69e0f618f319",
+            "nombre": "Estadísticas y Métricas de Videos del Canal de YouTube",
+            "url": "https://catalogodatos.gub.uy/dataset/7c774546-19e9-443f-bacc-5d3ee3e31e2c/resource/ae81130a-f59e-4f1c-af2c-69e0f618f319/download/acau_yt_stats_16-09-24_15-04-25.csv",
+            "formato": "CSV",
+            "tamaño": 4560796,
+            "creado": "2025-09-18T18:18:24.506857"
+          },
+          {
+            "id": "a1774e90-4937-4c8f-8ddb-bfa2e87b37a3",
+            "nombre": "Metadatos de Estadísticas y Métricas de Videos del Canal de YouTube",
+            "url": "https://catalogodatos.gub.uy/dataset/7c774546-19e9-443f-bacc-5d3ee3e31e2c/resource/a1774e90-4937-4c8f-8ddb-bfa2e87b37a3/download/acau_yt_stats_16-09-24_15-04-25-metadatos.pdf",
+            "formato": "PDF",
+            "tamaño": 106685,
+            "creado": "2025-09-18T18:19:11.948857"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:52.478Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/metricas-audiencia-canal-youtube-acau",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "56a4c2ed9c57b99cdf4ebfa7ccf87021a9232936cbcb1ad3d4386b983e6f6443"
+        }
+      },
+      {
+        "id": "99fbf967-c682-4653-a87a-c6479f590474",
+        "nombre": "Apoyos y reembolsos a proyectos audiovisuales",
+        "slug": "acau-apoyos-y-reembolsos-a-proyectos-audiovisuales",
+        "organismo": {
+          "id": "acau",
+          "nombre": "ACAU",
+          "tipo": "organization"
+        },
+        "descripcion": "Este conjunto presenta información detallada sobre los fondos otorgados, en forma de apoyos y reembolsos, por la Agencia del Cine y el Audiovisual del Uruguay y sus instituciones predecesoras, ICAU e INCAU, a proyectos audiovisuales, desde el año 2013 a la fecha. \r\n\r\nEn esta segunda versión del repositorio se han corregido errores de la edición anterior y se han agregado nuevas variables relevantes para el análisis, como Formato, Tipo Narrativo y Tipo de Producción, que permiten profundizar en el estudio de la distribución de fondos adjudicados.\r\n\r\nPara la construcción de esta base de datos se realizó una exhaustiva reconstrucción de la historia institucional de ICAU, INCAU y ACAU utilizando diversas fuentes. Los datos obtenidos fueron sistematizados, homogeneizados y reclasificados para facilitar su análisis riguroso. \r\n\r\nDebido a la complejidad del proceso de recopilación histórica, especialmente para el período comprendido entre 2013 y 2022, la base podría contener errores involuntarios. Agradecemos que cualquier error identificado sea comunicado al Observatorio ACAU (observatorio@acau.gub.uy) para su revisión y corrección. Desde el Observatorio ACAU trabajamos permanentemente para garantizar la precisión y veracidad de la información proporcionada.\t",
+        "etiquetas": [
+          "Acau",
+          "Audiovisual",
+          "Cine",
+          "Cultura",
+          "Fondos",
+          "Fondos públicos"
+        ],
+        "grupos": [
+          "Cultura",
+          "Desarrollo Social",
+          "Transparencia"
+        ],
+        "creado": "2025-04-10T14:41:48.402962",
+        "modificado": "2025-04-11T14:38:50.573397",
+        "frecuencia": null,
+        "recursos": [
+          {
+            "id": "fa35342c-3144-4125-bf5a-7f863cc1239c",
+            "nombre": "Apoyos y reembolsos a proyectos de ACAU",
+            "url": "https://catalogodatos.gub.uy/dataset/99fbf967-c682-4653-a87a-c6479f590474/resource/fa35342c-3144-4125-bf5a-7f863cc1239c/download/acau_apoyos_y_reembolsos_a_proyectos_audiovisuales_2013-2024.csv",
+            "formato": "CSV",
+            "tamaño": 515065,
+            "creado": "2025-04-10T14:47:51.237055"
+          },
+          {
+            "id": "ce125cfa-fc30-4639-aa63-5b8eaef53e37",
+            "nombre": "Metadatos de Apoyos y reembolsos a proyectos de ACAU",
+            "url": "https://catalogodatos.gub.uy/dataset/99fbf967-c682-4653-a87a-c6479f590474/resource/ce125cfa-fc30-4639-aa63-5b8eaef53e37/download/metadatos_de_acau_apoyos_y_reembolsos_a_proyectos_audiovisuales_2013-2024.txt",
+            "formato": "TXT",
+            "tamaño": 3564,
+            "creado": "2025-04-10T14:49:33.074090"
+          }
+        ],
+        "_meta": {
+          "recolectado_en": "2026-03-06T23:08:52.478Z",
+          "fuente": "catalogodatos.gub.uy",
+          "url_original": "https://catalogodatos.gub.uy/dataset/acau-apoyos-y-reembolsos-a-proyectos-audiovisuales",
+          "version_scraper": "1.0.0"
+        },
+        "_integridad": {
+          "hash": "15f0b828f09cb453afbc77fd2595bce8c2fe4c17e678014796fb423f02dd1788"
+        }
+      }
+    ]
+  },
+  "hash": "95cfb07278ed323dccaa74369900a8fe987d62176ee6d0a8043e931cff8a94b9",
+  "firma": "266eb702d41dd50b53d966abdf86b0f1150bcc355f3d6cf6c9921d5bc582cf2c"
+}
